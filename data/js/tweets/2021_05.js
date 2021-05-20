@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 20 06:10:00 +0000 2021",
+		"id": 1395260499848216600,
+		"id_str": "1395260499848216576",
+		"full_text": "Nog een scenario voor de nieuwe Follow button in Android: \"it pushes content recommendations to you.\" https://t.co/XHsf5PSyoE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XHsf5PSyoE",
+					"expanded_url": "https://twitter.com/chrismessina/status/1395074343269371905",
+					"display_url": "twitter.com/chrismessina/s…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8827,
+			"friends_count": 763,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7850,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1395074343269372000,
+		"quoted_status_id_str": "1395074343269371905",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XHsf5PSyoE",
+			"expanded": "https://twitter.com/chrismessina/status/1395074343269371905",
+			"display": "twitter.com/chrismessina/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 19 17:50:17 +0000 2021",
+			"id": 1395074343269372000,
+			"id_str": "1395074343269371905",
+			"full_text": "The dream of the Google+ everything feed lives on!\n\nBut really \"Follow in Chrome\" is less about Chrome about more turning the Google iOS app into your everything app... where you follow your interests and it pushes content recommendations to you.\n\n#NewChrome #NewGoogle https://t.co/TwoQ0XVFGy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NewChrome",
+						"indices": [
+							248,
+							258
+						]
+					},
+					{
+						"text": "NewGoogle",
+						"indices": [
+							259,
+							269
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/TwoQ0XVFGy",
+						"expanded_url": "https://twitter.com/techmeme/status/1395050684907626502",
+						"display_url": "twitter.com/techmeme/statu…",
+						"indices": [
+							270,
+							293
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1186,
+				"id_str": "1186",
+				"name": "⌗ChrisMessina",
+				"screen_name": "chrismessina",
+				"location": "Oakland, CA",
+				"description": "Product therapist. Invented the hashtag 👉🏻#️⃣ • 🏆 #1 Product Hunter • #ODCC1 #ODF4 #NotTheActor",
+				"url": "https://t.co/LYCB5Efrj6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LYCB5Efrj6",
+								"expanded_url": "https://chrismessina.me/lib",
+								"display_url": "chrismessina.me/lib",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 110495,
+				"friends_count": 7064,
+				"listed_count": 4777,
+				"created_at": "Sun Jul 16 06:53:48 +0000 2006",
+				"favourites_count": 29509,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 67132,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CF290C",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1376012067933614083/Ax8nX8aH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1376012067933614083/Ax8nX8aH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1186/1614380684",
+				"profile_link_color": "0B2436",
+				"profile_sidebar_border_color": "868686",
+				"profile_sidebar_fill_color": "F1F1F1",
+				"profile_text_color": "444444",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "987731fa5d6db2ba",
+				"url": "https://api.twitter.com/1.1/geo/id/987731fa5d6db2ba.json",
+				"place_type": "city",
+				"name": "Lafayette",
+				"full_name": "Lafayette, CA",
+				"country_code": "US",
+				"country": "Verenigde Staten",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-122.167768,
+								37.8500364
+							],
+							[
+								-122.077905,
+								37.8500364
+							],
+							[
+								-122.077905,
+								37.9394452
+							],
+							[
+								-122.167768,
+								37.9394452
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1395050684907626500,
+			"quoted_status_id_str": "1395050684907626502",
+			"quoted_status_permalink": {
+				"url": "https://t.co/TwoQ0XVFGy",
+				"expanded": "https://twitter.com/techmeme/status/1395050684907626502",
+				"display": "twitter.com/techmeme/statu…"
+			},
+			"retweet_count": 3,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Nog een scenario voor de nieuwe Follow button in Android: \"it pushes content recommendations to you.\" https://t.co/XHsf5PSyoE"
+	},
+	{
 		"created_at": "Thu May 20 05:05:59 +0000 2021",
 		"id": 1395244391317528600,
 		"id_str": "1395244391317528580",
