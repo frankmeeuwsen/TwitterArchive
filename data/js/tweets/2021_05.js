@@ -1,6 +1,459 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 22 06:51:32 +0000 2021",
+		"id": 1395995727243980800,
+		"id_str": "1395995727243980801",
+		"full_text": "The Who zei het al: The kids are alright. Dit is een prima begin van de dag met de @LindaLindas_. https://t.co/Imtz0ndmSz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LindaLindas_",
+					"name": "Linda Lindas",
+					"id": 1395530943289569300,
+					"id_str": "1395530943289569282",
+					"indices": [
+						83,
+						96
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Imtz0ndmSz",
+					"expanded_url": "https://twitter.com/benphillips76/status/1395598377413447682",
+					"display_url": "twitter.com/benphillips76/…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8815,
+			"friends_count": 768,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7866,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1395598377413447700,
+		"quoted_status_id_str": "1395598377413447682",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Imtz0ndmSz",
+			"expanded": "https://twitter.com/benphillips76/status/1395598377413447682",
+			"display": "twitter.com/benphillips76/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 21 04:32:36 +0000 2021",
+			"id": 1395598377413447700,
+			"id_str": "1395598377413447682",
+			"full_text": "Today’s boost is the brilliance of the kids in this school band, the Linda Lindas: https://t.co/9aXJfM1Zhi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				106
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1395485169407070200,
+						"id_str": "1395485169407070209",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1395485169407070209/pu/img/8l5i4jZ7S-F0TuGm.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1395485169407070209/pu/img/8l5i4jZ7S-F0TuGm.jpg",
+						"url": "https://t.co/9aXJfM1Zhi",
+						"display_url": "pic.twitter.com/9aXJfM1Zhi",
+						"expanded_url": "https://twitter.com/LAPublicLibrary/status/1395485852579495936/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1395485852579496000,
+						"source_status_id_str": "1395485852579495936",
+						"source_user_id": 33573444,
+						"source_user_id_str": "33573444"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1395485169407070200,
+						"id_str": "1395485169407070209",
+						"indices": [
+							83,
+							106
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1395485169407070209/pu/img/8l5i4jZ7S-F0TuGm.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1395485169407070209/pu/img/8l5i4jZ7S-F0TuGm.jpg",
+						"url": "https://t.co/9aXJfM1Zhi",
+						"display_url": "pic.twitter.com/9aXJfM1Zhi",
+						"expanded_url": "https://twitter.com/LAPublicLibrary/status/1395485852579495936/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1395485852579496000,
+						"source_status_id_str": "1395485852579495936",
+						"source_user_id": 33573444,
+						"source_user_id_str": "33573444",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 128378,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1395485169407070209/pu/vid/640x360/9mijI9lmuWTZ6ZLh.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1395485169407070209/pu/vid/480x270/KidsjQanzjIGgmyl.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1395485169407070209/pu/vid/1280x720/J-YmjRuoJ5wrf49Q.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1395485169407070209/pu/pl/ptd2TJX2VVeYZIOv.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 33573444,
+								"id_str": "33573444",
+								"name": "L.A. Public Library",
+								"screen_name": "LAPublicLibrary",
+								"location": "Los Angeles, California, USA",
+								"description": "Los Angeles Public Library serves the largest and most diverse urban population of any library in the nation. Tweets en español @laplenespanol.",
+								"url": "https://t.co/UWXNShUe0U",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/UWXNShUe0U",
+												"expanded_url": "http://www.lapl.org/",
+												"display_url": "lapl.org",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 34972,
+								"friends_count": 947,
+								"listed_count": 984,
+								"created_at": "Mon Apr 20 16:37:55 +0000 2009",
+								"favourites_count": 22628,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 31742,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "E96886",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/443132209008885760/Y4CzVzdS_normal.png",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/443132209008885760/Y4CzVzdS_normal.png",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/33573444/1604079791",
+								"profile_link_color": "67283B",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "F2E6B5",
+								"profile_text_color": "634047",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 172325520,
+				"id_str": "172325520",
+				"name": "Ben Phillips",
+				"screen_name": "benphillips76",
+				"location": "Rome, Lazio",
+				"description": "My new book, How to Fight Inequality, is out now.  https://t.co/4E85pCsZ14",
+				"url": "https://t.co/4E85pCsZ14",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4E85pCsZ14",
+								"expanded_url": "http://politybooks.com/bookdetail/?isbn=9781509543083",
+								"display_url": "politybooks.com/bookdetail/?is…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/4E85pCsZ14",
+								"expanded_url": "http://politybooks.com/bookdetail/?isbn=9781509543083",
+								"display_url": "politybooks.com/bookdetail/?is…",
+								"indices": [
+									51,
+									74
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 24581,
+				"friends_count": 13431,
+				"listed_count": 436,
+				"created_at": "Thu Jul 29 12:46:34 +0000 2010",
+				"favourites_count": 88875,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 58605,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1283771698207174657/vWV1CIyr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283771698207174657/vWV1CIyr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/172325520/1598366291",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "7d588036fe12e124",
+				"url": "https://api.twitter.com/1.1/geo/id/7d588036fe12e124.json",
+				"place_type": "city",
+				"name": "Rome",
+				"full_name": "Rome, Lazio",
+				"country_code": "IT",
+				"country": "Italië",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								12.2344266,
+								41.6558738
+							],
+							[
+								12.8558641,
+								41.6558738
+							],
+							[
+								12.8558641,
+								42.140959
+							],
+							[
+								12.2344266,
+								42.140959
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 84,
+			"favorite_count": 304,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "The Who zei het al: The kids are alright. Dit is een prima begin van de dag met de @LindaLindas_. https://t.co/Imtz0ndmSz"
+	},
+	{
 		"created_at": "Sat May 22 05:27:13 +0000 2021",
 		"id": 1395974508423663600,
 		"id_str": "1395974508423663618",
