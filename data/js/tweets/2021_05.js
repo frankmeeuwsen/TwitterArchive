@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sun May 23 05:06:11 +0000 2021",
+		"id": 1396331603870339000,
+		"id_str": "1396331603870339072",
+		"full_text": "Of ik er op zondagochtend achterkom, nadat ik al een aanhanger heb gehuurd, dat het afvalscheidingsstation dicht is want…*checkt kalender* PINK-STE-REN? En ik dus nog een paar dagen met anderhalve kuub klei en zand in de tuin zit? Misschien… https://t.co/xYf9xPoa7X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1396331595586486300,
+					"id_str": "1396331595586486273",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/E2DEMCeWQAE4V4O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2DEMCeWQAE4V4O.jpg",
+					"url": "https://t.co/xYf9xPoa7X",
+					"display_url": "pic.twitter.com/xYf9xPoa7X",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1396331603870339072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1396331595586486300,
+					"id_str": "1396331595586486273",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/E2DEMCeWQAE4V4O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2DEMCeWQAE4V4O.jpg",
+					"url": "https://t.co/xYf9xPoa7X",
+					"display_url": "pic.twitter.com/xYf9xPoa7X",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1396331603870339072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8816,
+			"friends_count": 768,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7874,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64637,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Of ik er op zondagochtend achterkom, nadat ik al een aanhanger heb gehuurd, dat het afvalscheidingsstation dicht is want…*checkt kalender* PINK-STE-REN? En ik dus nog een paar dagen met anderhalve kuub klei en zand in de tuin zit? Misschien… https://t.co/xYf9xPoa7X"
+	},
+	{
 		"created_at": "Sat May 22 15:20:03 +0000 2021",
 		"id": 1396123701347856400,
 		"id_str": "1396123701347856384",
@@ -16,7 +201,7 @@ Grailbird.data.tweets_2021_05 =
 			"user_mentions": [
 				{
 					"screen_name": "bopp",
-					"name": "Bob 🧙‍♂️",
+					"name": "Bob 🧙♂️",
 					"id": 8160822,
 					"id_str": "8160822",
 					"indices": [
