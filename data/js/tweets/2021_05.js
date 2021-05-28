@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 28 17:19:46 +0000 2021",
+		"id": 1398176748978778000,
+		"id_str": "1398328155698569217",
+		"full_text": "Vanavond is de concertfilm Let’s Play Two van Pearl Jam te zien. Een ode aan de geboortestad van Eddie Vedder én haar honkbalteam de Chicago Cubs. Inclusief mooie behind the scenes-fragmenten. #kijktip\n\nVrijdag 22:10 | NPO 2 extra | Pearl Jam - Let’s Play Two https://t.co/NiilKAju2u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "kijktip",
+					"indices": [
+						193,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1398176741881962500,
+					"id_str": "1398176741881962497",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E2dSVsEWYAEuBIv.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E2dSVsEWYAEuBIv.jpg",
+					"url": "https://t.co/NiilKAju2u",
+					"display_url": "pic.twitter.com/NiilKAju2u",
+					"expanded_url": "https://twitter.com/NPO2extra/status/1398176748978778116/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1398176741881962500,
+					"id_str": "1398176741881962497",
+					"indices": [
+						260,
+						283
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E2dSVsEWYAEuBIv.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E2dSVsEWYAEuBIv.jpg",
+					"url": "https://t.co/NiilKAju2u",
+					"display_url": "pic.twitter.com/NiilKAju2u",
+					"expanded_url": "https://twitter.com/NPO2extra/status/1398176748978778116/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E2dSVsEWYAEuBIv.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19716506,
+			"id_str": "19716506",
+			"name": "NPO 2 extra",
+			"screen_name": "NPO2extra",
+			"location": "Hilversum",
+			"description": "Hét kanaal voor Kunst | Cultuur | Documentaires | Film | Klassiek | Pop | Jazz | Literatuur | Theater | Dans | non-stop op tv en https://t.co/XODbGbpWxB",
+			"url": "https://t.co/rw41IuOC7M",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rw41IuOC7M",
+							"expanded_url": "https://www.npostart.nl/live/npo-2-extra",
+							"display_url": "npostart.nl/live/npo-2-ext…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XODbGbpWxB",
+							"expanded_url": "http://npostart.nl/npo2extra",
+							"display_url": "npostart.nl/npo2extra",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 68226,
+			"friends_count": 5595,
+			"listed_count": 482,
+			"created_at": "Thu Jan 29 15:50:48 +0000 2009",
+			"favourites_count": 1288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCF9F9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/976846921435435008/UZ6mHOGx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/976846921435435008/UZ6mHOGx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19716506/1569424571",
+			"profile_link_color": "029CDE",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDDDDD",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Vanavond is de concertfilm Let’s Play Two van Pearl Jam te zien. Een ode aan de geboortestad van Eddie Vedder én haar honkbalteam de Chicago Cubs. Inclusief mooie behind the scenes-fragmenten. #kijktip\n\nVrijdag 22:10 | NPO 2 extra | Pearl Jam - Let’s Play Two https://t.co/NiilKAju2u"
+	},
+	{
 		"created_at": "Fri May 28 15:51:25 +0000 2021",
 		"id": 1398304207149670400,
 		"id_str": "1398305922821373954",
