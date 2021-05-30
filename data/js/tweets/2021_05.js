@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sun May 30 04:55:12 +0000 2021",
+		"id": 1398648338136723500,
+		"id_str": "1398865552836378625",
+		"full_text": "Excellent: The visual effect of this perspective on juggling. https://t.co/iVBOvjganU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1398648236458475500,
+					"id_str": "1398648236458475520",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1398648236458475520/pu/img/ILULj-SDs-lPsehv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1398648236458475520/pu/img/ILULj-SDs-lPsehv.jpg",
+					"url": "https://t.co/iVBOvjganU",
+					"display_url": "pic.twitter.com/iVBOvjganU",
+					"expanded_url": "https://twitter.com/page_eco/status/1398648338136723466/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 362,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 362,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 362,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1398648236458475500,
+					"id_str": "1398648236458475520",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1398648236458475520/pu/img/ILULj-SDs-lPsehv.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1398648236458475520/pu/img/ILULj-SDs-lPsehv.jpg",
+					"url": "https://t.co/iVBOvjganU",
+					"display_url": "pic.twitter.com/iVBOvjganU",
+					"expanded_url": "https://twitter.com/page_eco/status/1398648338136723466/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 362,
+							"h": 360,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 362,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 362,
+							"h": 360,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							181,
+							180
+						],
+						"duration_millis": 26500,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1398648236458475520/pu/vid/362x360/swpclsjG9JwcrU19.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1398648236458475520/pu/vid/270x270/2t1JXAMfsqZt4vG0.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1398648236458475520/pu/pl/cJy1PhEavgymCueZ.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 817270221236879400,
+			"id_str": "817270221236879360",
+			"name": "Lionel Page",
+			"screen_name": "page_eco",
+			"location": "Sydney",
+			"description": "Professor @UTS_Economics. Author of forthcoming 'Optimally Irrational'. Tweet on behavioural economics, science and society.",
+			"url": "https://t.co/N1WdAtJbhb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/N1WdAtJbhb",
+							"expanded_url": "https://sites.google.com/site/liopage/home",
+							"display_url": "sites.google.com/site/liopage/h…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26371,
+			"friends_count": 415,
+			"listed_count": 376,
+			"created_at": "Fri Jan 06 07:22:59 +0000 2017",
+			"favourites_count": 14628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5477,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/817273891928145920/a1P9FSnS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/817273891928145920/a1P9FSnS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/817270221236879360/1546605732",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4652,
+		"favorite_count": 19607,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excellent: The visual effect of this perspective on juggling. https://t.co/iVBOvjganU"
+	},
+	{
 		"created_at": "Sat May 29 15:37:20 +0000 2021",
 		"id": 1398664765166297000,
 		"id_str": "1398664765166297089",
