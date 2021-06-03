@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 03 06:07:30 +0000 2021",
+		"id": 1400333302725218300,
+		"id_str": "1400333302725218306",
+		"full_text": "Wat een doordachte update! https://t.co/pPjdxVrbKY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pPjdxVrbKY",
+					"expanded_url": "https://twitter.com/readwiseio/status/1400240525102358529",
+					"display_url": "twitter.com/readwiseio/sta…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8784,
+			"friends_count": 776,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64702,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1400240525102358500,
+		"quoted_status_id_str": "1400240525102358529",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pPjdxVrbKY",
+			"expanded": "https://twitter.com/readwiseio/status/1400240525102358529",
+			"display": "twitter.com/readwiseio/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 02 23:58:51 +0000 2021",
+			"id": 1400240525102358500,
+			"id_str": "1400240525102358529",
+			"full_text": "We’ve rolled out this update to hopefully clean up the clutter accordingly...\n\nAs always, we want you to read more of what you love, not scroll through endless save thread replies :)\n\nMore details here: https://t.co/FdTQ7K4piB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				226
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FdTQ7K4piB",
+						"expanded_url": "https://readwise.io/changelog/like-to-save-tweets",
+						"display_url": "readwise.io/changelog/like…",
+						"indices": [
+							203,
+							226
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1400239997584691200,
+			"in_reply_to_status_id_str": "1400239997584691202",
+			"in_reply_to_user_id": 920321515077414900,
+			"in_reply_to_user_id_str": "920321515077414912",
+			"in_reply_to_screen_name": "readwiseio",
+			"user": {
+				"id": 920321515077414900,
+				"id_str": "920321515077414912",
+				"name": "Readwise",
+				"screen_name": "readwiseio",
+				"location": "",
+				"description": "Readwise makes it easy to save and revisit your best highlights from Kindle, Pocket, Instapaper, iBooks, Twitter and more.",
+				"url": "https://t.co/H4Z52NJSdj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H4Z52NJSdj",
+								"expanded_url": "https://readwise.io",
+								"display_url": "readwise.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 51788,
+				"friends_count": 3448,
+				"listed_count": 522,
+				"created_at": "Tue Oct 17 16:12:02 +0000 2017",
+				"favourites_count": 2220,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 106872,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1333582244817100801/W9vXWh4U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1333582244817100801/W9vXWh4U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/920321515077414912/1606782606",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Wat een doordachte update! https://t.co/pPjdxVrbKY"
+	},
+	{
 		"created_at": "Wed Jun 02 20:16:28 +0000 2021",
 		"id": 1400184564136431600,
 		"id_str": "1400184564136431624",
