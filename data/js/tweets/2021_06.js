@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 03 17:43:52 +0000 2021",
+		"id": 1398115620390981600,
+		"id_str": "1400508548841459716",
+		"full_text": "Meanwhile, inside the box, Schrödinger's cat plans its revenge. https://t.co/kUEKYB1A7E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1398115617211752400,
+					"id_str": "1398115617211752449",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E2cavw7VIAEIMWf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2cavw7VIAEIMWf.jpg",
+					"url": "https://t.co/kUEKYB1A7E",
+					"display_url": "pic.twitter.com/kUEKYB1A7E",
+					"expanded_url": "https://twitter.com/ProfFeynman/status/1398115620390981634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1398115617211752400,
+					"id_str": "1398115617211752449",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/E2cavw7VIAEIMWf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2cavw7VIAEIMWf.jpg",
+					"url": "https://t.co/kUEKYB1A7E",
+					"display_url": "pic.twitter.com/kUEKYB1A7E",
+					"expanded_url": "https://twitter.com/ProfFeynman/status/1398115620390981634/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 823518894182846500,
+			"id_str": "823518894182846464",
+			"name": "Prof. Feynman",
+			"screen_name": "ProfFeynman",
+			"location": "",
+			"description": "Here I stand, atoms with consciousness, matter with curiosity. A universe of atoms, an atom in the universe. Tribute to the great explainer.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 703988,
+			"friends_count": 0,
+			"listed_count": 3867,
+			"created_at": "Mon Jan 23 13:12:59 +0000 2017",
+			"favourites_count": 6447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1408,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1351131824500649991/H8Q5nj_J_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1351131824500649991/H8Q5nj_J_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/823518894182846464/1563454062",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11977,
+		"favorite_count": 54126,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ro",
+		"text": "Meanwhile, inside the box, Schrödinger's cat plans its revenge. https://t.co/kUEKYB1A7E"
+	},
+	{
 		"created_at": "Thu Jun 03 16:56:16 +0000 2021",
 		"id": 1400496568013365200,
 		"id_str": "1400496568013365250",
