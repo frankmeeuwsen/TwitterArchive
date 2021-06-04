@@ -1,6 +1,1223 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 04 17:16:33 +0000 2021",
+		"id": 1400864059092877300,
+		"id_str": "1400864059092877323",
+		"full_text": "“Officieel” https://t.co/81gsFR2BGm https://t.co/hCMiAHVOUV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/81gsFR2BGm",
+					"expanded_url": "https://twitter.com/willem_engel/status/1400604274460180481",
+					"display_url": "twitter.com/willem_engel/s…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1400864051895341000,
+					"id_str": "1400864051895341060",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E3Debt_WEAQkBF-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E3Debt_WEAQkBF-.jpg",
+					"url": "https://t.co/hCMiAHVOUV",
+					"display_url": "pic.twitter.com/hCMiAHVOUV",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1400864059092877323/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 254,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 254,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 254,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1400864051895341000,
+					"id_str": "1400864051895341060",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E3Debt_WEAQkBF-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E3Debt_WEAQkBF-.jpg",
+					"url": "https://t.co/hCMiAHVOUV",
+					"display_url": "pic.twitter.com/hCMiAHVOUV",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1400864059092877323/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 254,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 254,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 254,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							240,
+							127
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E3Debt_WEAQkBF-.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8784,
+			"friends_count": 777,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1400604274460180500,
+		"quoted_status_id_str": "1400604274460180481",
+		"quoted_status_permalink": {
+			"url": "https://t.co/81gsFR2BGm",
+			"expanded": "https://twitter.com/willem_engel/status/1400604274460180481",
+			"display": "twitter.com/willem_engel/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 04 00:04:15 +0000 2021",
+			"id": 1400604274460180500,
+			"id_str": "1400604274460180481",
+			"full_text": "@jpaternotte @epdelap @jpaternotte bij deze krijg je een officiële waarschuwing. Het is inmiddels duidelijk dat 100den jongeren sterven of ernstige bijwerkingen hebben van de prikjes. Zie Israël en de VS, daar is het nu toegegeven. Stop deze nonsens.",
+			"truncated": false,
+			"display_text_range": [
+				22,
+				250
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jpaternotte",
+						"name": "Jan Paternotte",
+						"id": 25893416,
+						"id_str": "25893416",
+						"indices": [
+							0,
+							12
+						]
+					},
+					{
+						"screen_name": "epdelap",
+						"name": "Eva #VergeetOnsNietHugo",
+						"id": 621131602,
+						"id_str": "621131602",
+						"indices": [
+							13,
+							21
+						]
+					},
+					{
+						"screen_name": "jpaternotte",
+						"name": "Jan Paternotte",
+						"id": 25893416,
+						"id_str": "25893416",
+						"indices": [
+							22,
+							34
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1400511672616378400,
+			"in_reply_to_status_id_str": "1400511672616378372",
+			"in_reply_to_user_id": 25893416,
+			"in_reply_to_user_id_str": "25893416",
+			"in_reply_to_screen_name": "jpaternotte",
+			"user": {
+				"id": 1287117699089412000,
+				"id_str": "1287117699089412099",
+				"name": "willem engel",
+				"screen_name": "willem_engel",
+				"location": "",
+				"description": "Dance teacher & human rights activist & scientist",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7365,
+				"friends_count": 173,
+				"listed_count": 39,
+				"created_at": "Sat Jul 25 20:09:21 +0000 2020",
+				"favourites_count": 2494,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3436,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1374027970944307202/YQwkpT1G_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374027970944307202/YQwkpT1G_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1287117699089412099/1613663303",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 69,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Officieel” https://t.co/81gsFR2BGm https://t.co/hCMiAHVOUV"
+	},
+	{
+		"created_at": "Fri Jun 04 17:13:39 +0000 2021",
+		"id": 1400863330345140200,
+		"id_str": "1400863330345140231",
+		"full_text": "Mooie vergelijking, free speech vs free reach. https://t.co/yutsPI0VCH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yutsPI0VCH",
+					"expanded_url": "https://twitter.com/profgalloway/status/1400614538890956804",
+					"display_url": "twitter.com/profgalloway/s…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8784,
+			"friends_count": 777,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1400614538890956800,
+		"quoted_status_id_str": "1400614538890956804",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yutsPI0VCH",
+			"expanded": "https://twitter.com/profgalloway/status/1400614538890956804",
+			"display": "twitter.com/profgalloway/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 04 00:45:02 +0000 2021",
+			"id": 1400614538890956800,
+			"id_str": "1400614538890956804",
+			"full_text": "💯 @CaseyNewton \nfreedom of speech vs. freedom of reach (yesterday's @platformer) https://t.co/igpfWAMT14",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				80
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CaseyNewton",
+						"name": "Casey Newton",
+						"id": 69426451,
+						"id_str": "69426451",
+						"indices": [
+							2,
+							14
+						]
+					},
+					{
+						"screen_name": "platformer",
+						"name": "Platformer",
+						"id": 1306335292668801000,
+						"id_str": "1306335292668801025",
+						"indices": [
+							68,
+							79
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1400614537439723500,
+						"id_str": "1400614537439723522",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/E2_7gENXwAIKoUO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2_7gENXwAIKoUO.jpg",
+						"url": "https://t.co/igpfWAMT14",
+						"display_url": "pic.twitter.com/igpfWAMT14",
+						"expanded_url": "https://twitter.com/profgalloway/status/1400614538890956804/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1408,
+								"h": 792,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1400614537439723500,
+						"id_str": "1400614537439723522",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/E2_7gENXwAIKoUO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2_7gENXwAIKoUO.jpg",
+						"url": "https://t.co/igpfWAMT14",
+						"display_url": "pic.twitter.com/igpfWAMT14",
+						"expanded_url": "https://twitter.com/profgalloway/status/1400614538890956804/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1408,
+								"h": 792,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9273802,
+				"id_str": "9273802",
+				"name": "Scott Galloway",
+				"screen_name": "profgalloway",
+				"location": "NYC",
+				"description": "Product of big government @ucla @ucberkeley | Prof Marketing @NYUStern | Right of Center-Left | ProfGShow, Pivot podcasts | Strategy Sprint https://t.co/bJbNXSMbhS",
+				"url": "https://t.co/7p9Sm7nKpx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7p9Sm7nKpx",
+								"expanded_url": "http://profgalloway.com",
+								"display_url": "profgalloway.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/bJbNXSMbhS",
+								"expanded_url": "http://section4.com",
+								"display_url": "section4.com",
+								"indices": [
+									140,
+									163
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 400882,
+				"friends_count": 1258,
+				"listed_count": 5361,
+				"created_at": "Sat Oct 06 02:08:16 +0000 2007",
+				"favourites_count": 54367,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 30870,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1366944063522488323/xpHrqFbX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366944063522488323/xpHrqFbX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9273802/1606222569",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 326,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Mooie vergelijking, free speech vs free reach. https://t.co/yutsPI0VCH"
+	},
+	{
+		"created_at": "Fri Jun 04 17:12:51 +0000 2021",
+		"id": 1400614538890956800,
+		"id_str": "1400863130381586433",
+		"full_text": "💯 @CaseyNewton \nfreedom of speech vs. freedom of reach (yesterday's @platformer) https://t.co/igpfWAMT14",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CaseyNewton",
+					"name": "Casey Newton",
+					"id": 69426451,
+					"id_str": "69426451",
+					"indices": [
+						2,
+						14
+					]
+				},
+				{
+					"screen_name": "platformer",
+					"name": "Platformer",
+					"id": 1306335292668801000,
+					"id_str": "1306335292668801025",
+					"indices": [
+						68,
+						79
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1400614537439723500,
+					"id_str": "1400614537439723522",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/E2_7gENXwAIKoUO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2_7gENXwAIKoUO.jpg",
+					"url": "https://t.co/igpfWAMT14",
+					"display_url": "pic.twitter.com/igpfWAMT14",
+					"expanded_url": "https://twitter.com/profgalloway/status/1400614538890956804/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1408,
+							"h": 792,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1400614537439723500,
+					"id_str": "1400614537439723522",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/E2_7gENXwAIKoUO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2_7gENXwAIKoUO.jpg",
+					"url": "https://t.co/igpfWAMT14",
+					"display_url": "pic.twitter.com/igpfWAMT14",
+					"expanded_url": "https://twitter.com/profgalloway/status/1400614538890956804/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1408,
+							"h": 792,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9273802,
+			"id_str": "9273802",
+			"name": "Scott Galloway",
+			"screen_name": "profgalloway",
+			"location": "NYC",
+			"description": "Product of big government @ucla @ucberkeley | Prof Marketing @NYUStern | Right of Center-Left | ProfGShow, Pivot podcasts | Strategy Sprint https://t.co/bJbNXSMbhS",
+			"url": "https://t.co/7p9Sm7nKpx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7p9Sm7nKpx",
+							"expanded_url": "http://profgalloway.com",
+							"display_url": "profgalloway.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bJbNXSMbhS",
+							"expanded_url": "http://section4.com",
+							"display_url": "section4.com",
+							"indices": [
+								140,
+								163
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 400882,
+			"friends_count": 1258,
+			"listed_count": 5361,
+			"created_at": "Sat Oct 06 02:08:16 +0000 2007",
+			"favourites_count": 54367,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366944063522488323/xpHrqFbX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366944063522488323/xpHrqFbX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9273802/1606222569",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 326,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💯 @CaseyNewton \nfreedom of speech vs. freedom of reach (yesterday's @platformer) https://t.co/igpfWAMT14"
+	},
+	{
+		"created_at": "Fri Jun 04 17:07:04 +0000 2021",
+		"id": 1400861672890306600,
+		"id_str": "1400861672890306563",
+		"full_text": "Is wel zo.  https://t.co/GGhA0zTBiq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GGhA0zTBiq",
+					"expanded_url": "https://open.spotify.com/only-you/share-1b577f13b9f1475ebb1df266cda7392a-1080x1920?si=TCrxXgEtTL-ncTvcA-tOOQ&v=3e3f91be-8bf0-11eb-8dcd-0242ac130003&locale=nl",
+					"display_url": "open.spotify.com/only-you/share…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8784,
+			"friends_count": 777,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Is wel zo.  https://t.co/GGhA0zTBiq"
+	},
+	{
+		"created_at": "Fri Jun 04 16:28:17 +0000 2021",
+		"id": 1400851912153612300,
+		"id_str": "1400851912153612297",
+		"full_text": "Indie is the only way! 😉😘 https://t.co/gPpz9CMzeR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gPpz9CMzeR",
+					"expanded_url": "https://twitter.com/elger/status/1400785179044724743",
+					"display_url": "twitter.com/elger/status/1…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/6YB8i11ryl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6YB8i11ryl",
+							"expanded_url": "https://diggingthedigital.com/nieuwsbrief",
+							"display_url": "diggingthedigital.com/nieuwsbrief",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8784,
+			"friends_count": 777,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 7925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64712,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1400785179044724700,
+		"quoted_status_id_str": "1400785179044724743",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gPpz9CMzeR",
+			"expanded": "https://twitter.com/elger/status/1400785179044724743",
+			"display": "twitter.com/elger/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 04 12:03:06 +0000 2021",
+			"id": 1400785179044724700,
+			"id_str": "1400785179044724743",
+			"full_text": "Gratis tip: als je je favoriete podcasts meteen wel beluisteren: stop met het gebruik van Apple Podcasts. It's a mess en je helpt jezelf en podcastmakers door over te stappen op een app die wel werkt. Ik tip Overcast. https://t.co/wh74qAPVER",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				217
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wh74qAPVER",
+						"expanded_url": "https://twitter.com/dtalesnl/status/1400740188977090562",
+						"display_url": "twitter.com/dtalesnl/statu…",
+						"indices": [
+							218,
+							241
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14142375,
+				"id_str": "14142375",
+				"name": "Elger van der Wel",
+				"screen_name": "elger",
+				"location": "Utrecht, Netherlands",
+				"description": "Podcaststudio Utrecht - o.a. @trustnobodycast, @telekidspodcast, @Spoorcast. Weet dingen van online media - o.a. voor @FD_Nieuws, @Windesheiminfo",
+				"url": "https://t.co/6ebBT2ANzN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/6ebBT2ANzN",
+								"expanded_url": "http://nieuwsbrief.elger.fm",
+								"display_url": "nieuwsbrief.elger.fm",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8686,
+				"friends_count": 911,
+				"listed_count": 266,
+				"created_at": "Thu Mar 13 20:51:19 +0000 2008",
+				"favourites_count": 5797,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 96167,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ECFFFD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1055369458603171840/cEemBGhP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055369458603171840/cEemBGhP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14142375/1524763404",
+				"profile_link_color": "33CCFF",
+				"profile_sidebar_border_color": "33CCFF",
+				"profile_sidebar_fill_color": "D6FFFB",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1400740188977090600,
+			"quoted_status_id_str": "1400740188977090562",
+			"quoted_status_permalink": {
+				"url": "https://t.co/wh74qAPVER",
+				"expanded": "https://twitter.com/dtalesnl/status/1400740188977090562",
+				"display": "twitter.com/dtalesnl/statu…"
+			},
+			"retweet_count": 3,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Indie is the only way! 😉😘 https://t.co/gPpz9CMzeR"
+	},
+	{
 		"created_at": "Fri Jun 04 08:24:31 +0000 2021",
 		"id": 1400730171439730700,
 		"id_str": "1400730171439730690",
