@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 08 20:19:18 +0000 2021",
+		"id": 1402236936014737400,
+		"id_str": "1402359603539628032",
+		"full_text": "Pearl Jam played @PinkPopFest for the very first time exactly 29 years ago today.\n\n📸 William Rutten https://t.co/5nxQveoxg1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pinkpopfest",
+					"name": "Pinkpop festival",
+					"id": 82294405,
+					"id_str": "82294405",
+					"indices": [
+						17,
+						29
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1402236928360161300,
+					"id_str": "1402236928360161280",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/E3W_DpXXoAA0J0W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3W_DpXXoAA0J0W.jpg",
+					"url": "https://t.co/5nxQveoxg1",
+					"display_url": "pic.twitter.com/5nxQveoxg1",
+					"expanded_url": "https://twitter.com/PearlJamOnline/status/1402236936014737408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 446,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 716,
+							"h": 470,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 716,
+							"h": 470,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402236928360161300,
+					"id_str": "1402236928360161280",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/E3W_DpXXoAA0J0W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3W_DpXXoAA0J0W.jpg",
+					"url": "https://t.co/5nxQveoxg1",
+					"display_url": "pic.twitter.com/5nxQveoxg1",
+					"expanded_url": "https://twitter.com/PearlJamOnline/status/1402236936014737408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 446,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 716,
+							"h": 470,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 716,
+							"h": 470,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27473819,
+			"id_str": "27473819",
+			"name": "PearlJamOnline.it",
+			"screen_name": "PearlJamOnline",
+			"location": "Reggio Emilia, Italy",
+			"description": "🇮🇹 Pearl Jam italian fansite since 2001. Run by fans, for fans. Follow the strangest tribe...",
+			"url": "https://t.co/VwnPhGUTy6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VwnPhGUTy6",
+							"expanded_url": "http://pearljamonline.it",
+							"display_url": "pearljamonline.it",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 40568,
+			"friends_count": 2532,
+			"listed_count": 413,
+			"created_at": "Sun Mar 29 18:24:06 +0000 2009",
+			"favourites_count": 6970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23237,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17160F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/976448147919646721/HxYSlD2O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/976448147919646721/HxYSlD2O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27473819/1611830095",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EBE79F",
+			"profile_text_color": "0A080A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 246,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pearl Jam played @PinkPopFest for the very first time exactly 29 years ago today.\n\n📸 William Rutten https://t.co/5nxQveoxg1"
+	},
+	{
 		"created_at": "Tue Jun 08 10:57:34 +0000 2021",
 		"id": 1402218238935699500,
 		"id_str": "1402218238935699456",
