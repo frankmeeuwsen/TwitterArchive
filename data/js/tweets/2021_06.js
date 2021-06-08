@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 08 04:04:58 +0000 2021",
+		"id": 1402009721083613200,
+		"id_str": "1402114402975993856",
+		"full_text": "We’re building a set of endpoints to extend Twitter Spaces and shape its future. Join us this Wednesday to learn more, let us know what you’d like to see in the Spaces endpoints, and what you would build.\nFollow @i_am_daniele to join, and set a reminder: https://t.co/YTbq9UNaJK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "i_am_daniele",
+					"name": "Daniele",
+					"id": 1020108704811606000,
+					"id_str": "1020108704811606016",
+					"indices": [
+						212,
+						225
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YTbq9UNaJK",
+					"expanded_url": "https://twitter.com/i/spaces/1DXxyReAnpWKM",
+					"display_url": "twitter.com/i/spaces/1DXxy…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2244994945,
+			"id_str": "2244994945",
+			"name": "Twitter Dev",
+			"screen_name": "TwitterDev",
+			"location": "127.0.0.1",
+			"description": "The voice of the #TwitterDev team and your official source for updates, news, and events, related to the #TwitterAPI.",
+			"url": "https://t.co/3ZX3TNiZCY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3ZX3TNiZCY",
+							"expanded_url": "https://developer.twitter.com/en/community",
+							"display_url": "developer.twitter.com/en/community",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 516881,
+			"friends_count": 2023,
+			"listed_count": 1761,
+			"created_at": "Sat Dec 14 04:35:55 +0000 2013",
+			"favourites_count": 2119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3720,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397586613551599625/txx6AvoK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397586613551599625/txx6AvoK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2244994945/1622045594",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We’re building a set of endpoints to extend Twitter Spaces and shape its future. Join us this Wednesday to learn more, let us know what you’d like to see in the Spaces endpoints, and what you would build.\nFollow @i_am_daniele to join, and set a reminder: https://t.co/YTbq9UNaJK"
+	},
+	{
 		"created_at": "Mon Jun 07 20:41:12 +0000 2021",
 		"id": 1402002726167449600,
 		"id_str": "1402002726167449605",
