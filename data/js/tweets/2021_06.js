@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 09 18:50:14 +0000 2021",
+		"id": 1402693696626167800,
+		"id_str": "1402699575706652673",
+		"full_text": "In the ultimate time traveller trick, Marty McFly found a way to be born 60 years ago on #BillandTedDay which at that point wasn't even a thing yet. That's heavy.\n\nHappy Birthday, @realmikefox https://t.co/nDxscXJlwK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BillandTedDay",
+					"indices": [
+						89,
+						103
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realmikefox",
+					"name": "Michael J. Fox",
+					"id": 398092540,
+					"id_str": "398092540",
+					"indices": [
+						180,
+						192
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1402693686849204200,
+					"id_str": "1402693686849204226",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E3deefVUcAIadbj.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E3deefVUcAIadbj.jpg",
+					"url": "https://t.co/nDxscXJlwK",
+					"display_url": "pic.twitter.com/nDxscXJlwK",
+					"expanded_url": "https://twitter.com/jimmyjamesinc2/status/1402693696626167812/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 268,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 268,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 268,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402693686849204200,
+					"id_str": "1402693686849204226",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E3deefVUcAIadbj.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E3deefVUcAIadbj.jpg",
+					"url": "https://t.co/nDxscXJlwK",
+					"display_url": "pic.twitter.com/nDxscXJlwK",
+					"expanded_url": "https://twitter.com/jimmyjamesinc2/status/1402693696626167812/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 268,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 268,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 268,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							134
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E3deefVUcAIadbj.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1070420955082575900,
+			"id_str": "1070420955082575872",
+			"name": "Jimmy James Inc.",
+			"screen_name": "jimmyjamesinc2",
+			"location": "Burbank, CA",
+			"description": "Jimmy James, Inc. Back from hiatus.",
+			"url": "https://t.co/UmcFiGffBu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UmcFiGffBu",
+							"expanded_url": "http://instagram.com/jimmyjames_inc/",
+							"display_url": "instagram.com/jimmyjames_inc/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 157,
+			"friends_count": 836,
+			"listed_count": 1,
+			"created_at": "Wed Dec 05 20:53:37 +0000 2018",
+			"favourites_count": 27477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1070421652490469377/SWEvYWcK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1070421652490469377/SWEvYWcK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1070420955082575872/1544045192",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 100,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In the ultimate time traveller trick, Marty McFly found a way to be born 60 years ago on #BillandTedDay which at that point wasn't even a thing yet. That's heavy.\n\nHappy Birthday, @realmikefox https://t.co/nDxscXJlwK"
+	},
+	{
 		"created_at": "Wed Jun 09 16:59:31 +0000 2021",
 		"id": 1402612751097340000,
 		"id_str": "1402671712186085381",
