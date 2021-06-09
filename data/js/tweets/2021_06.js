@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 09 16:59:31 +0000 2021",
+		"id": 1402612751097340000,
+		"id_str": "1402671712186085381",
+		"full_text": "June 9th is Bill &amp; Ted Day!  Be excellent to each other!!! #80s https://t.co/RXwdyf6tzp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "80s",
+					"indices": [
+						63,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1402612749255991300,
+					"id_str": "1402612749255991299",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/E3cU3TTWYAM52z5.png",
+					"media_url_https": "https://pbs.twimg.com/media/E3cU3TTWYAM52z5.png",
+					"url": "https://t.co/RXwdyf6tzp",
+					"display_url": "pic.twitter.com/RXwdyf6tzp",
+					"expanded_url": "https://twitter.com/OldSchool80s/status/1402612751097339907/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 319,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 319,
+							"h": 384,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 319,
+							"h": 384,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1402612749255991300,
+					"id_str": "1402612749255991299",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/E3cU3TTWYAM52z5.png",
+					"media_url_https": "https://pbs.twimg.com/media/E3cU3TTWYAM52z5.png",
+					"url": "https://t.co/RXwdyf6tzp",
+					"display_url": "pic.twitter.com/RXwdyf6tzp",
+					"expanded_url": "https://twitter.com/OldSchool80s/status/1402612751097339907/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 319,
+							"h": 384,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 319,
+							"h": 384,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 319,
+							"h": 384,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 31015297,
+			"id_str": "31015297",
+			"name": "Old School 80s",
+			"screen_name": "OldSchool80s",
+			"location": "Shermer, Illinois circa '80s",
+			"description": "Daily doses of 80s pop culture reminders. Not meant to make you feel old, just awesome nostalgia. Also can find me on @RD80s and @TRNSocial",
+			"url": "https://t.co/bAzV4JJ7ML",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bAzV4JJ7ML",
+							"expanded_url": "http://www.Facebook.com/KickinItOldSchool80s",
+							"display_url": "Facebook.com/KickinItOldSch…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 189960,
+			"friends_count": 349,
+			"listed_count": 899,
+			"created_at": "Tue Apr 14 01:13:52 +0000 2009",
+			"favourites_count": 2455,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25745,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/499733959148711936/KFV83fHA_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/499733959148711936/KFV83fHA_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/31015297/1415467401",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 129,
+		"favorite_count": 520,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "June 9th is Bill &amp; Ted Day!  Be excellent to each other!!! #80s https://t.co/RXwdyf6tzp"
+	},
+	{
 		"created_at": "Wed Jun 09 15:06:23 +0000 2021",
 		"id": 1402643240885555200,
 		"id_str": "1402643240885555201",
