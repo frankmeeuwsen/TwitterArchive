@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 11 04:52:39 +0000 2021",
+		"id": 1403097770987241500,
+		"id_str": "1403213566967226368",
+		"full_text": "Cool! uvupv - \"Ten in LEGO\" https://t.co/5F6e8WLZc2 @PearlJam https://t.co/RPx1PFkWKH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PearlJam",
+					"name": "Pearl Jam",
+					"id": 15155074,
+					"id_str": "15155074",
+					"indices": [
+						52,
+						61
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/5F6e8WLZc2",
+					"expanded_url": "https://www.reddit.com/r/pearljam/comments/nwnf6z/ten_in_lego/",
+					"display_url": "reddit.com/r/pearljam/com…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1403097718692757500,
+					"id_str": "1403097718692757505",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/E3jN8PPXwAEhY46.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3jN8PPXwAEhY46.jpg",
+					"url": "https://t.co/RPx1PFkWKH",
+					"display_url": "pic.twitter.com/RPx1PFkWKH",
+					"expanded_url": "https://twitter.com/demetriosns/status/1403097770987241487/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403097718692757500,
+					"id_str": "1403097718692757505",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/E3jN8PPXwAEhY46.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3jN8PPXwAEhY46.jpg",
+					"url": "https://t.co/RPx1PFkWKH",
+					"display_url": "pic.twitter.com/RPx1PFkWKH",
+					"expanded_url": "https://twitter.com/demetriosns/status/1403097770987241487/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2445883256,
+			"id_str": "2445883256",
+			"name": "demetrios",
+			"screen_name": "demetriosns",
+			"location": " 🇨🇦",
+			"description": "#pearljam",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4632,
+			"friends_count": 4730,
+			"listed_count": 48,
+			"created_at": "Tue Apr 15 19:14:28 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27977,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964089175489351680/xBdqHMwd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964089175489351680/xBdqHMwd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2445883256/1518692315",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 48,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cool! uvupv - \"Ten in LEGO\" https://t.co/5F6e8WLZc2 @PearlJam https://t.co/RPx1PFkWKH"
+	},
+	{
 		"created_at": "Thu Jun 10 19:51:13 +0000 2021",
 		"id": 1403077310899789800,
 		"id_str": "1403077310899789824",
