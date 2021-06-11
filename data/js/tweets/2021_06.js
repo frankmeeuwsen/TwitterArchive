@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 11 18:58:23 +0000 2021",
+		"id": 1403283681670742000,
+		"id_str": "1403426404797227008",
+		"full_text": "https://t.co/8cDIV5KAtW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1403283646056968200,
+					"id_str": "1403283646056968192",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E3l3CopXMAAb4j5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3l3CopXMAAb4j5.jpg",
+					"url": "https://t.co/8cDIV5KAtW",
+					"display_url": "pic.twitter.com/8cDIV5KAtW",
+					"expanded_url": "https://twitter.com/sernique_/status/1403283681670742017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 715,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 380,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 670,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1403283646056968200,
+					"id_str": "1403283646056968192",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E3l3CopXMAAb4j5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3l3CopXMAAb4j5.jpg",
+					"url": "https://t.co/8cDIV5KAtW",
+					"display_url": "pic.twitter.com/8cDIV5KAtW",
+					"expanded_url": "https://twitter.com/sernique_/status/1403283681670742017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 715,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 380,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 670,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1403283669368901600,
+					"id_str": "1403283669368901640",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E3l3D_fXEAgTUGi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3l3D_fXEAgTUGi.jpg",
+					"url": "https://t.co/8cDIV5KAtW",
+					"display_url": "pic.twitter.com/8cDIV5KAtW",
+					"expanded_url": "https://twitter.com/sernique_/status/1403283681670742017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 644,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1136,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1212,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3958542748,
+			"id_str": "3958542748",
+			"name": "~",
+			"screen_name": "sernique_",
+			"location": "~",
+			"description": "św papjeż sernik, patron internetu i opinii z którymi się nie zgadzasz",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3565,
+			"friends_count": 63,
+			"listed_count": 10,
+			"created_at": "Wed Oct 14 19:20:58 +0000 2015",
+			"favourites_count": 29464,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 46968,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1382681900981059597/pJrFJk5q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1382681900981059597/pJrFJk5q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3958542748/1616371692",
+			"profile_link_color": "1453AD",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4225,
+		"favorite_count": 11399,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/8cDIV5KAtW"
+	},
+	{
 		"created_at": "Fri Jun 11 17:07:39 +0000 2021",
 		"id": 1403398536738316300,
 		"id_str": "1403398536738316297",
