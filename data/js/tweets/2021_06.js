@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 15 20:06:40 +0000 2021",
+		"id": 1404892821480521700,
+		"id_str": "1404893136741146629",
+		"full_text": "Classic Rock’s next issue is a ‘30 years of Pearl Jam’ cover story. https://t.co/OC4jXkb1mP @PearlJam @ClassicRockMag https://t.co/8mjF6OQznd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PearlJam",
+					"name": "Pearl Jam",
+					"id": 15155074,
+					"id_str": "15155074",
+					"indices": [
+						92,
+						101
+					]
+				},
+				{
+					"screen_name": "ClassicRockMag",
+					"name": "Classic Rock Magazine",
+					"id": 27055945,
+					"id_str": "27055945",
+					"indices": [
+						102,
+						117
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OC4jXkb1mP",
+					"expanded_url": "https://www.reddit.com/r/pearljam/comments/o0laob/classic_rocks_next_issue_is_a_30_years_of_pearl/",
+					"display_url": "reddit.com/r/pearljam/com…",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1404892559197999000,
+					"id_str": "1404892559197999110",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E38uVtKWEAYa5QW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E38uVtKWEAYa5QW.jpg",
+					"url": "https://t.co/8mjF6OQznd",
+					"display_url": "pic.twitter.com/8mjF6OQznd",
+					"expanded_url": "https://twitter.com/demetriosns/status/1404892821480521733/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 499,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 872,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 872,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1404892559197999000,
+					"id_str": "1404892559197999110",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/E38uVtKWEAYa5QW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E38uVtKWEAYa5QW.jpg",
+					"url": "https://t.co/8mjF6OQznd",
+					"display_url": "pic.twitter.com/8mjF6OQznd",
+					"expanded_url": "https://twitter.com/demetriosns/status/1404892821480521733/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 499,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 872,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 872,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2445883256,
+			"id_str": "2445883256",
+			"name": "demetrios",
+			"screen_name": "demetriosns",
+			"location": " 🇨🇦",
+			"description": "#pearljam",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4638,
+			"friends_count": 4738,
+			"listed_count": 48,
+			"created_at": "Tue Apr 15 19:14:28 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 28011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964089175489351680/xBdqHMwd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964089175489351680/xBdqHMwd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2445883256/1518692315",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Classic Rock’s next issue is a ‘30 years of Pearl Jam’ cover story. https://t.co/OC4jXkb1mP @PearlJam @ClassicRockMag https://t.co/8mjF6OQznd"
+	},
+	{
 		"created_at": "Tue Jun 15 18:04:08 +0000 2021",
 		"id": 1404859127910785000,
 		"id_str": "1404862299844845568",
