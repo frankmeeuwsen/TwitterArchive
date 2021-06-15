@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 15 18:04:08 +0000 2021",
+		"id": 1404859127910785000,
+		"id_str": "1404862299844845568",
+		"full_text": "That swanky “Suuuuummertiiiiime” bit at the opening of “Doin’ Time” isn’t actually voiced by @Sublime lead singer Bradley Nowell. He passed shortly before a mandated re-recording of the track. \n\nBut you’d already know that if you were subscribed to The Fast Times, wouldn’t you…",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sublime",
+					"name": "Sublime Official",
+					"id": 1507350212,
+					"id_str": "1507350212",
+					"indices": [
+						93,
+						101
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitter.com\" rel=\"nofollow\">Twitter for Advertisers</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1364607141978456000,
+			"id_str": "1364607141978456064",
+			"name": "The Fast Times",
+			"screen_name": "the_fast_times",
+			"location": "Electronic Mail",
+			"description": "A culture e-zine for #GenX (& wannabes). Subscribe fo’ free. Share. Do the right thing.",
+			"url": "https://t.co/3FNrPZ6PJT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3FNrPZ6PJT",
+							"expanded_url": "https://linktr.ee/thefasttimes",
+							"display_url": "linktr.ee/thefasttimes",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147,
+			"friends_count": 420,
+			"listed_count": 0,
+			"created_at": "Wed Feb 24 16:04:43 +0000 2021",
+			"favourites_count": 572,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 206,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1390361343493120000/ES-U_RT8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1390361343493120000/ES-U_RT8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1364607141978456064/1614635889",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "That swanky “Suuuuummertiiiiime” bit at the opening of “Doin’ Time” isn’t actually voiced by @Sublime lead singer Bradley Nowell. He passed shortly before a mandated re-recording of the track. \n\nBut you’d already know that if you were subscribed to The Fast Times, wouldn’t you…"
+	},
+	{
 		"created_at": "Tue Jun 15 11:20:30 +0000 2021",
 		"id": 1404760725327954000,
 		"id_str": "1404760725327953922",
