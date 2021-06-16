@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 16 16:43:56 +0000 2021",
+		"id": 1405201418827432000,
+		"id_str": "1405204508079177728",
+		"full_text": "The Loudest Band in the World: The epic story of Motörhead gets the graphic novel treatment https://t.co/SkK443GHSz via @DangerMindsBlog",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DangerMindsBlog",
+					"name": "Dangerous Minds",
+					"id": 165952878,
+					"id_str": "165952878",
+					"indices": [
+						120,
+						136
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SkK443GHSz",
+					"expanded_url": "https://dangerousminds.net/comments/the_loudestband_in_the_world_the_epic_story_ofmotoerhead_gets_the_graphic_n",
+					"display_url": "dangerousminds.net/comments/the_l…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887442528990933000,
+			"id_str": "887442528990932993",
+			"name": "MONDO 2000",
+			"screen_name": "2000_mondo",
+			"location": "Berkeley, CA",
+			"description": "MONDO 2000 at https://t.co/Adnv2nOVjY",
+			"url": "https://t.co/Adnv2nOVjY",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Adnv2nOVjY",
+							"expanded_url": "http://Mondo2000.com",
+							"display_url": "Mondo2000.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Adnv2nOVjY",
+							"expanded_url": "http://Mondo2000.com",
+							"display_url": "Mondo2000.com",
+							"indices": [
+								14,
+								37
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2895,
+			"friends_count": 4345,
+			"listed_count": 47,
+			"created_at": "Tue Jul 18 22:42:41 +0000 2017",
+			"favourites_count": 469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/887444058867511296/vXErbj4X_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/887444058867511296/vXErbj4X_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887442528990932993/1500419206",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Loudest Band in the World: The epic story of Motörhead gets the graphic novel treatment https://t.co/SkK443GHSz via @DangerMindsBlog"
+	},
+	{
 		"created_at": "Wed Jun 16 15:12:25 +0000 2021",
 		"id": 1405181144056877000,
 		"id_str": "1405181476656799748",
