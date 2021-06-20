@@ -1,6 +1,1073 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 20 18:15:06 +0000 2021",
+		"id": 1406133063445139500,
+		"id_str": "1406677000958382082",
+		"full_text": "If you’ve already seen a dog lying across four pool noodles floating by today then move onto the next tweet. \n\nhttps://t.co/FFQebADPI9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1405157785436713000,
+					"id_str": "1405157785436712966",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1405157785436712966/pu/img/12VTQ3Se-OhZL_t5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1405157785436712966/pu/img/12VTQ3Se-OhZL_t5.jpg",
+					"url": "https://t.co/FFQebADPI9",
+					"display_url": "pic.twitter.com/FFQebADPI9",
+					"expanded_url": "https://twitter.com/CosyCIub/status/1405157847193772035/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1405157847193772000,
+					"source_status_id_str": "1405157847193772035",
+					"source_user_id": 1368733660346777600,
+					"source_user_id_str": "1368733660346777602"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1405157785436713000,
+					"id_str": "1405157785436712966",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1405157785436712966/pu/img/12VTQ3Se-OhZL_t5.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1405157785436712966/pu/img/12VTQ3Se-OhZL_t5.jpg",
+					"url": "https://t.co/FFQebADPI9",
+					"display_url": "pic.twitter.com/FFQebADPI9",
+					"expanded_url": "https://twitter.com/CosyCIub/status/1405157847193772035/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 576,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1405157847193772000,
+					"source_status_id_str": "1405157847193772035",
+					"source_user_id": 1368733660346777600,
+					"source_user_id_str": "1368733660346777602",
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							5
+						],
+						"duration_millis": 15767,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1405157785436712966/pu/vid/480x600/dnajw5_t_84EHOPI.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1405157785436712966/pu/pl/anQakMFK3e91w7mf.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1405157785436712966/pu/vid/576x720/P_Hs_F8anPOhARYu.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1405157785436712966/pu/vid/320x400/pl_7drqwu2zGhUJQ.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1368733660346777600,
+							"id_str": "1368733660346777602",
+							"name": "Cozy Club",
+							"screen_name": "CosyCIub",
+							"location": "",
+							"description": "Cozy Poster\n\n- never read DMs 🤷‍♂️",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 21203,
+							"friends_count": 6359,
+							"listed_count": 106,
+							"created_at": "Mon Mar 08 01:22:17 +0000 2021",
+							"favourites_count": 7930,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 459,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1405145301426446343/lCJUsYXf_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1405145301426446343/lCJUsYXf_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1368733660346777602/1616244433",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 579707777,
+			"id_str": "579707777",
+			"name": "Thrill Tweeter",
+			"screen_name": "thrill_tweeter",
+			"location": "Melbourne Australia ",
+			"description": "Born disgruntled",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17482,
+			"friends_count": 10046,
+			"listed_count": 230,
+			"created_at": "Mon May 14 09:15:23 +0000 2012",
+			"favourites_count": 75686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397858061675425793/JGlfW99C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397858061675425793/JGlfW99C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/579707777/1622093818",
+			"profile_link_color": "FF0009",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10051,
+		"favorite_count": 73716,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you’ve already seen a dog lying across four pool noodles floating by today then move onto the next tweet. \n\nhttps://t.co/FFQebADPI9"
+	},
+	{
+		"created_at": "Sun Jun 20 17:31:44 +0000 2021",
+		"id": 1406666085412360200,
+		"id_str": "1406666085412360196",
+		"full_text": "I’d love to a short story by you on Kick’s warped and twisted way of thinking! https://t.co/WfqaNnJmQ3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WfqaNnJmQ3",
+					"expanded_url": "https://twitter.com/robinsloan/status/1406664522291572738",
+					"display_url": "twitter.com/robinsloan/sta…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8767,
+			"friends_count": 793,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64828,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1406664522291572700,
+		"quoted_status_id_str": "1406664522291572738",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WfqaNnJmQ3",
+			"expanded": "https://twitter.com/robinsloan/status/1406664522291572738",
+			"display": "twitter.com/robinsloan/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 20 17:25:31 +0000 2021",
+			"id": 1406664522291572700,
+			"id_str": "1406664522291572738",
+			"full_text": "goes without saying I love Kicks Condor's whole approach here; just pure fun, &amp; always inspires me to make MY website more fun, too: https://t.co/K3HDDYYYKZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				160
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/K3HDDYYYKZ",
+						"expanded_url": "https://www.kickscondor.com/",
+						"display_url": "kickscondor.com",
+						"indices": [
+							137,
+							160
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1406663619815739400,
+			"in_reply_to_status_id_str": "1406663619815739396",
+			"in_reply_to_user_id": 13919072,
+			"in_reply_to_user_id_str": "13919072",
+			"in_reply_to_screen_name": "robinsloan",
+			"user": {
+				"id": 13919072,
+				"id_str": "13919072",
+				"name": "Robin Sloan",
+				"screen_name": "robinsloan",
+				"location": "",
+				"description": "I write novels: https://t.co/FULsPJT2KT 📚 & make olive oil: https://t.co/Jkwf8OSn2K 🌳 How did this happen",
+				"url": "https://t.co/aobkk77zsM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aobkk77zsM",
+								"expanded_url": "https://society.robinsloan.com",
+								"display_url": "society.robinsloan.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/FULsPJT2KT",
+								"expanded_url": "http://robinsloan.com",
+								"display_url": "robinsloan.com",
+								"indices": [
+									16,
+									39
+								]
+							},
+							{
+								"url": "https://t.co/Jkwf8OSn2K",
+								"expanded_url": "http://fat.gold",
+								"display_url": "fat.gold",
+								"indices": [
+									60,
+									83
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 278397,
+				"friends_count": 108,
+				"listed_count": 2165,
+				"created_at": "Sun Feb 24 23:32:31 +0000 2008",
+				"favourites_count": 47,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 115,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EEEEEE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1375817724090142720/kvegpYFV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1375817724090142720/kvegpYFV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/13919072/1616709310",
+				"profile_link_color": "7A674C",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EEEEEE",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’d love to a short story by you on Kick’s warped and twisted way of thinking! https://t.co/WfqaNnJmQ3"
+	},
+	{
+		"created_at": "Sun Jun 20 17:28:59 +0000 2021",
+		"id": 1406662111472803800,
+		"id_str": "1406665396418121732",
+		"full_text": "UEFA tijdens                     UEFA tijdens \nPride Amsterdam                  EK https://t.co/4MgyWlTXcq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1406662100848681000,
+					"id_str": "1406662100848680964",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/E4V3ulgXIAQUoj7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4V3ulgXIAQUoj7.jpg",
+					"url": "https://t.co/4MgyWlTXcq",
+					"display_url": "pic.twitter.com/4MgyWlTXcq",
+					"expanded_url": "https://twitter.com/Bowidean/status/1406662111472803840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 729,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 729,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1406662100848681000,
+					"id_str": "1406662100848680964",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/E4V3ulgXIAQUoj7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4V3ulgXIAQUoj7.jpg",
+					"url": "https://t.co/4MgyWlTXcq",
+					"display_url": "pic.twitter.com/4MgyWlTXcq",
+					"expanded_url": "https://twitter.com/Bowidean/status/1406662111472803840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 441,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 729,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 729,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1406662100831846400,
+					"id_str": "1406662100831846400",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/E4V3ulcWQAAW7FL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4V3ulcWQAAW7FL.jpg",
+					"url": "https://t.co/4MgyWlTXcq",
+					"display_url": "pic.twitter.com/4MgyWlTXcq",
+					"expanded_url": "https://twitter.com/Bowidean/status/1406662111472803840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 846,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 479,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1596,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1022838690509451300,
+			"id_str": "1022838690509451264",
+			"name": "Bowi",
+			"screen_name": "Bowidean",
+			"location": "",
+			"description": "22 - Alkmaar, AZ supporter - tweets op persoonlijke titel",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6283,
+			"friends_count": 1499,
+			"listed_count": 10,
+			"created_at": "Fri Jul 27 13:38:42 +0000 2018",
+			"favourites_count": 80862,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1405929658458181635/VaZoxc7G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1405929658458181635/VaZoxc7G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1022838690509451264/1607609003",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 125,
+		"favorite_count": 382,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "UEFA tijdens                     UEFA tijdens \nPride Amsterdam                  EK https://t.co/4MgyWlTXcq"
+	},
+	{
+		"created_at": "Sun Jun 20 17:27:54 +0000 2021",
+		"id": 1406665121091534800,
+		"id_str": "1406665121091534848",
+		"full_text": "Voor veel lezers is de verborgen wereld van contentmoderatie juist dat, verborgen. Niet wetend dat zoveel extreme beelden het daglicht niet zien. Ik hoop dan ook dat ze leeslijst achterin ter harte nemen. Shit is real. https://t.co/ssS8mCqrZY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1406665115718541300,
+					"id_str": "1406665115718541312",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E4V6eExWYAAF8Zu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4V6eExWYAAF8Zu.jpg",
+					"url": "https://t.co/ssS8mCqrZY",
+					"display_url": "pic.twitter.com/ssS8mCqrZY",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1406665121091534848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1406665115718541300,
+					"id_str": "1406665115718541312",
+					"indices": [
+						219,
+						242
+					],
+					"media_url": "http://pbs.twimg.com/media/E4V6eExWYAAF8Zu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4V6eExWYAAF8Zu.jpg",
+					"url": "https://t.co/ssS8mCqrZY",
+					"display_url": "pic.twitter.com/ssS8mCqrZY",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1406665121091534848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1406664726357102600,
+		"in_reply_to_status_id_str": "1406664726357102594",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8767,
+			"friends_count": 793,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64828,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Voor veel lezers is de verborgen wereld van contentmoderatie juist dat, verborgen. Niet wetend dat zoveel extreme beelden het daglicht niet zien. Ik hoop dan ook dat ze leeslijst achterin ter harte nemen. Shit is real. https://t.co/ssS8mCqrZY"
+	},
+	{
+		"created_at": "Sun Jun 20 17:26:19 +0000 2021",
+		"id": 1406664726357102600,
+		"id_str": "1406664726357102594",
+		"full_text": "Hangmattend het boekenweekgeschenk gelezen. Het verhaal in de wereld van radicaliserende contentmoderators verbaast me inmiddels niet meer. De verhalende twist in de laatste 10 pagina’s wel. In Goodreads recensies lees ik juist het omgekeerde. https://t.co/6oRwHQRCbP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1406664720581632000,
+					"id_str": "1406664720581632004",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/E4V6HExXoAQIR7u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4V6HExXoAQIR7u.jpg",
+					"url": "https://t.co/6oRwHQRCbP",
+					"display_url": "pic.twitter.com/6oRwHQRCbP",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1406664726357102594/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1406664720581632000,
+					"id_str": "1406664720581632004",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/E4V6HExXoAQIR7u.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4V6HExXoAQIR7u.jpg",
+					"url": "https://t.co/6oRwHQRCbP",
+					"display_url": "pic.twitter.com/6oRwHQRCbP",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1406664726357102594/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8767,
+			"friends_count": 793,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64828,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Hangmattend het boekenweekgeschenk gelezen. Het verhaal in de wereld van radicaliserende contentmoderators verbaast me inmiddels niet meer. De verhalende twist in de laatste 10 pagina’s wel. In Goodreads recensies lees ik juist het omgekeerde. https://t.co/6oRwHQRCbP"
+	},
+	{
 		"created_at": "Sun Jun 20 10:04:19 +0000 2021",
 		"id": 1406553489480749000,
 		"id_str": "1406553489480749061",
