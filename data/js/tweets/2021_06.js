@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 20 06:36:09 +0000 2021",
+		"id": 1406501105501184000,
+		"id_str": "1406501105501184002",
+		"full_text": "Podcasts live opnemen via Twitter dus. Mooie stappen die Twitter zet. Hoe gaat het met Clubhouse in Nederland? Zit daar nog groei en beweging in? https://t.co/g3YEeK0HFv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g3YEeK0HFv",
+					"expanded_url": "https://twitter.com/twittermedia/status/1405262233299345413",
+					"display_url": "twitter.com/twittermedia/s…",
+					"indices": [
+						146,
+						169
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8767,
+			"friends_count": 794,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8031,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64820,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1405262233299345400,
+		"quoted_status_id_str": "1405262233299345413",
+		"quoted_status_permalink": {
+			"url": "https://t.co/g3YEeK0HFv",
+			"expanded": "https://twitter.com/twittermedia/status/1405262233299345413",
+			"display": "twitter.com/twittermedia/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 16 20:33:19 +0000 2021",
+			"id": 1405262233299345400,
+			"id_str": "1405262233299345413",
+			"full_text": "📂 Audio recordings 📂\n\nRecordings of Spaces (hosted in the past 30 days) are now available for Hosts. The feature can be found in the ‘data’ folder of your Data download.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				169
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1405262231609036800,
+			"in_reply_to_status_id_str": "1405262231609036801",
+			"in_reply_to_user_id": 726960710,
+			"in_reply_to_user_id_str": "726960710",
+			"in_reply_to_screen_name": "TwitterMedia",
+			"user": {
+				"id": 726960710,
+				"id_str": "726960710",
+				"name": "Twitter Media",
+				"screen_name": "TwitterMedia",
+				"location": "San Francisco, CA",
+				"description": "A resource for publishers to make the most of Twitter. Dive in here: https://t.co/uNl5CtIptT 👈",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/uNl5CtIptT",
+								"expanded_url": "https://media.twitter.com",
+								"display_url": "media.twitter.com",
+								"indices": [
+									69,
+									92
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 426451,
+				"friends_count": 55,
+				"listed_count": 672,
+				"created_at": "Mon Jul 30 22:12:58 +0000 2012",
+				"favourites_count": 532,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 778,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "D0D6D9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1354497739606740992/qZSjX5QH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354497739606740992/qZSjX5QH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/726960710/1611794161",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 119,
+			"favorite_count": 247,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Podcasts live opnemen via Twitter dus. Mooie stappen die Twitter zet. Hoe gaat het met Clubhouse in Nederland? Zit daar nog groei en beweging in? https://t.co/g3YEeK0HFv"
+	},
+	{
 		"created_at": "Sat Jun 19 18:29:54 +0000 2021",
 		"id": 1406318337336950800,
 		"id_str": "1406318337336950786",
