@@ -1,6 +1,859 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 21 06:15:29 +0000 2021",
+		"id": 1406858289804058600,
+		"id_str": "1406858289804058625",
+		"full_text": "🌟 Meer lezen? De nieuwe editie van OPEN staat online, abonneer je voor de volgende editie! https://t.co/SVQjj5zQjZ https://t.co/LgpGW45jJB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SVQjj5zQjZ",
+					"expanded_url": "https://diggingthedigital.com/open-s02e47---de-goudader-van-notities-en-nieuwsbrieven",
+					"display_url": "diggingthedigital.com/open-s02e47---…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1406858287522279400,
+					"id_str": "1406858287522279424",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/E4YqKJ0UcAAdscQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4YqKJ0UcAAdscQ.jpg",
+					"url": "https://t.co/LgpGW45jJB",
+					"display_url": "pic.twitter.com/LgpGW45jJB",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1406858289804058625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1003,
+							"h": 486,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 329,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1003,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1406858287522279400,
+					"id_str": "1406858287522279424",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/E4YqKJ0UcAAdscQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4YqKJ0UcAAdscQ.jpg",
+					"url": "https://t.co/LgpGW45jJB",
+					"display_url": "pic.twitter.com/LgpGW45jJB",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1406858289804058625/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1003,
+							"h": 486,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 329,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1003,
+							"h": 486,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://typefully.app/\" rel=\"nofollow\">Typefully</a>",
+		"in_reply_to_status_id": 1406858280765313000,
+		"in_reply_to_status_id_str": "1406858280765313025",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8765,
+			"friends_count": 793,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "🌟 Meer lezen? De nieuwe editie van OPEN staat online, abonneer je voor de volgende editie! https://t.co/SVQjj5zQjZ https://t.co/LgpGW45jJB"
+	},
+	{
+		"created_at": "Mon Jun 21 06:15:26 +0000 2021",
+		"id": 1406858280765313000,
+		"id_str": "1406858280765313025",
+		"full_text": "🧵 De Twitter thread met waardevolle nieuwsbrieftips is van Edwin Dorsey: https://t.co/zTTIf7hcr4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zTTIf7hcr4",
+					"expanded_url": "https://twitter.com/StockJabber/status/1401854520511143938",
+					"display_url": "twitter.com/StockJabber/st…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://typefully.app/\" rel=\"nofollow\">Typefully</a>",
+		"in_reply_to_status_id": 1406858279519592400,
+		"in_reply_to_status_id_str": "1406858279519592449",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8765,
+			"friends_count": 793,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1401854520511144000,
+		"quoted_status_id_str": "1401854520511143938",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zTTIf7hcr4",
+			"expanded": "https://twitter.com/StockJabber/status/1401854520511143938",
+			"display": "twitter.com/StockJabber/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 07 10:52:17 +0000 2021",
+			"id": 1401854520511144000,
+			"id_str": "1401854520511143938",
+			"full_text": "After one year of a free newsletter, and now six months into paid, this thing is for real: \n\n🙏 ~750 paid subscribers \n🎉 ~15,000 free subscribers \n🤯 ~$300k ARR (before fees) \n\nFor anyone thinking about launching a newsletter, some early learnings in the thread below👇 https://t.co/iur4TA374r",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				266
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1401851655654621200,
+						"id_str": "1401851655654621190",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/E3Rgp0sWQAYNx0W.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E3Rgp0sWQAYNx0W.jpg",
+						"url": "https://t.co/iur4TA374r",
+						"display_url": "pic.twitter.com/iur4TA374r",
+						"expanded_url": "https://twitter.com/StockJabber/status/1401854520511143938/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1401851655654621200,
+						"id_str": "1401851655654621190",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/E3Rgp0sWQAYNx0W.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E3Rgp0sWQAYNx0W.jpg",
+						"url": "https://t.co/iur4TA374r",
+						"display_url": "pic.twitter.com/iur4TA374r",
+						"expanded_url": "https://twitter.com/StockJabber/status/1401854520511143938/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 826309082772492300,
+				"id_str": "826309082772492288",
+				"name": "Edwin Dorsey",
+				"screen_name": "StockJabber",
+				"location": "NYC",
+				"description": "Exposing bad companies. Class of 2020. I write a weekly newsletter for Wall Street Bears: https://t.co/WMKq7OqX0Y Email: edwin@585research.com",
+				"url": "https://t.co/uUG6Jrflrf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uUG6Jrflrf",
+								"expanded_url": "https://thebearcave.substack.com/about",
+								"display_url": "thebearcave.substack.com/about",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/WMKq7OqX0Y",
+								"expanded_url": "http://thebearcave.substack.com",
+								"display_url": "thebearcave.substack.com",
+								"indices": [
+									90,
+									113
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 27874,
+				"friends_count": 853,
+				"listed_count": 541,
+				"created_at": "Tue Jan 31 06:00:12 +0000 2017",
+				"favourites_count": 17555,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3478,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1260839723758649344/-MhMpbhG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260839723758649344/-MhMpbhG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/826309082772492288/1588652824",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 177,
+			"favorite_count": 1857,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "🧵 De Twitter thread met waardevolle nieuwsbrieftips is van Edwin Dorsey: https://t.co/zTTIf7hcr4"
+	},
+	{
+		"created_at": "Mon Jun 21 06:15:26 +0000 2021",
+		"id": 1406858279519592400,
+		"id_str": "1406858279519592449",
+		"full_text": "⚡️ Daarnaast deel ik tips voor je nieuwsbrief-inschrijfpagina en de één-regel-pitch, met dank aan @SubstackInc.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SubstackInc",
+					"name": "Substack",
+					"id": 877295296828522500,
+					"id_str": "877295296828522496",
+					"indices": [
+						98,
+						110
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://typefully.app/\" rel=\"nofollow\">Typefully</a>",
+		"in_reply_to_status_id": 1406858278265446400,
+		"in_reply_to_status_id_str": "1406858278265446408",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8765,
+			"friends_count": 793,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "⚡️ Daarnaast deel ik tips voor je nieuwsbrief-inschrijfpagina en de één-regel-pitch, met dank aan @SubstackInc."
+	},
+	{
+		"created_at": "Mon Jun 21 06:15:26 +0000 2021",
+		"id": 1406858278265446400,
+		"id_str": "1406858278265446408",
+		"full_text": "🪴 Open protocollen als mail, OPML en RSS zijn naar mijn idee cruciaal om het web met zijn digitale tuinen nog beter te verbinden en te laten communiceren. Maar hóe te verbinden? Op dat pad zijn we nu.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://typefully.app/\" rel=\"nofollow\">Typefully</a>",
+		"in_reply_to_status_id": 1406858276910755800,
+		"in_reply_to_status_id_str": "1406858276910755843",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8765,
+			"friends_count": 793,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "🪴 Open protocollen als mail, OPML en RSS zijn naar mijn idee cruciaal om het web met zijn digitale tuinen nog beter te verbinden en te laten communiceren. Maar hóe te verbinden? Op dat pad zijn we nu."
+	},
+	{
+		"created_at": "Mon Jun 21 06:15:26 +0000 2021",
+		"id": 1406858276910755800,
+		"id_str": "1406858276910755843",
+		"full_text": "👉 Die goudader begint bij outliner software. Ik blijf dit interessant vinden, dankzij het werk van @davewiner en wat ik bijvoorbeeld lees bij @brandontoner. Het zet bij mij weer luikjes open naar de hyperconnected nieuwsbrief.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "davewiner",
+					"name": "Dave Winer",
+					"id": 3839,
+					"id_str": "3839",
+					"indices": [
+						99,
+						109
+					]
+				},
+				{
+					"screen_name": "brandontoner",
+					"name": "Brandon Toner 🌱",
+					"id": 1285380402694283300,
+					"id_str": "1285380402694283264",
+					"indices": [
+						142,
+						155
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://typefully.app/\" rel=\"nofollow\">Typefully</a>",
+		"in_reply_to_status_id": 1406858275543339000,
+		"in_reply_to_status_id_str": "1406858275543339011",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8765,
+			"friends_count": 793,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "👉 Die goudader begint bij outliner software. Ik blijf dit interessant vinden, dankzij het werk van @davewiner en wat ik bijvoorbeeld lees bij @brandontoner. Het zet bij mij weer luikjes open naar de hyperconnected nieuwsbrief."
+	},
+	{
 		"created_at": "Sun Jun 20 18:15:06 +0000 2021",
 		"id": 1406133063445139500,
 		"id_str": "1406677000958382082",
@@ -135,7 +988,7 @@ Grailbird.data.tweets_2021_06 =
 							"name": "Cozy Club",
 							"screen_name": "CosyCIub",
 							"location": "",
-							"description": "Cozy Poster\n\n- never read DMs 🤷‍♂️",
+							"description": "Cozy Poster\n\n- never read DMs 🤷♂️",
 							"url": null,
 							"entities": {
 								"description": {
