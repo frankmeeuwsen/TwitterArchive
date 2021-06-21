@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 21 17:15:45 +0000 2021",
+		"id": 1407024453691793400,
+		"id_str": "1407024453691793412",
+		"full_text": "You mean from hustle to a scam. Branding is not dropshipped water with outsourced labelling and boxing. https://t.co/tRV20AiwSW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tRV20AiwSW",
+					"expanded_url": "https://twitter.com/landforce/status/1407011186126770179",
+					"display_url": "twitter.com/landforce/stat…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8765,
+			"friends_count": 793,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8035,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64835,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1407011186126770200,
+		"quoted_status_id_str": "1407011186126770179",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tRV20AiwSW",
+			"expanded": "https://twitter.com/landforce/status/1407011186126770179",
+			"display": "twitter.com/landforce/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 21 16:23:02 +0000 2021",
+			"id": 1407011186126770200,
+			"id_str": "1407011186126770179",
+			"full_text": "A friend of mine is buying generic water bottles on Alibaba for $1.98 and selling em on Etsy for $14.99. \n\n509 sales!\n\n- Assume &lt;$5ea for shipping\n- Net around $7ea after Etsy fees \n\nThat’s over $3500 profit.\n\nLemme show you how to take this from a hustle to a brand though: https://t.co/Go9hrt0JUZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1407011176723234800,
+						"id_str": "1407011176723234820",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/E4a1NeeXwAQ_Sgz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4a1NeeXwAQ_Sgz.jpg",
+						"url": "https://t.co/Go9hrt0JUZ",
+						"display_url": "pic.twitter.com/Go9hrt0JUZ",
+						"expanded_url": "https://twitter.com/landforce/status/1407011186126770179/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1440,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1407011176723234800,
+						"id_str": "1407011176723234820",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/E4a1NeeXwAQ_Sgz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4a1NeeXwAQ_Sgz.jpg",
+						"url": "https://t.co/Go9hrt0JUZ",
+						"display_url": "pic.twitter.com/Go9hrt0JUZ",
+						"expanded_url": "https://twitter.com/landforce/status/1407011186126770179/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1440,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1407011176156995600,
+						"id_str": "1407011176156995589",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/E4a1NcXXoAUJncO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4a1NcXXoAUJncO.jpg",
+						"url": "https://t.co/Go9hrt0JUZ",
+						"display_url": "pic.twitter.com/Go9hrt0JUZ",
+						"expanded_url": "https://twitter.com/landforce/status/1407011186126770179/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1440,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://hypefury.com\" rel=\"nofollow\">Hypefury</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2534227495,
+				"id_str": "2534227495",
+				"name": "Colin Landforce",
+				"screen_name": "landforce",
+				"location": "Portland, OR",
+				"description": "Entrepreneur + girl dad. $0 to $70M in cannabis CPG @UnrivaledBrands. Follow me for tweets about building businesses and cannabis brands. Builders build! 🛠️",
+				"url": "https://t.co/eXgG5BXISN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eXgG5BXISN",
+								"expanded_url": "http://landforce.co",
+								"display_url": "landforce.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14797,
+				"friends_count": 895,
+				"listed_count": 112,
+				"created_at": "Fri May 30 05:18:08 +0000 2014",
+				"favourites_count": 33136,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16080,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1343030969712840705/AjKy-pxa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343030969712840705/AjKy-pxa_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2534227495/1614718784",
+				"profile_link_color": "B22344",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 50,
+			"favorite_count": 361,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You mean from hustle to a scam. Branding is not dropshipped water with outsourced labelling and boxing. https://t.co/tRV20AiwSW"
+	},
+	{
 		"created_at": "Mon Jun 21 06:15:29 +0000 2021",
 		"id": 1406858289804058600,
 		"id_str": "1406858289804058625",
