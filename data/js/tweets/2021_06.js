@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 22 12:23:16 +0000 2021",
+		"id": 1407014829936709600,
+		"id_str": "1407313234873442309",
+		"full_text": "Eddie and Layne and Chris https://t.co/lT5ntNkk1b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1407014827650805800,
+					"id_str": "1407014827650805761",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/E4a4h_PVcAEhnlF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4a4h_PVcAEhnlF.jpg",
+					"url": "https://t.co/lT5ntNkk1b",
+					"display_url": "pic.twitter.com/lT5ntNkk1b",
+					"expanded_url": "https://twitter.com/CorbinReiff/status/1407014829936709632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 499,
+							"h": 281,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 499,
+							"h": 281,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 499,
+							"h": 281,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407014827650805800,
+					"id_str": "1407014827650805761",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/E4a4h_PVcAEhnlF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4a4h_PVcAEhnlF.jpg",
+					"url": "https://t.co/lT5ntNkk1b",
+					"display_url": "pic.twitter.com/lT5ntNkk1b",
+					"expanded_url": "https://twitter.com/CorbinReiff/status/1407014829936709632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 499,
+							"h": 281,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 499,
+							"h": 281,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 499,
+							"h": 281,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 59696187,
+			"id_str": "59696187",
+			"name": "Corbin Reiff",
+			"screen_name": "CorbinReiff",
+			"location": "Seattle, WA",
+			"description": "Writer: @Billboard, @RollingStone, @Uproxx Author: TOTAL F*CKING GODHEAD: The Biography Of Chris Cornell (Out Now!) corbinreiff@gmail.com",
+			"url": "https://t.co/dWfOe5boho",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dWfOe5boho",
+							"expanded_url": "https://sonicbreadcrumbs.substack.com",
+							"display_url": "sonicbreadcrumbs.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11981,
+			"friends_count": 951,
+			"listed_count": 160,
+			"created_at": "Fri Jul 24 05:05:06 +0000 2009",
+			"favourites_count": 84871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "BADFCD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/962102485287690241/ruDrHFDS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/962102485287690241/ruDrHFDS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/59696187/1588958521",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 199,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Eddie and Layne and Chris https://t.co/lT5ntNkk1b"
+	},
+	{
 		"created_at": "Tue Jun 22 04:47:57 +0000 2021",
 		"id": 1407198651148083200,
 		"id_str": "1407198651148083200",
