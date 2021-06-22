@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 22 15:06:33 +0000 2021",
+		"id": 1407354328524988400,
+		"id_str": "1407354328524988431",
+		"full_text": "Oef. Tony Hawk op de Switch.... Dat worden lange avonden! https://t.co/sTU0iCagdk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sTU0iCagdk",
+					"expanded_url": "https://twitter.com/NintendoNL/status/1407352727542370315",
+					"display_url": "twitter.com/NintendoNL/sta…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8767,
+			"friends_count": 793,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8038,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64841,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1407352727542370300,
+		"quoted_status_id_str": "1407352727542370315",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sTU0iCagdk",
+			"expanded": "https://twitter.com/NintendoNL/status/1407352727542370315",
+			"display": "twitter.com/NintendoNL/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 22 15:00:12 +0000 2021",
+			"id": 1407352727542370300,
+			"id_str": "1407352727542370315",
+			"full_text": "Werp een blik op enkele games die in 2021 en daarna worden uitgebracht voor de #NintendoSwitch! Welke ga jij allemaal spelen? https://t.co/dS9Adf2d54",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				125
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NintendoSwitch",
+						"indices": [
+							79,
+							94
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1407352711713116200,
+						"id_str": "1407352711713116161",
+						"indices": [
+							126,
+							149
+						],
+						"media_url": "http://pbs.twimg.com/media/E4fr1bdX0AEwLFU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4fr1bdX0AEwLFU.jpg",
+						"url": "https://t.co/dS9Adf2d54",
+						"display_url": "pic.twitter.com/dS9Adf2d54",
+						"expanded_url": "https://twitter.com/NintendoNL/status/1407352727542370315/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 359,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1081,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 634,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1407352711713116200,
+						"id_str": "1407352711713116161",
+						"indices": [
+							126,
+							149
+						],
+						"media_url": "http://pbs.twimg.com/media/E4fr1bdX0AEwLFU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4fr1bdX0AEwLFU.jpg",
+						"url": "https://t.co/dS9Adf2d54",
+						"display_url": "pic.twitter.com/dS9Adf2d54",
+						"expanded_url": "https://twitter.com/NintendoNL/status/1407352727542370315/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 359,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1081,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 634,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.salesforce.com\" rel=\"nofollow\">Salesforce - Social Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 491489202,
+				"id_str": "491489202",
+				"name": "Nintendo Nederland",
+				"screen_name": "NintendoNL",
+				"location": "",
+				"description": "Welkom op de Nederlandse Twitter-pagina van Nintendo! Helaas kunnen we geen vragen beantwoorden, maar we luisteren!\n\nPrivacybeleid: https://t.co/4aZrw2Aaze",
+				"url": "https://t.co/bTOdfVB0Bw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bTOdfVB0Bw",
+								"expanded_url": "http://www.nintendo.nl",
+								"display_url": "nintendo.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/4aZrw2Aaze",
+								"expanded_url": "http://bit.ly/2VFYLd1",
+								"display_url": "bit.ly/2VFYLd1",
+								"indices": [
+									132,
+									155
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 22225,
+				"friends_count": 13,
+				"listed_count": 148,
+				"created_at": "Mon Feb 13 17:57:20 +0000 2012",
+				"favourites_count": 36,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11364,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1375353106993717254/3QvfJ4NJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1375353106993717254/3QvfJ4NJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/491489202/1623404996",
+				"profile_link_color": "2092D1",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Oef. Tony Hawk op de Switch.... Dat worden lange avonden! https://t.co/sTU0iCagdk"
+	},
+	{
 		"created_at": "Tue Jun 22 13:37:28 +0000 2021",
 		"id": 1407331909856792600,
 		"id_str": "1407331909856792576",
