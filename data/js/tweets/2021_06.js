@@ -1,6 +1,332 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 24 21:32:56 +0000 2021",
+		"id": 1408176339698569200,
+		"id_str": "1408176339698569223",
+		"full_text": "More music. Less merch. https://t.co/Z2LAm8wsgB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z2LAm8wsgB",
+					"expanded_url": "https://twitter.com/pearljam/status/1408175599462453249",
+					"display_url": "twitter.com/pearljam/statu…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8769,
+			"friends_count": 792,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8041,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64847,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1408175599462453200,
+		"quoted_status_id_str": "1408175599462453249",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Z2LAm8wsgB",
+			"expanded": "https://twitter.com/pearljam/status/1408175599462453249",
+			"display": "twitter.com/pearljam/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 24 21:30:00 +0000 2021",
+			"id": 1408175599462453200,
+			"id_str": "1408175599462453249",
+			"full_text": "The Pearl Jam bottle and towel bundle bidding closes tomorrow. Proceeds benefit the #VitalogyFoundation: https://t.co/3xlHTb6Wup https://t.co/cNHihs4Tyy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				128
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "VitalogyFoundation",
+						"indices": [
+							84,
+							103
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3xlHTb6Wup",
+						"expanded_url": "http://pj.lnk.to/AuctionsTP",
+						"display_url": "pj.lnk.to/AuctionsTP",
+						"indices": [
+							105,
+							128
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1408155311068831700,
+						"id_str": "1408155311068831752",
+						"indices": [
+							129,
+							152
+						],
+						"media_url": "http://pbs.twimg.com/media/E4rFy3DWYAgIqtO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4rFy3DWYAgIqtO.jpg",
+						"url": "https://t.co/cNHihs4Tyy",
+						"display_url": "pic.twitter.com/cNHihs4Tyy",
+						"expanded_url": "https://twitter.com/PearlJam/status/1408175599462453249/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 900,
+								"h": 899,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 899,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 679,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1408155311068831700,
+						"id_str": "1408155311068831752",
+						"indices": [
+							129,
+							152
+						],
+						"media_url": "http://pbs.twimg.com/media/E4rFy3DWYAgIqtO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4rFy3DWYAgIqtO.jpg",
+						"url": "https://t.co/cNHihs4Tyy",
+						"display_url": "pic.twitter.com/cNHihs4Tyy",
+						"expanded_url": "https://twitter.com/PearlJam/status/1408175599462453249/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 900,
+								"h": 899,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 899,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 679,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15155074,
+				"id_str": "15155074",
+				"name": "Pearl Jam",
+				"screen_name": "PearlJam",
+				"location": "Seattle, WA",
+				"description": "Gigaton - Out Now. Listen to the new album: https://t.co/7zBEnR3rMU",
+				"url": "https://t.co/J95aoJ5FKF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/J95aoJ5FKF",
+								"expanded_url": "http://www.PearlJam.com",
+								"display_url": "PearlJam.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/7zBEnR3rMU",
+								"expanded_url": "http://pearljam.lnk.to/gigatonTw",
+								"display_url": "pearljam.lnk.to/gigatonTw",
+								"indices": [
+									44,
+									67
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3513827,
+				"friends_count": 911,
+				"listed_count": 17077,
+				"created_at": "Wed Jun 18 06:59:14 +0000 2008",
+				"favourites_count": 4207,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 8929,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1216784176659279874/NCaJxxiE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216784176659279874/NCaJxxiE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15155074/1585282596",
+				"profile_link_color": "A17F59",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 81,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "More music. Less merch. https://t.co/Z2LAm8wsgB"
+	},
+	{
 		"created_at": "Thu Jun 24 20:21:02 +0000 2021",
 		"id": 1408158244120453000,
 		"id_str": "1408158244120453122",
