@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 28 20:06:21 +0000 2021",
+		"id": 1409604100027826200,
+		"id_str": "1409604100027826183",
+		"full_text": "En zo zit ik op maandagavond ineens weer naar die retro tunes van The Midnight te luisteren. Zo lekker. Sax-solo's, synth-fliebeltjes, In The Air drums, alles. https://t.co/eaEl2Na1wM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eaEl2Na1wM",
+					"expanded_url": "https://twitter.com/TheMidnightLA/status/1409538032164773889",
+					"display_url": "twitter.com/TheMidnightLA/…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8768,
+			"friends_count": 793,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8061,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64859,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1409538032164774000,
+		"quoted_status_id_str": "1409538032164773889",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eaEl2Na1wM",
+			"expanded": "https://twitter.com/TheMidnightLA/status/1409538032164773889",
+			"display": "twitter.com/TheMidnightLA/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 28 15:43:49 +0000 2021",
+			"id": 1409538032164774000,
+			"id_str": "1409538032164773889",
+			"full_text": "You were just some spell I was under… https://t.co/akhjgnrz6K",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				37
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1409538022673064000,
+						"id_str": "1409538022673063940",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/E4-vXRLVoAQOEu1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4-vXRLVoAQOEu1.jpg",
+						"url": "https://t.co/akhjgnrz6K",
+						"display_url": "pic.twitter.com/akhjgnrz6K",
+						"expanded_url": "https://twitter.com/TheMidnightLA/status/1409538032164773889/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 1545,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 795,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 451,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1409538022673064000,
+						"id_str": "1409538022673063940",
+						"indices": [
+							38,
+							61
+						],
+						"media_url": "http://pbs.twimg.com/media/E4-vXRLVoAQOEu1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4-vXRLVoAQOEu1.jpg",
+						"url": "https://t.co/akhjgnrz6K",
+						"display_url": "pic.twitter.com/akhjgnrz6K",
+						"expanded_url": "https://twitter.com/TheMidnightLA/status/1409538032164773889/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 1545,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 795,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 451,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2413186568,
+				"id_str": "2413186568",
+				"name": "ｔｈｅ　ｍｉｄｎｉｇｈｔ",
+				"screen_name": "TheMidnightLA",
+				"location": "－ｍｏｎｏ　ｎｏ　ａｗａｒｅ－",
+				"description": "MONSTERS out now.",
+				"url": "https://t.co/S9m3V0z1dh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/S9m3V0z1dh",
+								"expanded_url": "https://linktr.ee/themidnightofficial",
+								"display_url": "linktr.ee/themidnightoff…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 40668,
+				"friends_count": 77,
+				"listed_count": 209,
+				"created_at": "Wed Mar 26 21:10:16 +0000 2014",
+				"favourites_count": 16217,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4733,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1387042904057602059/3m2Gta9D_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387042904057602059/3m2Gta9D_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2413186568/1588781105",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 33,
+			"favorite_count": 484,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "En zo zit ik op maandagavond ineens weer naar die retro tunes van The Midnight te luisteren. Zo lekker. Sax-solo's, synth-fliebeltjes, In The Air drums, alles. https://t.co/eaEl2Na1wM"
+	},
+	{
 		"created_at": "Mon Jun 28 13:03:45 +0000 2021",
 		"id": 1409497749867876400,
 		"id_str": "1409497749867876361",
