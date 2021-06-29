@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 29 04:48:47 +0000 2021",
+		"id": 1409652448076046300,
+		"id_str": "1409735576576741383",
+		"full_text": "\"Sublime Text\" is a word processor that plays Sublime's \"What I Got\" whenever you type.\n\nStop typing, it stops playing: https://t.co/4JsaOHe5Av\n\nHilariously fun @glitch project (via @boingboing) https://t.co/74GrfrXsM7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "glitch",
+					"name": "🎏Glitch",
+					"id": 795717775989833700,
+					"id_str": "795717775989833729",
+					"indices": [
+						161,
+						168
+					]
+				},
+				{
+					"screen_name": "BoingBoing",
+					"name": "Boing Boing",
+					"id": 5971922,
+					"id_str": "5971922",
+					"indices": [
+						182,
+						193
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4JsaOHe5Av",
+					"expanded_url": "https://what-i-got.glitch.me",
+					"display_url": "what-i-got.glitch.me",
+					"indices": [
+						120,
+						143
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1409652406061777000,
+					"id_str": "1409652406061776902",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/E5AXZQgWQAYKbIk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5AXZQgWQAYKbIk.jpg",
+					"url": "https://t.co/74GrfrXsM7",
+					"display_url": "pic.twitter.com/74GrfrXsM7",
+					"expanded_url": "https://twitter.com/pomeranian99/status/1409652448076046336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1250,
+							"h": 1010,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 549,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 970,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409652406061777000,
+					"id_str": "1409652406061776902",
+					"indices": [
+						195,
+						218
+					],
+					"media_url": "http://pbs.twimg.com/media/E5AXZQgWQAYKbIk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5AXZQgWQAYKbIk.jpg",
+					"url": "https://t.co/74GrfrXsM7",
+					"display_url": "pic.twitter.com/74GrfrXsM7",
+					"expanded_url": "https://twitter.com/pomeranian99/status/1409652448076046336/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1250,
+							"h": 1010,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 549,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 970,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 661403,
+			"id_str": "661403",
+			"name": "Clive Thompson",
+			"screen_name": "pomeranian99",
+			"location": "New York, NY",
+			"description": "Author of \"Coders: The Making of a New Tribe and the Remaking of the World\", 📖 https://t.co/8nNlvetv0r Also: NYT mag, Wired, Smithsonian, Mother Jones 🇺🇸 🇨🇦",
+			"url": "https://t.co/XCtGwciYXe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XCtGwciYXe",
+							"expanded_url": "http://www.clivethompson.net",
+							"display_url": "clivethompson.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8nNlvetv0r",
+							"expanded_url": "http://amzn.to/2VX1qxC",
+							"display_url": "amzn.to/2VX1qxC",
+							"indices": [
+								79,
+								102
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 39566,
+			"friends_count": 2595,
+			"listed_count": 1981,
+			"created_at": "Thu Jan 18 20:06:49 +0000 2007",
+			"favourites_count": 61406,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 63930,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000407595163/163d76384315dfd651daa13e44b724e4_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000407595163/163d76384315dfd651daa13e44b724e4_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/661403/1547568517",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 135,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Sublime Text\" is a word processor that plays Sublime's \"What I Got\" whenever you type.\n\nStop typing, it stops playing: https://t.co/4JsaOHe5Av\n\nHilariously fun @glitch project (via @boingboing) https://t.co/74GrfrXsM7"
+	},
+	{
 		"created_at": "Mon Jun 28 20:06:21 +0000 2021",
 		"id": 1409604100027826200,
 		"id_str": "1409604100027826183",
