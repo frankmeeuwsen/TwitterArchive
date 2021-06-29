@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 29 07:00:41 +0000 2021",
+		"id": 1409758541615976400,
+		"id_str": "1409768767484219392",
+		"full_text": "Waar komt de vernieuwde belangstelling voor nieuwsbrieven vandaan? En hoe kun je e-mail slim inzetten voor je merk? Hierover praat @frankmeeuwsen van Kaliber Studio bij de podcast van @Bladendokter! Check: https://t.co/RsJ8bfHcz7 #lekkerluisteren #podcast #nieuwsbrieven #trends https://t.co/1s8tj5A1ri",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lekkerluisteren",
+					"indices": [
+						230,
+						246
+					]
+				},
+				{
+					"text": "podcast",
+					"indices": [
+						247,
+						255
+					]
+				},
+				{
+					"text": "nieuwsbrieven",
+					"indices": [
+						256,
+						270
+					]
+				},
+				{
+					"text": "trends",
+					"indices": [
+						271,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frankmeeuwsen",
+					"name": "Frank Meeuwsen",
+					"id": 816203,
+					"id_str": "816203",
+					"indices": [
+						131,
+						145
+					]
+				},
+				{
+					"screen_name": "Bladendokter",
+					"name": "Carolien Vader",
+					"id": 21235240,
+					"id_str": "21235240",
+					"indices": [
+						184,
+						197
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RsJ8bfHcz7",
+					"expanded_url": "https://www.bladendokter.nl/podcast-over-nieuwsbrieven/",
+					"display_url": "bladendokter.nl/podcast-over-n…",
+					"indices": [
+						206,
+						229
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1409758539413954600,
+					"id_str": "1409758539413954565",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/E5B37CDXoAUf8Pt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5B37CDXoAUf8Pt.jpg",
+					"url": "https://t.co/1s8tj5A1ri",
+					"display_url": "pic.twitter.com/1s8tj5A1ri",
+					"expanded_url": "https://twitter.com/Kaliberinteract/status/1409758541615976448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409758539413954600,
+					"id_str": "1409758539413954565",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/E5B37CDXoAUf8Pt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5B37CDXoAUf8Pt.jpg",
+					"url": "https://t.co/1s8tj5A1ri",
+					"display_url": "pic.twitter.com/1s8tj5A1ri",
+					"expanded_url": "https://twitter.com/Kaliberinteract/status/1409758541615976448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10932162,
+			"id_str": "10932162",
+			"name": "Kaliber",
+			"screen_name": "Kaliberinteract",
+			"location": "Utrecht",
+			"description": "Kaliber. Digitaal bureau dat strategie, creativiteit en technologie combineert om mensen te activeren.",
+			"url": "http://t.co/0uBteIkGBt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/0uBteIkGBt",
+							"expanded_url": "http://www.kaliber.net",
+							"display_url": "kaliber.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 904,
+			"listed_count": 110,
+			"created_at": "Fri Dec 07 10:50:24 +0000 2007",
+			"favourites_count": 405,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409565370541871109/c4cK-EHv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409565370541871109/c4cK-EHv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10932162/1612193476",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Waar komt de vernieuwde belangstelling voor nieuwsbrieven vandaan? En hoe kun je e-mail slim inzetten voor je merk? Hierover praat @frankmeeuwsen van Kaliber Studio bij de podcast van @Bladendokter! Check: https://t.co/RsJ8bfHcz7 #lekkerluisteren #podcast #nieuwsbrieven #trends https://t.co/1s8tj5A1ri"
+	},
+	{
 		"created_at": "Tue Jun 29 04:48:47 +0000 2021",
 		"id": 1409652448076046300,
 		"id_str": "1409735576576741383",
