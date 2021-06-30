@@ -1,6 +1,634 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 30 20:02:48 +0000 2021",
+		"id": 1410267980194140200,
+		"id_str": "1410327982170951686",
+		"full_text": "On this day in 1992, the Singles soundtrack was released. https://t.co/Rcd15snTMc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1410267969611911200,
+					"id_str": "1410267969611911171",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/E5JHPxbUUAMzDhM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5JHPxbUUAMzDhM.jpg",
+					"url": "https://t.co/Rcd15snTMc",
+					"display_url": "pic.twitter.com/Rcd15snTMc",
+					"expanded_url": "https://twitter.com/nwpassage1/status/1410267980194140163/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 450,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 450,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 450,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410267969611911200,
+					"id_str": "1410267969611911171",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/E5JHPxbUUAMzDhM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5JHPxbUUAMzDhM.jpg",
+					"url": "https://t.co/Rcd15snTMc",
+					"display_url": "pic.twitter.com/Rcd15snTMc",
+					"expanded_url": "https://twitter.com/nwpassage1/status/1410267980194140163/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 450,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 450,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 450,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120521320,
+			"id_str": "120521320",
+			"name": "Northwest Passage",
+			"screen_name": "nwpassage1",
+			"location": "",
+			"description": "An exploration of the music scene centered around Seattle in the 80s and 90s. #grunge, #riotgrrrl, #indie and beyond. Tweets by @substate.",
+			"url": "https://t.co/TQgwW59oC0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TQgwW59oC0",
+							"expanded_url": "http://revolutioncomeandgone.com",
+							"display_url": "revolutioncomeandgone.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4642,
+			"friends_count": 233,
+			"listed_count": 98,
+			"created_at": "Sat Mar 06 17:55:48 +0000 2010",
+			"favourites_count": 432,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/879439833285804032/jCAkbts5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/879439833285804032/jCAkbts5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120521320/1419197923",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 152,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On this day in 1992, the Singles soundtrack was released. https://t.co/Rcd15snTMc"
+	},
+	{
+		"created_at": "Wed Jun 30 20:00:05 +0000 2021",
+		"id": 1410327301666001000,
+		"id_str": "1410327301666000900",
+		"full_text": "@MartinStiemer Kaliber Karaoke, pingpong-gifjes, alles.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MartinStiemer",
+					"name": "Martin Stiemer",
+					"id": 29224574,
+					"id_str": "29224574",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1410327110565122000,
+		"in_reply_to_status_id_str": "1410327110565122055",
+		"in_reply_to_user_id": 29224574,
+		"in_reply_to_user_id_str": "29224574",
+		"in_reply_to_screen_name": "MartinStiemer",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8768,
+			"friends_count": 796,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8076,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "no",
+		"text": "@MartinStiemer Kaliber Karaoke, pingpong-gifjes, alles."
+	},
+	{
+		"created_at": "Wed Jun 30 19:58:43 +0000 2021",
+		"id": 1410326955875094500,
+		"id_str": "1410326955875094530",
+		"full_text": "@MartinStiemer Echt hoor, een paar bakkies en wat bruin fruit en heb de snik in Zij Gelooft In Mij zo te pakken.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MartinStiemer",
+					"name": "Martin Stiemer",
+					"id": 29224574,
+					"id_str": "29224574",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1410326099985318000,
+		"in_reply_to_status_id_str": "1410326099985317890",
+		"in_reply_to_user_id": 29224574,
+		"in_reply_to_user_id_str": "29224574",
+		"in_reply_to_screen_name": "MartinStiemer",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8768,
+			"friends_count": 796,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8076,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@MartinStiemer Echt hoor, een paar bakkies en wat bruin fruit en heb de snik in Zij Gelooft In Mij zo te pakken."
+	},
+	{
+		"created_at": "Wed Jun 30 19:57:37 +0000 2021",
+		"id": 1410326679814353000,
+		"id_str": "1410326679814352898",
+		"full_text": "Maar nee joh niks aan de hand. De zon en het weer doen al duizenden jaren gekke dingen en Hiemstra en het KNMI  worden betaald door de polletiek. Komt allemaal goed. \n\nNou… zie het eens op een rij 👇 https://t.co/oIjv3sSBN9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oIjv3sSBN9",
+					"expanded_url": "https://twitter.com/brookejarvis/status/1409564494410383367",
+					"display_url": "twitter.com/brookejarvis/s…",
+					"indices": [
+						199,
+						222
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8768,
+			"friends_count": 796,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8076,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1409564494410383400,
+		"quoted_status_id_str": "1409564494410383367",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oIjv3sSBN9",
+			"expanded": "https://twitter.com/brookejarvis/status/1409564494410383367",
+			"display": "twitter.com/brookejarvis/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 28 17:28:58 +0000 2021",
+			"id": 1409564494410383400,
+			"id_str": "1409564494410383367",
+			"full_text": "Big day for noticing how much infrastructure we've built for a world we no longer live in.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				90
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 47349506,
+				"id_str": "47349506",
+				"name": "Brooke Jarvis",
+				"screen_name": "brookejarvis",
+				"location": "Tennessean on the Puget Sound.",
+				"description": "Reader, magaziner. I'm a contributing writer for @NYTmag, and a writer for @newyorker, @wired and elsewhere.",
+				"url": "https://t.co/shGTd7ZteL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/shGTd7ZteL",
+								"expanded_url": "http://brookejarvis.net",
+								"display_url": "brookejarvis.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12142,
+				"friends_count": 2002,
+				"listed_count": 525,
+				"created_at": "Mon Jun 15 14:39:35 +0000 2009",
+				"favourites_count": 10088,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 25759,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/891877637211037697/7YMAewur_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/891877637211037697/7YMAewur_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/47349506/1460873955",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1309,
+			"favorite_count": 5468,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Maar nee joh niks aan de hand. De zon en het weer doen al duizenden jaren gekke dingen en Hiemstra en het KNMI  worden betaald door de polletiek. Komt allemaal goed. \n\nNou… zie het eens op een rij 👇 https://t.co/oIjv3sSBN9"
+	},
+	{
 		"created_at": "Wed Jun 30 18:42:41 +0000 2021",
 		"id": 1410307821137285000,
 		"id_str": "1410307821137285124",
