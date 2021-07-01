@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 01 14:11:10 +0000 2021",
+		"id": 1410601601320898600,
+		"id_str": "1410601878950354964",
+		"full_text": "Grunge web design style in the 1990s\nhttps://t.co/KKhljuXsib\n#WebDesignHistory https://t.co/f8cUi8xccE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WebDesignHistory",
+					"indices": [
+						61,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KKhljuXsib",
+					"expanded_url": "https://www.webdesignmuseum.org/gallery/year/1996,1997,1998,1999/style/Grunge/open/year",
+					"display_url": "webdesignmuseum.org/gallery/year/1…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1410601527215984600,
+					"id_str": "1410601527215984649",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/E5N2nYVVEAk9YRa.png",
+					"media_url_https": "https://pbs.twimg.com/media/E5N2nYVVEAk9YRa.png",
+					"url": "https://t.co/f8cUi8xccE",
+					"display_url": "pic.twitter.com/f8cUi8xccE",
+					"expanded_url": "https://twitter.com/WebDesignMuseum/status/1410601601320898561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 830,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 523,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 830,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410601527215984600,
+					"id_str": "1410601527215984649",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/E5N2nYVVEAk9YRa.png",
+					"media_url_https": "https://pbs.twimg.com/media/E5N2nYVVEAk9YRa.png",
+					"url": "https://t.co/f8cUi8xccE",
+					"display_url": "pic.twitter.com/f8cUi8xccE",
+					"expanded_url": "https://twitter.com/WebDesignMuseum/status/1410601601320898561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 830,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 523,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 830,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1410601527216021500,
+					"id_str": "1410601527216021511",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/E5N2nYVVoAcqLXG.png",
+					"media_url_https": "https://pbs.twimg.com/media/E5N2nYVVoAcqLXG.png",
+					"url": "https://t.co/f8cUi8xccE",
+					"display_url": "pic.twitter.com/f8cUi8xccE",
+					"expanded_url": "https://twitter.com/WebDesignMuseum/status/1410601601320898561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 830,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 830,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1410601527224410000,
+					"id_str": "1410601527224410118",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/E5N2nYXVoAY4I3s.png",
+					"media_url_https": "https://pbs.twimg.com/media/E5N2nYXVoAY4I3s.png",
+					"url": "https://t.co/f8cUi8xccE",
+					"display_url": "pic.twitter.com/f8cUi8xccE",
+					"expanded_url": "https://twitter.com/WebDesignMuseum/status/1410601601320898561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 627,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 830,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 830,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1410601527228584000,
+					"id_str": "1410601527228583937",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/E5N2nYYVUAEOzVK.png",
+					"media_url_https": "https://pbs.twimg.com/media/E5N2nYYVUAEOzVK.png",
+					"url": "https://t.co/f8cUi8xccE",
+					"display_url": "pic.twitter.com/f8cUi8xccE",
+					"expanded_url": "https://twitter.com/WebDesignMuseum/status/1410601601320898561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 830,
+							"h": 820,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 672,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 830,
+							"h": 820,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 738019344047845400,
+			"id_str": "738019344047845377",
+			"name": "Web Design Museum",
+			"screen_name": "WebDesignMuseum",
+			"location": "",
+			"description": "Web Design Museum exhibits over 2,000 carefully selected websites that show web design trends between the years 1991 and 2006.",
+			"url": "https://t.co/vyFBftWgRB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vyFBftWgRB",
+							"expanded_url": "http://www.webdesignmuseum.org",
+							"display_url": "webdesignmuseum.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8671,
+			"friends_count": 20,
+			"listed_count": 130,
+			"created_at": "Wed Jun 01 14:48:18 +0000 2016",
+			"favourites_count": 19815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2402,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/860928105975885828/8XLNUZIa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/860928105975885828/8XLNUZIa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/738019344047845377/1541958150",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Grunge web design style in the 1990s\nhttps://t.co/KKhljuXsib\n#WebDesignHistory https://t.co/f8cUi8xccE"
+	},
+	{
 		"created_at": "Thu Jul 01 10:17:49 +0000 2021",
 		"id": 1410543156773466000,
 		"id_str": "1410543156773466119",
