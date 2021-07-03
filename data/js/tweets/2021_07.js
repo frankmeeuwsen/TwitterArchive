@@ -1,6 +1,309 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 03 08:14:11 +0000 2021",
+		"id": 1411236818410950700,
+		"id_str": "1411236818410950659",
+		"full_text": "@msteeman @AlexanderNL Brickit is amazing. Het geeft leuke ideetjes en laat zelfs zien waar in je scan de stukjes kunnen liggen. De scan is niet 100% accuraat maar zeker al indrukwekkend. #lego #legocon (iOS only) https://t.co/Na1L2qWGl4 https://t.co/J8CnO0IfCr",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lego",
+					"indices": [
+						188,
+						193
+					]
+				},
+				{
+					"text": "legocon",
+					"indices": [
+						194,
+						202
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "msteeman",
+					"name": "Marcel Steeman",
+					"id": 19087381,
+					"id_str": "19087381",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "AlexanderNL",
+					"name": "Alexander Klöpping",
+					"id": 2239701,
+					"id_str": "2239701",
+					"indices": [
+						10,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Na1L2qWGl4",
+					"expanded_url": "https://apps.apple.com/nl/app/brickit-rebuild-your-lego/id1477221636",
+					"display_url": "apps.apple.com/nl/app/brickit…",
+					"indices": [
+						214,
+						237
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1411236812123742200,
+					"id_str": "1411236812123742215",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/E5W4Z1CXIAcNt7X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5W4Z1CXIAcNt7X.jpg",
+					"url": "https://t.co/J8CnO0IfCr",
+					"display_url": "pic.twitter.com/J8CnO0IfCr",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1411236818410950659/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411236812123742200,
+					"id_str": "1411236812123742215",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/E5W4Z1CXIAcNt7X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5W4Z1CXIAcNt7X.jpg",
+					"url": "https://t.co/J8CnO0IfCr",
+					"display_url": "pic.twitter.com/J8CnO0IfCr",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1411236818410950659/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1411236812106961000,
+					"id_str": "1411236812106960896",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/E5W4Z0-XEAAJMOz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5W4Z0-XEAAJMOz.jpg",
+					"url": "https://t.co/J8CnO0IfCr",
+					"display_url": "pic.twitter.com/J8CnO0IfCr",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1411236818410950659/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1411236812174024700,
+					"id_str": "1411236812174024705",
+					"indices": [
+						238,
+						261
+					],
+					"media_url": "http://pbs.twimg.com/media/E5W4Z1OWYAExOJf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5W4Z1OWYAExOJf.jpg",
+					"url": "https://t.co/J8CnO0IfCr",
+					"display_url": "pic.twitter.com/J8CnO0IfCr",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1411236818410950659/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1410255298334494700,
+		"in_reply_to_status_id_str": "1410255298334494721",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8771,
+			"friends_count": 799,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8085,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@msteeman @AlexanderNL Brickit is amazing. Het geeft leuke ideetjes en laat zelfs zien waar in je scan de stukjes kunnen liggen. De scan is niet 100% accuraat maar zeker al indrukwekkend. #lego #legocon (iOS only) https://t.co/Na1L2qWGl4 https://t.co/J8CnO0IfCr"
+	},
+	{
 		"created_at": "Fri Jul 02 19:56:39 +0000 2021",
 		"id": 1411051211604861000,
 		"id_str": "1411051211604860929",
