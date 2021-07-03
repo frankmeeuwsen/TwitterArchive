@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 03 16:30:23 +0000 2021",
+		"id": 1411098677419065300,
+		"id_str": "1411361692378931203",
+		"full_text": "capitalists will literally open a portal to hell instead of going green https://t.co/ic5zOWdK5C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1411045245165445000,
+					"id_str": "1411045245165445122",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1411045245165445122/pu/img/PS6TO9NpzqAbrAZO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1411045245165445122/pu/img/PS6TO9NpzqAbrAZO.jpg",
+					"url": "https://t.co/ic5zOWdK5C",
+					"display_url": "pic.twitter.com/ic5zOWdK5C",
+					"expanded_url": "https://twitter.com/MLopezSanMartin/status/1411045300781948931/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1411045300781949000,
+					"source_status_id_str": "1411045300781948931",
+					"source_user_id": 80124284,
+					"source_user_id_str": "80124284"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411045245165445000,
+					"id_str": "1411045245165445122",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1411045245165445122/pu/img/PS6TO9NpzqAbrAZO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1411045245165445122/pu/img/PS6TO9NpzqAbrAZO.jpg",
+					"url": "https://t.co/ic5zOWdK5C",
+					"display_url": "pic.twitter.com/ic5zOWdK5C",
+					"expanded_url": "https://twitter.com/MLopezSanMartin/status/1411045300781948931/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 352,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1411045300781949000,
+					"source_status_id_str": "1411045300781948931",
+					"source_user_id": 80124284,
+					"source_user_id_str": "80124284",
+					"video_info": {
+						"aspect_ratio": [
+							20,
+							11
+						],
+						"duration_millis": 17033,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1411045245165445122/pu/vid/640x352/05wfUwuf5dd5LFfn.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1411045245165445122/pu/vid/490x270/DEzQmn3Y4EoICN2z.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1411045245165445122/pu/pl/6VBRoHYuq0WtM_E9.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 80124284,
+							"id_str": "80124284",
+							"name": "Manuel Lopez San Martin",
+							"screen_name": "MLopezSanMartin",
+							"location": "",
+							"description": "Pregunto, verifico, contrasto, doy contexto y opino. TV @adn40 (10-11pm). Radio @MVSNoticias (1-3pm). Columna @HeraldoDeMexico. Le voy al Necaxa ⚡️",
+							"url": null,
+							"entities": {
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 85213,
+							"friends_count": 997,
+							"listed_count": 767,
+							"created_at": "Mon Oct 05 20:57:18 +0000 2009",
+							"favourites_count": 27741,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 86788,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1300075757880905731/goGbgQj-_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1300075757880905731/goGbgQj-_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/80124284/1598765417",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1135622396,
+			"id_str": "1135622396",
+			"name": "Edward Ongweso Jr",
+			"screen_name": "bigblackjacobin",
+			"location": "sovereign state of have-nots",
+			"description": "“like a terrorist attacking an innocent family” | tech & labor @motherboard | co-host @machinekillspod | friendly neighborhood Luddite | he/him | DM for Signal",
+			"url": "https://t.co/08DtYBNBMu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/08DtYBNBMu",
+							"expanded_url": "http://edwardongwesojr.com",
+							"display_url": "edwardongwesojr.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38686,
+			"friends_count": 3243,
+			"listed_count": 292,
+			"created_at": "Thu Jan 31 00:48:21 +0000 2013",
+			"favourites_count": 135575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 40801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "07171F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272355353611702272/PNNuNhrD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272355353611702272/PNNuNhrD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1135622396/1623356771",
+			"profile_link_color": "850D0D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23269,
+		"favorite_count": 142968,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "capitalists will literally open a portal to hell instead of going green https://t.co/ic5zOWdK5C"
+	},
+	{
 		"created_at": "Sat Jul 03 13:47:49 +0000 2021",
 		"id": 1411320780860895200,
 		"id_str": "1411320780860895233",
