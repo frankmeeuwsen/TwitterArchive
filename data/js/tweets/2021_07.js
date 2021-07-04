@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 04 21:31:20 +0000 2021",
+		"id": 1411794381556703200,
+		"id_str": "1411799813608386562",
+		"full_text": "Facebook's Mark Zuckerberg posted this really weird video to celebrate US Independence day. \n\nDid you know Facebook is still being used to aid fascist disinformation and mass murder in Myanmar? Learn more: https://t.co/V55uFQnT3P https://t.co/r73AonSJSl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V55uFQnT3P",
+					"expanded_url": "https://yac.news/blogs/news/facebook-used-to-incite-violence-and-promote-fascist-disinformation-in-myanmar-again",
+					"display_url": "yac.news/blogs/news/fac…",
+					"indices": [
+						206,
+						229
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1411793686283751400,
+					"id_str": "1411793686283751428",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1411793686283751428/img/pl4923xQ1e1dS7p8.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1411793686283751428/img/pl4923xQ1e1dS7p8.jpg",
+					"url": "https://t.co/r73AonSJSl",
+					"display_url": "pic.twitter.com/r73AonSJSl",
+					"expanded_url": "https://twitter.com/YourAnonCentral/status/1411794381556703236/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411793686283751400,
+					"id_str": "1411793686283751428",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1411793686283751428/img/pl4923xQ1e1dS7p8.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1411793686283751428/img/pl4923xQ1e1dS7p8.jpg",
+					"url": "https://t.co/r73AonSJSl",
+					"display_url": "pic.twitter.com/r73AonSJSl",
+					"expanded_url": "https://twitter.com/YourAnonCentral/status/1411794381556703236/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 70964,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1411793686283751428/pl/3h-yJxbSWUSXIs2w.m3u8?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1411793686283751428/vid/540x540/BbUnW7xn85l6cwmI.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1411793686283751428/vid/640x640/jqIkzPRPH4nFWI4V.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1411793686283751428/vid/320x320/1BUx2INgVZy6amgE.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Mark Zuckerberg Attempts To Appeal To Humans",
+						"description": "Facebook's Mark Zuckerberg posted a weird video for the 4th of July in latest attempt to appeal to humans.",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://yac.news/blogs/news/facebook-used-to-incite-violence-and-promote-fascist-disinformation-in-myanmar-again"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 373157754,
+			"id_str": "373157754",
+			"name": "Anonymous",
+			"screen_name": "YourAnonCentral",
+			"location": "in your area",
+			"description": "We are #Anonymous. The official #YAC. Exposing Human Rights abuses. Reporting, resistance resources & updates. Actions Not Nouns. Follow @SpartaZC #Anonymous",
+			"url": "https://t.co/LIipX5U75L",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LIipX5U75L",
+							"expanded_url": "http://yac.news/",
+							"display_url": "yac.news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5881945,
+			"friends_count": 665,
+			"listed_count": 3672,
+			"created_at": "Wed Sep 14 02:53:08 +0000 2011",
+			"favourites_count": 47968,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 325538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1346208053792628736/-WX3GM92_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1346208053792628736/-WX3GM92_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/373157754/1620328517",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 181,
+		"favorite_count": 1061,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Facebook's Mark Zuckerberg posted this really weird video to celebrate US Independence day. \n\nDid you know Facebook is still being used to aid fascist disinformation and mass murder in Myanmar? Learn more: https://t.co/V55uFQnT3P https://t.co/r73AonSJSl"
+	},
+	{
 		"created_at": "Sun Jul 04 20:05:29 +0000 2021",
 		"id": 1411778208022806500,
 		"id_str": "1411778208022806528",
