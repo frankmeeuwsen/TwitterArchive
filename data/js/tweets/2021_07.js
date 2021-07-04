@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 04 09:28:52 +0000 2021",
+		"id": 1411617902734815200,
+		"id_str": "1411618000432685056",
+		"full_text": "⚡️Do you need newsletter-inspiration or just a nice new title to subscribe to? Click the ✨new✨ Surprise Me! button on the site and well... be surprised!🎉 A random title with every click. \n\nhttps://t.co/rQJbu5W2PT https://t.co/h9wOkSWmhn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rQJbu5W2PT",
+					"expanded_url": "https://thanksforsubscribing.app",
+					"display_url": "thanksforsubscribing.app",
+					"indices": [
+						189,
+						212
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1411617342015082500,
+					"id_str": "1411617342015082498",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/E5cSflWXEAI1N7t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5cSflWXEAI1N7t.jpg",
+					"url": "https://t.co/h9wOkSWmhn",
+					"display_url": "pic.twitter.com/h9wOkSWmhn",
+					"expanded_url": "https://twitter.com/ForSubscribing/status/1411617902734815236/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 220,
+							"h": 124,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 124,
+							"h": 124,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 220,
+							"h": 124,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 124,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1411617342015082500,
+					"id_str": "1411617342015082498",
+					"indices": [
+						213,
+						236
+					],
+					"media_url": "http://pbs.twimg.com/media/E5cSflWXEAI1N7t.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5cSflWXEAI1N7t.jpg",
+					"url": "https://t.co/h9wOkSWmhn",
+					"display_url": "pic.twitter.com/h9wOkSWmhn",
+					"expanded_url": "https://twitter.com/ForSubscribing/status/1411617902734815236/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 220,
+							"h": 124,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 124,
+							"h": 124,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 220,
+							"h": 124,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 124,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1221904161492566000,
+			"id_str": "1221904161492566016",
+			"name": "Thanks for Subscribing",
+			"screen_name": "ForSubscribing",
+			"location": "Utrecht, Nederland",
+			"description": "Make your inbox happy again and check out the best newsletters from around the 🌎! Curated by @frankmeeuwsen",
+			"url": "https://t.co/EUi1JLKpnL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EUi1JLKpnL",
+							"expanded_url": "https://thanksforsubscribing.app",
+							"display_url": "thanksforsubscribing.app",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 240,
+			"friends_count": 88,
+			"listed_count": 14,
+			"created_at": "Mon Jan 27 21:14:06 +0000 2020",
+			"favourites_count": 74,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 802,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1221904344695656448/Z2Gu1jee_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1221904344695656448/Z2Gu1jee_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1221904161492566016/1590584335",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "⚡️Do you need newsletter-inspiration or just a nice new title to subscribe to? Click the ✨new✨ Surprise Me! button on the site and well... be surprised!🎉 A random title with every click. \n\nhttps://t.co/rQJbu5W2PT https://t.co/h9wOkSWmhn"
+	},
+	{
 		"created_at": "Sat Jul 03 18:30:49 +0000 2021",
 		"id": 1411391998058193000,
 		"id_str": "1411391998058192910",
