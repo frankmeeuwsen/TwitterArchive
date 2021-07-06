@@ -1,6 +1,290 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 06 18:32:14 +0000 2021",
+		"id": 1412479516610633700,
+		"id_str": "1412479516610633734",
+		"full_text": "Met je Spotify playlists... https://t.co/ExHCP3JQAV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ExHCP3JQAV",
+					"expanded_url": "https://twitter.com/Iearnhistory/status/1411123832937586691",
+					"display_url": "twitter.com/Iearnhistory/s…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8767,
+			"friends_count": 796,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64916,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1411123832937586700,
+		"quoted_status_id_str": "1411123832937586691",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ExHCP3JQAV",
+			"expanded": "https://twitter.com/Iearnhistory/status/1411123832937586691",
+			"display": "twitter.com/Iearnhistory/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 03 00:45:13 +0000 2021",
+			"id": 1411123832937586700,
+			"id_str": "1411123832937586691",
+			"full_text": "The lost art of homemade cassette covers  \n(Photo: Steve Vistaunet) https://t.co/NkQMNIIgJU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				67
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1411123829477314600,
+						"id_str": "1411123829477314570",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/E5VRpX4VkAoYLVP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5VRpX4VkAoYLVP.jpg",
+						"url": "https://t.co/NkQMNIIgJU",
+						"display_url": "pic.twitter.com/NkQMNIIgJU",
+						"expanded_url": "https://twitter.com/Iearnhistory/status/1411123832937586691/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 736,
+								"h": 987,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 736,
+								"h": 987,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 507,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1411123829477314600,
+						"id_str": "1411123829477314570",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/E5VRpX4VkAoYLVP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5VRpX4VkAoYLVP.jpg",
+						"url": "https://t.co/NkQMNIIgJU",
+						"display_url": "pic.twitter.com/NkQMNIIgJU",
+						"expanded_url": "https://twitter.com/Iearnhistory/status/1411123832937586691/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 736,
+								"h": 987,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 736,
+								"h": 987,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 507,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1265121374575583200,
+				"id_str": "1265121374575583232",
+				"name": "Historical Photos",
+				"screen_name": "Iearnhistory",
+				"location": "",
+				"description": "sʜᴀʀɪɴɢ ᴛʜᴇ ᴄᴏᴏʟ ᴘɪᴄᴛᴜʀᴇs ᴏғ ᴡᴏʀʟᴅ ʜɪsᴛᴏʀʏ 📸",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 395474,
+				"friends_count": 18781,
+				"listed_count": 900,
+				"created_at": "Tue May 26 03:23:47 +0000 2020",
+				"favourites_count": 1077,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1618,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1354668629028196352/veHSmXZ6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354668629028196352/veHSmXZ6_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 741,
+			"favorite_count": 4372,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Met je Spotify playlists... https://t.co/ExHCP3JQAV"
+	},
+	{
 		"created_at": "Tue Jul 06 08:39:39 +0000 2021",
 		"id": 1412330388769448000,
 		"id_str": "1412330388769447939",
