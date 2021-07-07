@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 07 20:14:27 +0000 2021",
+		"id": 1412842064685977600,
+		"id_str": "1412867628532703236",
+		"full_text": "Maryna Alokhina of Pussy Riot detained at Moscow supermarket. https://t.co/MsBPE1nQSi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MsBPE1nQSi",
+					"expanded_url": "https://twitter.com/MBKhMedia/status/1412792191282450436",
+					"display_url": "twitter.com/MBKhMedia/stat…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2747205057,
+			"id_str": "2747205057",
+			"name": "Natalka Chomiak",
+			"screen_name": "natalkachoms",
+			"location": "",
+			"description": "View from the trenches. Democratic politics and human rights. Following events east of London. Situated in the Canadian heartland. Retweets not endorsement.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 71,
+			"friends_count": 747,
+			"listed_count": 1,
+			"created_at": "Tue Aug 19 09:44:27 +0000 2014",
+			"favourites_count": 1159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1412792191282450400,
+		"quoted_status_id_str": "1412792191282450436",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MsBPE1nQSi",
+			"expanded": "https://twitter.com/MBKhMedia/status/1412792191282450436",
+			"display": "twitter.com/MBKhMedia/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 07 15:14:41 +0000 2021",
+			"id": 1412792191282450400,
+			"id_str": "1412792191282450436",
+			"full_text": "Участницу Pussy Riot Марию Алехину задержали после выхода из спецприемника, где она отбывала арест. Видео: Pussy Riot https://t.co/AGjCePtd7s",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				117
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1412792109778837500,
+						"id_str": "1412792109778837508",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1412792109778837508/img/TlWR6kkqUZ8q7IE7.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1412792109778837508/img/TlWR6kkqUZ8q7IE7.jpg",
+						"url": "https://t.co/AGjCePtd7s",
+						"display_url": "pic.twitter.com/AGjCePtd7s",
+						"expanded_url": "https://twitter.com/MBKhMedia/status/1412792191282450436/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 372,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 848,
+								"h": 464,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 848,
+								"h": 464,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1412792109778837500,
+						"id_str": "1412792109778837508",
+						"indices": [
+							118,
+							141
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1412792109778837508/img/TlWR6kkqUZ8q7IE7.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1412792109778837508/img/TlWR6kkqUZ8q7IE7.jpg",
+						"url": "https://t.co/AGjCePtd7s",
+						"display_url": "pic.twitter.com/AGjCePtd7s",
+						"expanded_url": "https://twitter.com/MBKhMedia/status/1412792191282450436/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 372,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 848,
+								"h": 464,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 848,
+								"h": 464,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								53,
+								29
+							],
+							"duration_millis": 21828,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1412792109778837508/vid/492x270/iAr02ewy8s6oAxvU.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1412792109778837508/vid/848x464/2afOyYR9uOMkxjoW.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1412792109778837508/pl/2zehZ-sirPEamHZT.m3u8?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2758834280,
+				"id_str": "2758834280",
+				"name": "МБХ медиа",
+				"screen_name": "MBKhMedia",
+				"location": "Москва, Россия",
+				"description": "Свободная информация для свободных людей. Наш Telegram: https://t.co/TTvsFVZBrk\n\n18+\n\nСледуйте за @yoshkinkrot и @openworldglobal\nОнлайны с судов: https://t.co/LIjjvUG7uT",
+				"url": "https://t.co/rvPLoJxyl5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rvPLoJxyl5",
+								"expanded_url": "http://mbk-news.appspot.com",
+								"display_url": "mbk-news.appspot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TTvsFVZBrk",
+								"expanded_url": "http://t.me/mbkhmedia",
+								"display_url": "t.me/mbkhmedia",
+								"indices": [
+									56,
+									79
+								]
+							},
+							{
+								"url": "https://t.co/LIjjvUG7uT",
+								"expanded_url": "https://t.me/sudymbhme",
+								"display_url": "t.me/sudymbhme",
+								"indices": [
+									147,
+									170
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 195718,
+				"friends_count": 644,
+				"listed_count": 1044,
+				"created_at": "Sat Aug 23 13:40:01 +0000 2014",
+				"favourites_count": 1114,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 97132,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ABB8C2",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/979366166991900672/6beJW489_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/979366166991900672/6beJW489_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2758834280/1522465388",
+				"profile_link_color": "313131",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 48,
+			"favorite_count": 190,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ru"
+		},
+		"retweet_count": 3,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Maryna Alokhina of Pussy Riot detained at Moscow supermarket. https://t.co/MsBPE1nQSi"
+	},
+	{
 		"created_at": "Wed Jul 07 19:20:11 +0000 2021",
 		"id": 1412853544751964200,
 		"id_str": "1412853972042457091",
