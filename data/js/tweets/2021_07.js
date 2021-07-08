@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 08 19:19:34 +0000 2021",
+		"id": 1413216205842882600,
+		"id_str": "1413216205842882575",
+		"full_text": "Bouw je eigen memex. Superinteressant. https://t.co/g17FiBefi0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g17FiBefi0",
+					"expanded_url": "https://twitter.com/thesephist/status/1412956530220093448",
+					"display_url": "twitter.com/thesephist/sta…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8770,
+			"friends_count": 799,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64942,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1412956530220093400,
+		"quoted_status_id_str": "1412956530220093448",
+		"quoted_status_permalink": {
+			"url": "https://t.co/g17FiBefi0",
+			"expanded": "https://twitter.com/thesephist/status/1412956530220093448",
+			"display": "twitter.com/thesephist/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 08 02:07:42 +0000 2021",
+			"id": 1412956530220093400,
+			"id_str": "1412956530220093448",
+			"full_text": "NEW PROJECT — I made a \"personal search engine\" that lets me search all my blogs, tweets, journals, notes, contacts, &amp; more at once 🚀\n\nIt's called Monocle, and features a full text search system written in Ink 👇\n\nGitHub ⌨️ https://t.co/XWtiCr5CmZ\nDemo 🔍 https://t.co/8nhS8M3Du3 https://t.co/rfurqpmaXc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				281
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XWtiCr5CmZ",
+						"expanded_url": "https://github.com/thesephist/monocle",
+						"display_url": "github.com/thesephist/mon…",
+						"indices": [
+							227,
+							250
+						]
+					},
+					{
+						"url": "https://t.co/8nhS8M3Du3",
+						"expanded_url": "https://monocle.surge.sh/",
+						"display_url": "monocle.surge.sh",
+						"indices": [
+							258,
+							281
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1412952090721259500,
+						"id_str": "1412952090721259521",
+						"indices": [
+							282,
+							305
+						],
+						"media_url": "http://pbs.twimg.com/media/E5vQcLwWEAEjz-D.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5vQcLwWEAEjz-D.jpg",
+						"url": "https://t.co/rfurqpmaXc",
+						"display_url": "pic.twitter.com/rfurqpmaXc",
+						"expanded_url": "https://twitter.com/thesephist/status/1412956530220093448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 747,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 423,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1275,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1412952090721259500,
+						"id_str": "1412952090721259521",
+						"indices": [
+							282,
+							305
+						],
+						"media_url": "http://pbs.twimg.com/media/E5vQcLwWEAEjz-D.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5vQcLwWEAEjz-D.jpg",
+						"url": "https://t.co/rfurqpmaXc",
+						"display_url": "pic.twitter.com/rfurqpmaXc",
+						"expanded_url": "https://twitter.com/thesephist/status/1412956530220093448/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 747,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 423,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1275,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 985741465,
+				"id_str": "985741465",
+				"name": "Linus",
+				"screen_name": "thesephist",
+				"location": "nyc",
+				"description": "in search of creative paradise · ex @dormroomfund @calhacks @replit @hackclub",
+				"url": "https://t.co/jb2YULxpQ6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jb2YULxpQ6",
+								"expanded_url": "https://thesephist.com/",
+								"display_url": "thesephist.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3808,
+				"friends_count": 261,
+				"listed_count": 99,
+				"created_at": "Mon Dec 03 01:45:18 +0000 2012",
+				"favourites_count": 51078,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15809,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F1F1F1",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1368982546332147712/Q1RIBiqL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368982546332147712/Q1RIBiqL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/985741465/1619668679",
+				"profile_link_color": "11B6A5",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 298,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Bouw je eigen memex. Superinteressant. https://t.co/g17FiBefi0"
+	},
+	{
 		"created_at": "Thu Jul 08 18:01:20 +0000 2021",
 		"id": 1413196517989666800,
 		"id_str": "1413196517989666826",
