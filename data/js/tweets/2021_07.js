@@ -1,6 +1,533 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 08 18:01:20 +0000 2021",
+		"id": 1413196517989666800,
+		"id_str": "1413196517989666826",
+		"full_text": "Deze al meegekregen @TimOphetBroek @KINKpuntnl @skoopnl ? https://t.co/1dmvj4GjBT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TimOphetBroek",
+					"name": "Tim Op het Broek",
+					"id": 49320577,
+					"id_str": "49320577",
+					"indices": [
+						20,
+						34
+					]
+				},
+				{
+					"screen_name": "KINKpuntnl",
+					"name": "KINK",
+					"id": 36077942,
+					"id_str": "36077942",
+					"indices": [
+						35,
+						46
+					]
+				},
+				{
+					"screen_name": "skoopnl",
+					"name": "Stefan Koopmanschap | ꓘINK",
+					"id": 179001722,
+					"id_str": "179001722",
+					"indices": [
+						47,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1dmvj4GjBT",
+					"expanded_url": "https://twitter.com/brettgurewitz/status/1413181565534801923",
+					"display_url": "twitter.com/brettgurewitz/…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8770,
+			"friends_count": 799,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1413181565534802000,
+		"quoted_status_id_str": "1413181565534801923",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1dmvj4GjBT",
+			"expanded": "https://twitter.com/brettgurewitz/status/1413181565534801923",
+			"display": "twitter.com/brettgurewitz/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 08 17:01:55 +0000 2021",
+			"id": 1413181565534802000,
+			"id_str": "1413181565534801923",
+			"full_text": "trigger warning: fascists may be offended\n\neveryone else - meet the muslims\n\n@epitaphrecords \n\nhttps://t.co/RXmTCplEaf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				118
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "epitaphrecords",
+						"name": "Epitaph Records",
+						"id": 17968886,
+						"id_str": "17968886",
+						"indices": [
+							77,
+							92
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/RXmTCplEaf",
+						"expanded_url": "https://youtu.be/Q-7-DDgUh_E",
+						"display_url": "youtu.be/Q-7-DDgUh_E",
+						"indices": [
+							95,
+							118
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6854942,
+				"id_str": "6854942",
+				"name": "Brett Gurewitz",
+				"screen_name": "BrettGurewitz",
+				"location": "Los Angeles",
+				"description": "my life is a song, a short melody, harmonizing with reality",
+				"url": "https://t.co/iJ0dxDvcH9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iJ0dxDvcH9",
+								"expanded_url": "http://instagram.com/BrettGurewitz",
+								"display_url": "instagram.com/BrettGurewitz",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 56353,
+				"friends_count": 530,
+				"listed_count": 847,
+				"created_at": "Sat Jun 16 16:11:15 +0000 2007",
+				"favourites_count": 4749,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 11505,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/766124382/2417290038_3294fe9956_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/766124382/2417290038_3294fe9956_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6854942/1560464419",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "A39797",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 61,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Deze al meegekregen @TimOphetBroek @KINKpuntnl @skoopnl ? https://t.co/1dmvj4GjBT"
+	},
+	{
+		"created_at": "Thu Jul 08 17:57:58 +0000 2021",
+		"id": 1413181565534802000,
+		"id_str": "1413195669913886730",
+		"full_text": "trigger warning: fascists may be offended\n\neveryone else - meet the muslims\n\n@epitaphrecords \n\nhttps://t.co/RXmTCplEaf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "epitaphrecords",
+					"name": "Epitaph Records",
+					"id": 17968886,
+					"id_str": "17968886",
+					"indices": [
+						77,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RXmTCplEaf",
+					"expanded_url": "https://youtu.be/Q-7-DDgUh_E",
+					"display_url": "youtu.be/Q-7-DDgUh_E",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6854942,
+			"id_str": "6854942",
+			"name": "Brett Gurewitz",
+			"screen_name": "BrettGurewitz",
+			"location": "Los Angeles",
+			"description": "my life is a song, a short melody, harmonizing with reality",
+			"url": "https://t.co/iJ0dxDvcH9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iJ0dxDvcH9",
+							"expanded_url": "http://instagram.com/BrettGurewitz",
+							"display_url": "instagram.com/BrettGurewitz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56353,
+			"friends_count": 530,
+			"listed_count": 847,
+			"created_at": "Sat Jun 16 16:11:15 +0000 2007",
+			"favourites_count": 4749,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 11505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/766124382/2417290038_3294fe9956_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/766124382/2417290038_3294fe9956_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6854942/1560464419",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "A39797",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 61,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "trigger warning: fascists may be offended\n\neveryone else - meet the muslims\n\n@epitaphrecords \n\nhttps://t.co/RXmTCplEaf"
+	},
+	{
+		"created_at": "Thu Jul 08 17:49:01 +0000 2021",
+		"id": 1413193417165877200,
+		"id_str": "1413193417165877254",
+		"full_text": "@linuz90 @RoamResearch @dayoneapp",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "linuz90",
+					"name": "Fabrizio Rinaldi",
+					"id": 17650681,
+					"id_str": "17650681",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "RoamResearch",
+					"name": "Roam Research",
+					"id": 1190410678273626000,
+					"id_str": "1190410678273626113",
+					"indices": [
+						9,
+						22
+					]
+				},
+				{
+					"screen_name": "dayoneapp",
+					"name": "Day One Journal",
+					"id": 246011382,
+					"id_str": "246011382",
+					"indices": [
+						23,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1413191895539404800,
+		"in_reply_to_status_id_str": "1413191895539404802",
+		"in_reply_to_user_id": 17650681,
+		"in_reply_to_user_id_str": "17650681",
+		"in_reply_to_screen_name": "linuz90",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8770,
+			"friends_count": 799,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64941,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@linuz90 @RoamResearch @dayoneapp"
+	},
+	{
 		"created_at": "Thu Jul 08 15:25:44 +0000 2021",
 		"id": 1413157360655339500,
 		"id_str": "1413157360655339522",
