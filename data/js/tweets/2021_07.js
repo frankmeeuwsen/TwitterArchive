@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 09 19:08:13 +0000 2021",
+		"id": 1413575737467150300,
+		"id_str": "1413575737467150337",
+		"full_text": "Eigenlijk toch wel een soort alternatieve top2000. Weinig verrassends in de top 10 en uiteindelijk wint Radiohead of Nirvana. https://t.co/QQMjQKUHmM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QQMjQKUHmM",
+					"expanded_url": "https://twitter.com/kinkpuntnl/status/1413498675393794053",
+					"display_url": "twitter.com/kinkpuntnl/sta…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8770,
+			"friends_count": 799,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8121,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64949,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1413498675393794000,
+		"quoted_status_id_str": "1413498675393794053",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QQMjQKUHmM",
+			"expanded": "https://twitter.com/kinkpuntnl/status/1413498675393794053",
+			"display": "twitter.com/kinkpuntnl/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 09 14:02:00 +0000 2021",
+			"id": 1413498675393794000,
+			"id_str": "1413498675393794053",
+			"full_text": "De stemmen voor de KINK Album Top 1000 zijn geteld! 🤩 De lijst is (bijna helemaal) compleet, alleen de Top 10 ontbreekt. Bekijk de hele lijst en stem op jouw favoriet via https://t.co/UpXOcMQOpZ \n#kinkalbumtop1000 #kinkpuntnl https://t.co/iKvCKIvdeD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				225
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "kinkalbumtop1000",
+						"indices": [
+							196,
+							213
+						]
+					},
+					{
+						"text": "kinkpuntnl",
+						"indices": [
+							214,
+							225
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UpXOcMQOpZ",
+						"expanded_url": "https://kink.nl/nieuws/dit-is-de-kink-album-top-1000",
+						"display_url": "kink.nl/nieuws/dit-is-…",
+						"indices": [
+							171,
+							194
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1413429790942679000,
+						"id_str": "1413429790942679042",
+						"indices": [
+							226,
+							249
+						],
+						"media_url": "http://pbs.twimg.com/media/E52C5_wX0AIpV4c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E52C5_wX0AIpV4c.jpg",
+						"url": "https://t.co/iKvCKIvdeD",
+						"display_url": "pic.twitter.com/iKvCKIvdeD",
+						"expanded_url": "https://twitter.com/KINKpuntnl/status/1413498675393794053/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1413429790942679000,
+						"id_str": "1413429790942679042",
+						"indices": [
+							226,
+							249
+						],
+						"media_url": "http://pbs.twimg.com/media/E52C5_wX0AIpV4c.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E52C5_wX0AIpV4c.jpg",
+						"url": "https://t.co/iKvCKIvdeD",
+						"display_url": "pic.twitter.com/iKvCKIvdeD",
+						"expanded_url": "https://twitter.com/KINKpuntnl/status/1413498675393794053/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 36077942,
+				"id_str": "36077942",
+				"name": "KINK",
+				"screen_name": "KINKpuntnl",
+				"location": "Netherlands",
+				"description": "Te beluisteren via DAB+ en onze apps: https://t.co/v04WxKBFpo",
+				"url": "https://t.co/VotPrL8mIR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VotPrL8mIR",
+								"expanded_url": "https://kink.nl",
+								"display_url": "kink.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/v04WxKBFpo",
+								"expanded_url": "http://www.kink.nl/app",
+								"display_url": "kink.nl/app",
+								"indices": [
+									38,
+									61
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 9394,
+				"friends_count": 141,
+				"listed_count": 139,
+				"created_at": "Tue Apr 28 14:27:54 +0000 2009",
+				"favourites_count": 4340,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15405,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1410975092461473799/px9V3gRC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410975092461473799/px9V3gRC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36077942/1617710771",
+				"profile_link_color": "040000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "8A8A8A",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Eigenlijk toch wel een soort alternatieve top2000. Weinig verrassends in de top 10 en uiteindelijk wint Radiohead of Nirvana. https://t.co/QQMjQKUHmM"
+	},
+	{
 		"created_at": "Fri Jul 09 08:13:57 +0000 2021",
 		"id": 1413411086016069600,
 		"id_str": "1413411086016069634",
