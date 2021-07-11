@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 11 19:05:09 +0000 2021",
+		"id": 1414299743400906800,
+		"id_str": "1414299743400906754",
+		"full_text": "Where's the Vaporwave version? https://t.co/pHsR3yyYpu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pHsR3yyYpu",
+					"expanded_url": "https://twitter.com/jwz/status/1414299276126064649",
+					"display_url": "twitter.com/jwz/status/141…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8770,
+			"friends_count": 798,
+			"listed_count": 552,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 64965,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1414299276126064600,
+		"quoted_status_id_str": "1414299276126064649",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pHsR3yyYpu",
+			"expanded": "https://twitter.com/jwz/status/1414299276126064649",
+			"display": "twitter.com/jwz/status/141…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jul 11 19:03:18 +0000 2021",
+			"id": 1414299276126064600,
+			"id_str": "1414299276126064649",
+			"full_text": "Versions. That I can't find an origin or attribution of this image is strangely appropriate. https://t.co/tHr5KKSjS8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				116
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tHr5KKSjS8",
+						"expanded_url": "https://jwz.org/b/yjow",
+						"display_url": "jwz.org/b/yjow",
+						"indices": [
+							93,
+							116
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.jwz.org/\" rel=\"nofollow\">jwz</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7190742,
+				"id_str": "7190742",
+				"name": "j͕̠̦̪͕̓͛̊̾̄ͅw̧̧̳̪̘͊̋͗̾͢͠z̢̘̞͈̺̞̩̓̽̐̋͗̆̋̚͟͜",
+				"screen_name": "jwz",
+				"location": "San Francisco",
+				"description": "I write screen savers and sell beer. Impresario of @dnalounge, the world's greatest nightclub. Also wrote your parents' web browser and stuff.",
+				"url": "http://t.co/cgrthivFcK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/cgrthivFcK",
+								"expanded_url": "http://www.jwz.org/",
+								"display_url": "jwz.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13287,
+				"friends_count": 371,
+				"listed_count": 541,
+				"created_at": "Sun Jul 01 19:53:17 +0000 2007",
+				"favourites_count": 677,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1079,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/64763711/aim-bag-large_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/64763711/aim-bag-large_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7190742/1497900135",
+				"profile_link_color": "009900",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "003300",
+				"profile_text_color": "006600",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Where's the Vaporwave version? https://t.co/pHsR3yyYpu"
+	},
+	{
 		"created_at": "Sun Jul 11 18:02:47 +0000 2021",
 		"id": 1414274575647625200,
 		"id_str": "1414284048344784898",
