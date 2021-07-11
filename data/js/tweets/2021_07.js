@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 11 18:02:47 +0000 2021",
+		"id": 1414274575647625200,
+		"id_str": "1414284048344784898",
+		"full_text": "It’s a girl! https://t.co/BAGQ6u0GgT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1414274572325728300,
+					"id_str": "1414274572325728258",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/E6CDOvpXsAICSnX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6CDOvpXsAICSnX.jpg",
+					"url": "https://t.co/BAGQ6u0GgT",
+					"display_url": "pic.twitter.com/BAGQ6u0GgT",
+					"expanded_url": "https://twitter.com/JimMFelton/status/1414274575647625216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 851,
+							"h": 597,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 851,
+							"h": 597,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 477,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414274572325728300,
+					"id_str": "1414274572325728258",
+					"indices": [
+						13,
+						36
+					],
+					"media_url": "http://pbs.twimg.com/media/E6CDOvpXsAICSnX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6CDOvpXsAICSnX.jpg",
+					"url": "https://t.co/BAGQ6u0GgT",
+					"display_url": "pic.twitter.com/BAGQ6u0GgT",
+					"expanded_url": "https://twitter.com/JimMFelton/status/1414274575647625216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 851,
+							"h": 597,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 851,
+							"h": 597,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 477,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2904913023,
+			"id_str": "2904913023",
+			"name": "James Felton",
+			"screen_name": "JimMFelton",
+			"location": "",
+			"description": "Comedy writer. Sunburn: https://t.co/1AtY1YTVZM 52 Times Britain Was A Bellend: Waterstones: https://t.co/WEinPBVSbx Amazon: https://t.co/83zuzC7LO0",
+			"url": "https://t.co/Hc2Dz03EvQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Hc2Dz03EvQ",
+							"expanded_url": "https://amzn.to/2HHtW08",
+							"display_url": "amzn.to/2HHtW08",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1AtY1YTVZM",
+							"expanded_url": "https://linktr.ee/SunburnJamesFelton",
+							"display_url": "linktr.ee/SunburnJamesFe…",
+							"indices": [
+								24,
+								47
+							]
+						},
+						{
+							"url": "https://t.co/WEinPBVSbx",
+							"expanded_url": "http://bit.ly/2mWy7yv",
+							"display_url": "bit.ly/2mWy7yv",
+							"indices": [
+								93,
+								116
+							]
+						},
+						{
+							"url": "https://t.co/83zuzC7LO0",
+							"expanded_url": "http://amzn.to/2lev9V0",
+							"display_url": "amzn.to/2lev9V0",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 294482,
+			"friends_count": 3463,
+			"listed_count": 925,
+			"created_at": "Thu Dec 04 11:06:45 +0000 2014",
+			"favourites_count": 190513,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 45945,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/863860130009546754/-2Zr0kqI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/863860130009546754/-2Zr0kqI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2904913023/1592303608",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 164,
+		"favorite_count": 1960,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "It’s a girl! https://t.co/BAGQ6u0GgT"
+	},
+	{
 		"created_at": "Sun Jul 11 08:39:40 +0000 2021",
 		"id": 1414012499431764000,
 		"id_str": "1414142335126999041",
