@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 12 10:51:54 +0000 2021",
+		"id": 1414526208876945400,
+		"id_str": "1414537998738333702",
+		"full_text": "Witwaspraktijken opsporen, hoe doe je dat eigenlijk? Kaliber Studio interviewde analist Niké voor de nieuwe editie van GROW Magazine. https://t.co/TQoFKsBp7k",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TQoFKsBp7k",
+					"expanded_url": "https://rabobank.jobs/nl/grow-magazine/onderzoek-naar-witwassen-nike-messelaar/",
+					"display_url": "rabobank.jobs/nl/grow-magazi…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10932162,
+			"id_str": "10932162",
+			"name": "Kaliber",
+			"screen_name": "Kaliberinteract",
+			"location": "Utrecht",
+			"description": "Kaliber. Digitaal bureau dat strategie, creativiteit en technologie combineert om mensen te activeren.",
+			"url": "http://t.co/0uBteIkGBt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/0uBteIkGBt",
+							"expanded_url": "http://www.kaliber.net",
+							"display_url": "kaliber.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 904,
+			"listed_count": 110,
+			"created_at": "Fri Dec 07 10:50:24 +0000 2007",
+			"favourites_count": 405,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409565370541871109/c4cK-EHv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409565370541871109/c4cK-EHv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10932162/1612193476",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Witwaspraktijken opsporen, hoe doe je dat eigenlijk? Kaliber Studio interviewde analist Niké voor de nieuwe editie van GROW Magazine. https://t.co/TQoFKsBp7k"
+	},
+	{
 		"created_at": "Mon Jul 12 06:20:22 +0000 2021",
 		"id": 1414469667104731100,
 		"id_str": "1414469667104731136",
