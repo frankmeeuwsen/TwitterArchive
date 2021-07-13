@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 13 17:43:42 +0000 2021",
+		"id": 1414993821583118300,
+		"id_str": "1415004021836898306",
+		"full_text": "Launching my newest #Vtuber web app, Kalidoface 3D! 🎊 \n\nFace and full-body tracking for 3D models now available for anyone with a browser and a webcam! \n\n#MadeWithTFJS and Mediapipe\nPowered by @glitch 🎏\n\nTry it out here!\n➡️ https://t.co/vbr3ie8RC7 ⬅️ https://t.co/Lk0OLb82CU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			250
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Vtuber",
+					"indices": [
+						20,
+						27
+					]
+				},
+				{
+					"text": "MadeWithTFJS",
+					"indices": [
+						154,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "glitch",
+					"name": "🎏Glitch",
+					"id": 795717775989833700,
+					"id_str": "795717775989833729",
+					"indices": [
+						193,
+						200
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/vbr3ie8RC7",
+					"expanded_url": "http://3d.kalidoface.com",
+					"display_url": "3d.kalidoface.com",
+					"indices": [
+						224,
+						247
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1414993694013329400,
+					"id_str": "1414993694013329409",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414993694013329409/pu/img/svFZL5xz-5IP53Nb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414993694013329409/pu/img/svFZL5xz-5IP53Nb.jpg",
+					"url": "https://t.co/Lk0OLb82CU",
+					"display_url": "pic.twitter.com/Lk0OLb82CU",
+					"expanded_url": "https://twitter.com/yeemachine/status/1414993821583118341/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414993694013329400,
+					"id_str": "1414993694013329409",
+					"indices": [
+						251,
+						274
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1414993694013329409/pu/img/svFZL5xz-5IP53Nb.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1414993694013329409/pu/img/svFZL5xz-5IP53Nb.jpg",
+					"url": "https://t.co/Lk0OLb82CU",
+					"display_url": "pic.twitter.com/Lk0OLb82CU",
+					"expanded_url": "https://twitter.com/yeemachine/status/1414993821583118341/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 34934,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414993694013329409/pu/vid/320x320/01JEYDdOsdoWokfE.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1414993694013329409/pu/pl/Uw6iS0siQbKEBwRY.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414993694013329409/pu/vid/720x720/qMQP8EiLsKwZ_mjz.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1414993694013329409/pu/vid/540x540/-gH-rRTgbvsaj_ql.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 58086131,
+			"id_str": "58086131",
+			"name": "Rich 🏴‍☠️👯‍♀️☄️🥐",
+			"screen_name": "yeemachine",
+			"location": "",
+			"description": "UX Engineer. Previously a Visual Designer.\nProjects: https://t.co/62AYu8tLhy - Live2D Vtuber web app; https://t.co/2SCIptvnp3 - Web Theremin",
+			"url": "https://t.co/SSEiCpFzj7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SSEiCpFzj7",
+							"expanded_url": "https://yee.gd",
+							"display_url": "yee.gd",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/62AYu8tLhy",
+							"expanded_url": "https://kalidoface.com",
+							"display_url": "kalidoface.com",
+							"indices": [
+								53,
+								76
+							]
+						},
+						{
+							"url": "https://t.co/2SCIptvnp3",
+							"expanded_url": "https://theremin.app",
+							"display_url": "theremin.app",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 319,
+			"friends_count": 210,
+			"listed_count": 9,
+			"created_at": "Sun Jul 19 01:34:42 +0000 2009",
+			"favourites_count": 793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 286,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1349423598574788609/ZTjgVLbY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1349423598574788609/ZTjgVLbY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/58086131/1621110383",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 204,
+		"favorite_count": 455,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Launching my newest #Vtuber web app, Kalidoface 3D! 🎊 \n\nFace and full-body tracking for 3D models now available for anyone with a browser and a webcam! \n\n#MadeWithTFJS and Mediapipe\nPowered by @glitch 🎏\n\nTry it out here!\n➡️ https://t.co/vbr3ie8RC7 ⬅️ https://t.co/Lk0OLb82CU"
+	},
+	{
 		"created_at": "Tue Jul 13 16:10:01 +0000 2021",
 		"id": 1414948042864799700,
 		"id_str": "1414980445117235210",
