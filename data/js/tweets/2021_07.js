@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 14 17:48:55 +0000 2021",
+		"id": 1415085393389572000,
+		"id_str": "1415367718748962818",
+		"full_text": "This Solarpunk style advert is beautiful https://t.co/QICnn8iHXJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1413543655537877000,
+					"id_str": "1413543655537876995",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1413543655537876995/pu/img/VWBCGAlS4SiBxLFw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1413543655537876995/pu/img/VWBCGAlS4SiBxLFw.jpg",
+					"url": "https://t.co/QICnn8iHXJ",
+					"display_url": "pic.twitter.com/QICnn8iHXJ",
+					"expanded_url": "https://twitter.com/thelinestudio/status/1413543900862627842/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1413543900862627800,
+					"source_status_id_str": "1413543900862627842",
+					"source_user_id": 1251957193,
+					"source_user_id_str": "1251957193"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1413543655537877000,
+					"id_str": "1413543655537876995",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1413543655537876995/pu/img/VWBCGAlS4SiBxLFw.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1413543655537876995/pu/img/VWBCGAlS4SiBxLFw.jpg",
+					"url": "https://t.co/QICnn8iHXJ",
+					"display_url": "pic.twitter.com/QICnn8iHXJ",
+					"expanded_url": "https://twitter.com/thelinestudio/status/1413543900862627842/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1413543900862627800,
+					"source_status_id_str": "1413543900862627842",
+					"source_user_id": 1251957193,
+					"source_user_id_str": "1251957193",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 79125,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1413543655537876995/pu/vid/480x270/hK4ogxYXi_PSh-Yu.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1413543655537876995/pu/pl/LUibTFAZKJOLYJ3Z.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1413543655537876995/pu/vid/1280x720/o6bLuJ7LJh_hjIII.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1413543655537876995/pu/vid/640x360/Dyt5tuTL6nqSvXhm.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1251957193,
+							"id_str": "1251957193",
+							"name": "THE LINE",
+							"screen_name": "thelinestudio",
+							"location": "London",
+							"description": "We are THE LINE. A LDN animation studio",
+							"url": "https://t.co/mRsDyp1lW0",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/mRsDyp1lW0",
+											"expanded_url": "https://www.thelineanimation.com/",
+											"display_url": "thelineanimation.com",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 23100,
+							"friends_count": 1450,
+							"listed_count": 182,
+							"created_at": "Fri Mar 08 14:55:42 +0000 2013",
+							"favourites_count": 7457,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 1827,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "FFFFFF",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/709430270005547008/gRNSOcvW_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/709430270005547008/gRNSOcvW_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1251957193/1536920276",
+							"profile_link_color": "000000",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14285961,
+			"id_str": "14285961",
+			"name": "Ric Burton 🇬🇧 ‣ 🇺🇸 🦇🔊",
+			"screen_name": "ricburton",
+			"location": "San Francisco, CA",
+			"description": "Designer helping teams create their dreams. Helped the @ethereum team in 2014 🦇🔊 Support @nexusmutual & @graphprotocol. Currently @feiprotocol & @backonmyfeet",
+			"url": "https://t.co/EaHaPqVuZt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EaHaPqVuZt",
+							"expanded_url": "http://ricburton.substack.com",
+							"display_url": "ricburton.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47097,
+			"friends_count": 20181,
+			"listed_count": 986,
+			"created_at": "Wed Apr 02 18:16:40 +0000 2008",
+			"favourites_count": 120417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 41993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0099B9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345510628539080704/uOGhadMz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345510628539080704/uOGhadMz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14285961/1466354216",
+			"profile_link_color": "0099B9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "95E8EC",
+			"profile_text_color": "3C3940",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 765,
+		"favorite_count": 3354,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This Solarpunk style advert is beautiful https://t.co/QICnn8iHXJ"
+	},
+	{
 		"created_at": "Wed Jul 14 15:36:40 +0000 2021",
 		"id": 1415334440839127000,
 		"id_str": "1415334440839127040",
