@@ -1,6 +1,523 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sat Aug 14 06:32:42 +0000 2021",
+		"id": 1426169734874255400,
+		"id_str": "1426431569288482818",
+		"full_text": "https://t.co/YyjnCmkEWD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1426153136620806100,
+					"id_str": "1426153136620806144",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1426153136620806144/pu/img/viMeSJF5CxePndnz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1426153136620806144/pu/img/viMeSJF5CxePndnz.jpg",
+					"url": "https://t.co/YyjnCmkEWD",
+					"display_url": "pic.twitter.com/YyjnCmkEWD",
+					"expanded_url": "https://twitter.com/Ariana_Weekend/status/1426169734874255360/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 452,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 452,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 371,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1426153136620806100,
+					"id_str": "1426153136620806144",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1426153136620806144/pu/img/viMeSJF5CxePndnz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1426153136620806144/pu/img/viMeSJF5CxePndnz.jpg",
+					"url": "https://t.co/YyjnCmkEWD",
+					"display_url": "pic.twitter.com/YyjnCmkEWD",
+					"expanded_url": "https://twitter.com/Ariana_Weekend/status/1426169734874255360/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 452,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 452,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 371,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							207,
+							113
+						],
+						"duration_millis": 4495,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1426153136620806144/pu/vid/828x452/GtMB_iXCFyQ9CDY1.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1426153136620806144/pu/pl/kx794YK0EfBG_r_m.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1426153136620806144/pu/vid/494x270/_-_Nvv4mc0ZIb8xk.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1404941264861249500,
+			"id_str": "1404941264861249536",
+			"name": "ladies and gentlemen, give it up for the weekend😬",
+			"screen_name": "Ariana_Weekend",
+			"location": "",
+			"description": "Ariana Grande giving it up for the weekend 🥳",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 398,
+			"friends_count": 6,
+			"listed_count": 2,
+			"created_at": "Tue Jun 15 23:18:19 +0000 2021",
+			"favourites_count": 17,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 45,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1404942003985694721/Xfjg4P_t_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1404942003985694721/Xfjg4P_t_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1404941264861249536/1624640506",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 121,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/YyjnCmkEWD"
+	},
+	{
+		"created_at": "Sat Aug 14 06:32:23 +0000 2021",
+		"id": 1426431488237707300,
+		"id_str": "1426431488237707267",
+		"full_text": "Fijne Twitter niche. https://t.co/vFLm4Jmjjc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vFLm4Jmjjc",
+					"expanded_url": "https://twitter.com/margotweekend/status/1426329544806465537",
+					"display_url": "twitter.com/margotweekend/…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8764,
+			"friends_count": 611,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8090,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65018,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1426329544806465500,
+		"quoted_status_id_str": "1426329544806465537",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vFLm4Jmjjc",
+			"expanded": "https://twitter.com/margotweekend/status/1426329544806465537",
+			"display": "twitter.com/margotweekend/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 13 23:47:18 +0000 2021",
+			"id": 1426329544806465500,
+			"id_str": "1426329544806465537",
+			"full_text": "Ladies and gentlemen the weekend 🥳 https://t.co/IkTHjYUhKj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				34
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1426329509754597400,
+						"id_str": "1426329509754597377",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1426329509754597377/pu/img/-5cS7o5-JrHXKAIu.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1426329509754597377/pu/img/-5cS7o5-JrHXKAIu.jpg",
+						"url": "https://t.co/IkTHjYUhKj",
+						"display_url": "pic.twitter.com/IkTHjYUhKj",
+						"expanded_url": "https://twitter.com/MargotWeekend/status/1426329544806465537/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1426329509754597400,
+						"id_str": "1426329509754597377",
+						"indices": [
+							35,
+							58
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1426329509754597377/pu/img/-5cS7o5-JrHXKAIu.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1426329509754597377/pu/img/-5cS7o5-JrHXKAIu.jpg",
+						"url": "https://t.co/IkTHjYUhKj",
+						"display_url": "pic.twitter.com/IkTHjYUhKj",
+						"expanded_url": "https://twitter.com/MargotWeekend/status/1426329544806465537/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 4257,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1426329509754597377/pu/pl/07RjWZaL9Z2sRk0N.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1426329509754597377/pu/vid/480x270/nCpH9T0sn_NePaL3.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1426329509754597377/pu/vid/1280x720/_R42IhV8WvqFkfYR.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1426329509754597377/pu/vid/640x360/1uUPNafvGGSH2lFE.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1372439152159985700,
+				"id_str": "1372439152159985666",
+				"name": "ladies and gentlemen, the weekend 🥳",
+				"screen_name": "MargotWeekend",
+				"location": "",
+				"description": "margot robbie would like to reminds you that the weekend is here✨",
+				"url": "https://t.co/HQX8zc06kh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HQX8zc06kh",
+								"expanded_url": "https://open.spotify.com/playlist/6lJx7JC5Rll4uaDp3aaV6W?si=j_BelXvZRMGT6Jg3kpsZng&utm_source=copy-l",
+								"display_url": "open.spotify.com/playlist/6lJx7…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7007,
+				"friends_count": 5,
+				"listed_count": 12,
+				"created_at": "Thu Mar 18 06:47:51 +0000 2021",
+				"favourites_count": 93,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 31,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1372449294641287169/widQZPyY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1372449294641287169/widQZPyY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1372439152159985666/1616051594",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 400,
+			"favorite_count": 1070,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Fijne Twitter niche. https://t.co/vFLm4Jmjjc"
+	},
+	{
 		"created_at": "Fri Aug 13 06:33:20 +0000 2021",
 		"id": 1426069338457616400,
 		"id_str": "1426069338457616384",
