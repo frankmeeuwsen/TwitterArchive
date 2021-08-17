@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 17 07:02:23 +0000 2021",
+		"id": 1427526201514635300,
+		"id_str": "1427526201514635288",
+		"full_text": "Great plans Lesley! We still need to catch up on how @ForSubscribing can help you as well. https://t.co/m4n785CfXS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ForSubscribing",
+					"name": "Thanks for Subscribing",
+					"id": 1221904161492566000,
+					"id_str": "1221904161492566016",
+					"indices": [
+						53,
+						68
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/m4n785CfXS",
+					"expanded_url": "https://twitter.com/lesley_pizza/status/1427513139797512195",
+					"display_url": "twitter.com/lesley_pizza/s…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8763,
+			"friends_count": 610,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8095,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65024,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1427513139797512200,
+		"quoted_status_id_str": "1427513139797512195",
+		"quoted_status_permalink": {
+			"url": "https://t.co/m4n785CfXS",
+			"expanded": "https://twitter.com/lesley_pizza/status/1427513139797512195",
+			"display": "twitter.com/lesley_pizza/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 17 06:10:29 +0000 2021",
+			"id": 1427513139797512200,
+			"id_str": "1427513139797512195",
+			"full_text": "🌱Goal: 10k monthly visitors by Dec🌱\n\nAs a benchmark, we're at 1k monthly visitors right now.\n\nWhy focus on traffic?\n\nI realised without enough visitors, we just don't know enough to make good product or revenue decisions. So we're gonna fix traffic first.\n\nHere's how... https://t.co/e5QKUPtdGu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1427506586851836000,
+						"id_str": "1427506586851835910",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/E8-FrW_VgAYyhuL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E8-FrW_VgAYyhuL.jpg",
+						"url": "https://t.co/e5QKUPtdGu",
+						"display_url": "pic.twitter.com/e5QKUPtdGu",
+						"expanded_url": "https://twitter.com/lesley_pizza/status/1427513139797512195/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 489,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1534,
+								"h": 1102,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 862,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1427506586851836000,
+						"id_str": "1427506586851835910",
+						"indices": [
+							271,
+							294
+						],
+						"media_url": "http://pbs.twimg.com/media/E8-FrW_VgAYyhuL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E8-FrW_VgAYyhuL.jpg",
+						"url": "https://t.co/e5QKUPtdGu",
+						"display_url": "pic.twitter.com/e5QKUPtdGu",
+						"expanded_url": "https://twitter.com/lesley_pizza/status/1427513139797512195/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 489,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1534,
+								"h": 1102,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 862,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17828291,
+				"id_str": "17828291",
+				"name": "Lesley 🍕",
+				"screen_name": "lesley_pizza",
+				"location": "Singapore",
+				"description": "Bootstrapping @NewsletterGlue. My Twitter vibe: earnest, friendly, slightly snarky. Mostly harmless.",
+				"url": "https://t.co/I9XiB835UN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/I9XiB835UN",
+								"expanded_url": "https://lesley.pizza",
+								"display_url": "lesley.pizza",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1546,
+				"friends_count": 832,
+				"listed_count": 88,
+				"created_at": "Wed Dec 03 04:03:00 +0000 2008",
+				"favourites_count": 21326,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6444,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1333105140186771456/Dpb8Ax4N_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1333105140186771456/Dpb8Ax4N_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17828291/1620207687",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great plans Lesley! We still need to catch up on how @ForSubscribing can help you as well. https://t.co/m4n785CfXS"
+	},
+	{
 		"created_at": "Mon Aug 16 19:33:36 +0000 2021",
 		"id": 1427352865950113800,
 		"id_str": "1427352865950113796",
