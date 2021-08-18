@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 18 07:53:32 +0000 2021",
+		"id": 1427900704287514600,
+		"id_str": "1427901460956733440",
+		"full_text": "Meld je aan voor mijn nieuwsbrief https://t.co/BX6SzKpSFR via @revue",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "revue",
+					"name": "Revue",
+					"id": 3001165942,
+					"id_str": "3001165942",
+					"indices": [
+						62,
+						68
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BX6SzKpSFR",
+					"expanded_url": "https://www.getrevue.co/profile/supervision?utm_campaign=Share+profile&utm_content=new_subscriber_mail&utm_medium=tweet&utm_source=twitter",
+					"display_url": "getrevue.co/profile/superv…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2636081,
+			"id_str": "2636081",
+			"name": "Laurens Vreekamp",
+			"screen_name": "campodipace",
+			"location": "Amsterdam, Netherlands",
+			"description": "🍥 Future Journalism Today\n🏘️ Fathm Associate\n🎓 Mentor @SVDJnieuws\n📨 Super Vision - nieuwsbrief over AI voor creatieven\n🔍Ex. @GoogleNewsInit Teaching Fellow",
+			"url": "https://t.co/cFOlKs8CBT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cFOlKs8CBT",
+							"expanded_url": "https://www.getrevue.co/profile/supervision",
+							"display_url": "getrevue.co/profile/superv…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1161,
+			"friends_count": 614,
+			"listed_count": 55,
+			"created_at": "Wed Mar 28 08:27:55 +0000 2007",
+			"favourites_count": 868,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 196,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7AD2AC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270288480652988416/Q8teIoxJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270288480652988416/Q8teIoxJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2636081/1600767668",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Meld je aan voor mijn nieuwsbrief https://t.co/BX6SzKpSFR via @revue"
+	},
+	{
 		"created_at": "Tue Aug 17 07:02:23 +0000 2021",
 		"id": 1427526201514635300,
 		"id_str": "1427526201514635288",
