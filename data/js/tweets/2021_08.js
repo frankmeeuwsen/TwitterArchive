@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 19 15:15:05 +0000 2021",
+		"id": 1428374968736362500,
+		"id_str": "1428374968736362497",
+		"full_text": "Dit is echt wel tof hoor. https://t.co/wWi3RvfIN9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wWi3RvfIN9",
+					"expanded_url": "https://twitter.com/revue/status/1428371221524189186",
+					"display_url": "twitter.com/revue/status/1…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8763,
+			"friends_count": 613,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8103,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65029,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1428371221524189200,
+		"quoted_status_id_str": "1428371221524189186",
+		"quoted_status_permalink": {
+			"url": "https://t.co/wWi3RvfIN9",
+			"expanded": "https://twitter.com/revue/status/1428371221524189186",
+			"display": "twitter.com/revue/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 19 15:00:11 +0000 2021",
+			"id": 1428371221524189200,
+			"id_str": "1428371221524189186",
+			"full_text": "It’s here 🧡\n\nToday, we’re starting to test a feature that allows people to subscribe to your Revue newsletter directly from your Twitter profile. \n\nIt's available to all Revue creators immediately. To start though, your newsletters will show only for a test group on Twitter. https://t.co/YDa1aOGeLM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1428371189899174000,
+						"id_str": "1428371189899173895",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/E9KYB4VXoAcHKq8.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E9KYB4VXoAcHKq8.jpg",
+						"url": "https://t.co/YDa1aOGeLM",
+						"display_url": "pic.twitter.com/YDa1aOGeLM",
+						"expanded_url": "https://twitter.com/revue/status/1428371221524189186/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1428371189899174000,
+						"id_str": "1428371189899173895",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/E9KYB4VXoAcHKq8.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E9KYB4VXoAcHKq8.jpg",
+						"url": "https://t.co/YDa1aOGeLM",
+						"display_url": "pic.twitter.com/YDa1aOGeLM",
+						"expanded_url": "https://twitter.com/revue/status/1428371221524189186/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/E9KYB4VXoAcHKq8.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3001165942,
+				"id_str": "3001165942",
+				"name": "Revue",
+				"screen_name": "revue",
+				"location": "Amsterdam, The Netherlands",
+				"description": "Revue makes it easy for writers and publishers to send editorial newsletters — and get paid.\n\nDM for support 🧡",
+				"url": "https://t.co/2IxuZmOe9A",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2IxuZmOe9A",
+								"expanded_url": "http://www.getrevue.co",
+								"display_url": "getrevue.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28709,
+				"friends_count": 4060,
+				"listed_count": 552,
+				"created_at": "Tue Jan 27 10:07:33 +0000 2015",
+				"favourites_count": 11211,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4065,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E15718",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1354036477915754499/zQrdrHL9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354036477915754499/zQrdrHL9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3001165942/1611662429",
+				"profile_link_color": "E15718",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 51,
+			"favorite_count": 182,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Dit is echt wel tof hoor. https://t.co/wWi3RvfIN9"
+	},
+	{
 		"created_at": "Thu Aug 19 14:08:20 +0000 2021",
 		"id": 1428358171324665900,
 		"id_str": "1428358171324665874",
