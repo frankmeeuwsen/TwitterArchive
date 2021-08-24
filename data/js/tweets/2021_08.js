@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 24 18:43:41 +0000 2021",
+		"id": 1430222082529431600,
+		"id_str": "1430239406468870144",
+		"full_text": "i recently made a poem generator thing, which is where I sometimes go to tap and scroll (on @glitch at https://t.co/QO3ztRjTqM ) https://t.co/bohX3KNq2L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "glitch",
+					"name": "🎏Glitch",
+					"id": 795717775989833700,
+					"id_str": "795717775989833729",
+					"indices": [
+						92,
+						99
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QO3ztRjTqM",
+					"expanded_url": "https://endless-nothing.glitch.me",
+					"display_url": "endless-nothing.glitch.me",
+					"indices": [
+						103,
+						126
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1430220764888899600,
+					"id_str": "1430220764888899585",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/E9kqNUGXIAE-LLS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9kqNUGXIAE-LLS.jpg",
+					"url": "https://t.co/bohX3KNq2L",
+					"display_url": "pic.twitter.com/bohX3KNq2L",
+					"expanded_url": "https://twitter.com/gh0stglyph/status/1430222082529431553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 858,
+							"h": 483,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 858,
+							"h": 483,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430220764888899600,
+					"id_str": "1430220764888899585",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/E9kqNUGXIAE-LLS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9kqNUGXIAE-LLS.jpg",
+					"url": "https://t.co/bohX3KNq2L",
+					"display_url": "pic.twitter.com/bohX3KNq2L",
+					"expanded_url": "https://twitter.com/gh0stglyph/status/1430222082529431553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 858,
+							"h": 483,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 858,
+							"h": 483,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1091413440793583600,
+			"id_str": "1091413440793583617",
+			"name": "mateus",
+			"screen_name": "gh0stglyph",
+			"location": "Leicester, England",
+			"description": "artist/writer (he/him) ~ @glyphcave @doomscrolly @Walter24911538 bots ~ bruise project waking up",
+			"url": "https://t.co/eZK67b9JDf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eZK67b9JDf",
+							"expanded_url": "https://gg.bruise.in/",
+							"display_url": "gg.bruise.in",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 154,
+			"friends_count": 893,
+			"listed_count": 1,
+			"created_at": "Fri Feb 01 19:10:16 +0000 2019",
+			"favourites_count": 1321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 531,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251774097962471426/GlWBgIhz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251774097962471426/GlWBgIhz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1091413440793583617/1587281395",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "i recently made a poem generator thing, which is where I sometimes go to tap and scroll (on @glitch at https://t.co/QO3ztRjTqM ) https://t.co/bohX3KNq2L"
+	},
+	{
 		"created_at": "Tue Aug 24 16:41:06 +0000 2021",
 		"id": 1430208558226935800,
 		"id_str": "1430208558226935812",
