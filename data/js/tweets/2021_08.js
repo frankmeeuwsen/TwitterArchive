@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 26 15:42:07 +0000 2021",
+		"id": 1430430428662435800,
+		"id_str": "1430918487384408069",
+		"full_text": "Just started my first personal website - is Netflix going to sue me? https://t.co/WJqzQZFOrp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1430430347758428200,
+					"id_str": "1430430347758428162",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/E9no0pIUYAIacZq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9no0pIUYAIacZq.jpg",
+					"url": "https://t.co/WJqzQZFOrp",
+					"display_url": "pic.twitter.com/WJqzQZFOrp",
+					"expanded_url": "https://twitter.com/willyhopps/status/1430430428662435841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 592,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 335,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1010,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1430430347758428200,
+					"id_str": "1430430347758428162",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/E9no0pIUYAIacZq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9no0pIUYAIacZq.jpg",
+					"url": "https://t.co/WJqzQZFOrp",
+					"display_url": "pic.twitter.com/WJqzQZFOrp",
+					"expanded_url": "https://twitter.com/willyhopps/status/1430430428662435841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 592,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 335,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1010,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1257462182301724700,
+			"id_str": "1257462182301724672",
+			"name": "Will Hoppin",
+			"screen_name": "willyhopps",
+			"location": "Middlebury, VT",
+			"description": "Highly inspirational thought leader // Organizer @joinedyfi // Student @middlebury and @columbia 3-2 // TPM @ 🎩 // Software & Design & Film",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 284,
+			"friends_count": 307,
+			"listed_count": 4,
+			"created_at": "Tue May 05 00:08:50 +0000 2020",
+			"favourites_count": 442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 72,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1419144496349057024/-076iqMA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1419144496349057024/-076iqMA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1257462182301724672/1624260928",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 194,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just started my first personal website - is Netflix going to sue me? https://t.co/WJqzQZFOrp"
+	},
+	{
 		"created_at": "Wed Aug 25 14:47:17 +0000 2021",
 		"id": 1430542302804648000,
 		"id_str": "1430542302804647944",
