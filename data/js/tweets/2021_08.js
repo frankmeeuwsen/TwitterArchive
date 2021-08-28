@@ -1,6 +1,344 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sat Aug 28 13:09:45 +0000 2021",
+		"id": 1431604921619689500,
+		"id_str": "1431604921619689474",
+		"full_text": "Lees je het draadje mee @ehpo ? Vooral de eerste quote… 😂😂😂 https://t.co/08ZLn39Vs1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ehpo",
+					"name": "Niels Aalberts",
+					"id": 20199054,
+					"id_str": "20199054",
+					"indices": [
+						24,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/08ZLn39Vs1",
+					"expanded_url": "https://twitter.com/spin/status/1431250864820211715",
+					"display_url": "twitter.com/spin/status/14…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8762,
+			"friends_count": 617,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65058,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1431250864820211700,
+		"quoted_status_id_str": "1431250864820211715",
+		"quoted_status_permalink": {
+			"url": "https://t.co/08ZLn39Vs1",
+			"expanded": "https://twitter.com/spin/status/1431250864820211715",
+			"display": "twitter.com/spin/status/14…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 27 13:42:52 +0000 2021",
+			"id": 1431250864820211700,
+			"id_str": "1431250864820211715",
+			"full_text": "@pearljam's landmark debut album 'Ten' turns 30 today. We spoke with 30 artist to reflect on the impact on the alternative classic #30YearsofTen\n\nhttps://t.co/Z7JWOHycnX https://t.co/kT0ezNqi9E",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				169
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "30YearsofTen",
+						"indices": [
+							131,
+							144
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PearlJam",
+						"name": "Pearl Jam",
+						"id": 15155074,
+						"id_str": "15155074",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Z7JWOHycnX",
+						"expanded_url": "https://www.spin.com/featured/pearl-jam-ten-turns-30/",
+						"display_url": "spin.com/featured/pearl…",
+						"indices": [
+							146,
+							169
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1431250857404682200,
+						"id_str": "1431250857404682247",
+						"indices": [
+							170,
+							193
+						],
+						"media_url": "http://pbs.twimg.com/media/E9zTElwUUAcquhq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E9zTElwUUAcquhq.jpg",
+						"url": "https://t.co/kT0ezNqi9E",
+						"display_url": "pic.twitter.com/kT0ezNqi9E",
+						"expanded_url": "https://twitter.com/SPIN/status/1431250864820211715/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 838,
+								"h": 568,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 461,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 838,
+								"h": 568,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1431250857404682200,
+						"id_str": "1431250857404682247",
+						"indices": [
+							170,
+							193
+						],
+						"media_url": "http://pbs.twimg.com/media/E9zTElwUUAcquhq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E9zTElwUUAcquhq.jpg",
+						"url": "https://t.co/kT0ezNqi9E",
+						"display_url": "pic.twitter.com/kT0ezNqi9E",
+						"expanded_url": "https://twitter.com/SPIN/status/1431250864820211715/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 838,
+								"h": 568,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 461,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 838,
+								"h": 568,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 15155074,
+			"in_reply_to_user_id_str": "15155074",
+			"in_reply_to_screen_name": "PearlJam",
+			"user": {
+				"id": 16870853,
+				"id_str": "16870853",
+				"name": "SPIN",
+				"screen_name": "SPIN",
+				"location": "",
+				"description": "Alternative music and culture",
+				"url": "https://t.co/URf4Kmi2Tg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/URf4Kmi2Tg",
+								"expanded_url": "http://www.spin.com",
+								"display_url": "spin.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 475737,
+				"friends_count": 1300,
+				"listed_count": 10604,
+				"created_at": "Mon Oct 20 17:35:01 +0000 2008",
+				"favourites_count": 3508,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 99028,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "121112",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1267702091587317760/ZsCSiCOz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267702091587317760/ZsCSiCOz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16870853/1591078707",
+				"profile_link_color": "CE1127",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 402,
+			"favorite_count": 1684,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Lees je het draadje mee @ehpo ? Vooral de eerste quote… 😂😂😂 https://t.co/08ZLn39Vs1"
+	},
+	{
 		"created_at": "Fri Aug 27 17:02:11 +0000 2021",
 		"id": 1431301025755979800,
 		"id_str": "1431301025755979783",
