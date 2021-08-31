@@ -1,6 +1,368 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 31 05:47:02 +0000 2021",
+		"id": 1432580671416021000,
+		"id_str": "1432580671416020993",
+		"full_text": "\"We brought a contained version of our live energy\". Mooi inkijkje in een nog mooiere MTV Unplugged sessie. https://t.co/smKjWeHSlr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/smKjWeHSlr",
+					"expanded_url": "https://twitter.com/SIRIUSXM/status/1432434263362781188",
+					"display_url": "twitter.com/SIRIUSXM/statu…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8758,
+			"friends_count": 618,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65067,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1432434263362781200,
+		"quoted_status_id_str": "1432434263362781188",
+		"quoted_status_permalink": {
+			"url": "https://t.co/smKjWeHSlr",
+			"expanded": "https://twitter.com/SIRIUSXM/status/1432434263362781188",
+			"display": "twitter.com/SIRIUSXM/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 30 20:05:16 +0000 2021",
+			"id": 1432434263362781200,
+			"id_str": "1432434263362781188",
+			"full_text": "Prepping for 'MTV: Unplugged' was a huge undertaking for @PearlJam. Check out more on @PJRadio. https://t.co/A3bgpfjIRO https://t.co/AEDE3nLCUR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				119
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PearlJam",
+						"name": "Pearl Jam",
+						"id": 15155074,
+						"id_str": "15155074",
+						"indices": [
+							57,
+							66
+						]
+					},
+					{
+						"screen_name": "PJRadio",
+						"name": "Pearl Jam Radio",
+						"id": 140943126,
+						"id_str": "140943126",
+						"indices": [
+							86,
+							94
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/A3bgpfjIRO",
+						"expanded_url": "http://siriusxm.us/Pearl-Jam",
+						"display_url": "siriusxm.us/Pearl-Jam",
+						"indices": [
+							96,
+							119
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1432434205225635800,
+						"id_str": "1432434205225635844",
+						"indices": [
+							120,
+							143
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1432434205225635844/img/ydXzNfJh4oyoXYKY.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1432434205225635844/img/ydXzNfJh4oyoXYKY.jpg",
+						"url": "https://t.co/AEDE3nLCUR",
+						"display_url": "pic.twitter.com/AEDE3nLCUR",
+						"expanded_url": "https://twitter.com/SIRIUSXM/status/1432434263362781188/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1432434205225635800,
+						"id_str": "1432434205225635844",
+						"indices": [
+							120,
+							143
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1432434205225635844/img/ydXzNfJh4oyoXYKY.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1432434205225635844/img/ydXzNfJh4oyoXYKY.jpg",
+						"url": "https://t.co/AEDE3nLCUR",
+						"display_url": "pic.twitter.com/AEDE3nLCUR",
+						"expanded_url": "https://twitter.com/SIRIUSXM/status/1432434263362781188/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 59333,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1432434205225635844/vid/320x320/DGkYmqetv9X-cY_x.mp4?tag=14"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1432434205225635844/vid/720x720/Y5NnDwHawm2NjHJo.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1432434205225635844/pl/ysDSm5jwgzLk8NrF.m3u8?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1432434205225635844/vid/540x540/n_3EDACaeFLgfLN7.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Pearl Jam on their appearance on 'MTV: Unplugged'",
+							"description": "",
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 189258194,
+				"id_str": "189258194",
+				"name": "SiriusXM",
+				"screen_name": "SIRIUSXM",
+				"location": "",
+				"description": "Your favorite music, commercial-free, plus uncensored talk and entertainment, sports and Howard Stern. For listener care, @SXM_Help.",
+				"url": "https://t.co/fSeUEstTG4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fSeUEstTG4",
+								"expanded_url": "https://siriusxm.us/Guidelines",
+								"display_url": "siriusxm.us/Guidelines",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 296677,
+				"friends_count": 8790,
+				"listed_count": 1891,
+				"created_at": "Fri Sep 10 20:02:33 +0000 2010",
+				"favourites_count": 22686,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 49379,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1182289764365557760/4qDnhQ1K_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182289764365557760/4qDnhQ1K_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/189258194/1628733873",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 108,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "\"We brought a contained version of our live energy\". Mooi inkijkje in een nog mooiere MTV Unplugged sessie. https://t.co/smKjWeHSlr"
+	},
+	{
 		"created_at": "Mon Aug 30 17:04:28 +0000 2021",
 		"id": 1432388762261233700,
 		"id_str": "1432388762261233671",
