@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 02 06:08:39 +0000 2021",
+		"id": 1433308763675578400,
+		"id_str": "1433310886496714754",
+		"full_text": "Wat je als creatieve maker allemaal met AI kunt? Editie #1 van mijn nieuwsbrief Super Vision is out now: “#1 Deze GANs wil je voeren! 💻🖼 ” is uit. Lees hem hier: https://t.co/Ce2QNFQyue",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ce2QNFQyue",
+					"expanded_url": "https://www.getrevue.co/profile/supervision/archive/719181",
+					"display_url": "getrevue.co/profile/superv…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.getrevue.co\" rel=\"nofollow\">Revue</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2636081,
+			"id_str": "2636081",
+			"name": "Laurens Vreekamp",
+			"screen_name": "campodipace",
+			"location": "Amsterdam, Netherlands",
+			"description": "🍥 Future Journalism Today\n🏘️ Fathm Associate\n🎓 Mentor @SVDJnieuws\n📨 Super Vision, nieuwsbrief over AI voor creatieven\n🔍 Ex. @GoogleNewsInit Teaching Fellow",
+			"url": "https://t.co/kFyxHwlp1Q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kFyxHwlp1Q",
+							"expanded_url": "https://www.futurejournalismtoday.eu",
+							"display_url": "futurejournalismtoday.eu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1166,
+			"friends_count": 618,
+			"listed_count": 55,
+			"created_at": "Wed Mar 28 08:27:55 +0000 2007",
+			"favourites_count": 871,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 202,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "7AD2AC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1270288480652988416/Q8teIoxJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270288480652988416/Q8teIoxJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2636081/1600767668",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Wat je als creatieve maker allemaal met AI kunt? Editie #1 van mijn nieuwsbrief Super Vision is out now: “#1 Deze GANs wil je voeren! 💻🖼 ” is uit. Lees hem hier: https://t.co/Ce2QNFQyue"
+	},
+	{
 		"created_at": "Wed Sep 01 19:52:43 +0000 2021",
 		"id": 1433155882758643700,
 		"id_str": "1433155882758643717",
