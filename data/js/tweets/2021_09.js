@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 03 10:42:06 +0000 2021",
+		"id": 1433742090765230000,
+		"id_str": "1433742090765230087",
+		"full_text": "Wat een mooi nieuws voor mediawetenschap. Hopelijk hiermee weer een sprong voorwaarts in breder maatschappelijk begrip voor kansen en krachten van digitale kanalen. https://t.co/Jv2ym7c93U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Jv2ym7c93U",
+					"expanded_url": "https://twitter.com/uniutrecht/status/1433672867074519050",
+					"display_url": "twitter.com/uniutrecht/sta…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8756,
+			"friends_count": 620,
+			"listed_count": 0,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8162,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65082,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1433672867074519000,
+		"quoted_status_id_str": "1433672867074519050",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Jv2ym7c93U",
+			"expanded": "https://twitter.com/uniutrecht/status/1433672867074519050",
+			"display": "twitter.com/uniutrecht/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 03 06:07:02 +0000 2021",
+			"id": 1433672867074519000,
+			"id_str": "1433672867074519050",
+			"full_text": "🥳Geweldig nieuws: onze mediawetenschapper José van Dijck krijgt een NWO-Spinozapremie van 2,5 miljoen euro! De Spinozapremie is de hoogste wetenschappelijke onderscheiding in Nederland. Lees hier meer \n🔗https://t.co/mlTs5a0eEZ #Spinoza @NWONieuws @HumanitiesUU https://t.co/HMUtdiQJZM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				260
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Spinoza",
+						"indices": [
+							227,
+							235
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NWONieuws",
+						"name": "NWO",
+						"id": 626395120,
+						"id_str": "626395120",
+						"indices": [
+							236,
+							246
+						]
+					},
+					{
+						"screen_name": "HumanitiesUU",
+						"name": "Humanities Utrecht",
+						"id": 31103795,
+						"id_str": "31103795",
+						"indices": [
+							247,
+							260
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/mlTs5a0eEZ",
+						"expanded_url": "https://www.uu.nl/nieuws/nwo-spinozapremie-voor-mediawetenschapper-jose-van-dijck",
+						"display_url": "uu.nl/nieuws/nwo-spi…",
+						"indices": [
+							203,
+							226
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1433672864423719000,
+						"id_str": "1433672864423718930",
+						"indices": [
+							261,
+							284
+						],
+						"media_url": "http://pbs.twimg.com/media/E-Vt39AXsBIKorp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E-Vt39AXsBIKorp.jpg",
+						"url": "https://t.co/HMUtdiQJZM",
+						"display_url": "pic.twitter.com/HMUtdiQJZM",
+						"expanded_url": "https://twitter.com/UniUtrecht/status/1433672867074519050/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1433672864423719000,
+						"id_str": "1433672864423718930",
+						"indices": [
+							261,
+							284
+						],
+						"media_url": "http://pbs.twimg.com/media/E-Vt39AXsBIKorp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E-Vt39AXsBIKorp.jpg",
+						"url": "https://t.co/HMUtdiQJZM",
+						"display_url": "pic.twitter.com/HMUtdiQJZM",
+						"expanded_url": "https://twitter.com/UniUtrecht/status/1433672867074519050/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.coosto.com\" rel=\"nofollow\">Coosto</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 33548291,
+				"id_str": "33548291",
+				"name": "Universiteit Utrecht",
+				"screen_name": "UniUtrecht",
+				"location": "Utrecht, Nederland",
+				"description": "Bright minds, better future. Duurzaamheid, life sciences, instituties voor open samenlevingen, jeugdonderzoek en onderwijsinnovatie. For English: @UtrechtUni",
+				"url": "https://t.co/X1boP9ZUiN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/X1boP9ZUiN",
+								"expanded_url": "http://www.uu.nl",
+								"display_url": "uu.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 53408,
+				"friends_count": 381,
+				"listed_count": 575,
+				"created_at": "Mon Apr 20 15:24:19 +0000 2009",
+				"favourites_count": 5861,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18972,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/458549853077774336/0pzRKaLW_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/458549853077774336/0pzRKaLW_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/33548291/1587560144",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 74,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Wat een mooi nieuws voor mediawetenschap. Hopelijk hiermee weer een sprong voorwaarts in breder maatschappelijk begrip voor kansen en krachten van digitale kanalen. https://t.co/Jv2ym7c93U"
+	},
+	{
 		"created_at": "Thu Sep 02 20:59:21 +0000 2021",
 		"id": 1433535036309991400,
 		"id_str": "1433535036309991424",
