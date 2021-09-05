@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 05 13:09:02 +0000 2021",
+		"id": 1434473249585385500,
+		"id_str": "1434503840997445637",
+		"full_text": "VACcInAtIeS zIjN vErGiF!! https://t.co/FTrsNj5x66",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1434473232803979300,
+					"id_str": "1434473232803979264",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/E-hFzhkWYAALr8-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-hFzhkWYAALr8-.jpg",
+					"url": "https://t.co/FTrsNj5x66",
+					"display_url": "pic.twitter.com/FTrsNj5x66",
+					"expanded_url": "https://twitter.com/Martinlerock/status/1434473249585385476/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 643,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 876,
+							"h": 828,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 876,
+							"h": 828,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1434473232803979300,
+					"id_str": "1434473232803979264",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/E-hFzhkWYAALr8-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-hFzhkWYAALr8-.jpg",
+					"url": "https://t.co/FTrsNj5x66",
+					"display_url": "pic.twitter.com/FTrsNj5x66",
+					"expanded_url": "https://twitter.com/Martinlerock/status/1434473249585385476/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 643,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 876,
+							"h": 828,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 876,
+							"h": 828,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1434473234590847000,
+					"id_str": "1434473234590846977",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/E-hFzoOX0AEMbgR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-hFzoOX0AEMbgR.jpg",
+					"url": "https://t.co/FTrsNj5x66",
+					"display_url": "pic.twitter.com/FTrsNj5x66",
+					"expanded_url": "https://twitter.com/Martinlerock/status/1434473249585385476/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 828,
+							"h": 1073,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 1073,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 525,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1434473236180373500,
+					"id_str": "1434473236180373505",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/E-hFzuJWEAEVti7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-hFzuJWEAEVti7.jpg",
+					"url": "https://t.co/FTrsNj5x66",
+					"display_url": "pic.twitter.com/FTrsNj5x66",
+					"expanded_url": "https://twitter.com/Martinlerock/status/1434473249585385476/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 828,
+							"h": 871,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 646,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 871,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20994024,
+			"id_str": "20994024",
+			"name": "Martin Le Rock",
+			"screen_name": "Martinlerock",
+			"location": "",
+			"description": "Marketing/communicatie | fietst eigenlijk te weinig | verkozen tot beste twitteraar 2004 | houdt van festivals, muziek, film, series en @ellenngng",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 913,
+			"friends_count": 559,
+			"listed_count": 7,
+			"created_at": "Mon Feb 16 15:31:26 +0000 2009",
+			"favourites_count": 2152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 16084,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1362858905043431439/8FUPes6Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1362858905043431439/8FUPes6Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20994024/1525790943",
+			"profile_link_color": "A89F72",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "VACcInAtIeS zIjN vErGiF!! https://t.co/FTrsNj5x66"
+	},
+	{
 		"created_at": "Sun Sep 05 09:01:44 +0000 2021",
 		"id": 1434441607961579500,
 		"id_str": "1434441607961579520",
