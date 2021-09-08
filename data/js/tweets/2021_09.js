@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 08 17:20:11 +0000 2021",
+		"id": 1435654208280223700,
+		"id_str": "1435654208280223747",
+		"full_text": "Waitwhat? https://t.co/SUTjwMULIE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SUTjwMULIE",
+					"expanded_url": "https://twitter.com/joincommunities/status/1435649202810404864",
+					"display_url": "twitter.com/joincommunitie…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8764,
+			"friends_count": 679,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1435649202810404900,
+		"quoted_status_id_str": "1435649202810404864",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SUTjwMULIE",
+			"expanded": "https://twitter.com/joincommunities/status/1435649202810404864",
+			"display": "twitter.com/joincommunitie…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 08 17:00:17 +0000 2021",
+			"id": 1435649202810404900,
+			"id_str": "1435649202810404864",
+			"full_text": "imagine an alternate timeline where everyone just gets you\n\nsay hi to Communities—the place to connect with people who Tweet like you. testing now on iOS and web, Android soon! https://t.co/TJdKwUa4D2",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				176
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1435649157079896000,
+						"id_str": "1435649157079896067",
+						"indices": [
+							177,
+							200
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435649157079896067/pu/img/OQkKNjrnT2RJU2lI.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435649157079896067/pu/img/OQkKNjrnT2RJU2lI.jpg",
+						"url": "https://t.co/TJdKwUa4D2",
+						"display_url": "pic.twitter.com/TJdKwUa4D2",
+						"expanded_url": "https://twitter.com/JoinCommunities/status/1435649202810404864/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1435649157079896000,
+						"id_str": "1435649157079896067",
+						"indices": [
+							177,
+							200
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1435649157079896067/pu/img/OQkKNjrnT2RJU2lI.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1435649157079896067/pu/img/OQkKNjrnT2RJU2lI.jpg",
+						"url": "https://t.co/TJdKwUa4D2",
+						"display_url": "pic.twitter.com/TJdKwUa4D2",
+						"expanded_url": "https://twitter.com/JoinCommunities/status/1435649202810404864/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 35800,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1435649157079896067/pu/vid/540x540/sQx4gwI2ZqItcTTe.mp4?tag=12"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1435649157079896067/pu/vid/720x720/YXh3NznWIoqcGaHQ.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1435649157079896067/pu/pl/DJi_scUODR3vbky8.m3u8?tag=12&container=fmp4&v=3fa"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1435649157079896067/pu/vid/320x320/9PjJDX_aRxqBTOVk.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1433894099178774500,
+				"id_str": "1433894099178774532",
+				"name": "Twitter Communities",
+				"screen_name": "JoinCommunities",
+				"location": "",
+				"description": "Gather & Vibe",
+				"url": "https://t.co/HqlxNgBgoF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HqlxNgBgoF",
+								"expanded_url": "https://help.twitter.com/using-twitter/communities",
+								"display_url": "help.twitter.com/using-twitter/…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 478,
+				"friends_count": 17,
+				"listed_count": 9,
+				"created_at": "Fri Sep 03 20:46:45 +0000 2021",
+				"favourites_count": 2,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 9,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1435647768874344450/-ywgSS4J_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1435647768874344450/-ywgSS4J_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1433894099178774532/1631120135",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 92,
+			"favorite_count": 222,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Waitwhat? https://t.co/SUTjwMULIE"
+	},
+	{
 		"created_at": "Wed Sep 08 13:45:48 +0000 2021",
 		"id": 1435600258717864000,
 		"id_str": "1435600258717863940",
