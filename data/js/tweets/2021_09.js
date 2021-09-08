@@ -1,6 +1,240 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 08 04:12:00 +0000 2021",
+		"id": 1435452840315523000,
+		"id_str": "1435455856984961024",
+		"full_text": "\"Long Way\" is the new single by Eddie Vedder from his upcoming solo album, Earthling. \n\nListen to the track now wherever you stream music, &amp; pre-order a special limited-edition 7\" vinyl featuring \"Long Way\" &amp; the soon-to-be-released song, \"The Haves\": https://t.co/hX0oMtNr0Z https://t.co/GKF0hKgDXS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hX0oMtNr0Z",
+					"expanded_url": "http://eddievedder.lnk.to/LongWayTP",
+					"display_url": "eddievedder.lnk.to/LongWayTP",
+					"indices": [
+						260,
+						283
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1435426334948343800,
+					"id_str": "1435426334948343810",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/E-uo8vZXIAUOSfW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-uo8vZXIAUOSfW.jpg",
+					"url": "https://t.co/GKF0hKgDXS",
+					"display_url": "pic.twitter.com/GKF0hKgDXS",
+					"expanded_url": "https://twitter.com/PearlJam/status/1435452840315523076/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1435426334948343800,
+					"id_str": "1435426334948343810",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/E-uo8vZXIAUOSfW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-uo8vZXIAUOSfW.jpg",
+					"url": "https://t.co/GKF0hKgDXS",
+					"display_url": "pic.twitter.com/GKF0hKgDXS",
+					"expanded_url": "https://twitter.com/PearlJam/status/1435452840315523076/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 30030,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1435426334948343810/vid/540x540/jcM4TLI4z0YU65ch.mp4?tag=14"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1435426334948343810/vid/720x720/5Wsv94PvpOI-lMJw.mp4?tag=14"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1435426334948343810/vid/320x320/PeHzENopLiwB1Yov.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1435426334948343810/pl/OGuF6rjHiUDqp8Gs.m3u8?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://eddievedder.lnk.to/LongWayTP"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15155074,
+			"id_str": "15155074",
+			"name": "Pearl Jam",
+			"screen_name": "PearlJam",
+			"location": "Seattle, WA",
+			"description": "Gigaton - Out Now. Listen to the new album: https://t.co/7zBEnR3rMU",
+			"url": "https://t.co/J95aoJ5FKF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J95aoJ5FKF",
+							"expanded_url": "http://www.PearlJam.com",
+							"display_url": "PearlJam.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7zBEnR3rMU",
+							"expanded_url": "http://pearljam.lnk.to/gigatonTw",
+							"display_url": "pearljam.lnk.to/gigatonTw",
+							"indices": [
+								44,
+								67
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3510404,
+			"friends_count": 924,
+			"listed_count": 17049,
+			"created_at": "Wed Jun 18 06:59:14 +0000 2008",
+			"favourites_count": 4341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9104,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216784176659279874/NCaJxxiE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216784176659279874/NCaJxxiE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15155074/1585282596",
+			"profile_link_color": "A17F59",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 69,
+		"favorite_count": 359,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Long Way\" is the new single by Eddie Vedder from his upcoming solo album, Earthling. \n\nListen to the track now wherever you stream music, &amp; pre-order a special limited-edition 7\" vinyl featuring \"Long Way\" &amp; the soon-to-be-released song, \"The Haves\": https://t.co/hX0oMtNr0Z https://t.co/GKF0hKgDXS"
+	},
+	{
 		"created_at": "Tue Sep 07 19:35:16 +0000 2021",
 		"id": 1435325815626023000,
 		"id_str": "1435325815626022912",
