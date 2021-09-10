@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 10 16:09:07 +0000 2021",
+		"id": 1436343820770238500,
+		"id_str": "1436361100342272005",
+		"full_text": "September 10, 1991 – \"Smells Like Teen Spirit\" was released to record stores in the US. \n\n\"It was a revolution in a way. It was a feeling in the air, there was this new thing happening and we were part of it.\" -Kurt Cobain\n\n#Nevermind30 https://t.co/Bz2oe6hJeh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Nevermind30",
+					"indices": [
+						224,
+						236
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1436343179075326000,
+					"id_str": "1436343179075325952",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/E-7qguRXEAA0vGX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-7qguRXEAA0vGX.jpg",
+					"url": "https://t.co/Bz2oe6hJeh",
+					"display_url": "pic.twitter.com/Bz2oe6hJeh",
+					"expanded_url": "https://twitter.com/TheGrungeScene/status/1436343820770238479/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 979,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 650,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 979,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436343179075326000,
+					"id_str": "1436343179075325952",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/E-7qguRXEAA0vGX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-7qguRXEAA0vGX.jpg",
+					"url": "https://t.co/Bz2oe6hJeh",
+					"display_url": "pic.twitter.com/Bz2oe6hJeh",
+					"expanded_url": "https://twitter.com/TheGrungeScene/status/1436343820770238479/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 979,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 650,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 979,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 89158522,
+			"id_str": "89158522",
+			"name": "The Grunge Scene",
+			"screen_name": "TheGrungeScene",
+			"location": "Seattle and Olympia",
+			"description": "Grunge Historian |  YouTube Creator | \n\n\nYouTube | https://t.co/4Rviaoocrl\n\nCheck Out Store Below",
+			"url": "https://t.co/A9qgKJFY7Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A9qgKJFY7Y",
+							"expanded_url": "https://www.thegrungescene.store/",
+							"display_url": "thegrungescene.store",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4Rviaoocrl",
+							"expanded_url": "https://www.youtube.com/c/TheGrungeScene",
+							"display_url": "youtube.com/c/TheGrungeSce…",
+							"indices": [
+								51,
+								74
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 76939,
+			"friends_count": 248,
+			"listed_count": 441,
+			"created_at": "Wed Nov 11 10:53:58 +0000 2009",
+			"favourites_count": 1616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "00070A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432269053100441602/4mq3h1Vy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432269053100441602/4mq3h1Vy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/89158522/1627835540",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 40,
+		"favorite_count": 110,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "September 10, 1991 – \"Smells Like Teen Spirit\" was released to record stores in the US. \n\n\"It was a revolution in a way. It was a feeling in the air, there was this new thing happening and we were part of it.\" -Kurt Cobain\n\n#Nevermind30 https://t.co/Bz2oe6hJeh"
+	},
+	{
 		"created_at": "Fri Sep 10 06:10:53 +0000 2021",
 		"id": 1436207875572084700,
 		"id_str": "1436210550090964999",
