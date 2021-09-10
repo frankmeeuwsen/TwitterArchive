@@ -1,6 +1,200 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 10 06:10:53 +0000 2021",
+		"id": 1436207875572084700,
+		"id_str": "1436210550090964999",
+		"full_text": "De Lubro gaat los! Zaterdag (=morgen!) is het Open Monumentendag en dan vertellen wij je alles over dit prachtige pand. Van de geschiedenis als bakkerij, de tijd van verval tot het heden met Tommy en Dagger! Zien we tussen 10:00 en 17:00? #openmonumentendag  📸©\n@ghostsofutrecht https://t.co/PyZoalxyda",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "openmonumentendag",
+					"indices": [
+						239,
+						257
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ghostsofutrecht",
+					"name": "Ghosts Of Utrecht",
+					"id": 908432446873579500,
+					"id_str": "908432446873579520",
+					"indices": [
+						262,
+						278
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1436207874145935400,
+					"id_str": "1436207874145935369",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/E-5vc8IWYAkO3pt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-5vc8IWYAkO3pt.jpg",
+					"url": "https://t.co/PyZoalxyda",
+					"display_url": "pic.twitter.com/PyZoalxyda",
+					"expanded_url": "https://twitter.com/Kaliberinteract/status/1436207875572084738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 503,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 888,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1066,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436207874145935400,
+					"id_str": "1436207874145935369",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/E-5vc8IWYAkO3pt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-5vc8IWYAkO3pt.jpg",
+					"url": "https://t.co/PyZoalxyda",
+					"display_url": "pic.twitter.com/PyZoalxyda",
+					"expanded_url": "https://twitter.com/Kaliberinteract/status/1436207875572084738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 503,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 888,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1066,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10932162,
+			"id_str": "10932162",
+			"name": "Kaliber",
+			"screen_name": "Kaliberinteract",
+			"location": "Utrecht",
+			"description": "Kaliber. Digitaal bureau dat strategie, creativiteit en technologie combineert om mensen te activeren.",
+			"url": "http://t.co/0uBteIkGBt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/0uBteIkGBt",
+							"expanded_url": "http://www.kaliber.net",
+							"display_url": "kaliber.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1906,
+			"friends_count": 901,
+			"listed_count": 109,
+			"created_at": "Fri Dec 07 10:50:24 +0000 2007",
+			"favourites_count": 408,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409565370541871109/c4cK-EHv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409565370541871109/c4cK-EHv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10932162/1612193476",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "De Lubro gaat los! Zaterdag (=morgen!) is het Open Monumentendag en dan vertellen wij je alles over dit prachtige pand. Van de geschiedenis als bakkerij, de tijd van verval tot het heden met Tommy en Dagger! Zien we tussen 10:00 en 17:00? #openmonumentendag  📸©\n@ghostsofutrecht https://t.co/PyZoalxyda"
+	},
+	{
 		"created_at": "Thu Sep 09 18:58:31 +0000 2021",
 		"id": 1436041345026642000,
 		"id_str": "1436041345026641923",
