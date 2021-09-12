@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 12 15:20:23 +0000 2021",
+		"id": 1437073614617071600,
+		"id_str": "1437073614617071627",
+		"full_text": "Get your own mothership, use the social satellites to grow your audience. https://t.co/qs8gOp9ChC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qs8gOp9ChC",
+					"expanded_url": "https://twitter.com/ljin18/status/1436765523501518850",
+					"display_url": "twitter.com/ljin18/status/…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8772,
+			"friends_count": 692,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1436765523501518800,
+		"quoted_status_id_str": "1436765523501518850",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qs8gOp9ChC",
+			"expanded": "https://twitter.com/ljin18/status/1436765523501518850",
+			"display": "twitter.com/ljin18/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 11 18:56:09 +0000 2021",
+			"id": 1436765523501518800,
+			"id_str": "1436765523501518850",
+			"full_text": "This image haunts me. Creators aren't owners of their own products - they are cogs in a content factory.\n\n(from @MarkBeylin; https://t.co/u1Ae9leznO) https://t.co/M3bv6YuxMM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				149
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MarkBeylin",
+						"name": "Mark Beylin",
+						"id": 137126152,
+						"id_str": "137126152",
+						"indices": [
+							112,
+							123
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/u1Ae9leznO",
+						"expanded_url": "https://m.mirror.xyz/OlcHFb-umaeoQrmSroGMjRKc2mp2Vm898CBUo0CMHeY",
+						"display_url": "m.mirror.xyz/OlcHFb-umaeoQr…",
+						"indices": [
+							125,
+							148
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1436763187160965000,
+						"id_str": "1436763187160965126",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/media/E_BogaUWYAY_3Ht.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_BogaUWYAY_3Ht.jpg",
+						"url": "https://t.co/M3bv6YuxMM",
+						"display_url": "pic.twitter.com/M3bv6YuxMM",
+						"expanded_url": "https://twitter.com/ljin18/status/1436765523501518850/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 339,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 599,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1022,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1436763187160965000,
+						"id_str": "1436763187160965126",
+						"indices": [
+							150,
+							173
+						],
+						"media_url": "http://pbs.twimg.com/media/E_BogaUWYAY_3Ht.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E_BogaUWYAY_3Ht.jpg",
+						"url": "https://t.co/M3bv6YuxMM",
+						"display_url": "pic.twitter.com/M3bv6YuxMM",
+						"expanded_url": "https://twitter.com/ljin18/status/1436765523501518850/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 339,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 599,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1022,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 774642558853009400,
+				"id_str": "774642558853009408",
+				"name": "Li Jin",
+				"screen_name": "ljin18",
+				"location": "New York, NY",
+				"description": "\"It Girl in venture capital\" - @nytimes | Making things @AtelierVentures @sidehustlestack @meansofcreation ✨",
+				"url": "https://t.co/8oPjA7pctA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8oPjA7pctA",
+								"expanded_url": "http://li.substack.com",
+								"display_url": "li.substack.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 93622,
+				"friends_count": 1106,
+				"listed_count": 1665,
+				"created_at": "Sat Sep 10 16:15:53 +0000 2016",
+				"favourites_count": 12361,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3321,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1327121628485054466/q3nHrFYA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1327121628485054466/q3nHrFYA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/774642558853009408/1586722582",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 68,
+			"favorite_count": 352,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Get your own mothership, use the social satellites to grow your audience. https://t.co/qs8gOp9ChC"
+	},
+	{
 		"created_at": "Sun Sep 12 11:51:40 +0000 2021",
 		"id": 1437021086051352600,
 		"id_str": "1437021086051352578",
