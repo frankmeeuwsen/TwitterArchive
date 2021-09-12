@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sun Sep 12 06:14:53 +0000 2021",
+		"id": 1436753169757917200,
+		"id_str": "1436936334455808001",
+		"full_text": "In a way, art NFTs reflect a growing nihilistic view on investing\n\nThey’re not a business where you can predict future cash flow. They’re a speculative gamble, bought in the hope a greater fool will pay more, couched in the conceit we’re being patrons of the arts by participating",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1436749101408952300,
+		"in_reply_to_status_id_str": "1436749101408952328",
+		"in_reply_to_user_id": 2948211,
+		"in_reply_to_user_id_str": "2948211",
+		"in_reply_to_screen_name": "rsg",
+		"user": {
+			"id": 2948211,
+			"id_str": "2948211",
+			"name": "Bobby Goodlatte",
+			"screen_name": "rsg",
+			"location": "Miami",
+			"description": "Product designer & startup investor @Form_cap Angel @Coinbase @Linear @QuillChat @Bitski @Expo @AlmanacDocs @Yumi @BeOnDeck @Nearby @ZealAPI @Gowalla +75 more",
+			"url": "https://t.co/8CLVTlxuvf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8CLVTlxuvf",
+							"expanded_url": "http://formcapital.com",
+							"display_url": "formcapital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64836,
+			"friends_count": 1740,
+			"listed_count": 1053,
+			"created_at": "Fri Mar 30 08:05:27 +0000 2007",
+			"favourites_count": 90891,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278244390176092161/tWErC_xw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278244390176092161/tWErC_xw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2948211/1610350725",
+			"profile_link_color": "3B5998",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 432,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "In a way, art NFTs reflect a growing nihilistic view on investing\n\nThey’re not a business where you can predict future cash flow. They’re a speculative gamble, bought in the hope a greater fool will pay more, couched in the conceit we’re being patrons of the arts by participating"
+	},
+	{
 		"created_at": "Sat Sep 11 20:02:08 +0000 2021",
 		"id": 1436782129820614700,
 		"id_str": "1436782129820614656",
