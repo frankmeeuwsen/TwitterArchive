@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 13 21:13:57 +0000 2021",
+		"id": 1437524977415299000,
+		"id_str": "1437524977415299072",
+		"full_text": "@merchandise @op1npo @hugodejonge @ferdgrapperhaus Ik stuur ons ma er wel op af. Die zegt bij alles \"da is toch gin danse man!\" https://t.co/XeiqXVT49S",
+		"truncated": false,
+		"display_text_range": [
+			51,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "merchandise",
+					"name": "Richard Theuws",
+					"id": 7167342,
+					"id_str": "7167342",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "op1npo",
+					"name": "Op1",
+					"id": 17022916,
+					"id_str": "17022916",
+					"indices": [
+						13,
+						20
+					]
+				},
+				{
+					"screen_name": "hugodejonge",
+					"name": "Hugo de Jonge",
+					"id": 29785926,
+					"id_str": "29785926",
+					"indices": [
+						21,
+						33
+					]
+				},
+				{
+					"screen_name": "ferdgrapperhaus",
+					"name": "Ferd Grapperhaus",
+					"id": 422968220,
+					"id_str": "422968220",
+					"indices": [
+						34,
+						50
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1437524969815150600,
+					"id_str": "1437524969815150592",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E_MdV_2WEAArhll.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E_MdV_2WEAArhll.jpg",
+					"url": "https://t.co/XeiqXVT49S",
+					"display_url": "pic.twitter.com/XeiqXVT49S",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1437524977415299072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1437524969815150600,
+					"id_str": "1437524969815150592",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E_MdV_2WEAArhll.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E_MdV_2WEAArhll.jpg",
+					"url": "https://t.co/XeiqXVT49S",
+					"display_url": "pic.twitter.com/XeiqXVT49S",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1437524977415299072/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E_MdV_2WEAArhll.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1437514846296236000,
+		"in_reply_to_status_id_str": "1437514846296236032",
+		"in_reply_to_user_id": 7167342,
+		"in_reply_to_user_id_str": "7167342",
+		"in_reply_to_screen_name": "merchandise",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8769,
+			"friends_count": 690,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8246,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@merchandise @op1npo @hugodejonge @ferdgrapperhaus Ik stuur ons ma er wel op af. Die zegt bij alles \"da is toch gin danse man!\" https://t.co/XeiqXVT49S"
+	},
+	{
 		"created_at": "Mon Sep 13 17:24:41 +0000 2021",
 		"id": 1437467283748761600,
 		"id_str": "1437467283748761615",
