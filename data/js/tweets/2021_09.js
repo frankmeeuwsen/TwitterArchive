@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 14 18:08:31 +0000 2021",
+		"id": 1437840700918444000,
+		"id_str": "1437840700918444035",
+		"full_text": "Afgezien van de speculatie en hype is dit wel een interessant idee @erwblo https://t.co/dHLylEApRa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erwblo",
+					"name": "Erwin Blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						67,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dHLylEApRa",
+					"expanded_url": "https://twitter.com/shaanvp/status/1437808708998688774",
+					"display_url": "twitter.com/shaanvp/status…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8769,
+			"friends_count": 688,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1437808708998688800,
+		"quoted_status_id_str": "1437808708998688774",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dHLylEApRa",
+			"expanded": "https://twitter.com/shaanvp/status/1437808708998688774",
+			"display": "twitter.com/shaanvp/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 14 16:01:24 +0000 2021",
+			"id": 1437808708998688800,
+			"id_str": "1437808708998688774",
+			"full_text": "OK let's try something fun. \n\nI just minted a new NFT called \"5 Minutes of Fame\" on @opensea \n\nThis is a 1 of 1. \n\nAnd it's not just a picture, it has actual utility built in. \n\nHere's how it works:",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				198
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "opensea",
+						"name": "OpenSea",
+						"id": 946213559213555700,
+						"id_str": "946213559213555712",
+						"indices": [
+							84,
+							92
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 101354595,
+				"id_str": "101354595",
+				"name": "Shaan Puri",
+				"screen_name": "ShaanVP",
+				"location": "San Francisco, CA",
+				"description": "goals for 2021 - #1 Be in a great mood daily #2 Make $10M by December #3 Get into phenomenal shape #4 Grow fan base to 100k true fans",
+				"url": "https://t.co/r1kxix0SUv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/r1kxix0SUv",
+								"expanded_url": "http://www.shaanpuri.com",
+								"display_url": "shaanpuri.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 165720,
+				"friends_count": 10327,
+				"listed_count": 2201,
+				"created_at": "Sun Jan 03 00:47:50 +0000 2010",
+				"favourites_count": 14937,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10157,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1433108361839472642/3d54PCqW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1433108361839472642/3d54PCqW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/101354595/1559284662",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 101,
+			"favorite_count": 769,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Afgezien van de speculatie en hype is dit wel een interessant idee @erwblo https://t.co/dHLylEApRa"
+	},
+	{
 		"created_at": "Tue Sep 14 12:55:25 +0000 2021",
 		"id": 1437761905242910700,
 		"id_str": "1437761905242910723",
