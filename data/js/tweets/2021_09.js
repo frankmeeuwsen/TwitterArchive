@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 15 16:25:57 +0000 2021",
+		"id": 1438177275019673600,
+		"id_str": "1438177275019673606",
+		"full_text": "Ik gebruik de nieuwe apps niet maar Readwise wordt zo echt steeds rijker en beter. https://t.co/aL641bPKoN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aL641bPKoN",
+					"expanded_url": "https://twitter.com/readwiseio/status/1438138576932311044",
+					"display_url": "twitter.com/readwiseio/sta…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8768,
+			"friends_count": 687,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8258,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65193,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1438138576932311000,
+		"quoted_status_id_str": "1438138576932311044",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aL641bPKoN",
+			"expanded": "https://twitter.com/readwiseio/status/1438138576932311044",
+			"display": "twitter.com/readwiseio/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 15 13:52:10 +0000 2021",
+			"id": 1438138576932311000,
+			"id_str": "1438138576932311044",
+			"full_text": "📥 NEW IMPORT SOURCES\nWe’re stoked to share FIVE new reading &amp; podcast apps which sync highlights seamlessly with Readwise using our public API. Let us introduce our newest integration partners 👇 https://t.co/JOSMDB2fWZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				198
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1438138569558794200,
+						"id_str": "1438138569558794246",
+						"indices": [
+							199,
+							222
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/E_VLaNBXIAYQk19.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E_VLaNBXIAYQk19.jpg",
+						"url": "https://t.co/JOSMDB2fWZ",
+						"display_url": "pic.twitter.com/JOSMDB2fWZ",
+						"expanded_url": "https://twitter.com/readwiseio/status/1438138576932311044/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1438138569558794200,
+						"id_str": "1438138569558794246",
+						"indices": [
+							199,
+							222
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/E_VLaNBXIAYQk19.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E_VLaNBXIAYQk19.jpg",
+						"url": "https://t.co/JOSMDB2fWZ",
+						"display_url": "pic.twitter.com/JOSMDB2fWZ",
+						"expanded_url": "https://twitter.com/readwiseio/status/1438138576932311044/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 450,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/E_VLaNBXIAYQk19.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 920321515077414900,
+				"id_str": "920321515077414912",
+				"name": "Readwise",
+				"screen_name": "readwiseio",
+				"location": "",
+				"description": "Readwise makes it easy to save and revisit your best highlights from Kindle, Pocket, Instapaper, iBooks, Twitter and more.",
+				"url": "https://t.co/nrgToNhKqN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nrgToNhKqN",
+								"expanded_url": "https://readwise.io",
+								"display_url": "readwise.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 64884,
+				"friends_count": 3431,
+				"listed_count": 620,
+				"created_at": "Tue Oct 17 16:12:02 +0000 2017",
+				"favourites_count": 2410,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 139049,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1333582244817100801/W9vXWh4U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1333582244817100801/W9vXWh4U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/920321515077414912/1628820387",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 41,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik gebruik de nieuwe apps niet maar Readwise wordt zo echt steeds rijker en beter. https://t.co/aL641bPKoN"
+	},
+	{
 		"created_at": "Wed Sep 15 10:36:40 +0000 2021",
 		"id": 1438089378551799800,
 		"id_str": "1438089378551799812",
