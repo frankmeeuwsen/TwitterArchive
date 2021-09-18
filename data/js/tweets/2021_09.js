@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 18 17:11:37 +0000 2021",
+		"id": 1439259660658241500,
+		"id_str": "1439275934792790016",
+		"full_text": "👿 DOOM Version 1.9\nSHAREWARE VERSION\nPLEASE DISTRIBUTE!!\n\n💾 Lets install DOOM on twitter a thread... 🧵 https://t.co/x6rpWgeT26",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1439259479124562000,
+					"id_str": "1439259479124561921",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/E_lG3ujVUAEKqWN.png",
+					"media_url_https": "https://pbs.twimg.com/media/E_lG3ujVUAEKqWN.png",
+					"url": "https://t.co/x6rpWgeT26",
+					"display_url": "pic.twitter.com/x6rpWgeT26",
+					"expanded_url": "https://twitter.com/GalacticFurball/status/1439259660658241539/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1439259479124562000,
+					"id_str": "1439259479124561921",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/E_lG3ujVUAEKqWN.png",
+					"media_url_https": "https://pbs.twimg.com/media/E_lG3ujVUAEKqWN.png",
+					"url": "https://t.co/x6rpWgeT26",
+					"display_url": "pic.twitter.com/x6rpWgeT26",
+					"expanded_url": "https://twitter.com/GalacticFurball/status/1439259660658241539/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 675,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1439259488729526300,
+					"id_str": "1439259488729526277",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/E_lG4SVVcAUK9Rq.png",
+					"media_url_https": "https://pbs.twimg.com/media/E_lG4SVVcAUK9Rq.png",
+					"url": "https://t.co/x6rpWgeT26",
+					"display_url": "pic.twitter.com/x6rpWgeT26",
+					"expanded_url": "https://twitter.com/GalacticFurball/status/1439259660658241539/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1439259500767154200,
+					"id_str": "1439259500767154176",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/E_lG4_LVEAAclU2.png",
+					"media_url_https": "https://pbs.twimg.com/media/E_lG4_LVEAAclU2.png",
+					"url": "https://t.co/x6rpWgeT26",
+					"display_url": "pic.twitter.com/x6rpWgeT26",
+					"expanded_url": "https://twitter.com/GalacticFurball/status/1439259660658241539/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1439259629834309600,
+					"id_str": "1439259629834309633",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/E_lHAf_VkAEXskb.png",
+					"media_url_https": "https://pbs.twimg.com/media/E_lHAf_VkAEXskb.png",
+					"url": "https://t.co/x6rpWgeT26",
+					"display_url": "pic.twitter.com/x6rpWgeT26",
+					"expanded_url": "https://twitter.com/GalacticFurball/status/1439259660658241539/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 900,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17369472,
+			"id_str": "17369472",
+			"name": "DISCATTE.EXE 💾🐱",
+			"screen_name": "GalacticFurball",
+			"location": "Earth, SOL, Intergalactic",
+			"description": "(=ↀωↀ=) Ancient Intergalactic Technopagan, Archivist, Artist, Meowin Cat\n\nBLM ACAB 🏳️‍⚧️RIGHTS\n\n💬 iTL/cCc https://t.co/LI30CFIB5j \n🪙 SUPPORT https://t.co/nnkc7HETIb",
+			"url": "https://t.co/W4MMO22LSo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/W4MMO22LSo",
+							"expanded_url": "http://discatte.github.io",
+							"display_url": "discatte.github.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/LI30CFIB5j",
+							"expanded_url": "http://discord.gg/f4TGc4k5gX",
+							"display_url": "discord.gg/f4TGc4k5gX",
+							"indices": [
+								106,
+								129
+							]
+						},
+						{
+							"url": "https://t.co/nnkc7HETIb",
+							"expanded_url": "http://ko-fi.com/discatte",
+							"display_url": "ko-fi.com/discatte",
+							"indices": [
+								141,
+								164
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3946,
+			"friends_count": 1002,
+			"listed_count": 58,
+			"created_at": "Thu Nov 13 17:26:10 +0000 2008",
+			"favourites_count": 21856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14929,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "005078",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1354974651202502657/VnNXREbF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354974651202502657/VnNXREbF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17369472/1628035273",
+			"profile_link_color": "FF00FF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "333333",
+			"profile_text_color": "F7D65F",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 160,
+		"favorite_count": 362,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "👿 DOOM Version 1.9\nSHAREWARE VERSION\nPLEASE DISTRIBUTE!!\n\n💾 Lets install DOOM on twitter a thread... 🧵 https://t.co/x6rpWgeT26"
+	},
+	{
 		"created_at": "Sat Sep 18 00:22:24 +0000 2021",
 		"id": 1439021953906532400,
 		"id_str": "1439021953906532355",
