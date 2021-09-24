@@ -1,6 +1,707 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 24 20:50:54 +0000 2021",
+		"id": 1441505445840146400,
+		"id_str": "1441505445840146433",
+		"full_text": "En als we dan toch bezig zijn. Check Hollandsche Gitaarherrie van Rockford. Die gasten rocken de scene al zo lang en verdienen de aandacht! https://t.co/HcVO75SS6t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HcVO75SS6t",
+					"expanded_url": "https://twitter.com/signalchords/status/1429109781277679618",
+					"display_url": "twitter.com/signalchords/s…",
+					"indices": [
+						140,
+						163
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8761,
+			"friends_count": 670,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1429109781277679600,
+		"quoted_status_id_str": "1429109781277679618",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HcVO75SS6t",
+			"expanded": "https://twitter.com/signalchords/status/1429109781277679618",
+			"display": "twitter.com/signalchords/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 21 15:54:58 +0000 2021",
+			"id": 1429109781277679600,
+			"id_str": "1429109781277679618",
+			"full_text": "📡”Shade” by ROCKFORD\nLabel: @grungepoprecord \n🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥\n#rockford #shade #grungepoprecords #newgrunge #newgrungeband #grunge #grungemusic #grungeband #grungesong #rock #rockband #newrock #rocksong #stonerrock #netherlands #heavystoner #stonergrungeband https://t.co/JDabznbsrN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				255
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "rockford",
+						"indices": [
+							59,
+							68
+						]
+					},
+					{
+						"text": "shade",
+						"indices": [
+							69,
+							75
+						]
+					},
+					{
+						"text": "grungepoprecords",
+						"indices": [
+							76,
+							93
+						]
+					},
+					{
+						"text": "newgrunge",
+						"indices": [
+							94,
+							104
+						]
+					},
+					{
+						"text": "newgrungeband",
+						"indices": [
+							105,
+							119
+						]
+					},
+					{
+						"text": "grunge",
+						"indices": [
+							120,
+							127
+						]
+					},
+					{
+						"text": "grungemusic",
+						"indices": [
+							128,
+							140
+						]
+					},
+					{
+						"text": "grungeband",
+						"indices": [
+							141,
+							152
+						]
+					},
+					{
+						"text": "grungesong",
+						"indices": [
+							153,
+							164
+						]
+					},
+					{
+						"text": "rock",
+						"indices": [
+							165,
+							170
+						]
+					},
+					{
+						"text": "rockband",
+						"indices": [
+							171,
+							180
+						]
+					},
+					{
+						"text": "newrock",
+						"indices": [
+							181,
+							189
+						]
+					},
+					{
+						"text": "rocksong",
+						"indices": [
+							190,
+							199
+						]
+					},
+					{
+						"text": "stonerrock",
+						"indices": [
+							200,
+							211
+						]
+					},
+					{
+						"text": "netherlands",
+						"indices": [
+							212,
+							224
+						]
+					},
+					{
+						"text": "heavystoner",
+						"indices": [
+							225,
+							237
+						]
+					},
+					{
+						"text": "stonergrungeband",
+						"indices": [
+							238,
+							255
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "grungepoprecord",
+						"name": "Grunge Pop Records",
+						"id": 1394729710614110200,
+						"id_str": "1394729710614110208",
+						"indices": [
+							28,
+							44
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1429109700663156700,
+						"id_str": "1429109700663156736",
+						"indices": [
+							256,
+							279
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1429109700663156736/pu/img/E34-ZPCah3yUfybD.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1429109700663156736/pu/img/E34-ZPCah3yUfybD.jpg",
+						"url": "https://t.co/JDabznbsrN",
+						"display_url": "pic.twitter.com/JDabznbsrN",
+						"expanded_url": "https://twitter.com/signalchords/status/1429109781277679618/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1429109700663156700,
+						"id_str": "1429109700663156736",
+						"indices": [
+							256,
+							279
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1429109700663156736/pu/img/E34-ZPCah3yUfybD.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1429109700663156736/pu/img/E34-ZPCah3yUfybD.jpg",
+						"url": "https://t.co/JDabznbsrN",
+						"display_url": "pic.twitter.com/JDabznbsrN",
+						"expanded_url": "https://twitter.com/signalchords/status/1429109781277679618/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 26267,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1429109700663156736/pu/vid/540x540/hQTK-qoyuT0w082I.mp4?tag=12"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1429109700663156736/pu/vid/320x320/32bz3UYJLz591IeQ.mp4?tag=12"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1429109700663156736/pu/vid/720x720/-GE-dRKRJqINLnPI.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1429109700663156736/pu/pl/9Ldd_CLuq14TFWSB.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1339559352852750300,
+				"id_str": "1339559352852750339",
+				"name": "SignalChords",
+				"screen_name": "signalchords",
+				"location": "Orlando, FL",
+				"description": "📡 ORL⚡️FL 📺 Daily Music Videos 👊🏻 Rock 🤘🏻Metal ✊🏻Punk & 👉🏻More!",
+				"url": "https://t.co/NsTnIgKkGz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NsTnIgKkGz",
+								"expanded_url": "https://linktr.ee/SignalChords",
+								"display_url": "linktr.ee/SignalChords",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 328,
+				"friends_count": 1502,
+				"listed_count": 0,
+				"created_at": "Thu Dec 17 13:13:44 +0000 2020",
+				"favourites_count": 142,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 974,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1433090474273816580/HhLlvcWq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1433090474273816580/HhLlvcWq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1339559352852750339/1630511712",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ht"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "En als we dan toch bezig zijn. Check Hollandsche Gitaarherrie van Rockford. Die gasten rocken de scene al zo lang en verdienen de aandacht! https://t.co/HcVO75SS6t"
+	},
+	{
+		"created_at": "Fri Sep 24 20:48:58 +0000 2021",
+		"id": 1441504959057465300,
+		"id_str": "1441504959057465352",
+		"full_text": "Met zo’n basloopje en op je tshirt Corporate Magazines Still Suck is de link met 30 jaar geleden snel gelegd. Puik nummer van een fijn label! https://t.co/0vZBsFngLi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0vZBsFngLi",
+					"expanded_url": "https://twitter.com/louderthanwar/status/1439894082550120451",
+					"display_url": "twitter.com/louderthanwar/…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8761,
+			"friends_count": 670,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1439894082550120400,
+		"quoted_status_id_str": "1439894082550120451",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0vZBsFngLi",
+			"expanded": "https://twitter.com/louderthanwar/status/1439894082550120451",
+			"display": "twitter.com/louderthanwar/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 20 10:07:55 +0000 2021",
+			"id": 1439894082550120400,
+			"id_str": "1439894082550120451",
+			"full_text": "WATCH THIS : Stereotyped are a teenage band from Manchester who bring back the grunge https://t.co/l7WtoI47b6 via @louderthanwar",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				128
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "louderthanwar",
+						"name": "Louder Than War",
+						"id": 166964765,
+						"id_str": "166964765",
+						"indices": [
+							114,
+							128
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/l7WtoI47b6",
+						"expanded_url": "https://louderthanwar.com/watch-this-stereotyped-are-a-teenage-band-from-manchester-who-bring-back-the-grunge/",
+						"display_url": "louderthanwar.com/watch-this-ste…",
+						"indices": [
+							86,
+							109
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 166964765,
+				"id_str": "166964765",
+				"name": "Louder Than War",
+				"screen_name": "louderthanwar",
+				"location": "Manchester",
+				"description": "We believe in the power of Rock 'n' Roll. Louder Than War is a website dedicated to the pop culture wars. All views are our own.",
+				"url": "http://t.co/GSOBAepYox",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/GSOBAepYox",
+								"expanded_url": "http://www.louderthanwar.com",
+								"display_url": "louderthanwar.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 39480,
+				"friends_count": 10965,
+				"listed_count": 485,
+				"created_at": "Thu Jul 15 12:30:42 +0000 2010",
+				"favourites_count": 2204,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 54349,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1170342497/ltw-avatar_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170342497/ltw-avatar_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/166964765/1348665160",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Met zo’n basloopje en op je tshirt Corporate Magazines Still Suck is de link met 30 jaar geleden snel gelegd. Puik nummer van een fijn label! https://t.co/0vZBsFngLi"
+	},
+	{
 		"created_at": "Fri Sep 24 19:07:23 +0000 2021",
 		"id": 1441479394179092500,
 		"id_str": "1441479394179092480",
