@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Sat Sep 25 17:14:35 +0000 2021",
+		"id": 1441813396458983400,
+		"id_str": "1441813396458983427",
+		"full_text": "Beste dagje-uit-verslag wat ik vandaag las! Met mariachi-band en emoties! https://t.co/cq3qGiRAwz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cq3qGiRAwz",
+					"expanded_url": "https://twitter.com/merchandise/status/1441706711492878348",
+					"display_url": "twitter.com/merchandise/st…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8761,
+			"friends_count": 671,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65261,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1441706711492878300,
+		"quoted_status_id_str": "1441706711492878348",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cq3qGiRAwz",
+			"expanded": "https://twitter.com/merchandise/status/1441706711492878348",
+			"display": "twitter.com/merchandise/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 25 10:10:40 +0000 2021",
+			"id": 1441706711492878300,
+			"id_str": "1441706711492878348",
+			"full_text": "De vaderlandse pompoenscene is CRAZY. #NKpompoenkweken https://t.co/8pmZZAKDPk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				54
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NKpompoenkweken",
+						"indices": [
+							38,
+							54
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1441706699816013800,
+						"id_str": "1441706699816013825",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/FAH4muDVkAE9S_C.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FAH4muDVkAE9S_C.jpg",
+						"url": "https://t.co/8pmZZAKDPk",
+						"display_url": "pic.twitter.com/8pmZZAKDPk",
+						"expanded_url": "https://twitter.com/merchandise/status/1441706711492878348/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1441706699816013800,
+						"id_str": "1441706699816013825",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/media/FAH4muDVkAE9S_C.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FAH4muDVkAE9S_C.jpg",
+						"url": "https://t.co/8pmZZAKDPk",
+						"display_url": "pic.twitter.com/8pmZZAKDPk",
+						"expanded_url": "https://twitter.com/merchandise/status/1441706711492878348/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7167342,
+				"id_str": "7167342",
+				"name": "Richard Theuws",
+				"screen_name": "merchandise",
+				"location": "Noord-Brabant, Nederland",
+				"description": "Begint morgen aan z’n boek, maar vandaag aan z’n nieuwe hoofdstuk. Doet graag een bak koffie met je, of een biertje. Vraag gerust wat je wil weten.",
+				"url": "https://t.co/UglvXl153C",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UglvXl153C",
+								"expanded_url": "https://theuws.com",
+								"display_url": "theuws.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4252,
+				"friends_count": 1728,
+				"listed_count": 87,
+				"created_at": "Sat Jun 30 06:18:33 +0000 2007",
+				"favourites_count": 33131,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 53078,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1436370274434404389/BbNI09ln_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1436370274434404389/BbNI09ln_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7167342/1630920460",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "871685aa82f8a489",
+				"url": "https://api.twitter.com/1.1/geo/id/871685aa82f8a489.json",
+				"place_type": "city",
+				"name": "Utrecht",
+				"full_name": "Utrecht, Nederland",
+				"country_code": "NL",
+				"country": "Nederland",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								4.9702867,
+								52.0262429
+							],
+							[
+								5.1952468,
+								52.0262429
+							],
+							[
+								5.1952468,
+								52.142137
+							],
+							[
+								4.9702867,
+								52.142137
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 274,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "da"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Beste dagje-uit-verslag wat ik vandaag las! Met mariachi-band en emoties! https://t.co/cq3qGiRAwz"
+	},
+	{
 		"created_at": "Fri Sep 24 23:20:24 +0000 2021",
 		"id": 1441543065395777500,
 		"id_str": "1441543065395777537",
