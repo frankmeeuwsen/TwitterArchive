@@ -1,6 +1,329 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 29 22:03:28 +0000 2021",
+		"id": 1443335646244900900,
+		"id_str": "1443335646244900869",
+		"full_text": "Gelukkig wel sapjes met een *checkt krabbels van deze shitshow*… vibrerende hoge trillingsfrequentie. https://t.co/fqAqKQbzKc https://t.co/uKlqLFE0ui",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fqAqKQbzKc",
+					"expanded_url": "https://twitter.com/mevrouwadvocaat/status/1443258801650552845",
+					"display_url": "twitter.com/mevrouwadvocaa…",
+					"indices": [
+						102,
+						125
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1443335642272960500,
+					"id_str": "1443335642272960517",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FAfCHplXEAUe1HF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAfCHplXEAUe1HF.jpg",
+					"url": "https://t.co/uKlqLFE0ui",
+					"display_url": "pic.twitter.com/uKlqLFE0ui",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1443335646244900869/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 615,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 622,
+							"h": 688,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 622,
+							"h": 688,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1443335642272960500,
+					"id_str": "1443335642272960517",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/media/FAfCHplXEAUe1HF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAfCHplXEAUe1HF.jpg",
+					"url": "https://t.co/uKlqLFE0ui",
+					"display_url": "pic.twitter.com/uKlqLFE0ui",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1443335646244900869/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 615,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 622,
+							"h": 688,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 622,
+							"h": 688,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8764,
+			"friends_count": 672,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8359,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1443258801650552800,
+		"quoted_status_id_str": "1443258801650552845",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fqAqKQbzKc",
+			"expanded": "https://twitter.com/mevrouwadvocaat/status/1443258801650552845",
+			"display": "twitter.com/mevrouwadvocaa…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 29 16:58:07 +0000 2021",
+			"id": 1443258801650552800,
+			"id_str": "1443258801650552845",
+			"full_text": "Gecrowdfunded op moment van deze tweet: 231.000 euro.\nSchade bij de buren door de demo 1.000 resp. 2.000-3.000 euro. \nEn dan niks willen delen uit die pot. Ja, je kunt sapjes krijgen.\n#WakuWaku \n\n( fragment is overigens onderin de verwijspagina te vinden als separaat fragment) https://t.co/OFGguu2uOP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WakuWaku",
+						"indices": [
+							184,
+							193
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OFGguu2uOP",
+						"expanded_url": "https://twitter.com/fan_haar_mening/status/1443252157021577216",
+						"display_url": "twitter.com/fan_haar_menin…",
+						"indices": [
+							278,
+							301
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4921033299,
+				"id_str": "4921033299",
+				"name": "Mevrouw de Advocaat",
+				"screen_name": "mevrouwadvocaat",
+				"location": "Rotterdam",
+				"description": "Simone ten Haaf | houdt van oplossen en pret maken | recht | kattenwat",
+				"url": "https://t.co/aCmmneHkhM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aCmmneHkhM",
+								"expanded_url": "http://www.mevrouwdeadvocaat.nl",
+								"display_url": "mevrouwdeadvocaat.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8573,
+				"friends_count": 5471,
+				"listed_count": 29,
+				"created_at": "Tue Feb 16 21:30:20 +0000 2016",
+				"favourites_count": 70012,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 52009,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1217901443879002118/WeS0nqNL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1217901443879002118/WeS0nqNL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4921033299/1577481251",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1443252157021577200,
+			"quoted_status_id_str": "1443252157021577216",
+			"quoted_status_permalink": {
+				"url": "https://t.co/OFGguu2uOP",
+				"expanded": "https://twitter.com/fan_haar_mening/status/1443252157021577216",
+				"display": "twitter.com/fan_haar_menin…"
+			},
+			"retweet_count": 48,
+			"favorite_count": 121,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Gelukkig wel sapjes met een *checkt krabbels van deze shitshow*… vibrerende hoge trillingsfrequentie. https://t.co/fqAqKQbzKc https://t.co/uKlqLFE0ui"
+	},
+	{
 		"created_at": "Wed Sep 29 19:35:46 +0000 2021",
 		"id": 1443250744153428000,
 		"id_str": "1443298475916075009",
