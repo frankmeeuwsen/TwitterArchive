@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 01 17:25:13 +0000 2021",
+		"id": 1443811435524632600,
+		"id_str": "1443990398679101447",
+		"full_text": "Eerst regeren rechters, zie: klimaatrechtspraak. Dan volgen rechters juist de lijn van de regering, zie: klimaatrechtspraak... die tegen de lijn van de regering inging. Volgt u het nog? Met dit soort overigens gevaarlijke retoriek hoeft men kennelijk niet eens consequent te zijn. https://t.co/e9WINAadCx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1443808560119525400,
+					"id_str": "1443808560119525386",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FAlwPF2XsAo4vRF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAlwPF2XsAo4vRF.jpg",
+					"url": "https://t.co/e9WINAadCx",
+					"display_url": "pic.twitter.com/e9WINAadCx",
+					"expanded_url": "https://twitter.com/rechterjos/status/1443811435524632614/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 494,
+							"h": 498,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 494,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 494,
+							"h": 498,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1443808560119525400,
+					"id_str": "1443808560119525386",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FAlwPF2XsAo4vRF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAlwPF2XsAo4vRF.jpg",
+					"url": "https://t.co/e9WINAadCx",
+					"display_url": "pic.twitter.com/e9WINAadCx",
+					"expanded_url": "https://twitter.com/rechterjos/status/1443811435524632614/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 494,
+							"h": 498,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 494,
+							"h": 498,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 494,
+							"h": 498,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1443808576930295800,
+					"id_str": "1443808576930295844",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FAlwQEeXsCQhkH8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FAlwQEeXsCQhkH8.jpg",
+					"url": "https://t.co/e9WINAadCx",
+					"display_url": "pic.twitter.com/e9WINAadCx",
+					"expanded_url": "https://twitter.com/rechterjos/status/1443811435524632614/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 502,
+							"h": 554,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 502,
+							"h": 554,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 502,
+							"h": 554,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 942875767083585500,
+			"id_str": "942875767083585536",
+			"name": "Rechter Jos (Jos Vink)",
+			"screen_name": "rechterjos",
+			"location": "@RbOostBrabant",
+			"description": "Echtgenoot | vader | (bestuurs)rechter | (buiten)promovendus militair straf- en tuchtrecht | wil het recht graag helder uitleggen #brenghetrechtdichterbij ⚖️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5787,
+			"friends_count": 326,
+			"listed_count": 31,
+			"created_at": "Mon Dec 18 21:54:35 +0000 2017",
+			"favourites_count": 1761,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3093,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1151807965655175168/TvXYDit8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151807965655175168/TvXYDit8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/942875767083585536/1618517340",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 77,
+		"favorite_count": 329,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Eerst regeren rechters, zie: klimaatrechtspraak. Dan volgen rechters juist de lijn van de regering, zie: klimaatrechtspraak... die tegen de lijn van de regering inging. Volgt u het nog? Met dit soort overigens gevaarlijke retoriek hoeft men kennelijk niet eens consequent te zijn. https://t.co/e9WINAadCx"
+	},
+	{
 		"created_at": "Fri Oct 01 10:57:10 +0000 2021",
 		"id": 1443892742778667000,
 		"id_str": "1443892742778667010",
