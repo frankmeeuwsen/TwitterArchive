@@ -1,6 +1,433 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Mon Oct 04 17:51:42 +0000 2021",
+		"id": 1444836262742007800,
+		"id_str": "1445084225443610628",
+		"full_text": "Facebook is not just a message board where people can post things.\n\nFacebook harvests your data, and uses it to show you things that Facebook thinks you want to see, to keep you coming back to Facebook, so that Facebook can sell ads.\n\nThe problem isn't speech, it's surveillance. https://t.co/n0Fy7fpOak",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/n0Fy7fpOak",
+					"expanded_url": "https://twitter.com/60Minutes/status/1444810664502079491",
+					"display_url": "twitter.com/60Minutes/stat…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 382376904,
+			"id_str": "382376904",
+			"name": "Fight for the Future",
+			"screen_name": "fightfortheftr",
+			"location": "The Internet",
+			"description": "Digital rights are human rights. There's hardly anything as important as ensuring that our shared future has freedom of expression and creativity at its core.",
+			"url": "https://t.co/8VbaSKmFIx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8VbaSKmFIx",
+							"expanded_url": "http://fightforthefuture.org",
+							"display_url": "fightforthefuture.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 105371,
+			"friends_count": 3222,
+			"listed_count": 1803,
+			"created_at": "Thu Sep 29 23:43:55 +0000 2011",
+			"favourites_count": 9686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 34792,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "071B2F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1283233532228272129/jAwI8eYG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283233532228272129/jAwI8eYG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/382376904/1585330557",
+			"profile_link_color": "19A961",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1444810664502079500,
+		"quoted_status_id_str": "1444810664502079491",
+		"quoted_status_permalink": {
+			"url": "https://t.co/n0Fy7fpOak",
+			"expanded": "https://twitter.com/60Minutes/status/1444810664502079491",
+			"display": "twitter.com/60Minutes/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 03 23:44:40 +0000 2021",
+			"id": 1444810664502079500,
+			"id_str": "1444810664502079491",
+			"full_text": "“Facebook has realized that if they change the algorithm to be safer, people will spend less time on the site, they'll click on less ads, they'll make less money,” says Facebook whistleblower Frances Haugen. https://t.co/wbxxfgorNE https://t.co/zpQIwcdatr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				231
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/wbxxfgorNE",
+						"expanded_url": "https://cbsn.ws/3ouorZb",
+						"display_url": "cbsn.ws/3ouorZb",
+						"indices": [
+							208,
+							231
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1444810586102108200,
+						"id_str": "1444810586102108171",
+						"indices": [
+							232,
+							255
+						],
+						"media_url": "http://pbs.twimg.com/media/FAz_o5fXEAMKN_6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FAz_o5fXEAMKN_6.jpg",
+						"url": "https://t.co/zpQIwcdatr",
+						"display_url": "pic.twitter.com/zpQIwcdatr",
+						"expanded_url": "https://twitter.com/60Minutes/status/1444810664502079491/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1444810586102108200,
+						"id_str": "1444810586102108171",
+						"indices": [
+							232,
+							255
+						],
+						"media_url": "http://pbs.twimg.com/media/FAz_o5fXEAMKN_6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FAz_o5fXEAMKN_6.jpg",
+						"url": "https://t.co/zpQIwcdatr",
+						"display_url": "pic.twitter.com/zpQIwcdatr",
+						"expanded_url": "https://twitter.com/60Minutes/status/1444810664502079491/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 71872,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1444810586102108171/vid/480x270/Ti8R-EeMSKBNxvPU.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1444810586102108171/pl/3lMz7WkncOdYbHoh.m3u8?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1444810586102108171/vid/1280x720/wGK4XeWIQiy2XeY-.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1444810586102108171/vid/640x360/_tnjr4pHiZXmk57p.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Facebook whistleblower talks Facebook algorithms ",
+							"description": "",
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18812572,
+				"id_str": "18812572",
+				"name": "60 Minutes",
+				"screen_name": "60Minutes",
+				"location": "New York, NY",
+				"description": "The most successful news magazine in TV history, offering hard-hitting investigative reports, interviews, feature segments and profiles of people in the news.",
+				"url": "https://t.co/9gTwNpqwke",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9gTwNpqwke",
+								"expanded_url": "http://www.60Minutes.com",
+								"display_url": "60Minutes.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1195160,
+				"friends_count": 500,
+				"listed_count": 8108,
+				"created_at": "Fri Jan 09 19:48:27 +0000 2009",
+				"favourites_count": 1045,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 26608,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "700202",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1367671817184350209/j0YT0FP3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367671817184350209/j0YT0FP3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18812572/1614948549",
+				"profile_link_color": "750004",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F7EEEE",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18703,
+			"favorite_count": 49058,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 144,
+		"favorite_count": 251,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Facebook is not just a message board where people can post things.\n\nFacebook harvests your data, and uses it to show you things that Facebook thinks you want to see, to keep you coming back to Facebook, so that Facebook can sell ads.\n\nThe problem isn't speech, it's surveillance. https://t.co/n0Fy7fpOak"
+	},
+	{
+		"created_at": "Mon Oct 04 17:50:25 +0000 2021",
+		"id": 1445078208190292000,
+		"id_str": "1445083901525962769",
+		"full_text": "hello literally everyone",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 783214,
+			"id_str": "783214",
+			"name": "Twitter",
+			"screen_name": "Twitter",
+			"location": "everywhere",
+			"description": "what’s happening?!",
+			"url": "https://t.co/DAtOo6uuHk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DAtOo6uuHk",
+							"expanded_url": "https://about.twitter.com/",
+							"display_url": "about.twitter.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 59709429,
+			"friends_count": 10,
+			"listed_count": 87443,
+			"created_at": "Tue Feb 20 14:35:54 +0000 2007",
+			"favourites_count": 6284,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354479643882004483/Btnfm47p_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1628709359",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 180321,
+		"favorite_count": 874034,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "hello literally everyone"
+	},
+	{
 		"created_at": "Mon Oct 04 15:35:55 +0000 2021",
 		"id": 1445050056554451000,
 		"id_str": "1445050056554450953",
