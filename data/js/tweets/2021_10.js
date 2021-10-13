@@ -1,6 +1,407 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 13 17:07:17 +0000 2021",
+		"id": 1447412224272867300,
+		"id_str": "1448334537172398083",
+		"full_text": "This is every single New York Times front page since 1852. Observe the explosion of pictures in news\nhttps://t.co/u2GThQkhwH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1010070219669192700,
+					"id_str": "1010070219669192705",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1010070219669192705/pu/img/N3-oBK7fJD0HBkvC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1010070219669192705/pu/img/N3-oBK7fJD0HBkvC.jpg",
+					"url": "https://t.co/u2GThQkhwH",
+					"display_url": "pic.twitter.com/u2GThQkhwH",
+					"expanded_url": "https://twitter.com/ThamKhaiMeng/status/1010070412867395584/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 628,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 628,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 628,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1010070412867395600,
+					"source_status_id_str": "1010070412867395584",
+					"source_user_id": 478412698,
+					"source_user_id_str": "478412698"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1010070219669192700,
+					"id_str": "1010070219669192705",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1010070219669192705/pu/img/N3-oBK7fJD0HBkvC.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1010070219669192705/pu/img/N3-oBK7fJD0HBkvC.jpg",
+					"url": "https://t.co/u2GThQkhwH",
+					"display_url": "pic.twitter.com/u2GThQkhwH",
+					"expanded_url": "https://twitter.com/ThamKhaiMeng/status/1010070412867395584/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 628,
+							"h": 640,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 628,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 628,
+							"h": 640,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1010070412867395600,
+					"source_status_id_str": "1010070412867395584",
+					"source_user_id": 478412698,
+					"source_user_id_str": "478412698",
+					"video_info": {
+						"aspect_ratio": [
+							157,
+							160
+						],
+						"duration_millis": 55167,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1010070219669192705/pu/vid/314x320/dC2wk7l3l_gu1O2Q.mp4?tag=3"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1010070219669192705/pu/vid/628x640/O58ZztHedlukVEYu.mp4?tag=3"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1010070219669192705/pu/pl/nmhmZXRg0m8q1r4o.m3u8?tag=3"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false,
+						"source_user": {
+							"id": 478412698,
+							"id_str": "478412698",
+							"name": "Khai",
+							"screen_name": "ThamKhaiMeng",
+							"location": "New York City",
+							"description": "Creative Human🚀 | Board Member | lnvestor | Fmr Worldwide Chief Creative Officer @ogilvy @RCA",
+							"url": "https://t.co/camGBGPGMk",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/camGBGPGMk",
+											"expanded_url": "http://bit.ly/KhaiBio",
+											"display_url": "bit.ly/KhaiBio",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 106907,
+							"friends_count": 290,
+							"listed_count": 691,
+							"created_at": "Mon Jan 30 07:54:48 +0000 2012",
+							"favourites_count": 13089,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 6739,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1417122033381556232/9Cut4170_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417122033381556232/9Cut4170_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/478412698/1398226040",
+							"profile_link_color": "1B95E0",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 478412698,
+			"id_str": "478412698",
+			"name": "Khai",
+			"screen_name": "ThamKhaiMeng",
+			"location": "New York City",
+			"description": "Creative Human🚀 | Board Member | lnvestor | Fmr Worldwide Chief Creative Officer @ogilvy @RCA",
+			"url": "https://t.co/camGBGPGMk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/camGBGPGMk",
+							"expanded_url": "http://bit.ly/KhaiBio",
+							"display_url": "bit.ly/KhaiBio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 106907,
+			"friends_count": 290,
+			"listed_count": 691,
+			"created_at": "Mon Jan 30 07:54:48 +0000 2012",
+			"favourites_count": 13089,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 6739,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1417122033381556232/9Cut4170_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417122033381556232/9Cut4170_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/478412698/1398226040",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1965,
+		"favorite_count": 8961,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is every single New York Times front page since 1852. Observe the explosion of pictures in news\nhttps://t.co/u2GThQkhwH"
+	},
+	{
+		"created_at": "Wed Oct 13 17:01:30 +0000 2021",
+		"id": 1448333083854389200,
+		"id_str": "1448333083854389252",
+		"full_text": "@Wilbert @Oli4K Het lastige is dat een aantal bekende Youtubers in de Minecraft community het ook namaken en spelen. Dus komt het daar ook al langs. \nVerder is het een serie die sterk begint maar meh eindigt.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			208
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Wilbert",
+					"name": "Wilbert Pot",
+					"id": 2286901,
+					"id_str": "2286901",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "Oli4K",
+					"name": "Olivier von Slabbers",
+					"id": 6091182,
+					"id_str": "6091182",
+					"indices": [
+						9,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1448332768102989800,
+		"in_reply_to_status_id_str": "1448332768102989829",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8761,
+			"friends_count": 658,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8420,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65315,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Wilbert @Oli4K Het lastige is dat een aantal bekende Youtubers in de Minecraft community het ook namaken en spelen. Dus komt het daar ook al langs. \nVerder is het een serie die sterk begint maar meh eindigt."
+	},
+	{
 		"created_at": "Wed Oct 13 15:58:09 +0000 2021",
 		"id": 1448317139493003300,
 		"id_str": "1448317139493003270",
