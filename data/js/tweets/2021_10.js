@@ -1,6 +1,265 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 14 16:00:32 +0000 2021",
+		"id": 1448680128968544300,
+		"id_str": "1448680128968544262",
+		"full_text": "Awesome episode. One of the best. Totally agree on the number one! https://t.co/sTL8Rudl8K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sTL8Rudl8K",
+					"expanded_url": "https://twitter.com/solat_pod/status/1447910289052217345",
+					"display_url": "twitter.com/solat_pod/stat…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8761,
+			"friends_count": 658,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8424,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1447910289052217300,
+		"quoted_status_id_str": "1447910289052217345",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sTL8Rudl8K",
+			"expanded": "https://twitter.com/solat_pod/status/1447910289052217345",
+			"display": "twitter.com/solat_pod/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Oct 12 13:01:28 +0000 2021",
+			"id": 1447910289052217300,
+			"id_str": "1447910289052217345",
+			"full_text": "Best Album Deep Cuts: No Code - Riot Act https://t.co/NHwwQ2e1Cv #SOLATpod #PearlJam #Vedder #grunge",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				100
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SOLATpod",
+						"indices": [
+							65,
+							74
+						]
+					},
+					{
+						"text": "PearlJam",
+						"indices": [
+							75,
+							84
+						]
+					},
+					{
+						"text": "Vedder",
+						"indices": [
+							85,
+							92
+						]
+					},
+					{
+						"text": "grunge",
+						"indices": [
+							93,
+							100
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NHwwQ2e1Cv",
+						"expanded_url": "https://player.acast.com/state-of-love-and-trust/episodes/best-album-deep-cuts-no-code-riot-act",
+						"display_url": "player.acast.com/state-of-love-…",
+						"indices": [
+							41,
+							64
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://acast.com\" rel=\"nofollow\">Acast Podcasts</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1259926623966466000,
+				"id_str": "1259926623966466048",
+				"name": "State of Love and Trust: A Pearl Jam Podcast",
+				"screen_name": "SOLAT_Pod",
+				"location": "Los Angeles, CA",
+				"description": "A podcast devoted to the greatest American rock band: Pearl Jam. @JasonKerepesi & Paul Ghiglieri discuss every aspect of the band’s music and career.",
+				"url": "https://t.co/mIPNlUE4YQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mIPNlUE4YQ",
+								"expanded_url": "https://podcasts.apple.com/us/podcast/state-of-love-and-trust/id1515671275",
+								"display_url": "podcasts.apple.com/us/podcast/sta…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 86,
+				"friends_count": 25,
+				"listed_count": 2,
+				"created_at": "Mon May 11 19:21:52 +0000 2020",
+				"favourites_count": 67,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 123,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1259926788160905216/WS1fguPv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259926788160905216/WS1fguPv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1259926623966466048/1589225308",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Awesome episode. One of the best. Totally agree on the number one! https://t.co/sTL8Rudl8K"
+	},
+	{
 		"created_at": "Thu Oct 14 13:30:40 +0000 2021",
 		"id": 1448642413333934000,
 		"id_str": "1448642413333934082",
