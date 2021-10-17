@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 17 06:20:28 +0000 2021",
+		"id": 1449236964742504400,
+		"id_str": "1449621315388911620",
+		"full_text": "https://t.co/v3z6Rxx2aR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1449236962834108400,
+					"id_str": "1449236962834108416",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FBy5Vt0X0AAxoge.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBy5Vt0X0AAxoge.jpg",
+					"url": "https://t.co/v3z6Rxx2aR",
+					"display_url": "pic.twitter.com/v3z6Rxx2aR",
+					"expanded_url": "https://twitter.com/harrygod/status/1449236964742504448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 269,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 427,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449236962834108400,
+					"id_str": "1449236962834108416",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FBy5Vt0X0AAxoge.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FBy5Vt0X0AAxoge.jpg",
+					"url": "https://t.co/v3z6Rxx2aR",
+					"display_url": "pic.twitter.com/v3z6Rxx2aR",
+					"expanded_url": "https://twitter.com/harrygod/status/1449236964742504448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 269,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 427,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 262000957,
+			"id_str": "262000957",
+			"name": "Harry Godwyn",
+			"screen_name": "harrygod",
+			"location": "",
+			"description": "Get enough Blindmen working on it, and you just may figure out the Elephant.\n \nIf you're the smartest guy in the room, you're in the wrong room.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5665,
+			"friends_count": 4902,
+			"listed_count": 22,
+			"created_at": "Mon Mar 07 04:03:11 +0000 2011",
+			"favourites_count": 56833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 69510,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1265602203194097665/-YYBMoWh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265602203194097665/-YYBMoWh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/262000957/1572739335",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 84,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/v3z6Rxx2aR"
+	},
+	{
 		"created_at": "Sat Oct 16 20:06:17 +0000 2021",
 		"id": 1449466749125017600,
 		"id_str": "1449466749125017604",
