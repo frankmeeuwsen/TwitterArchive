@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 20 17:52:55 +0000 2021",
+		"id": 1450836113849913300,
+		"id_str": "1450882737812951046",
+		"full_text": "https://t.co/IFTYwdbBll https://t.co/JBEDxh7o7I",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IFTYwdbBll",
+					"expanded_url": "https://twitter.com/CaseyNewton/status/1450830726467780610",
+					"display_url": "twitter.com/CaseyNewton/st…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1450836079087526000,
+					"id_str": "1450836079087525892",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FCJnuiFVIAQtkrn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCJnuiFVIAQtkrn.jpg",
+					"url": "https://t.co/JBEDxh7o7I",
+					"display_url": "pic.twitter.com/JBEDxh7o7I",
+					"expanded_url": "https://twitter.com/waxpancake/status/1450836113849913347/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 911,
+							"h": 312,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 911,
+							"h": 312,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 233,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450836079087526000,
+					"id_str": "1450836079087525892",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FCJnuiFVIAQtkrn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCJnuiFVIAQtkrn.jpg",
+					"url": "https://t.co/JBEDxh7o7I",
+					"display_url": "pic.twitter.com/JBEDxh7o7I",
+					"expanded_url": "https://twitter.com/waxpancake/status/1450836113849913347/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 911,
+							"h": 312,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 911,
+							"h": 312,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 233,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13461,
+			"id_str": "13461",
+			"name": "Andy Baio",
+			"screen_name": "waxpancake",
+			"location": "Portland, OR",
+			"description": "Working on @SkittishHQ. I made @waxy, @xoxo, @upcomingorg, https://t.co/oImIh3uXqM, @playfic, @supercutorg, https://t.co/j6oGCxpRqV. Helped build @kickstarter. he/him",
+			"url": "https://t.co/5hXiECYLaU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5hXiECYLaU",
+							"expanded_url": "https://waxy.org/",
+							"display_url": "waxy.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oImIh3uXqM",
+							"expanded_url": "http://belong.io",
+							"display_url": "belong.io",
+							"indices": [
+								59,
+								82
+							]
+						},
+						{
+							"url": "https://t.co/j6oGCxpRqV",
+							"expanded_url": "http://kindofbloop.com",
+							"display_url": "kindofbloop.com",
+							"indices": [
+								108,
+								131
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 45064,
+			"friends_count": 2099,
+			"listed_count": 1946,
+			"created_at": "Tue Nov 21 08:18:02 +0000 2006",
+			"favourites_count": 27524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 41859,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFF2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1218701057330573313/mS3hjv9W_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1218701057330573313/mS3hjv9W_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13461/1444437281",
+			"profile_link_color": "E77946",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFF2",
+			"profile_text_color": "404040",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1450830726467780600,
+		"quoted_status_id_str": "1450830726467780610",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IFTYwdbBll",
+			"expanded": "https://twitter.com/CaseyNewton/status/1450830726467780610",
+			"display": "twitter.com/CaseyNewton/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 20 14:26:14 +0000 2021",
+			"id": 1450830726467780600,
+			"id_str": "1450830726467780610",
+			"full_text": "Re: new Facebook name: “The web address https://t.co/qti07FBUST currently redirects to https://t.co/9rQJSCIZsS, the home of a biomedical research discovery tool developed under the stewardship of the Chan Zuckerberg Initiative.” 👀 https://t.co/yr8rJXwJ7h",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				254
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qti07FBUST",
+						"expanded_url": "http://meta.com",
+						"display_url": "meta.com",
+						"indices": [
+							40,
+							63
+						]
+					},
+					{
+						"url": "https://t.co/9rQJSCIZsS",
+						"expanded_url": "http://meta.org",
+						"display_url": "meta.org",
+						"indices": [
+							87,
+							110
+						]
+					},
+					{
+						"url": "https://t.co/yr8rJXwJ7h",
+						"expanded_url": "https://www.bloomberg.com/news/articles/2021-10-20/meta-horizon-facebook-renaming-report-sparks-speculation?sref=CrGXSfHu",
+						"display_url": "bloomberg.com/news/articles/…",
+						"indices": [
+							231,
+							254
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 69426451,
+				"id_str": "69426451",
+				"name": "Casey Newton",
+				"screen_name": "CaseyNewton",
+				"location": "San Francisco",
+				"description": "I write @platformer, a publication about big tech and democracy. | 1/8th of #Sidechannel | casey@platformer.news | instagram: @crumbler",
+				"url": "https://t.co/9lsZgIjBbh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9lsZgIjBbh",
+								"expanded_url": "https://www.platformer.news/",
+								"display_url": "platformer.news",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 141213,
+				"friends_count": 895,
+				"listed_count": 3634,
+				"created_at": "Thu Aug 27 22:37:09 +0000 2009",
+				"favourites_count": 221497,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12045,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1053792942966497280/BOEYtrXe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053792942966497280/BOEYtrXe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/69426451/1601674745",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 101,
+			"favorite_count": 576,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 11,
+		"favorite_count": 87,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/IFTYwdbBll https://t.co/JBEDxh7o7I"
+	},
+	{
 		"created_at": "Wed Oct 20 15:20:21 +0000 2021",
 		"id": 1450844342076182500,
 		"id_str": "1450844342076182529",
