@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 20 05:46:19 +0000 2021",
+		"id": 1450615300215357400,
+		"id_str": "1450699882264662017",
+		"full_text": "@frankmeeuwsen  I have added your Drummer blog to the Old School Drummers Reading List at https://t.co/zZFCyZwfvi - welcome!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frankmeeuwsen",
+					"name": "Frank Meeuwsen",
+					"id": 816203,
+					"id_str": "816203",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zZFCyZwfvi",
+					"expanded_url": "http://oldschooldrummers.andysylvester.com",
+					"display_url": "oldschooldrummers.andysylvester.com",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 2281547624,
+			"id_str": "2281547624",
+			"name": "Andy Sylvester",
+			"screen_name": "AndySylvester99",
+			"location": "Portland, Oregon area",
+			"description": "Exploring RSS, feed readers, and software development",
+			"url": "http://t.co/YZg11vKq3Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/YZg11vKq3Y",
+							"expanded_url": "http://andysylvester.com",
+							"display_url": "andysylvester.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 113,
+			"listed_count": 6,
+			"created_at": "Wed Jan 08 04:06:11 +0000 2014",
+			"favourites_count": 116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 368,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/422127512282357760/0QzJ6G34_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/422127512282357760/0QzJ6G34_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@frankmeeuwsen  I have added your Drummer blog to the Old School Drummers Reading List at https://t.co/zZFCyZwfvi - welcome!"
+	},
+	{
 		"created_at": "Mon Oct 18 15:58:16 +0000 2021",
 		"id": 1450129109137375200,
 		"id_str": "1450129109137375235",
