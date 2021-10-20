@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Wed Oct 20 13:02:09 +0000 2021",
+		"id": 1450790964327555000,
+		"id_str": "1450809563301785601",
+		"full_text": "1115 kinderen \"per ongeluk\" uit huis geplaatst? Vvd +3 in de peilingen https://t.co/OumUt2pYux",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1450790962482008000,
+					"id_str": "1450790962482008099",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/FCI-sZoWUCMwpCH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCI-sZoWUCMwpCH.jpg",
+					"url": "https://t.co/OumUt2pYux",
+					"display_url": "pic.twitter.com/OumUt2pYux",
+					"expanded_url": "https://twitter.com/MemesvdMassas/status/1450790964327555074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 606,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 840,
+							"h": 749,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 749,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1450790962482008000,
+					"id_str": "1450790962482008099",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/FCI-sZoWUCMwpCH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCI-sZoWUCMwpCH.jpg",
+					"url": "https://t.co/OumUt2pYux",
+					"display_url": "pic.twitter.com/OumUt2pYux",
+					"expanded_url": "https://twitter.com/MemesvdMassas/status/1450790964327555074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 606,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 840,
+							"h": 749,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 749,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1088766235989459000,
+			"id_str": "1088766235989458944",
+			"name": "Memes voor de Massa's",
+			"screen_name": "MemesvdMassas",
+			"location": "Nederland",
+			"description": "Poldersocialisten aller landen, verenigt u! ✊🏻 https://t.co/jHFQZlsFua voor stickers",
+			"url": "https://t.co/OC97PDg18v",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OC97PDg18v",
+							"expanded_url": "https://derodelap.nl/onze-kameraden/",
+							"display_url": "derodelap.nl/onze-kameraden/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/jHFQZlsFua",
+							"expanded_url": "http://derodelap.nl",
+							"display_url": "derodelap.nl",
+							"indices": [
+								47,
+								70
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2528,
+			"friends_count": 744,
+			"listed_count": 8,
+			"created_at": "Fri Jan 25 11:51:13 +0000 2019",
+			"favourites_count": 3356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3959,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1399679194393677825/qGpTINlM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1399679194393677825/qGpTINlM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1088766235989458944/1551728392",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "1115 kinderen \"per ongeluk\" uit huis geplaatst? Vvd +3 in de peilingen https://t.co/OumUt2pYux"
+	},
+	{
 		"created_at": "Wed Oct 20 05:46:19 +0000 2021",
 		"id": 1450615300215357400,
 		"id_str": "1450699882264662017",
