@@ -1,6 +1,390 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Thu Oct 21 05:25:38 +0000 2021",
+		"id": 1451057065829585000,
+		"id_str": "1451057065829584899",
+		"full_text": "Only US and UK residents again? Why is this? https://t.co/WPFPK0pjhl https://t.co/6q1JGsWQqF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WPFPK0pjhl",
+					"expanded_url": "https://twitter.com/coinbase/status/1450941257941872643",
+					"display_url": "twitter.com/coinbase/statu…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1451057059852660700,
+					"id_str": "1451057059852660736",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/FCMwtTlXMAA6osM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCMwtTlXMAA6osM.jpg",
+					"url": "https://t.co/6q1JGsWQqF",
+					"display_url": "pic.twitter.com/6q1JGsWQqF",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1451057065829584899/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451057059852660700,
+					"id_str": "1451057059852660736",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/FCMwtTlXMAA6osM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCMwtTlXMAA6osM.jpg",
+					"url": "https://t.co/6q1JGsWQqF",
+					"display_url": "pic.twitter.com/6q1JGsWQqF",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1451057065829584899/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8756,
+			"friends_count": 660,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8452,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65335,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1450941257941872600,
+		"quoted_status_id_str": "1450941257941872643",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WPFPK0pjhl",
+			"expanded": "https://twitter.com/coinbase/status/1450941257941872643",
+			"display": "twitter.com/coinbase/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 20 21:45:27 +0000 2021",
+			"id": 1450941257941872600,
+			"id_str": "1450941257941872643",
+			"full_text": "Bored Ape #4609 could be yours! 🙊👀\n\nThat’s right, frens! We're giving away a Bored Ape. Sign up for Coinbase Wallet and tweet your Wallet username and #CoinbaseWalletSweepstakes by 10/26 for your chance to win. https://t.co/HHpQ9lOSzC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				210
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CoinbaseWalletSweepstakes",
+						"indices": [
+							151,
+							177
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1450941085383946200,
+						"id_str": "1450941085383946240",
+						"indices": [
+							211,
+							234
+						],
+						"media_url": "http://pbs.twimg.com/media/FCLHOtBUcAABaQY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCLHOtBUcAABaQY.jpg",
+						"url": "https://t.co/HHpQ9lOSzC",
+						"display_url": "pic.twitter.com/HHpQ9lOSzC",
+						"expanded_url": "https://twitter.com/coinbase/status/1450941257941872643/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1450941085383946200,
+						"id_str": "1450941085383946240",
+						"indices": [
+							211,
+							234
+						],
+						"media_url": "http://pbs.twimg.com/media/FCLHOtBUcAABaQY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCLHOtBUcAABaQY.jpg",
+						"url": "https://t.co/HHpQ9lOSzC",
+						"display_url": "pic.twitter.com/HHpQ9lOSzC",
+						"expanded_url": "https://twitter.com/coinbase/status/1450941257941872643/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 574032254,
+				"id_str": "574032254",
+				"name": "Coinbase",
+				"screen_name": "coinbase",
+				"location": "Remote First",
+				"description": "Coinbase is the easiest place to buy and sell crypto. \nFor support ➡️ @CoinbaseSupport",
+				"url": "https://t.co/OpIR0ts6If",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OpIR0ts6If",
+								"expanded_url": "https://coinbase.com",
+								"display_url": "coinbase.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3599552,
+				"friends_count": 18,
+				"listed_count": 17286,
+				"created_at": "Mon May 07 23:06:31 +0000 2012",
+				"favourites_count": 968,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3815,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1389265488836890624/8u5wEQ9Z_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1389265488836890624/8u5wEQ9Z_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/574032254/1631059515",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3621,
+			"favorite_count": 12456,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Only US and UK residents again? Why is this? https://t.co/WPFPK0pjhl https://t.co/6q1JGsWQqF"
+	},
+	{
 		"created_at": "Wed Oct 20 17:52:55 +0000 2021",
 		"id": 1450836113849913300,
 		"id_str": "1450882737812951046",
