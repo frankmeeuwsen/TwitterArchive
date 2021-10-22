@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 22 15:31:32 +0000 2021",
+		"id": 1451564116007657500,
+		"id_str": "1451571933603143692",
+		"full_text": "📣 We’ve got big news. (You’re really going to like this.)\n\nStarting today, your followers can subscribe to Revue newsletters directly from Tweets in their timeline. \n\nThis is already enabled for all Revue writers on desktop and mobile web, with iOS and Android to follow soon. ✨ https://t.co/6eBxvGWyxH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1451564082331521000,
+					"id_str": "1451564082331521026",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FCT915gWEAIdS1o.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FCT915gWEAIdS1o.jpg",
+					"url": "https://t.co/6eBxvGWyxH",
+					"display_url": "pic.twitter.com/6eBxvGWyxH",
+					"expanded_url": "https://twitter.com/revue/status/1451564116007657472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451564082331521000,
+					"id_str": "1451564082331521026",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FCT915gWEAIdS1o.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FCT915gWEAIdS1o.jpg",
+					"url": "https://t.co/6eBxvGWyxH",
+					"display_url": "pic.twitter.com/6eBxvGWyxH",
+					"expanded_url": "https://twitter.com/revue/status/1451564116007657472/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FCT915gWEAIdS1o.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3001165942,
+			"id_str": "3001165942",
+			"name": "Revue",
+			"screen_name": "revue",
+			"location": "Amsterdam, The Netherlands",
+			"description": "Revue makes it easy for writers and publishers to send editorial newsletters — and get paid.\n\nDM for support 🧡",
+			"url": "https://t.co/2IxuZmOe9A",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2IxuZmOe9A",
+							"expanded_url": "http://www.getrevue.co",
+							"display_url": "getrevue.co",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32000,
+			"friends_count": 4060,
+			"listed_count": 578,
+			"created_at": "Tue Jan 27 10:07:33 +0000 2015",
+			"favourites_count": 11251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4097,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E15718",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1354036477915754499/zQrdrHL9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354036477915754499/zQrdrHL9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3001165942/1611662429",
+			"profile_link_color": "E15718",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 59,
+		"favorite_count": 198,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📣 We’ve got big news. (You’re really going to like this.)\n\nStarting today, your followers can subscribe to Revue newsletters directly from Tweets in their timeline. \n\nThis is already enabled for all Revue writers on desktop and mobile web, with iOS and Android to follow soon. ✨ https://t.co/6eBxvGWyxH"
+	},
+	{
 		"created_at": "Fri Oct 22 10:08:43 +0000 2021",
 		"id": 1451490695726915600,
 		"id_str": "1451490695726915590",
