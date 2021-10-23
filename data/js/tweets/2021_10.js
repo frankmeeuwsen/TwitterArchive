@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 23 08:29:28 +0000 2021",
+		"id": 1451828103110701000,
+		"id_str": "1451828103110701060",
+		"full_text": "Thanks Dave! https://t.co/Ckjga6Mwr2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ckjga6Mwr2",
+					"expanded_url": "https://twitter.com/davewiner/status/1451823728455790594",
+					"display_url": "twitter.com/davewiner/stat…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8756,
+			"friends_count": 663,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8445,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1451823728455790600,
+		"quoted_status_id_str": "1451823728455790594",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ckjga6Mwr2",
+			"expanded": "https://twitter.com/davewiner/status/1451823728455790594",
+			"display": "twitter.com/davewiner/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 23 08:12:05 +0000 2021",
+			"id": 1451823728455790600,
+			"id_str": "1451823728455790594",
+			"full_text": "Frank Meeuwsen is working on a script to publish to WordPress from his Drummer outline. He says he’s not a programmer, but reading his code, he’s figured a bunch of stuff out.  https://t.co/T7eqMa0yJJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				200
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/T7eqMa0yJJ",
+						"expanded_url": "http://oldschool.scripting.com/frankmeeuwsen/2021/10/23/065437.html?title=publishToWordpressWithDrummer",
+						"display_url": "oldschool.scripting.com/frankmeeuwsen/…",
+						"indices": [
+							177,
+							200
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://radio3.io/\" rel=\"nofollow\">radio3.io</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3839,
+				"id_str": "3839",
+				"name": "Dave Winer",
+				"screen_name": "davewiner",
+				"location": "Woodstock, NY",
+				"description": "I create new media types for fun. Developer of outliners, blogging tools, RSS aggregators, podcasting.",
+				"url": "https://t.co/ztgzDGiyOj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ztgzDGiyOj",
+								"expanded_url": "http://scripting.com/",
+								"display_url": "scripting.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 66699,
+				"friends_count": 3913,
+				"listed_count": 5254,
+				"created_at": "Sat Aug 05 23:04:08 +0000 2006",
+				"favourites_count": 18223,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 196672,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1398806004528263168/2SXipvrt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398806004528263168/2SXipvrt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3839/1632793593",
+				"profile_link_color": "7F7F90",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E1E1DF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks Dave! https://t.co/Ckjga6Mwr2"
+	},
+	{
 		"created_at": "Sat Oct 23 07:54:34 +0000 2021",
 		"id": 1451819321483743200,
 		"id_str": "1451819321483743233",
