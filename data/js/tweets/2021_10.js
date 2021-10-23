@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 22 23:42:56 +0000 2021",
+		"id": 1451613312404361200,
+		"id_str": "1451695596541198339",
+		"full_text": "October 22, 1990 – The new band, temporarily dubbed Mookie Blaylock, later to be named Pearl Jam played their very first show (Seattle, WA)\n\nChris Cornell was in attendance and said \"It was absolutely the best inaugural show I've ever seen in my life.\" https://t.co/F3aS2foXre",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1451613202807197700,
+					"id_str": "1451613202807197720",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FCUqhFiXEBg7oRb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCUqhFiXEBg7oRb.jpg",
+					"url": "https://t.co/F3aS2foXre",
+					"display_url": "pic.twitter.com/F3aS2foXre",
+					"expanded_url": "https://twitter.com/TheGrungeScene/status/1451613312404361220/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1163,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 561,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1163,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1451613202807197700,
+					"id_str": "1451613202807197720",
+					"indices": [
+						253,
+						276
+					],
+					"media_url": "http://pbs.twimg.com/media/FCUqhFiXEBg7oRb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FCUqhFiXEBg7oRb.jpg",
+					"url": "https://t.co/F3aS2foXre",
+					"display_url": "pic.twitter.com/F3aS2foXre",
+					"expanded_url": "https://twitter.com/TheGrungeScene/status/1451613312404361220/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1163,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 561,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 1163,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 89158522,
+			"id_str": "89158522",
+			"name": "The Grunge Scene",
+			"screen_name": "TheGrungeScene",
+			"location": "Seattle and Olympia",
+			"description": "Grunge Historian |  YouTube Creator | \n\n\nYouTube | https://t.co/4Rviaoocrl\n\nCheck Out Store Below",
+			"url": "https://t.co/A9qgKJFY7Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A9qgKJFY7Y",
+							"expanded_url": "https://www.thegrungescene.store/",
+							"display_url": "thegrungescene.store",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4Rviaoocrl",
+							"expanded_url": "https://www.youtube.com/c/TheGrungeScene",
+							"display_url": "youtube.com/c/TheGrungeSce…",
+							"indices": [
+								51,
+								74
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 78267,
+			"friends_count": 247,
+			"listed_count": 441,
+			"created_at": "Wed Nov 11 10:53:58 +0000 2009",
+			"favourites_count": 1649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "00070A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1443418398977929221/JspjCT10_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1443418398977929221/JspjCT10_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/89158522/1632986553",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 367,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "October 22, 1990 – The new band, temporarily dubbed Mookie Blaylock, later to be named Pearl Jam played their very first show (Seattle, WA)\n\nChris Cornell was in attendance and said \"It was absolutely the best inaugural show I've ever seen in my life.\" https://t.co/F3aS2foXre"
+	},
+	{
 		"created_at": "Fri Oct 22 15:31:32 +0000 2021",
 		"id": 1451564116007657500,
 		"id_str": "1451571933603143692",
