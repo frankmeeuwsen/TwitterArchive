@@ -1,6 +1,337 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 26 15:56:57 +0000 2021",
+		"id": 1453027879286153200,
+		"id_str": "1453027879286153218",
+		"full_text": "Een pas halverwege de reacties begon het kwartje bij me te vallen retweet https://t.co/tLGnZ41BdM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tLGnZ41BdM",
+					"expanded_url": "https://twitter.com/goulcher/status/1452363435333795846",
+					"display_url": "twitter.com/goulcher/statu…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8754,
+			"friends_count": 668,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8457,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65366,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1452363435333795800,
+		"quoted_status_id_str": "1452363435333795846",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tLGnZ41BdM",
+			"expanded": "https://twitter.com/goulcher/status/1452363435333795846",
+			"display": "twitter.com/goulcher/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 24 19:56:41 +0000 2021",
+			"id": 1452363435333795800,
+			"id_str": "1452363435333795846",
+			"full_text": "Congrats to the worst copywriting I've ever seen https://t.co/80EL1vI46l",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				48
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1452363398935683000,
+						"id_str": "1452363398935683076",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/FCfU0P5XIAQDRwA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCfU0P5XIAQDRwA.jpg",
+						"url": "https://t.co/80EL1vI46l",
+						"display_url": "pic.twitter.com/80EL1vI46l",
+						"expanded_url": "https://twitter.com/goulcher/status/1452363435333795846/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1153,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 676,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1452363398935683000,
+						"id_str": "1452363398935683076",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/FCfU0P5XIAQDRwA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FCfU0P5XIAQDRwA.jpg",
+						"url": "https://t.co/80EL1vI46l",
+						"display_url": "pic.twitter.com/80EL1vI46l",
+						"expanded_url": "https://twitter.com/goulcher/status/1452363435333795846/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1153,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 676,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18638542,
+				"id_str": "18638542",
+				"name": "GHOULcher 🎃",
+				"screen_name": "goulcher",
+				"location": "London and York",
+				"description": "Less of a snack and more of a meal deal. Anti-fascist. Creative consultant type thing for brands I can never talk about. #BPD #ADHD.",
+				"url": "https://t.co/e2VWcyRjKm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/e2VWcyRjKm",
+								"expanded_url": "http://www.instagram.com/goulcher",
+								"display_url": "instagram.com/goulcher",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14210,
+				"friends_count": 10477,
+				"listed_count": 235,
+				"created_at": "Mon Jan 05 17:48:21 +0000 2009",
+				"favourites_count": 405482,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 252493,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1452663380813172745/23u0p2Aj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1452663380813172745/23u0p2Aj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18638542/1633123876",
+				"profile_link_color": "981CEB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "1A12EB",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "5d838f7a011f4a2d",
+				"url": "https://api.twitter.com/1.1/geo/id/5d838f7a011f4a2d.json",
+				"place_type": "admin",
+				"name": "London",
+				"full_name": "London, England",
+				"country_code": "GB",
+				"country": "Verenigd Koninkrijk",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-0.510364798739281,
+								51.2867019756122
+							],
+							[
+								0.334043461659515,
+								51.2867019756122
+							],
+							[
+								0.334043461659515,
+								51.6918240878432
+							],
+							[
+								-0.510364798739281,
+								51.6918240878432
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1901,
+			"favorite_count": 41947,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Een pas halverwege de reacties begon het kwartje bij me te vallen retweet https://t.co/tLGnZ41BdM"
+	},
+	{
 		"created_at": "Tue Oct 26 06:48:52 +0000 2021",
 		"id": 1452889949540425700,
 		"id_str": "1452889949540425728",
