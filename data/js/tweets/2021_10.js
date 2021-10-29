@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 29 07:00:46 +0000 2021",
+		"id": 1453980108625088500,
+		"id_str": "1453980108625088517",
+		"full_text": "Het is een flinke pil, The Nix. Een aantal verhalen die uiteindelijk samenkomen, in een tijdspanne van 70 jaar. Met verrassende uitkomsten en een aantal fraaie quotes die bij mij blijven hangen om over te denken.\nvia @readwiseio https://t.co/ATxKHiSseV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "readwiseio",
+					"name": "Readwise",
+					"id": 920321515077414900,
+					"id_str": "920321515077414912",
+					"indices": [
+						217,
+						228
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1453980106586689500,
+					"id_str": "1453980106586689542",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FC2TNBOVkAYeU2b.png",
+					"media_url_https": "https://pbs.twimg.com/media/FC2TNBOVkAYeU2b.png",
+					"url": "https://t.co/ATxKHiSseV",
+					"display_url": "pic.twitter.com/ATxKHiSseV",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1453980108625088517/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1453980106586689500,
+					"id_str": "1453980106586689542",
+					"indices": [
+						229,
+						252
+					],
+					"media_url": "http://pbs.twimg.com/media/FC2TNBOVkAYeU2b.png",
+					"media_url_https": "https://pbs.twimg.com/media/FC2TNBOVkAYeU2b.png",
+					"url": "https://t.co/ATxKHiSseV",
+					"display_url": "pic.twitter.com/ATxKHiSseV",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1453980108625088517/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://readwise.io\" rel=\"nofollow\">Readwise</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8755,
+			"friends_count": 671,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8477,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Het is een flinke pil, The Nix. Een aantal verhalen die uiteindelijk samenkomen, in een tijdspanne van 70 jaar. Met verrassende uitkomsten en een aantal fraaie quotes die bij mij blijven hangen om over te denken.\nvia @readwiseio https://t.co/ATxKHiSseV"
+	},
+	{
+		"created_at": "Fri Oct 29 06:43:36 +0000 2021",
+		"id": 1453952380236558300,
+		"id_str": "1453975791629336579",
+		"full_text": "Nft-artists doing cheap knockoffs of my work, my prints being taken down from redbubble with zero warning because of random copyright claims. What a day on the internet! I don’t know what’s going on but a liberating revolution for digital artists it is not.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 54464318,
+			"id_str": "54464318",
+			"name": "Simon Stålenhag",
+			"screen_name": "simonstalenhag",
+			"location": "Two decades north-east",
+			"description": "Most known for my kitchen sink sci fi. Tales From The Loop 💫, The Electric State⚡️ and other stuff https://t.co/8P5HJOKow6",
+			"url": "https://t.co/BgwNKHZUad",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BgwNKHZUad",
+							"expanded_url": "http://www.redbubble.com/people/simonstalenhag",
+							"display_url": "redbubble.com/people/simonst…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/8P5HJOKow6",
+							"expanded_url": "http://simonstalenhag.se",
+							"display_url": "simonstalenhag.se",
+							"indices": [
+								99,
+								122
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 182463,
+			"friends_count": 281,
+			"listed_count": 1597,
+			"created_at": "Tue Jul 07 05:45:12 +0000 2009",
+			"favourites_count": 24748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7103,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1212024178251063296/vWBnbGRm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1212024178251063296/vWBnbGRm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/54464318/1563872522",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 696,
+		"favorite_count": 3815,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Nft-artists doing cheap knockoffs of my work, my prints being taken down from redbubble with zero warning because of random copyright claims. What a day on the internet! I don’t know what’s going on but a liberating revolution for digital artists it is not."
+	},
+	{
 		"created_at": "Fri Oct 29 05:45:19 +0000 2021",
 		"id": 1453961123695259600,
 		"id_str": "1453961123695259650",
