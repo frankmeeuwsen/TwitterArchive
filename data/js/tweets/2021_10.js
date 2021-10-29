@@ -1,6 +1,660 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 29 20:09:31 +0000 2021",
+		"id": 1453952749343686700,
+		"id_str": "1454178605152587783",
+		"full_text": "People with Infinity ♾️ tattoo be like WTF after #Facebook rebrands to #Meta https://t.co/i9mIUmQCqL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Facebook",
+					"indices": [
+						49,
+						58
+					]
+				},
+				{
+					"text": "Meta",
+					"indices": [
+						71,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1453952694259912700,
+					"id_str": "1453952694259912705",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/FC16RaWVkAEMk8Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FC16RaWVkAEMk8Z.jpg",
+					"url": "https://t.co/i9mIUmQCqL",
+					"display_url": "pic.twitter.com/i9mIUmQCqL",
+					"expanded_url": "https://twitter.com/WhyJustsaying/status/1453952749343686663/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 427,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 427,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1453952694259912700,
+					"id_str": "1453952694259912705",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/FC16RaWVkAEMk8Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FC16RaWVkAEMk8Z.jpg",
+					"url": "https://t.co/i9mIUmQCqL",
+					"display_url": "pic.twitter.com/i9mIUmQCqL",
+					"expanded_url": "https://twitter.com/WhyJustsaying/status/1453952749343686663/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 427,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 427,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1453952734260969500,
+					"id_str": "1453952734260969473",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/FC16TvXVQAEAHNr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FC16TvXVQAEAHNr.jpg",
+					"url": "https://t.co/i9mIUmQCqL",
+					"display_url": "pic.twitter.com/i9mIUmQCqL",
+					"expanded_url": "https://twitter.com/WhyJustsaying/status/1453952749343686663/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 450,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1453952736853037000,
+					"id_str": "1453952736853037057",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/FC16T5BVEAEgkOK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FC16T5BVEAEgkOK.jpg",
+					"url": "https://t.co/i9mIUmQCqL",
+					"display_url": "pic.twitter.com/i9mIUmQCqL",
+					"expanded_url": "https://twitter.com/WhyJustsaying/status/1453952749343686663/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1453952745040334800,
+					"id_str": "1453952745040334855",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/FC16UXhVUActaRK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FC16UXhVUActaRK.jpg",
+					"url": "https://t.co/i9mIUmQCqL",
+					"display_url": "pic.twitter.com/i9mIUmQCqL",
+					"expanded_url": "https://twitter.com/WhyJustsaying/status/1453952749343686663/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1074,
+							"h": 555,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 351,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1074,
+							"h": 555,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1409901774580842500,
+			"id_str": "1409901774580842500",
+			"name": "JustsayingAtulya",
+			"screen_name": "WhyJustsaying",
+			"location": "Hyderabad, India",
+			"description": "Wisdom with Wit is a deadly combination ~ self.\n\nCurrent Affairs l Inoffensive Sarcasm l LOLable posts l Relatable Thoughts l\n\nPhD in commenting and RTing.\n#F4F",
+			"url": "https://t.co/uJcVaf4d7h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uJcVaf4d7h",
+							"expanded_url": "https://www.instagram.com/why.justsaying?r=nametag",
+							"display_url": "instagram.com/why.justsaying…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 190,
+			"friends_count": 694,
+			"listed_count": 2,
+			"created_at": "Tue Jun 29 15:49:31 +0000 2021",
+			"favourites_count": 1830,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2098,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1428702418196254722/GwXtMcKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1428702418196254722/GwXtMcKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1409901774580842500/1633722163",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 312,
+		"favorite_count": 1321,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "People with Infinity ♾️ tattoo be like WTF after #Facebook rebrands to #Meta https://t.co/i9mIUmQCqL"
+	},
+	{
+		"created_at": "Fri Oct 29 20:07:29 +0000 2021",
+		"id": 1453903704281735200,
+		"id_str": "1454178095355908096",
+		"full_text": "https://t.co/uUw3oEbzLe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1453903701714821000,
+					"id_str": "1453903701714821147",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FC1Ntq5WYBs2B02.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FC1Ntq5WYBs2B02.jpg",
+					"url": "https://t.co/uUw3oEbzLe",
+					"display_url": "pic.twitter.com/uUw3oEbzLe",
+					"expanded_url": "https://twitter.com/edels0n/status/1453903704281735174/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 627,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 627,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1453903701714821000,
+					"id_str": "1453903701714821147",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FC1Ntq5WYBs2B02.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FC1Ntq5WYBs2B02.jpg",
+					"url": "https://t.co/uUw3oEbzLe",
+					"display_url": "pic.twitter.com/uUw3oEbzLe",
+					"expanded_url": "https://twitter.com/edels0n/status/1453903704281735174/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 627,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 379,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 627,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1268295052993998800,
+			"id_str": "1268295052993998851",
+			"name": "Ed Elson",
+			"screen_name": "edels0n",
+			"location": "edward@profgmedia.com",
+			"description": "research analyst @profgalloway 📈 // prev. classics @princeton 🔍",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77,
+			"friends_count": 336,
+			"listed_count": 0,
+			"created_at": "Wed Jun 03 21:34:46 +0000 2020",
+			"favourites_count": 554,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1393212115113152513/JzSpQEhn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1393212115113152513/JzSpQEhn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1268295052993998851/1632753720",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 136,
+		"favorite_count": 1182,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/uUw3oEbzLe"
+	},
+	{
+		"created_at": "Fri Oct 29 20:07:12 +0000 2021",
+		"id": 1453823332625752000,
+		"id_str": "1454178023721295879",
+		"full_text": "https://t.co/7JNex92cgV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1453823029125922800,
+					"id_str": "1453823029125922825",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FC0EV6FVQAkc-rF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FC0EV6FVQAkc-rF.jpg",
+					"url": "https://t.co/7JNex92cgV",
+					"display_url": "pic.twitter.com/7JNex92cgV",
+					"expanded_url": "https://twitter.com/mc_lotta/status/1453823332625752064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1548,
+							"h": 851,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 660,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 374,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1453823029125922800,
+					"id_str": "1453823029125922825",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FC0EV6FVQAkc-rF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FC0EV6FVQAkc-rF.jpg",
+					"url": "https://t.co/7JNex92cgV",
+					"display_url": "pic.twitter.com/7JNex92cgV",
+					"expanded_url": "https://twitter.com/mc_lotta/status/1453823332625752064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1548,
+							"h": 851,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 660,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 374,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 343733969,
+			"id_str": "343733969",
+			"name": "Charlotte Avery",
+			"screen_name": "mc_lotta",
+			"location": "Los Angeles, CA",
+			"description": "Of having a fat ass fame | @FunhausTeam | https://t.co/l3kSigNAYP Wed @ 7 PST\n| Music @ Mom's Home https://t.co/CKUf6PNK10",
+			"url": "https://t.co/dtMY9SlRAP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dtMY9SlRAP",
+							"expanded_url": "http://youtube.com/funhaus",
+							"display_url": "youtube.com/funhaus",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/l3kSigNAYP",
+							"expanded_url": "http://twitch.tv/whatashow",
+							"display_url": "twitch.tv/whatashow",
+							"indices": [
+								42,
+								65
+							]
+						},
+						{
+							"url": "https://t.co/CKUf6PNK10",
+							"expanded_url": "https://spoti.fi/3sRDaxB",
+							"display_url": "spoti.fi/3sRDaxB",
+							"indices": [
+								99,
+								122
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 30425,
+			"friends_count": 684,
+			"listed_count": 41,
+			"created_at": "Thu Jul 28 00:33:23 +0000 2011",
+			"favourites_count": 22764,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11368,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "55B4E0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1433241604207230977/4QpZynrF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1433241604207230977/4QpZynrF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/343733969/1606460119",
+			"profile_link_color": "F77C0A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16670,
+		"favorite_count": 128996,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/7JNex92cgV"
+	},
+	{
 		"created_at": "Fri Oct 29 17:31:28 +0000 2021",
 		"id": 1454138829141594000,
 		"id_str": "1454138829141594112",
