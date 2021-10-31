@@ -1,6 +1,581 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 31 12:19:49 +0000 2021",
+		"id": 1454785177461444600,
+		"id_str": "1454785177461444608",
+		"full_text": "Als je je abonneer op mijn OPEN nieuwsbrief, beloof ik dat ik je morgenochtend 8:00 uur heb bijgepraat over deze outage en meer. Kun je met een gerust hart je werkweek beginnen.  https://t.co/sUWEQRJEXM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sUWEQRJEXM",
+					"expanded_url": "http://nieuws.diggingthedigital.com/",
+					"display_url": "nieuws.diggingthedigital.com",
+					"indices": [
+						179,
+						202
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1454784617693712400,
+		"in_reply_to_status_id_str": "1454784617693712384",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8751,
+			"friends_count": 673,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8499,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Als je je abonneer op mijn OPEN nieuwsbrief, beloof ik dat ik je morgenochtend 8:00 uur heb bijgepraat over deze outage en meer. Kun je met een gerust hart je werkweek beginnen.  https://t.co/sUWEQRJEXM"
+	},
+	{
+		"created_at": "Sun Oct 31 12:17:36 +0000 2021",
+		"id": 1454784617693712400,
+		"id_str": "1454784617693712384",
+		"full_text": "Dit was afgelopen nacht. Als het Facebook of Twitter was, dan zaten politici en techjournalisten nu ergens aan talkshowtafel. Of een podcast. https://t.co/S5u4rqijhx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/S5u4rqijhx",
+					"expanded_url": "https://twitter.com/Roblox/status/1454555945015472132",
+					"display_url": "twitter.com/Roblox/status/…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8751,
+			"friends_count": 673,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8499,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1454555945015472000,
+		"quoted_status_id_str": "1454555945015472132",
+		"quoted_status_permalink": {
+			"url": "https://t.co/S5u4rqijhx",
+			"expanded": "https://twitter.com/Roblox/status/1454555945015472132",
+			"display": "twitter.com/Roblox/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 30 21:08:56 +0000 2021",
+			"id": 1454555945015472000,
+			"id_str": "1454555945015472132",
+			"full_text": "We believe we have identified an underlying internal cause of the outage.  We’re in the process of performing the necessary engineering and maintenance work to get Roblox back up and running ASAP.  Thanks for your patience.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				223
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16745055,
+				"id_str": "16745055",
+				"name": "Roblox",
+				"screen_name": "Roblox",
+				"location": "California",
+				"description": "Bringing the world together to play, create, explore, and socialize within millions of 3D virtual worlds. \n\nFor support, go to https://t.co/yRCNeQf3Nf.",
+				"url": "https://t.co/nETwh2gRPi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nETwh2gRPi",
+								"expanded_url": "https://rblx.co/Roblox",
+								"display_url": "rblx.co/Roblox",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/yRCNeQf3Nf",
+								"expanded_url": "http://rblx.co/help",
+								"display_url": "rblx.co/help",
+								"indices": [
+									127,
+									150
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3824015,
+				"friends_count": 1069,
+				"listed_count": 2460,
+				"created_at": "Tue Oct 14 20:20:20 +0000 2008",
+				"favourites_count": 10732,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10108,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "122654",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1131599526001692672/D40KVhLQ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131599526001692672/D40KVhLQ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16745055/1558130806",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21120,
+			"favorite_count": 208342,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Dit was afgelopen nacht. Als het Facebook of Twitter was, dan zaten politici en techjournalisten nu ergens aan talkshowtafel. Of een podcast. https://t.co/S5u4rqijhx"
+	},
+	{
+		"created_at": "Sun Oct 31 12:15:22 +0000 2021",
+		"id": 1454784057225662500,
+		"id_str": "1454784057225662464",
+		"full_text": "Het is echt bizar. Roblox ligt al 3 dagen plat. Een van de grootste gameplatformen. Het krijgt opvallend weinig aandacht in reguliere mediakanalen. https://t.co/X6ZRyplTDB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X6ZRyplTDB",
+					"expanded_url": "https://twitter.com/Roblox/status/1454105518197280770",
+					"display_url": "twitter.com/Roblox/status/…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8751,
+			"friends_count": 673,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8499,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1454105518197280800,
+		"quoted_status_id_str": "1454105518197280770",
+		"quoted_status_permalink": {
+			"url": "https://t.co/X6ZRyplTDB",
+			"expanded": "https://twitter.com/Roblox/status/1454105518197280770",
+			"display": "twitter.com/Roblox/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 29 15:19:06 +0000 2021",
+			"id": 1454105518197280800,
+			"id_str": "1454105518197280770",
+			"full_text": "We know you’re having issues using Roblox right now. \n\nWe’re sorry and working hard to get things back to normal.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				113
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16745055,
+				"id_str": "16745055",
+				"name": "Roblox",
+				"screen_name": "Roblox",
+				"location": "California",
+				"description": "Bringing the world together to play, create, explore, and socialize within millions of 3D virtual worlds. \n\nFor support, go to https://t.co/yRCNeQf3Nf.",
+				"url": "https://t.co/nETwh2gRPi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nETwh2gRPi",
+								"expanded_url": "https://rblx.co/Roblox",
+								"display_url": "rblx.co/Roblox",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/yRCNeQf3Nf",
+								"expanded_url": "http://rblx.co/help",
+								"display_url": "rblx.co/help",
+								"indices": [
+									127,
+									150
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3824015,
+				"friends_count": 1069,
+				"listed_count": 2460,
+				"created_at": "Tue Oct 14 20:20:20 +0000 2008",
+				"favourites_count": 10732,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10108,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "122654",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1131599526001692672/D40KVhLQ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131599526001692672/D40KVhLQ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16745055/1558130806",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13325,
+			"favorite_count": 176831,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Het is echt bizar. Roblox ligt al 3 dagen plat. Een van de grootste gameplatformen. Het krijgt opvallend weinig aandacht in reguliere mediakanalen. https://t.co/X6ZRyplTDB"
+	},
+	{
 		"created_at": "Sun Oct 31 08:25:50 +0000 2021",
 		"id": 1454726292532760600,
 		"id_str": "1454726292532760579",
