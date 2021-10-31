@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sun Oct 31 21:34:37 +0000 2021",
+		"id": 1454920038180397000,
+		"id_str": "1454924795607502850",
+		"full_text": "\"The metaverse is already here. It's Minecraft\"\n\nIt's decentralized, hackable, glitchy, runs on old laptops, and gives a ton of autonomy to the people who use it ...\n\n... making it quite unlike Zuckerberg's antiseptic vision\n\nMy latest essay on @medium: https://t.co/KDzxKwxmhy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Medium",
+					"name": "Medium",
+					"id": 571202103,
+					"id_str": "571202103",
+					"indices": [
+						245,
+						252
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KDzxKwxmhy",
+					"expanded_url": "https://clivethompson.medium.com/the-metaverse-is-already-here-its-minecraft-99c89ed8ba2",
+					"display_url": "clivethompson.medium.com/the-metaverse-…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 661403,
+			"id_str": "661403",
+			"name": "Clive Thompson",
+			"screen_name": "pomeranian99",
+			"location": "New York, NY",
+			"description": "Author of \"Coders: The Making of a New Tribe and the Remaking of the World\", 📖 https://t.co/lI3kDb9jxA NYT mag, Wired, Smithsonian. https://t.co/T6Ndv2xa5z 🇺🇸 🇨🇦",
+			"url": "https://t.co/XCtGwciYXe",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XCtGwciYXe",
+							"expanded_url": "http://www.clivethompson.net",
+							"display_url": "clivethompson.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/lI3kDb9jxA",
+							"expanded_url": "http://amzn.to/2VX1qxC",
+							"display_url": "amzn.to/2VX1qxC",
+							"indices": [
+								79,
+								102
+							]
+						},
+						{
+							"url": "https://t.co/T6Ndv2xa5z",
+							"expanded_url": "http://clivethompson.medium.com",
+							"display_url": "clivethompson.medium.com",
+							"indices": [
+								132,
+								155
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 40665,
+			"friends_count": 2687,
+			"listed_count": 1984,
+			"created_at": "Thu Jan 18 20:06:49 +0000 2007",
+			"favourites_count": 66317,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 66859,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/378800000407595163/163d76384315dfd651daa13e44b724e4_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000407595163/163d76384315dfd651daa13e44b724e4_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/661403/1547568517",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 38,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"The metaverse is already here. It's Minecraft\"\n\nIt's decentralized, hackable, glitchy, runs on old laptops, and gives a ton of autonomy to the people who use it ...\n\n... making it quite unlike Zuckerberg's antiseptic vision\n\nMy latest essay on @medium: https://t.co/KDzxKwxmhy"
+	},
+	{
 		"created_at": "Sun Oct 31 19:35:01 +0000 2021",
 		"id": 1454894698204696600,
 		"id_str": "1454894698204696576",
