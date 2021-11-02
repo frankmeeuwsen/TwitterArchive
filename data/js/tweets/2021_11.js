@@ -1,6 +1,431 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 02 21:18:45 +0000 2021",
+		"id": 1455645579506299000,
+		"id_str": "1455645579506298884",
+		"full_text": "@rachidfinge @TickyNoet Crispy chicken dus! Denk aan de dubbeldip he.",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rachidfinge",
+					"name": "Rachid Finge",
+					"id": 18571417,
+					"id_str": "18571417",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "TickyNoet",
+					"name": "TickyNoet",
+					"id": 309640388,
+					"id_str": "309640388",
+					"indices": [
+						13,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1455612844972576800,
+		"in_reply_to_status_id_str": "1455612844972576775",
+		"in_reply_to_user_id": 18571417,
+		"in_reply_to_user_id_str": "18571417",
+		"in_reply_to_screen_name": "rachidfinge",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8754,
+			"friends_count": 684,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8516,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@rachidfinge @TickyNoet Crispy chicken dus! Denk aan de dubbeldip he."
+	},
+	{
+		"created_at": "Tue Nov 02 20:24:53 +0000 2021",
+		"id": 1455632024316809200,
+		"id_str": "1455632024316809222",
+		"full_text": "Zo hard zin in deze! https://t.co/a0inSYFACG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/a0inSYFACG",
+					"expanded_url": "https://twitter.com/freek_janssen/status/1455622634171928581",
+					"display_url": "twitter.com/freek_janssen/…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8754,
+			"friends_count": 684,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8516,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1455622634171928600,
+		"quoted_status_id_str": "1455622634171928581",
+		"quoted_status_permalink": {
+			"url": "https://t.co/a0inSYFACG",
+			"expanded": "https://twitter.com/freek_janssen/status/1455622634171928581",
+			"display": "twitter.com/freek_janssen/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 02 19:47:34 +0000 2021",
+			"id": 1455622634171928600,
+			"id_str": "1455622634171928581",
+			"full_text": "En de volgende Ondergewaardeerde Playlist gaat over... BEASTIE BOYS! Wie stemt mee? https://t.co/ccHx6LZMSR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				83
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1455622455926591500,
+						"id_str": "1455622455926591497",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/FDNo6VSWEAkeHx4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FDNo6VSWEAkeHx4.jpg",
+						"url": "https://t.co/ccHx6LZMSR",
+						"display_url": "pic.twitter.com/ccHx6LZMSR",
+						"expanded_url": "https://twitter.com/freek_janssen/status/1455622634171928581/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 494,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 494,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 494,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1455622455926591500,
+						"id_str": "1455622455926591497",
+						"indices": [
+							84,
+							107
+						],
+						"media_url": "http://pbs.twimg.com/media/FDNo6VSWEAkeHx4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FDNo6VSWEAkeHx4.jpg",
+						"url": "https://t.co/ccHx6LZMSR",
+						"display_url": "pic.twitter.com/ccHx6LZMSR",
+						"expanded_url": "https://twitter.com/freek_janssen/status/1455622634171928581/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 640,
+								"h": 494,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 494,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 494,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 71275737,
+				"id_str": "71275737",
+				"name": "uǝssuɐɾ‾ʞǝǝɹɟ@",
+				"screen_name": "freek_janssen",
+				"location": "Netherlands",
+				"description": "Freek Janssen, voor de broodnodige nuance. Altijd wakker met @ndrgwrdrdldjs in mijn hoofd. Content mens @Philips.",
+				"url": "https://t.co/Cn0HpK4Hhz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Cn0HpK4Hhz",
+								"expanded_url": "http://www.ondergewaardeerdeliedjes.nl",
+								"display_url": "ondergewaardeerdeliedjes.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2156,
+				"friends_count": 1185,
+				"listed_count": 106,
+				"created_at": "Thu Sep 03 15:08:24 +0000 2009",
+				"favourites_count": 5492,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 43096,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1454084283073769472/y1R5VUUN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1454084283073769472/y1R5VUUN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/71275737/1634504201",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Zo hard zin in deze! https://t.co/a0inSYFACG"
+	},
+	{
 		"created_at": "Tue Nov 02 08:34:14 +0000 2021",
 		"id": 1455453181778043000,
 		"id_str": "1455453181778042888",
