@@ -1,6 +1,255 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 03 21:30:15 +0000 2021",
+		"id": 1456010863454867500,
+		"id_str": "1456010863454867457",
+		"full_text": "Woah! Sounds like a cool plan! https://t.co/2Uk1eaGzgE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2Uk1eaGzgE",
+					"expanded_url": "https://twitter.com/gwthompson/status/1455628265255849992",
+					"display_url": "twitter.com/gwthompson/sta…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8754,
+			"friends_count": 689,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8531,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1455628265255850000,
+		"quoted_status_id_str": "1455628265255849992",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2Uk1eaGzgE",
+			"expanded": "https://twitter.com/gwthompson/status/1455628265255849992",
+			"display": "twitter.com/gwthompson/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 02 20:09:57 +0000 2021",
+			"id": 1455628265255850000,
+			"id_str": "1455628265255849992",
+			"full_text": "@davewiner @TfTHacker @Jeanvaljean689 I personally am working on integrating what I write with Drummer into my Obsidian environment. Still digging!",
+			"truncated": false,
+			"display_text_range": [
+				38,
+				147
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "davewiner",
+						"name": "Dave Winer",
+						"id": 3839,
+						"id_str": "3839",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "TfTHacker",
+						"name": "TfT Hacker - Exploring Tools for Thought and PKM",
+						"id": 1175846517808226300,
+						"id_str": "1175846517808226305",
+						"indices": [
+							11,
+							21
+						]
+					},
+					{
+						"screen_name": "Jeanvaljean689",
+						"name": "Matt is a fan of Victor Hugo",
+						"id": 6705482,
+						"id_str": "6705482",
+						"indices": [
+							22,
+							37
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1455542107293331500,
+			"in_reply_to_status_id_str": "1455542107293331457",
+			"in_reply_to_user_id": 3839,
+			"in_reply_to_user_id_str": "3839",
+			"in_reply_to_screen_name": "davewiner",
+			"user": {
+				"id": 3468401,
+				"id_str": "3468401",
+				"name": "Gary Thompson ☮",
+				"screen_name": "gwthompson",
+				"location": "iPhone: 40.373543,-80.039673",
+				"description": "creative technologist at heart * open source electronics * nodeRed addict * circuitPython addict * Airtable junkie * automating life one script at a time",
+				"url": "http://t.co/RrlEAOnlrT",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/RrlEAOnlrT",
+								"expanded_url": "http://www.garywthompson.com",
+								"display_url": "garywthompson.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 368,
+				"friends_count": 1776,
+				"listed_count": 10,
+				"created_at": "Wed Apr 04 22:50:14 +0000 2007",
+				"favourites_count": 1560,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 613,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EB6D30",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/31856922/GT_2006_50_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/31856922/GT_2006_50_normal.jpg",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "C66223",
+				"profile_sidebar_fill_color": "E6C651",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Woah! Sounds like a cool plan! https://t.co/2Uk1eaGzgE"
+	},
+	{
 		"created_at": "Wed Nov 03 17:13:03 +0000 2021",
 		"id": 1455946133780549600,
 		"id_str": "1455946133780549635",
