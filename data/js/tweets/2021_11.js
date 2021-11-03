@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 03 07:18:05 +0000 2021",
+		"id": 1455796408859172900,
+		"id_str": "1455796408859172864",
+		"full_text": "Mijn Twitter is heel meta. https://t.co/MArDnxyIAi https://t.co/HOOIjY86te",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MArDnxyIAi",
+					"expanded_url": "https://twitter.com/hellahueck/status/1455584771116044291",
+					"display_url": "twitter.com/hellahueck/sta…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1455796404387987500,
+					"id_str": "1455796404387987461",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/FDQHHdzWQAUTlQT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDQHHdzWQAUTlQT.jpg",
+					"url": "https://t.co/HOOIjY86te",
+					"display_url": "pic.twitter.com/HOOIjY86te",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1455796408859172864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1455796404387987500,
+					"id_str": "1455796404387987461",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/FDQHHdzWQAUTlQT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDQHHdzWQAUTlQT.jpg",
+					"url": "https://t.co/HOOIjY86te",
+					"display_url": "pic.twitter.com/HOOIjY86te",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1455796408859172864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8754,
+			"friends_count": 684,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8521,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1455584771116044300,
+		"quoted_status_id_str": "1455584771116044291",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MArDnxyIAi",
+			"expanded": "https://twitter.com/hellahueck/status/1455584771116044291",
+			"display": "twitter.com/hellahueck/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 02 17:17:07 +0000 2021",
+			"id": 1455584771116044300,
+			"id_str": "1455584771116044291",
+			"full_text": "Das wel nieuws. Maar zijn gebruikers er ondertussen al niet zo aan gewend dat ze het gaan missen?  Facebook will shut down facial recognition system. https://t.co/FboNelXG3J",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				173
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FboNelXG3J",
+						"expanded_url": "https://www.reuters.com/technology/facebook-will-shut-down-facial-recognition-system-2021-11-02/",
+						"display_url": "reuters.com/technology/fac…",
+						"indices": [
+							150,
+							173
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17763880,
+				"id_str": "17763880",
+				"name": "Hella Hueck",
+				"screen_name": "hellahueck",
+				"location": "Amsterdam",
+				"description": "Chef Ondernemen @FD_Nieuws ( industrie, klimaat, vastgoed) | Blijft altijd fan van @RTLZ | Blij met @arjennoorbergen Nienke & Zita | DM = off the record",
+				"url": "https://t.co/lV2NJCDSGV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lV2NJCDSGV",
+								"expanded_url": "http://www.fd.nl",
+								"display_url": "fd.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26336,
+				"friends_count": 1680,
+				"listed_count": 661,
+				"created_at": "Sun Nov 30 22:00:17 +0000 2008",
+				"favourites_count": 203,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 46777,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1396200343487324169/pPIlVO8d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1396200343487324169/pPIlVO8d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17763880/1619677799",
+				"profile_link_color": "990000",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F3F3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Mijn Twitter is heel meta. https://t.co/MArDnxyIAi https://t.co/HOOIjY86te"
+	},
+	{
 		"created_at": "Tue Nov 02 21:18:45 +0000 2021",
 		"id": 1455645579506299000,
 		"id_str": "1455645579506298884",
