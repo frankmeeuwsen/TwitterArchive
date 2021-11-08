@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 08 12:17:19 +0000 2021",
+		"id": 1457309003403468800,
+		"id_str": "1457683648937869318",
+		"full_text": "5/ In effect, Readwise becomes your single source of truth for highlights in the form of highlight_id, and that ID can be used across tools and you can always trace it back.\n\nFor more info and how to do this with Obsidian:\n\nhttps://t.co/JRhwTu4hEb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JRhwTu4hEb",
+					"expanded_url": "https://www.craft.do/s/JxGqtPMkM8veTK/x/615D5B14-BA18-48A5-ABA1-9E16576C5AB8",
+					"display_url": "craft.do/s/JxGqtPMkM8ve…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1457309001457279000,
+		"in_reply_to_status_id_str": "1457309001457278981",
+		"in_reply_to_user_id": 1175846517808226300,
+		"in_reply_to_user_id_str": "1175846517808226305",
+		"in_reply_to_screen_name": "TfTHacker",
+		"user": {
+			"id": 1175846517808226300,
+			"id_str": "1175846517808226305",
+			"name": "TfT Hacker - Exploring Tools for Thought and PKM",
+			"screen_name": "TfTHacker",
+			"location": "",
+			"description": "Exploring Tools for Thought space and PKM, with focus on tools like Obsidian, Craft, LogSeq, RemNote, AthensResearch, Roam, etc. Founding developer of Roam42.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7094,
+			"friends_count": 246,
+			"listed_count": 432,
+			"created_at": "Sun Sep 22 18:57:43 +0000 2019",
+			"favourites_count": 13433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1279439639221321728/w7ulmTh7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1279439639221321728/w7ulmTh7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1175846517808226305/1619165638",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "5/ In effect, Readwise becomes your single source of truth for highlights in the form of highlight_id, and that ID can be used across tools and you can always trace it back.\n\nFor more info and how to do this with Obsidian:\n\nhttps://t.co/JRhwTu4hEb"
+	},
+	{
 		"created_at": "Mon Nov 08 09:59:34 +0000 2021",
 		"id": 1457648983854231600,
 		"id_str": "1457648983854231557",
