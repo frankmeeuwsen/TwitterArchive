@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 08 18:19:13 +0000 2021",
+		"id": 1457766396356563000,
+		"id_str": "1457774726713995270",
+		"full_text": "Happy 25th anniversary, Hype!\n\nOn this day in 1996, this documentary on the northwest music scene was released to theatres. \n\nIt featured live performances from @Nirvana, @soundgarden , @mudhoney, the Gits, the Melvins and many more bands. https://t.co/TnSKTSAZaX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nirvana",
+					"name": "Nirvana",
+					"id": 68412310,
+					"id_str": "68412310",
+					"indices": [
+						161,
+						169
+					]
+				},
+				{
+					"screen_name": "soundgarden",
+					"name": "Soundgarden",
+					"id": 101894425,
+					"id_str": "101894425",
+					"indices": [
+						171,
+						183
+					]
+				},
+				{
+					"screen_name": "mudhoney",
+					"name": "mudhoney",
+					"id": 572418804,
+					"id_str": "572418804",
+					"indices": [
+						186,
+						195
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1457765975336439800,
+					"id_str": "1457765975336439809",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/FDsGblWUUAEuvnz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDsGblWUUAEuvnz.jpg",
+					"url": "https://t.co/TnSKTSAZaX",
+					"display_url": "pic.twitter.com/TnSKTSAZaX",
+					"expanded_url": "https://twitter.com/nwpassage1/status/1457766396356562946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1187,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1187,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1457765975336439800,
+					"id_str": "1457765975336439809",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/FDsGblWUUAEuvnz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDsGblWUUAEuvnz.jpg",
+					"url": "https://t.co/TnSKTSAZaX",
+					"display_url": "pic.twitter.com/TnSKTSAZaX",
+					"expanded_url": "https://twitter.com/nwpassage1/status/1457766396356562946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 800,
+							"h": 1187,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 458,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1187,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120521320,
+			"id_str": "120521320",
+			"name": "Northwest Passage",
+			"screen_name": "nwpassage1",
+			"location": "",
+			"description": "An exploration of the music scene centered around Seattle in the 80s and 90s. #grunge, #riotgrrrl, #indie and beyond. Tweets by @substate.",
+			"url": "https://t.co/TQgwW59oC0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TQgwW59oC0",
+							"expanded_url": "http://revolutioncomeandgone.com",
+							"display_url": "revolutioncomeandgone.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4820,
+			"friends_count": 234,
+			"listed_count": 95,
+			"created_at": "Sat Mar 06 17:55:48 +0000 2010",
+			"favourites_count": 451,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14872,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/879439833285804032/jCAkbts5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/879439833285804032/jCAkbts5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120521320/1419197923",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 46,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy 25th anniversary, Hype!\n\nOn this day in 1996, this documentary on the northwest music scene was released to theatres. \n\nIt featured live performances from @Nirvana, @soundgarden , @mudhoney, the Gits, the Melvins and many more bands. https://t.co/TnSKTSAZaX"
+	},
+	{
 		"created_at": "Mon Nov 08 12:17:19 +0000 2021",
 		"id": 1457309003403468800,
 		"id_str": "1457683648937869318",
