@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 09 07:28:58 +0000 2021",
+		"id": 1457973471288385500,
+		"id_str": "1457973471288385536",
+		"full_text": "Vrij duidelijke uitleg. Lees wel even door de spellingsfouten heen, opzettelijk gedaan om bots en algo's uit de loop te houden (niet gelukt) https://t.co/w9wA4cndfC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w9wA4cndfC",
+					"expanded_url": "https://twitter.com/Foone/status/1457749433844568066",
+					"display_url": "twitter.com/Foone/status/1…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8752,
+			"friends_count": 698,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65486,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1457749433844568000,
+		"quoted_status_id_str": "1457749433844568066",
+		"quoted_status_permalink": {
+			"url": "https://t.co/w9wA4cndfC",
+			"expanded": "https://twitter.com/Foone/status/1457749433844568066",
+			"display": "twitter.com/Foone/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 08 16:38:43 +0000 2021",
+			"id": 1457749433844568000,
+			"id_str": "1457749433844568066",
+			"full_text": "How to scam people with NTFS and how the IRS is going to ruin it: a beginners guide",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				83
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 13502732,
+				"id_str": "13502732",
+				"name": "foone",
+				"screen_name": "Foone",
+				"location": "",
+				"description": "Hardware / software necromancer, collector of Weird Stuff, maker of Death Generators. (they/them)\n\nko-fi: https://t.co/RWnHtUISyM",
+				"url": "https://t.co/0gnaVwARmR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0gnaVwARmR",
+								"expanded_url": "https://floppy.foone.org/w/Main_Page",
+								"display_url": "floppy.foone.org/w/Main_Page",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RWnHtUISyM",
+								"expanded_url": "https://ko-fi.com/fooneturing",
+								"display_url": "ko-fi.com/fooneturing",
+								"indices": [
+									106,
+									129
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 123041,
+				"friends_count": 556,
+				"listed_count": 956,
+				"created_at": "Fri Feb 15 03:51:09 +0000 2008",
+				"favourites_count": 87265,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 222119,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/880340410333143040/-s_buYC0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/880340410333143040/-s_buYC0_normal.jpg",
+				"profile_link_color": "008080",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5388,
+			"favorite_count": 15656,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Vrij duidelijke uitleg. Lees wel even door de spellingsfouten heen, opzettelijk gedaan om bots en algo's uit de loop te houden (niet gelukt) https://t.co/w9wA4cndfC"
+	},
+	{
 		"created_at": "Tue Nov 09 07:16:05 +0000 2021",
 		"id": 1457970230798561300,
 		"id_str": "1457970230798561286",
