@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 10 21:04:09 +0000 2021",
+		"id": 1458541010259169300,
+		"id_str": "1458541010259169286",
+		"full_text": "@roelwillems Kun je lekker vanaf de bank naar de brand heritage kijken. Ofzoiets?",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "roelwillems",
+					"name": "Roel Willems",
+					"id": 9000882,
+					"id_str": "9000882",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1458483933981679600,
+		"in_reply_to_status_id_str": "1458483933981679623",
+		"in_reply_to_user_id": 9000882,
+		"in_reply_to_user_id_str": "9000882",
+		"in_reply_to_screen_name": "roelwillems",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8753,
+			"friends_count": 700,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@roelwillems Kun je lekker vanaf de bank naar de brand heritage kijken. Ofzoiets?"
+	},
+	{
+		"created_at": "Wed Nov 10 21:01:37 +0000 2021",
+		"id": 1458540369902248000,
+		"id_str": "1458540369902247949",
+		"full_text": "Een van de fundamenten dat het web zo groot heeft gemaakt, de mogelijkheid om te leren en bouwen op andermans werk via View Source. \nEen advertentiebedrijf gaat dat onmogelijk maken in zijn browser. https://t.co/N5Y7BzuOhj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N5Y7BzuOhj",
+					"expanded_url": "https://twitter.com/anildash/status/1458530342780952577",
+					"display_url": "twitter.com/anildash/statu…",
+					"indices": [
+						199,
+						222
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8753,
+			"friends_count": 700,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65499,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1458530342780952600,
+		"quoted_status_id_str": "1458530342780952577",
+		"quoted_status_permalink": {
+			"url": "https://t.co/N5Y7BzuOhj",
+			"expanded": "https://twitter.com/anildash/status/1458530342780952577",
+			"display": "twitter.com/anildash/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 10 20:21:46 +0000 2021",
+			"id": 1458530342780952600,
+			"id_str": "1458530342780952577",
+			"full_text": "It is absolutely absurd that organizations will soon be able to block the “View Source” feature for their users using a security policy. Schools will undoubtedly do this, to the permanent detriment of their students. And it’s being justified because of a Google Forms shortcoming? https://t.co/w4xU3YMSh3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/w4xU3YMSh3",
+						"expanded_url": "https://twitter.com/vectorpoem/status/1458502267896688640",
+						"display_url": "twitter.com/vectorpoem/sta…",
+						"indices": [
+							281,
+							304
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 36823,
+				"id_str": "36823",
+				"name": "Anil Dash",
+				"screen_name": "anildash",
+				"location": "NYC",
+				"description": "helping make @glitch • big fan of being a big fan of things • board member @eff @datasociety @girlsclubny @themarkup • he/him",
+				"url": "https://t.co/iRPuzZYjgB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iRPuzZYjgB",
+								"expanded_url": "https://anildash.com/about/",
+								"display_url": "anildash.com/about/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 579548,
+				"friends_count": 1220,
+				"listed_count": 8582,
+				"created_at": "Sat Dec 02 09:15:15 +0000 2006",
+				"favourites_count": 781432,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 236184,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1436967784274092032/BxvksM62_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1436967784274092032/BxvksM62_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/36823/1530683410",
+				"profile_link_color": "800080",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1458502267896688600,
+			"quoted_status_id_str": "1458502267896688640",
+			"quoted_status_permalink": {
+				"url": "https://t.co/w4xU3YMSh3",
+				"expanded": "https://twitter.com/vectorpoem/status/1458502267896688640",
+				"display": "twitter.com/vectorpoem/sta…"
+			},
+			"retweet_count": 37,
+			"favorite_count": 64,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Een van de fundamenten dat het web zo groot heeft gemaakt, de mogelijkheid om te leren en bouwen op andermans werk via View Source. \nEen advertentiebedrijf gaat dat onmogelijk maken in zijn browser. https://t.co/N5Y7BzuOhj"
+	},
+	{
 		"created_at": "Wed Nov 10 19:24:05 +0000 2021",
 		"id": 1458515827829973000,
 		"id_str": "1458515827829972994",
