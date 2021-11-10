@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 10 17:14:10 +0000 2021",
+		"id": 1458483129832837000,
+		"id_str": "1458483129832837122",
+		"full_text": "Heerlijke lijst https://t.co/PYWoVUSPwX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PYWoVUSPwX",
+					"expanded_url": "https://twitter.com/marybaphomet/status/1458363047446302720",
+					"display_url": "twitter.com/marybaphomet/s…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8751,
+			"friends_count": 698,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1458363047446302700,
+		"quoted_status_id_str": "1458363047446302720",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PYWoVUSPwX",
+			"expanded": "https://twitter.com/marybaphomet/status/1458363047446302720",
+			"display": "twitter.com/marybaphomet/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 10 09:17:00 +0000 2021",
+			"id": 1458363047446302700,
+			"id_str": "1458363047446302720",
+			"full_text": "I'm still chuckling... https://t.co/9nZbftYiFW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				22
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1458363045055500300,
+						"id_str": "1458363045055500288",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/FD0ldnYXEAAscjt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FD0ldnYXEAAscjt.jpg",
+						"url": "https://t.co/9nZbftYiFW",
+						"display_url": "pic.twitter.com/9nZbftYiFW",
+						"expanded_url": "https://twitter.com/marybaphomet/status/1458363047446302720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 364,
+								"h": 960,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 364,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 258,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1458363045055500300,
+						"id_str": "1458363045055500288",
+						"indices": [
+							23,
+							46
+						],
+						"media_url": "http://pbs.twimg.com/media/FD0ldnYXEAAscjt.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FD0ldnYXEAAscjt.jpg",
+						"url": "https://t.co/9nZbftYiFW",
+						"display_url": "pic.twitter.com/9nZbftYiFW",
+						"expanded_url": "https://twitter.com/marybaphomet/status/1458363047446302720/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 364,
+								"h": 960,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 364,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 258,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1366456329213268000,
+				"id_str": "1366456329213267977",
+				"name": "Sïstēr Märy Bäphømēt*",
+				"screen_name": "marybaphomet",
+				"location": "Up a fucking hill",
+				"description": "Satan, beer and heavy fucking metal baby. Multiple Ironman finisher. Yorkshire bird.\nProud 🏳️‍🌈🏳️‍⚧️ ally.  💙NHS nurse💙 *Not a real girl.",
+				"url": "https://t.co/RxK3BdBJie",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RxK3BdBJie",
+								"expanded_url": "http://suckmycunt.com",
+								"display_url": "suckmycunt.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2809,
+				"friends_count": 2768,
+				"listed_count": 3,
+				"created_at": "Mon Mar 01 18:32:52 +0000 2021",
+				"favourites_count": 74169,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 32654,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1417141982821031942/uwLdRx0p_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417141982821031942/uwLdRx0p_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1366456329213267977/1633730226",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39,
+			"favorite_count": 209,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Heerlijke lijst https://t.co/PYWoVUSPwX"
+	},
+	{
 		"created_at": "Wed Nov 10 06:46:58 +0000 2021",
 		"id": 1458325291613540400,
 		"id_str": "1458325291613540357",
