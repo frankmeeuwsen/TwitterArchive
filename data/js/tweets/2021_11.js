@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 11 21:47:51 +0000 2021",
+		"id": 1458913738241687600,
+		"id_str": "1458914393509482497",
+		"full_text": "right-click save won’t get you exclusive access to KINGSHIP https://t.co/k9cry3dLot",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/k9cry3dLot",
+					"expanded_url": "https://twitter.com/umg/status/1458905852392325130",
+					"display_url": "twitter.com/umg/status/145…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1454617394547081200,
+			"id_str": "1454617394547081227",
+			"name": "KINGSHIP",
+			"screen_name": "therealkingship",
+			"location": "",
+			"description": "probably nothing…",
+			"url": "https://t.co/yQKlVWci16",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yQKlVWci16",
+							"expanded_url": "http://KINGSHIP.io/",
+							"display_url": "KINGSHIP.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1373,
+			"friends_count": 5,
+			"listed_count": 4,
+			"created_at": "Sun Oct 31 01:13:17 +0000 2021",
+			"favourites_count": 6,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1458793866694254595/GrGBtDSs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1458793866694254595/GrGBtDSs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1454617394547081227/1636638557",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1458905852392325000,
+		"quoted_status_id_str": "1458905852392325130",
+		"quoted_status_permalink": {
+			"url": "https://t.co/k9cry3dLot",
+			"expanded": "https://twitter.com/umg/status/1458905852392325130",
+			"display": "twitter.com/umg/status/145…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 11 21:13:55 +0000 2021",
+			"id": 1458905852392325000,
+			"id_str": "1458905852392325130",
+			"full_text": "NEWSFLASH: UMG’s next-gen label 10:22PM forms 𝐊𝐈𝐍𝐆𝐒𝐇𝐈𝐏, the First-Ever Group Consisting of NFT Characters from Bored Ape Yacht Club.🐒 https://t.co/zMSAq4HI2Z",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				133
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1458905796717133800,
+						"id_str": "1458905796717133840",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FD8TF64VQBAQvCW.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FD8TF64VQBAQvCW.jpg",
+						"url": "https://t.co/zMSAq4HI2Z",
+						"display_url": "pic.twitter.com/zMSAq4HI2Z",
+						"expanded_url": "https://twitter.com/UMG/status/1458905852392325130/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1306,
+								"h": 734,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1458905796717133800,
+						"id_str": "1458905796717133840",
+						"indices": [
+							134,
+							157
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FD8TF64VQBAQvCW.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FD8TF64VQBAQvCW.jpg",
+						"url": "https://t.co/zMSAq4HI2Z",
+						"display_url": "pic.twitter.com/zMSAq4HI2Z",
+						"expanded_url": "https://twitter.com/UMG/status/1458905852392325130/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"large": {
+								"w": 1306,
+								"h": 734,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								653,
+								367
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/FD8TF64VQBAQvCW.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18033062,
+				"id_str": "18033062",
+				"name": "Universal Music Group",
+				"screen_name": "UMG",
+				"location": "",
+				"description": "The world's leading music company.",
+				"url": "https://t.co/hseCxhX0F7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hseCxhX0F7",
+								"expanded_url": "http://www.universalmusic.com",
+								"display_url": "universalmusic.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 625049,
+				"friends_count": 2438,
+				"listed_count": 4597,
+				"created_at": "Wed Dec 10 22:37:02 +0000 2008",
+				"favourites_count": 3542,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 28183,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "89C9FA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1412824309593100292/leXEl2Hr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412824309593100292/leXEl2Hr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18033062/1626891303",
+				"profile_link_color": "66D7FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EBEFF4",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 51,
+			"favorite_count": 153,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 15,
+		"favorite_count": 67,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "right-click save won’t get you exclusive access to KINGSHIP https://t.co/k9cry3dLot"
+	},
+	{
 		"created_at": "Thu Nov 11 19:44:57 +0000 2021",
 		"id": 1458883465492017200,
 		"id_str": "1458883465492017156",
