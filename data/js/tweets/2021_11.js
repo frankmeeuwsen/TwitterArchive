@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 12 13:05:01 +0000 2021",
+		"id": 1459143008163487700,
+		"id_str": "1459145207937929219",
+		"full_text": "Aaron Swartz Day is THIS SATURDAY November 13th!! \nHere's our speaker schedule - with links to complete bio information for all speakers: https://t.co/tikraoN7M2\n\n(Photo by Stephanie Dant) (BY) https://t.co/sfx4S1HpgH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tikraoN7M2",
+					"expanded_url": "https://www.aaronswartzday.org/asd-2021/",
+					"display_url": "aaronswartzday.org/asd-2021/",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1459142947027382300,
+					"id_str": "1459142947027382274",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FD_qx4oVcAIBmRl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD_qx4oVcAIBmRl.jpg",
+					"url": "https://t.co/sfx4S1HpgH",
+					"display_url": "pic.twitter.com/sfx4S1HpgH",
+					"expanded_url": "https://twitter.com/AaronSwartzDay/status/1459143008163487744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1459142947027382300,
+					"id_str": "1459142947027382274",
+					"indices": [
+						194,
+						217
+					],
+					"media_url": "http://pbs.twimg.com/media/FD_qx4oVcAIBmRl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD_qx4oVcAIBmRl.jpg",
+					"url": "https://t.co/sfx4S1HpgH",
+					"display_url": "pic.twitter.com/sfx4S1HpgH",
+					"expanded_url": "https://twitter.com/AaronSwartzDay/status/1459143008163487744/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2565971588,
+			"id_str": "2565971588",
+			"name": "Aaron Swartz Day",
+			"screen_name": "AaronSwartzDay",
+			"location": "San Francisco and everywhere!",
+			"description": "Aaron Swartz-inspired Hackathons are now going on all year, all over the world. Joining us is easy; just by helping those around you, however you can. #love",
+			"url": "https://t.co/WzLIDX1dQD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WzLIDX1dQD",
+							"expanded_url": "http://www.aaronswartzday.org",
+							"display_url": "aaronswartzday.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7385,
+			"friends_count": 712,
+			"listed_count": 97,
+			"created_at": "Fri Jun 13 21:57:11 +0000 2014",
+			"favourites_count": 6383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17404,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/953379722125131776/6lyScwKo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/953379722125131776/6lyScwKo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2565971588/1445140488",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Aaron Swartz Day is THIS SATURDAY November 13th!! \nHere's our speaker schedule - with links to complete bio information for all speakers: https://t.co/tikraoN7M2\n\n(Photo by Stephanie Dant) (BY) https://t.co/sfx4S1HpgH"
+	},
+	{
 		"created_at": "Fri Nov 12 09:55:26 +0000 2021",
 		"id": 1459097497071149000,
 		"id_str": "1459097497071149058",
