@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 12 09:55:26 +0000 2021",
+		"id": 1459097497071149000,
+		"id_str": "1459097497071149058",
+		"full_text": "Geen fan van de muziek maar wel indrukwekkend wat ze hebben gepresteerd. https://t.co/pEiQhwW1Qg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pEiQhwW1Qg",
+					"expanded_url": "https://twitter.com/guuzbourg/status/1459083854145372161",
+					"display_url": "twitter.com/guuzbourg/stat…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8753,
+			"friends_count": 703,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8587,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1459083854145372200,
+		"quoted_status_id_str": "1459083854145372161",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pEiQhwW1Qg",
+			"expanded": "https://twitter.com/guuzbourg/status/1459083854145372161",
+			"display": "twitter.com/guuzbourg/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 12 09:01:13 +0000 2021",
+			"id": 1459083854145372200,
+			"id_str": "1459083854145372161",
+			"full_text": "Tuurlijk mogen jullie wat vinden van het aangekondigde afscheid van Eloi uit Kensington. Lange neus, feest, alles. Ik zag Kensington groeien van gammel busje-zelf opbouwen naar meermaals Ziggo uitverkopen en spelen in de JC Arena. Enorme prestatie. Maar maak gerust nog n naamgrap",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21288406,
+				"id_str": "21288406",
+				"name": "Guuz Hoogaerts,",
+				"screen_name": "Guuzbourg",
+				"location": "Boven ‘t IJ",
+				"description": "‘Geen verlosser, niet je redder.’ Redactie (@talkshow_M); Playlists (@perfectsnl); Alt.xmas (@christmas_agogo); Zuchtmeisjes (https://t.co/fyEtiD93CU).",
+				"url": "https://t.co/gXQ4NaeeJ1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gXQ4NaeeJ1",
+								"expanded_url": "http://Linktr.ee/guuzbourg",
+								"display_url": "Linktr.ee/guuzbourg",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/fyEtiD93CU",
+								"expanded_url": "http://fillessourires.com",
+								"display_url": "fillessourires.com",
+								"indices": [
+									126,
+									149
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4268,
+				"friends_count": 1543,
+				"listed_count": 146,
+				"created_at": "Thu Feb 19 10:32:44 +0000 2009",
+				"favourites_count": 2248,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 38726,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1418320910176686085/PuMUAeqC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1418320910176686085/PuMUAeqC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21288406/1627677217",
+				"profile_link_color": "F5ABB5",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Geen fan van de muziek maar wel indrukwekkend wat ze hebben gepresteerd. https://t.co/pEiQhwW1Qg"
+	},
+	{
 		"created_at": "Fri Nov 12 09:20:45 +0000 2021",
 		"id": 1459088766572896300,
 		"id_str": "1459088766572896264",
