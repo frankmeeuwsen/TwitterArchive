@@ -1,6 +1,612 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 12 17:57:22 +0000 2021",
+		"id": 1458858932156481500,
+		"id_str": "1459218778198138885",
+		"full_text": "What could go wrong? https://t.co/SCMSPG1Hlx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1458858928104738800,
+					"id_str": "1458858928104738820",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/FD7odzsXEAQa3p0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD7odzsXEAQa3p0.jpg",
+					"url": "https://t.co/SCMSPG1Hlx",
+					"display_url": "pic.twitter.com/SCMSPG1Hlx",
+					"expanded_url": "https://twitter.com/NoContextBrits/status/1458858932156481547/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 494,
+							"h": 309,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 494,
+							"h": 309,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 494,
+							"h": 309,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1458858928104738800,
+					"id_str": "1458858928104738820",
+					"indices": [
+						21,
+						44
+					],
+					"media_url": "http://pbs.twimg.com/media/FD7odzsXEAQa3p0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FD7odzsXEAQa3p0.jpg",
+					"url": "https://t.co/SCMSPG1Hlx",
+					"display_url": "pic.twitter.com/SCMSPG1Hlx",
+					"expanded_url": "https://twitter.com/NoContextBrits/status/1458858932156481547/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 494,
+							"h": 309,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 494,
+							"h": 309,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 494,
+							"h": 309,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377572924413124600,
+			"id_str": "1377572924413124609",
+			"name": "No Context Brits",
+			"screen_name": "NoContextBrits",
+			"location": "Great Britain",
+			"description": "A mordant celebration of British mediocrity.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424165,
+			"friends_count": 0,
+			"listed_count": 515,
+			"created_at": "Thu Apr 01 10:46:07 +0000 2021",
+			"favourites_count": 100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2219,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1450575568643112962/gONJ5-lS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1450575568643112962/gONJ5-lS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377572924413124609/1625130448",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 232,
+		"favorite_count": 3626,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What could go wrong? https://t.co/SCMSPG1Hlx"
+	},
+	{
+		"created_at": "Fri Nov 12 17:53:12 +0000 2021",
+		"id": 1459217729735569400,
+		"id_str": "1459217729735569408",
+		"full_text": "@nicoline Hebben jullie nog genoeg muntjes? Ik sta zo linksvoor bij de P.A..",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nicoline",
+					"name": "nicoline",
+					"id": 9455772,
+					"id_str": "9455772",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1459216265680142300,
+		"in_reply_to_status_id_str": "1459216265680142341",
+		"in_reply_to_user_id": 9455772,
+		"in_reply_to_user_id_str": "9455772",
+		"in_reply_to_screen_name": "nicoline",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8753,
+			"friends_count": 704,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@nicoline Hebben jullie nog genoeg muntjes? Ik sta zo linksvoor bij de P.A.."
+	},
+	{
+		"created_at": "Fri Nov 12 17:34:25 +0000 2021",
+		"id": 1459213004885614600,
+		"id_str": "1459213004885614597",
+		"full_text": "Misschien is dit meer mainstream dan Twitter NFT’s @JarnoDuursma 😉 https://t.co/lM98Wi2evj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JarnoDuursma",
+					"name": "Jarno Duursma (Tech-Human-Future)",
+					"id": 9451182,
+					"id_str": "9451182",
+					"indices": [
+						51,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lM98Wi2evj",
+					"expanded_url": "https://twitter.com/wielerflits/status/1459105226372403200",
+					"display_url": "twitter.com/wielerflits/st…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8753,
+			"friends_count": 704,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8595,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1459105226372403200,
+		"quoted_status_id_str": "1459105226372403200",
+		"quoted_status_permalink": {
+			"url": "https://t.co/lM98Wi2evj",
+			"expanded": "https://twitter.com/wielerflits/status/1459105226372403200",
+			"display": "twitter.com/wielerflits/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 12 10:26:09 +0000 2021",
+			"id": 1459105226372403200,
+			"id_str": "1459105226372403200",
+			"full_text": "Wout van Aert verkoopt grootste overwinningen als NFT’s https://t.co/nPrTP0D6nJ \n\n#WoutVanAert https://t.co/nAvL9C2KOK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				94
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WoutVanAert",
+						"indices": [
+							82,
+							94
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/nPrTP0D6nJ",
+						"expanded_url": "https://www.wielerflits.nl/nieuws/wout-van-aert-verkoopt-grootste-overwinningen-als-nfts/?utm_campaign=twitter&utm_medium=twitter&utm_source=twitter",
+						"display_url": "wielerflits.nl/nieuws/wout-va…",
+						"indices": [
+							56,
+							79
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1459105224728191000,
+						"id_str": "1459105224728190979",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/FD_IeKHXIAMmJfy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FD_IeKHXIAMmJfy.jpg",
+						"url": "https://t.co/nAvL9C2KOK",
+						"display_url": "pic.twitter.com/nAvL9C2KOK",
+						"expanded_url": "https://twitter.com/WielerFlits/status/1459105226372403200/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 491,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 491,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 326,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1459105224728191000,
+						"id_str": "1459105224728190979",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/media/FD_IeKHXIAMmJfy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FD_IeKHXIAMmJfy.jpg",
+						"url": "https://t.co/nAvL9C2KOK",
+						"display_url": "pic.twitter.com/nAvL9C2KOK",
+						"expanded_url": "https://twitter.com/WielerFlits/status/1459105226372403200/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 491,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 491,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 326,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.wielerflits.nl/\" rel=\"nofollow\">WielerFlits CMS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19868408,
+				"id_str": "19868408",
+				"name": "WielerFlits.nl",
+				"screen_name": "WielerFlits",
+				"location": "Netherlands",
+				"description": "Twitteraccount van de best bezochte wielersite van Nederland • Volg ook @WielerFlitsBE 🇧🇪 • Volg ons ook op Facebook en Instagram",
+				"url": "https://t.co/PDngJ4gk1I",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PDngJ4gk1I",
+								"expanded_url": "http://www.wielerflits.nl",
+								"display_url": "wielerflits.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27182,
+				"friends_count": 997,
+				"listed_count": 764,
+				"created_at": "Sun Feb 01 18:01:27 +0000 2009",
+				"favourites_count": 526,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 84934,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BEC0C1",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1034813325824147463/FI_TR5B0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034813325824147463/FI_TR5B0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19868408/1562269297",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "BBA107",
+				"profile_sidebar_fill_color": "FCF27E",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Misschien is dit meer mainstream dan Twitter NFT’s @JarnoDuursma 😉 https://t.co/lM98Wi2evj"
+	},
+	{
 		"created_at": "Fri Nov 12 13:05:01 +0000 2021",
 		"id": 1459143008163487700,
 		"id_str": "1459145207937929219",
