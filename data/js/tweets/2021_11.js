@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sat Nov 13 20:29:12 +0000 2021",
+		"id": 1459545286540419000,
+		"id_str": "1459619378731888647",
+		"full_text": "Wow, I hope the anti-vaxxers wearing yellow stars get home ok without being arrested, beaten, separated from their families, put in a camp, starved, stripped and horribly murdered. Because they’re clearly the victims here. https://t.co/ycVcfDdgob",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1459545227002318800,
+					"id_str": "1459545227002318851",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FEFYpqUXEAMiHnt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEFYpqUXEAMiHnt.jpg",
+					"url": "https://t.co/ycVcfDdgob",
+					"display_url": "pic.twitter.com/ycVcfDdgob",
+					"expanded_url": "https://twitter.com/thewritertype/status/1459545286540419074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 488,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1428,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 861,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1459545227002318800,
+					"id_str": "1459545227002318851",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/media/FEFYpqUXEAMiHnt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEFYpqUXEAMiHnt.jpg",
+					"url": "https://t.co/ycVcfDdgob",
+					"display_url": "pic.twitter.com/ycVcfDdgob",
+					"expanded_url": "https://twitter.com/thewritertype/status/1459545286540419074/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 488,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1428,
+							"h": 1024,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 861,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21751177,
+			"id_str": "21751177",
+			"name": "paul bassett davies",
+			"screen_name": "thewritertype",
+			"location": "Red Hackney",
+			"description": "Writer in residence, at my house. Many stories. NEW novel: \nhttps://t.co/LSt5KaDAB2",
+			"url": "https://t.co/QFpULF1nXj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/QFpULF1nXj",
+							"expanded_url": "http://www.thewritertype.com",
+							"display_url": "thewritertype.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/LSt5KaDAB2",
+							"expanded_url": "http://eye-books.com/books/please-do-not-ask-for-mercy-as-a-refusal-often-offends",
+							"display_url": "eye-books.com/books/please-d…",
+							"indices": [
+								60,
+								83
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 28849,
+			"friends_count": 1431,
+			"listed_count": 606,
+			"created_at": "Tue Feb 24 12:55:17 +0000 2009",
+			"favourites_count": 7112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 57599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345707186765373440/mq7ZC39Q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345707186765373440/mq7ZC39Q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21751177/1401363289",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 247,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wow, I hope the anti-vaxxers wearing yellow stars get home ok without being arrested, beaten, separated from their families, put in a camp, starved, stripped and horribly murdered. Because they’re clearly the victims here. https://t.co/ycVcfDdgob"
+	},
+	{
 		"created_at": "Sat Nov 13 13:25:33 +0000 2021",
 		"id": 1459512762573406200,
 		"id_str": "1459512762573406210",
