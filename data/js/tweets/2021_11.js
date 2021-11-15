@@ -1,6 +1,316 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 15 18:51:57 +0000 2021",
+		"id": 1460319680028188700,
+		"id_str": "1460319680028188677",
+		"full_text": "Als het gecentraliseerde Twitter ooit uitvalt heeft dat gedecentraliseerde Web3 nog een flink probleem met elkaar vinden. https://t.co/41Dr0JTVNd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/41Dr0JTVNd",
+					"expanded_url": "https://twitter.com/cooopahtroopa/status/1460062843244408833",
+					"display_url": "twitter.com/cooopahtroopa/…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8753,
+			"friends_count": 706,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65534,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1460062843244408800,
+		"quoted_status_id_str": "1460062843244408833",
+		"quoted_status_permalink": {
+			"url": "https://t.co/41Dr0JTVNd",
+			"expanded": "https://twitter.com/cooopahtroopa/status/1460062843244408833",
+			"display": "twitter.com/cooopahtroopa/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 15 01:51:23 +0000 2021",
+			"id": 1460062843244408800,
+			"id_str": "1460062843244408833",
+			"full_text": "Music is having its web3 moment:\n\n- Streaming - @AudiusProject \n- NFTs - @catalogworks \n- Royalties - @join_royal \n- DAOs - @dreamsnevrdie \n- Funding - @viamirror \n- Research - @water_and_music \n- Fans - @soundxyz_ \n- Collabs - @arpeggi_labs \n- Grants - @audiogrants \n\n🎧👀",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				271
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AudiusProject",
+						"name": "Audius 🎧",
+						"id": 1019723274693926900,
+						"id_str": "1019723274693926912",
+						"indices": [
+							48,
+							62
+						]
+					},
+					{
+						"screen_name": "catalogworks",
+						"name": "Catalog 💽",
+						"id": 1308989638036598800,
+						"id_str": "1308989638036598785",
+						"indices": [
+							73,
+							86
+						]
+					},
+					{
+						"screen_name": "join_royal",
+						"name": "royal",
+						"id": 1412452519880577000,
+						"id_str": "1412452519880577034",
+						"indices": [
+							102,
+							113
+						]
+					},
+					{
+						"screen_name": "dreamsnevrdie",
+						"name": "Dreams Never Die Records 🔜 DAO",
+						"id": 1016371771786735600,
+						"id_str": "1016371771786735616",
+						"indices": [
+							124,
+							138
+						]
+					},
+					{
+						"screen_name": "viamirror",
+						"name": "Mirror",
+						"id": 1314619820399353900,
+						"id_str": "1314619820399353857",
+						"indices": [
+							152,
+							162
+						]
+					},
+					{
+						"screen_name": "water_and_music",
+						"name": "Water & Music",
+						"id": 1273020771368145000,
+						"id_str": "1273020771368144896",
+						"indices": [
+							177,
+							193
+						]
+					},
+					{
+						"screen_name": "soundxyz_",
+						"name": "sound.xyz",
+						"id": 1427648037313294300,
+						"id_str": "1427648037313294341",
+						"indices": [
+							204,
+							214
+						]
+					},
+					{
+						"screen_name": "arpeggi_labs",
+						"name": "Arpeggi Labs",
+						"id": 1444199345062957000,
+						"id_str": "1444199345062957057",
+						"indices": [
+							228,
+							241
+						]
+					},
+					{
+						"screen_name": "audiogrants",
+						"name": "Audio Grants Committee",
+						"id": 1395133209256599600,
+						"id_str": "1395133209256599552",
+						"indices": [
+							254,
+							266
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 305830702,
+				"id_str": "305830702",
+				"name": "Coopahtroopa.eth 🔥ᴗ🔥",
+				"screen_name": "Cooopahtroopa",
+				"location": "Los Metaverse",
+				"description": "Follow me to learn about the Creator Economy 🔮 DAOs @fwbtweets 🤝 Venture Partner @variantfund 📝 Advisor @audiusproject 🎧 + many more 🤫",
+				"url": "https://t.co/oswoSTlCkw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oswoSTlCkw",
+								"expanded_url": "http://alias.co/coopahtroopa",
+								"display_url": "alias.co/coopahtroopa",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 80501,
+				"friends_count": 2981,
+				"listed_count": 1877,
+				"created_at": "Thu May 26 21:19:52 +0000 2011",
+				"favourites_count": 164374,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20439,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1407980170892365825/BKsP67YZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1407980170892365825/BKsP67YZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/305830702/1582998034",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 540,
+			"favorite_count": 2239,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Als het gecentraliseerde Twitter ooit uitvalt heeft dat gedecentraliseerde Web3 nog een flink probleem met elkaar vinden. https://t.co/41Dr0JTVNd"
+	},
+	{
 		"created_at": "Mon Nov 15 18:11:50 +0000 2021",
 		"id": 1460309583851929600,
 		"id_str": "1460309583851929602",
