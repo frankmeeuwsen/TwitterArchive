@@ -1,6 +1,276 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 15 19:32:11 +0000 2021",
+		"id": 1460324233360330800,
+		"id_str": "1460329805031878656",
+		"full_text": "Sometimes we forget how much Star Wars influenced disco... https://t.co/hjKSsrgmtE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1460324207317950500,
+					"id_str": "1460324207317950470",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/FEQdISIXIAYhjqg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEQdISIXIAYhjqg.jpg",
+					"url": "https://t.co/hjKSsrgmtE",
+					"display_url": "pic.twitter.com/hjKSsrgmtE",
+					"expanded_url": "https://twitter.com/PulpLibrarian/status/1460324233360330759/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 674,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 730,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 736,
+							"h": 730,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460324207317950500,
+					"id_str": "1460324207317950470",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/FEQdISIXIAYhjqg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEQdISIXIAYhjqg.jpg",
+					"url": "https://t.co/hjKSsrgmtE",
+					"display_url": "pic.twitter.com/hjKSsrgmtE",
+					"expanded_url": "https://twitter.com/PulpLibrarian/status/1460324233360330759/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 674,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 730,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 736,
+							"h": 730,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1460324214066528300,
+					"id_str": "1460324214066528258",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/FEQdIrRWQAIO39b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEQdIrRWQAIO39b.jpg",
+					"url": "https://t.co/hjKSsrgmtE",
+					"display_url": "pic.twitter.com/hjKSsrgmtE",
+					"expanded_url": "https://twitter.com/PulpLibrarian/status/1460324233360330759/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 679,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1460324222845268000,
+					"id_str": "1460324222845267970",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/FEQdJL-XMAInZ3z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEQdJL-XMAInZ3z.jpg",
+					"url": "https://t.co/hjKSsrgmtE",
+					"display_url": "pic.twitter.com/hjKSsrgmtE",
+					"expanded_url": "https://twitter.com/PulpLibrarian/status/1460324233360330759/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 661,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1078,
+							"h": 1109,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1078,
+							"h": 1109,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1460324229048635400,
+					"id_str": "1460324229048635398",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/FEQdJjFXEAYM3Mr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEQdJjFXEAYM3Mr.jpg",
+					"url": "https://t.co/hjKSsrgmtE",
+					"display_url": "pic.twitter.com/hjKSsrgmtE",
+					"expanded_url": "https://twitter.com/PulpLibrarian/status/1460324233360330759/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 609,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 609,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 609,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2928209793,
+			"id_str": "2928209793",
+			"name": "Pulp Librarian",
+			"screen_name": "PulpLibrarian",
+			"location": "A library of the mind",
+			"description": "Curator of the art, history and fiction of old dreams.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 143507,
+			"friends_count": 3938,
+			"listed_count": 2096,
+			"created_at": "Wed Dec 17 22:09:14 +0000 2014",
+			"favourites_count": 11371,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 54927,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312115299777482753/6ZuI74k7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312115299777482753/6ZuI74k7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2928209793/1604150365",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 182,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sometimes we forget how much Star Wars influenced disco... https://t.co/hjKSsrgmtE"
+	},
+	{
 		"created_at": "Mon Nov 15 18:51:57 +0000 2021",
 		"id": 1460319680028188700,
 		"id_str": "1460319680028188677",
