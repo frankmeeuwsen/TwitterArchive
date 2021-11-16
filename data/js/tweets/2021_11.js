@@ -1,6 +1,387 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 16 16:54:28 +0000 2021",
+		"id": 1460652499812114400,
+		"id_str": "1460652499812114438",
+		"full_text": "Ik moet hier misschien te hard om lachen. \n\nNee hoor, je kunt hier nooit té hard om lachen. https://t.co/8S8UJZYkVp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8S8UJZYkVp",
+					"expanded_url": "https://twitter.com/jaylawrence91/status/1460581564023283714",
+					"display_url": "twitter.com/jaylawrence91/…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8753,
+			"friends_count": 708,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8625,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65543,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1460581564023283700,
+		"quoted_status_id_str": "1460581564023283714",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8S8UJZYkVp",
+			"expanded": "https://twitter.com/jaylawrence91/status/1460581564023283714",
+			"display": "twitter.com/jaylawrence91/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 16 12:12:35 +0000 2021",
+			"id": 1460581564023283700,
+			"id_str": "1460581564023283714",
+			"full_text": "And this, everyone, is the greatest video of all time: https://t.co/Kf3jHXUliQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				78
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1460573449076813800,
+						"id_str": "1460573449076813828",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1460573449076813828/pu/img/iApglvRw_1iAEzC_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1460573449076813828/pu/img/iApglvRw_1iAEzC_.jpg",
+						"url": "https://t.co/Kf3jHXUliQ",
+						"display_url": "pic.twitter.com/Kf3jHXUliQ",
+						"expanded_url": "https://twitter.com/byandee/status/1460573508199755776/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 888,
+								"h": 398,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 305,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 888,
+								"h": 398,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1460573508199755800,
+						"source_status_id_str": "1460573508199755776",
+						"source_user_id": 407739041,
+						"source_user_id_str": "407739041"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1460573449076813800,
+						"id_str": "1460573449076813828",
+						"indices": [
+							55,
+							78
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1460573449076813828/pu/img/iApglvRw_1iAEzC_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1460573449076813828/pu/img/iApglvRw_1iAEzC_.jpg",
+						"url": "https://t.co/Kf3jHXUliQ",
+						"display_url": "pic.twitter.com/Kf3jHXUliQ",
+						"expanded_url": "https://twitter.com/byandee/status/1460573508199755776/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 888,
+								"h": 398,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 305,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 888,
+								"h": 398,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1460573508199755800,
+						"source_status_id_str": "1460573508199755776",
+						"source_user_id": 407739041,
+						"source_user_id_str": "407739041",
+						"video_info": {
+							"aspect_ratio": [
+								444,
+								199
+							],
+							"duration_millis": 63155,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1460573449076813828/pu/vid/602x270/Ih7Z1O_kK_sjhLhy.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1460573449076813828/pu/pl/7eC6yiNl2HxmH0kD.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1460573449076813828/pu/vid/888x398/xunjAvW_atN-403f.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 407739041,
+								"id_str": "407739041",
+								"name": "andee",
+								"screen_name": "byandee",
+								"location": "tom’s restaurant",
+								"description": "yada yada yada",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 252,
+								"friends_count": 242,
+								"listed_count": 15,
+								"created_at": "Tue Nov 08 13:39:40 +0000 2011",
+								"favourites_count": 28176,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 42450,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "395CDB",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1350926625035210757/Lovco_2T_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1350926625035210757/Lovco_2T_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/407739041/1612674144",
+								"profile_link_color": "3B94D9",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "252429",
+								"profile_text_color": "666666",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 40248782,
+				"id_str": "40248782",
+				"name": "Jay Lawrence",
+				"screen_name": "jaylawrence91",
+				"location": "London",
+				"description": "late show on @absoluteradio / @rnrfootball / @rnramerican / insta: jaylawrence / contact @nmediatalent",
+				"url": "https://t.co/AaMzwON3Yf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AaMzwON3Yf",
+								"expanded_url": "http://absoluteradio.co.uk",
+								"display_url": "absoluteradio.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2339,
+				"friends_count": 2361,
+				"listed_count": 27,
+				"created_at": "Fri May 15 14:20:10 +0000 2009",
+				"favourites_count": 16247,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21885,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1151549239673180160/-AnqUOuB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1151549239673180160/-AnqUOuB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/40248782/1482250154",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3587,
+			"favorite_count": 15206,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik moet hier misschien te hard om lachen. \n\nNee hoor, je kunt hier nooit té hard om lachen. https://t.co/8S8UJZYkVp"
+	},
+	{
 		"created_at": "Tue Nov 16 14:17:39 +0000 2021",
 		"id": 1460613036914446300,
 		"id_str": "1460613036914446338",
