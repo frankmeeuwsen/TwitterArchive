@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 17 18:38:51 +0000 2021",
+		"id": 1461039473513357300,
+		"id_str": "1461041158411407364",
+		"full_text": "Every month we feature a grunge oriented movie or concert directly from our link in bio. This month’s featured movie is from 2001. Scroll down our link in bio to watch directly on YouTube. Whatever. Nevermind. Enjoy 🍿 https://t.co/Q9pvccFjga",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1461039465208635400,
+					"id_str": "1461039465208635394",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/FEanpxaWYAId2b6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEanpxaWYAId2b6.jpg",
+					"url": "https://t.co/Q9pvccFjga",
+					"display_url": "pic.twitter.com/Q9pvccFjga",
+					"expanded_url": "https://twitter.com/grungepoprecord/status/1461039473513357321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 2001,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461039465208635400,
+					"id_str": "1461039465208635394",
+					"indices": [
+						218,
+						241
+					],
+					"media_url": "http://pbs.twimg.com/media/FEanpxaWYAId2b6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEanpxaWYAId2b6.jpg",
+					"url": "https://t.co/Q9pvccFjga",
+					"display_url": "pic.twitter.com/Q9pvccFjga",
+					"expanded_url": "https://twitter.com/grungepoprecord/status/1461039473513357321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 2001,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1394729710614110200,
+			"id_str": "1394729710614110208",
+			"name": "Grunge Pop Records",
+			"screen_name": "grungepoprecord",
+			"location": "Seattle, WA",
+			"description": "WE ARE THE RECORD LABEL SPEARHEADING THE GRUNGE REVIVAL: LOUD, DISTORTED, UNDERGROUND ROCK. More info in link in bio👇",
+			"url": "https://t.co/EWPjzYo34d",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWPjzYo34d",
+							"expanded_url": "https://linktr.ee/GrungePopRecords",
+							"display_url": "linktr.ee/GrungePopRecor…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 100,
+			"friends_count": 120,
+			"listed_count": 0,
+			"created_at": "Tue May 18 19:01:12 +0000 2021",
+			"favourites_count": 1645,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 135,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394730022338973704/sHKcJOIp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394730022338973704/sHKcJOIp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1394729710614110208/1621366769",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Every month we feature a grunge oriented movie or concert directly from our link in bio. This month’s featured movie is from 2001. Scroll down our link in bio to watch directly on YouTube. Whatever. Nevermind. Enjoy 🍿 https://t.co/Q9pvccFjga"
+	},
+	{
 		"created_at": "Wed Nov 17 07:28:30 +0000 2021",
 		"id": 1460872458572120000,
 		"id_str": "1460872458572120066",
