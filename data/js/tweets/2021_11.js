@@ -1,6 +1,430 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 18 18:50:44 +0000 2021",
+		"id": 1461406536476110800,
+		"id_str": "1461406536476110863",
+		"full_text": "Ik vind dit echt heel grappig https://t.co/7XbI8hGI9A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7XbI8hGI9A",
+					"expanded_url": "https://twitter.com/geoffreyhuntley/status/1461322836165885954",
+					"display_url": "twitter.com/geoffreyhuntle…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8753,
+			"friends_count": 708,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8638,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65554,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1461322836165886000,
+		"quoted_status_id_str": "1461322836165885954",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7XbI8hGI9A",
+			"expanded": "https://twitter.com/geoffreyhuntley/status/1461322836165885954",
+			"display": "twitter.com/geoffreyhuntle…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 18 13:18:08 +0000 2021",
+			"id": 1461322836165886000,
+			"id_str": "1461322836165885954",
+			"full_text": "💀OMG WHO RIGHT CLICKED ALL OF THE #NFTs?☠️\n🛳🏴‍☠️ https://t.co/o0YRK78AkL 🏴‍☠️🛳\n👀 https://t.co/g74TFqzX0n",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				80
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NFTs",
+						"indices": [
+							34,
+							39
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/o0YRK78AkL",
+						"expanded_url": "https://thenftbay.org/description.html",
+						"display_url": "thenftbay.org/description.ht…",
+						"indices": [
+							49,
+							72
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1461265804188536800,
+						"id_str": "1461265804188536835",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/FEd1gb0VUAMA_LW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FEd1gb0VUAMA_LW.jpg",
+						"url": "https://t.co/g74TFqzX0n",
+						"display_url": "pic.twitter.com/g74TFqzX0n",
+						"expanded_url": "https://twitter.com/GeoffreyHuntley/status/1461322836165885954/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1434,
+								"h": 1176,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 984,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 558,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1461265804188536800,
+						"id_str": "1461265804188536835",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/FEd1gb0VUAMA_LW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FEd1gb0VUAMA_LW.jpg",
+						"url": "https://t.co/g74TFqzX0n",
+						"display_url": "pic.twitter.com/g74TFqzX0n",
+						"expanded_url": "https://twitter.com/GeoffreyHuntley/status/1461322836165885954/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1434,
+								"h": 1176,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 984,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 558,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1461265892709306400,
+						"id_str": "1461265892709306368",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/FEd1lllVEAAjCjL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FEd1lllVEAAjCjL.jpg",
+						"url": "https://t.co/g74TFqzX0n",
+						"display_url": "pic.twitter.com/g74TFqzX0n",
+						"expanded_url": "https://twitter.com/GeoffreyHuntley/status/1461322836165885954/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 414,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1247,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 731,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1461265956328538000,
+						"id_str": "1461265956328538112",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/FEd1pSlVgAANNNd.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FEd1pSlVgAANNNd.jpg",
+						"url": "https://t.co/g74TFqzX0n",
+						"display_url": "pic.twitter.com/g74TFqzX0n",
+						"expanded_url": "https://twitter.com/GeoffreyHuntley/status/1461322836165885954/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 279,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 839,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 492,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1461266068521947100,
+						"id_str": "1461266068521947138",
+						"indices": [
+							81,
+							104
+						],
+						"media_url": "http://pbs.twimg.com/media/FEd1v0iVEAI6_0F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FEd1v0iVEAI6_0F.jpg",
+						"url": "https://t.co/g74TFqzX0n",
+						"display_url": "pic.twitter.com/g74TFqzX0n",
+						"expanded_url": "https://twitter.com/GeoffreyHuntley/status/1461322836165885954/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1034,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 586,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1374,
+								"h": 1594,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14961859,
+				"id_str": "14961859",
+				"name": "geoff 👋 🇵🇹",
+				"screen_name": "GeoffreyHuntley",
+				"location": "Kangaroo island, Australia",
+				"description": "I work remotely from a van that is slowly working its way around Australia. Follow me for the intersection of remote work, camping and life @Gitpod.",
+				"url": "https://t.co/dRPrUG1Gm1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dRPrUG1Gm1",
+								"expanded_url": "https://ghuntley.com",
+								"display_url": "ghuntley.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6900,
+				"friends_count": 1265,
+				"listed_count": 143,
+				"created_at": "Sat May 31 09:05:00 +0000 2008",
+				"favourites_count": 24829,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1607,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1456476862293897216/TIU5gc85_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1456476862293897216/TIU5gc85_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14961859/1614142473",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4271,
+			"favorite_count": 10453,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik vind dit echt heel grappig https://t.co/7XbI8hGI9A"
+	},
+	{
 		"created_at": "Thu Nov 18 15:40:39 +0000 2021",
 		"id": 1461358700719792000,
 		"id_str": "1461358700719792136",
