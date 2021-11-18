@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Thu Nov 18 21:07:51 +0000 2021",
+		"id": 1461441041492553700,
+		"id_str": "1461441041492553731",
+		"full_text": "Nike op Roblox… https://t.co/eH2DugTomy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eH2DugTomy",
+					"expanded_url": "https://twitter.com/roblox/status/1461435744577212417",
+					"display_url": "twitter.com/roblox/status/…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8753,
+			"friends_count": 708,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8641,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65555,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1461435744577212400,
+		"quoted_status_id_str": "1461435744577212417",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eH2DugTomy",
+			"expanded": "https://twitter.com/roblox/status/1461435744577212417",
+			"display": "twitter.com/roblox/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 18 20:46:48 +0000 2021",
+			"id": 1461435744577212400,
+			"id_str": "1461435744577212417",
+			"full_text": "There are endless ways to express yourself on Roblox. \n\nThat’s why, in the all-new NIKELAND experience, you can create your own sports and style your avatar with @Nike gear: https://t.co/iwB5AixPeN https://t.co/kBaUP1WpMx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				197
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Nike",
+						"name": "Nike",
+						"id": 415859364,
+						"id_str": "415859364",
+						"indices": [
+							162,
+							167
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/iwB5AixPeN",
+						"expanded_url": "http://rblx.co/Nikeland",
+						"display_url": "rblx.co/Nikeland",
+						"indices": [
+							174,
+							197
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1461434959000862700,
+						"id_str": "1461434959000862720",
+						"indices": [
+							198,
+							221
+						],
+						"media_url": "http://pbs.twimg.com/media/FEgPWimVgAAxZW4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FEgPWimVgAAxZW4.jpg",
+						"url": "https://t.co/kBaUP1WpMx",
+						"display_url": "pic.twitter.com/kBaUP1WpMx",
+						"expanded_url": "https://twitter.com/Roblox/status/1461435744577212417/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1461434959000862700,
+						"id_str": "1461434959000862720",
+						"indices": [
+							198,
+							221
+						],
+						"media_url": "http://pbs.twimg.com/media/FEgPWimVgAAxZW4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FEgPWimVgAAxZW4.jpg",
+						"url": "https://t.co/kBaUP1WpMx",
+						"display_url": "pic.twitter.com/kBaUP1WpMx",
+						"expanded_url": "https://twitter.com/Roblox/status/1461435744577212417/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16745055,
+				"id_str": "16745055",
+				"name": "Roblox",
+				"screen_name": "Roblox",
+				"location": "California",
+				"description": "Bringing the world together to play, create, explore, and socialize within millions of 3D virtual worlds. \n\nFor support, go to https://t.co/yRCNeQf3Nf.",
+				"url": "https://t.co/nETwh2gRPi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nETwh2gRPi",
+								"expanded_url": "https://rblx.co/Roblox",
+								"display_url": "rblx.co/Roblox",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/yRCNeQf3Nf",
+								"expanded_url": "http://rblx.co/help",
+								"display_url": "rblx.co/help",
+								"indices": [
+									127,
+									150
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4107227,
+				"friends_count": 1069,
+				"listed_count": 2542,
+				"created_at": "Tue Oct 14 20:20:20 +0000 2008",
+				"favourites_count": 10727,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 10133,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "122654",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1131599526001692672/D40KVhLQ_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131599526001692672/D40KVhLQ_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16745055/1558130806",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 62,
+			"favorite_count": 1070,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Nike op Roblox… https://t.co/eH2DugTomy"
+	},
+	{
 		"created_at": "Thu Nov 18 18:50:44 +0000 2021",
 		"id": 1461406536476110800,
 		"id_str": "1461406536476110863",
@@ -120,7 +449,7 @@ Grailbird.data.tweets_2021_11 =
 			"created_at": "Thu Nov 18 13:18:08 +0000 2021",
 			"id": 1461322836165886000,
 			"id_str": "1461322836165885954",
-			"full_text": "💀OMG WHO RIGHT CLICKED ALL OF THE #NFTs?☠️\n🛳🏴‍☠️ https://t.co/o0YRK78AkL 🏴‍☠️🛳\n👀 https://t.co/g74TFqzX0n",
+			"full_text": "💀OMG WHO RIGHT CLICKED ALL OF THE #NFTs?☠️\n🛳🏴☠️ https://t.co/o0YRK78AkL 🏴☠️🛳\n👀 https://t.co/g74TFqzX0n",
 			"truncated": false,
 			"display_text_range": [
 				0,
