@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sat Nov 20 14:49:45 +0000 2021",
+		"id": 1462051344366411800,
+		"id_str": "1462070667801677839",
+		"full_text": "Who’s with me? https://t.co/jOToCqp26s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1462051339140313000,
+					"id_str": "1462051339140313094",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/FEo_8ljXsAYldRK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEo_8ljXsAYldRK.jpg",
+					"url": "https://t.co/jOToCqp26s",
+					"display_url": "pic.twitter.com/jOToCqp26s",
+					"expanded_url": "https://twitter.com/IL0VEthe80s/status/1462051344366411778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1088,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 638,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462051339140313000,
+					"id_str": "1462051339140313094",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/FEo_8ljXsAYldRK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEo_8ljXsAYldRK.jpg",
+					"url": "https://t.co/jOToCqp26s",
+					"display_url": "pic.twitter.com/jOToCqp26s",
+					"expanded_url": "https://twitter.com/IL0VEthe80s/status/1462051344366411778/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 361,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1088,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 638,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1198992138,
+			"id_str": "1198992138",
+			"name": "I❤️80s",
+			"screen_name": "IL0VEthe80s",
+			"location": "1980s everywhere 🌎🌍🌏",
+			"description": "Let’s just look back fondly on the best decade ever. 😎 Contact admin@ilovethe80s.me #bitcoin",
+			"url": "https://t.co/AUnWQVw8nV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AUnWQVw8nV",
+							"expanded_url": "http://ilovethe80s.me",
+							"display_url": "ilovethe80s.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 240392,
+			"friends_count": 3093,
+			"listed_count": 809,
+			"created_at": "Tue Feb 19 23:48:13 +0000 2013",
+			"favourites_count": 1637,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 25139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1379461577091526656/doObiv6G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1379461577091526656/doObiv6G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1198992138/1544175058",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 134,
+		"favorite_count": 812,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Who’s with me? https://t.co/jOToCqp26s"
+	},
+	{
 		"created_at": "Sat Nov 20 12:00:58 +0000 2021",
 		"id": 1462028190235385900,
 		"id_str": "1462028190235385873",
