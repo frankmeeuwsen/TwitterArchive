@@ -1,6 +1,374 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 22 07:50:23 +0000 2021",
+		"id": 1462689906380185600,
+		"id_str": "1462689906380185602",
+		"full_text": "Joe! We zijn in het mooiste clubhuis nog altijd op zoek naar een WordPress developer! https://t.co/EwRStjsFR1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EwRStjsFR1",
+					"expanded_url": "https://twitter.com/Kaliberinteract/status/1462677248394379268",
+					"display_url": "twitter.com/Kaliberinterac…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8752,
+			"friends_count": 714,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1462677248394379300,
+		"quoted_status_id_str": "1462677248394379268",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EwRStjsFR1",
+			"expanded": "https://twitter.com/Kaliberinteract/status/1462677248394379268",
+			"display": "twitter.com/Kaliberinterac…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 22 07:00:05 +0000 2021",
+			"id": 1462677248394379300,
+			"id_str": "1462677248394379268",
+			"full_text": "Ja hoor, we beginnen de nieuwe week gewoon met nog een vacature. Want naast een Creatief Team, UX Designer en meer zoeken we ook... een Wordpress Developer! Bouw mee aan onze maatwerk platforms. https://t.co/RPdbVzgcrY\n\n#vacature #wordpress #wordpressdeveloper #vacaturevankaliber https://t.co/xj5xA9FMGr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "vacature",
+						"indices": [
+							220,
+							229
+						]
+					},
+					{
+						"text": "wordpress",
+						"indices": [
+							230,
+							240
+						]
+					},
+					{
+						"text": "wordpressdeveloper",
+						"indices": [
+							241,
+							260
+						]
+					},
+					{
+						"text": "vacaturevankaliber",
+						"indices": [
+							261,
+							280
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/RPdbVzgcrY",
+						"expanded_url": "https://werkenbij.kaliber.net/full-stack-wordpress-developer/nl?utm_source=twitter&utm_medium=organic&utm_content=vacature-post&utm_campaign=full-stack-wordpress-developer",
+						"display_url": "werkenbij.kaliber.net/full-stack-wor…",
+						"indices": [
+							195,
+							218
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1462676007865966600,
+						"id_str": "1462676007865966593",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1462676007865966593/pu/img/P5oX1dgIMYHFkWxE.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1462676007865966593/pu/img/P5oX1dgIMYHFkWxE.jpg",
+						"url": "https://t.co/xj5xA9FMGr",
+						"display_url": "pic.twitter.com/xj5xA9FMGr",
+						"expanded_url": "https://twitter.com/Kaliberinteract/status/1462677248394379268/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1462676007865966600,
+						"id_str": "1462676007865966593",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1462676007865966593/pu/img/P5oX1dgIMYHFkWxE.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1462676007865966593/pu/img/P5oX1dgIMYHFkWxE.jpg",
+						"url": "https://t.co/xj5xA9FMGr",
+						"display_url": "pic.twitter.com/xj5xA9FMGr",
+						"expanded_url": "https://twitter.com/Kaliberinteract/status/1462677248394379268/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 6000,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1462676007865966593/pu/vid/720x720/w8KsUDd7tLilKpum.mp4?tag=12"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1462676007865966593/pu/vid/320x320/BdQe1o2F13-cE3tF.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1462676007865966593/pu/pl/6s0kssjIBl5WNh5M.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1462676007865966593/pu/vid/540x540/thFQNFNLP1nBsFI5.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10932162,
+				"id_str": "10932162",
+				"name": "Kaliber",
+				"screen_name": "Kaliberinteract",
+				"location": "Utrecht",
+				"description": "Kaliber. Digitaal bureau dat strategie, creativiteit en technologie combineert om mensen te activeren.",
+				"url": "http://t.co/0uBteIkGBt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/0uBteIkGBt",
+								"expanded_url": "http://www.kaliber.net",
+								"display_url": "kaliber.net",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1910,
+				"friends_count": 901,
+				"listed_count": 108,
+				"created_at": "Fri Dec 07 10:50:24 +0000 2007",
+				"favourites_count": 409,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3226,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E4E4E4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1409565370541871109/c4cK-EHv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409565370541871109/c4cK-EHv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10932162/1612193476",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Joe! We zijn in het mooiste clubhuis nog altijd op zoek naar een WordPress developer! https://t.co/EwRStjsFR1"
+	},
+	{
 		"created_at": "Sun Nov 21 22:24:26 +0000 2021",
 		"id": 1462547478863962000,
 		"id_str": "1462547478863962114",
