@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 23 07:05:00 +0000 2021",
+		"id": 1462879942891372500,
+		"id_str": "1463040870492557313",
+		"full_text": "to all who celebrate, happy max headroom signal intrusion incident day https://t.co/ykiAJe7Njb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1462879940886421500,
+					"id_str": "1462879940886421505",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/FE0xjjmUYAEMwUD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE0xjjmUYAEMwUD.jpg",
+					"url": "https://t.co/ykiAJe7Njb",
+					"display_url": "pic.twitter.com/ykiAJe7Njb",
+					"expanded_url": "https://twitter.com/ComradeRobot/status/1462879942891372545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 446,
+							"h": 301,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 446,
+							"h": 301,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 446,
+							"h": 301,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1462879940886421500,
+					"id_str": "1462879940886421505",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/FE0xjjmUYAEMwUD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FE0xjjmUYAEMwUD.jpg",
+					"url": "https://t.co/ykiAJe7Njb",
+					"display_url": "pic.twitter.com/ykiAJe7Njb",
+					"expanded_url": "https://twitter.com/ComradeRobot/status/1462879942891372545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 446,
+							"h": 301,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 446,
+							"h": 301,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 446,
+							"h": 301,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1107436490856894500,
+			"id_str": "1107436490856894465",
+			"name": "Notorious RBMK 📡🌌",
+			"screen_name": "ComradeRobot",
+			"location": "",
+			"description": "Astrophysics flavored. The kind of nerd who makes things. Sweary and fairly political, but actually pretty nice. Cis. He/him.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1339,
+			"friends_count": 525,
+			"listed_count": 17,
+			"created_at": "Mon Mar 18 00:20:09 +0000 2019",
+			"favourites_count": 17438,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12092,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315521096485990401/dJ8Rat1F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315521096485990401/dJ8Rat1F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1107436490856894465/1555042219",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4564,
+		"favorite_count": 16222,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "to all who celebrate, happy max headroom signal intrusion incident day https://t.co/ykiAJe7Njb"
+	},
+	{
 		"created_at": "Mon Nov 22 18:08:26 +0000 2021",
 		"id": 1462845444380315600,
 		"id_str": "1462845444380315660",
