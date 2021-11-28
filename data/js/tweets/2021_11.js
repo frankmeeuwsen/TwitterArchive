@@ -1,6 +1,310 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sun Nov 28 22:43:40 +0000 2021",
+		"id": 1465084942107435000,
+		"id_str": "1465089033332301840",
+		"full_text": "In the last 7 days @adidasoriginals have partnered with coinbase, launched a POAP token, created a brand space in Sandbox &amp; are now entering into an apparel collection with the two OG PFP projects…BAYC + Cryptopunks.\n\nPay attention. https://t.co/cWLbA2phMb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adidasoriginals",
+					"name": "adidas Originals",
+					"id": 20348431,
+					"id_str": "20348431",
+					"indices": [
+						19,
+						35
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1465084936772329500,
+					"id_str": "1465084936772329472",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/FFUG_NYXIAA43zE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFUG_NYXIAA43zE.jpg",
+					"url": "https://t.co/cWLbA2phMb",
+					"display_url": "pic.twitter.com/cWLbA2phMb",
+					"expanded_url": "https://twitter.com/zoescaman/status/1465084942107435014/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1125,
+							"h": 1384,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 975,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 553,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1465084936772329500,
+					"id_str": "1465084936772329472",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/FFUG_NYXIAA43zE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFUG_NYXIAA43zE.jpg",
+					"url": "https://t.co/cWLbA2phMb",
+					"display_url": "pic.twitter.com/cWLbA2phMb",
+					"expanded_url": "https://twitter.com/zoescaman/status/1465084942107435014/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1125,
+							"h": 1384,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 975,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 553,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1465084936776560600,
+					"id_str": "1465084936776560646",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/FFUG_NZXsAYZELS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFUG_NZXsAYZELS.jpg",
+					"url": "https://t.co/cWLbA2phMb",
+					"display_url": "pic.twitter.com/cWLbA2phMb",
+					"expanded_url": "https://twitter.com/zoescaman/status/1465084942107435014/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1386,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 552,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 974,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1465084937359483000,
+					"id_str": "1465084937359482883",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/FFUG_PkWYAM3IS7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFUG_PkWYAM3IS7.jpg",
+					"url": "https://t.co/cWLbA2phMb",
+					"display_url": "pic.twitter.com/cWLbA2phMb",
+					"expanded_url": "https://twitter.com/zoescaman/status/1465084942107435014/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 411,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1022,
+							"h": 617,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1022,
+							"h": 617,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1465084938424832000,
+					"id_str": "1465084938424832009",
+					"indices": [
+						237,
+						260
+					],
+					"media_url": "http://pbs.twimg.com/media/FFUG_TiWUAk9Xo8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFUG_TiWUAk9Xo8.jpg",
+					"url": "https://t.co/cWLbA2phMb",
+					"display_url": "pic.twitter.com/cWLbA2phMb",
+					"expanded_url": "https://twitter.com/zoescaman/status/1465084942107435014/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 744,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 744,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15228226,
+			"id_str": "15228226",
+			"name": "Zoe Scaman",
+			"screen_name": "zoescaman",
+			"location": "London, UK",
+			"description": "Founder @ Bodacious, a strategy studio + building @mcx_fun ⚡️💬 fandoms, creators, brands, blockchain + entertainment: https://t.co/Waa8vHTREk",
+			"url": "https://t.co/fhwCFs4hO6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fhwCFs4hO6",
+							"expanded_url": "https://bodacious.be/",
+							"display_url": "bodacious.be",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Waa8vHTREk",
+							"expanded_url": "http://zoescaman.substack.com",
+							"display_url": "zoescaman.substack.com",
+							"indices": [
+								118,
+								141
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 21968,
+			"friends_count": 1164,
+			"listed_count": 431,
+			"created_at": "Wed Jun 25 06:14:26 +0000 2008",
+			"favourites_count": 18896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23321,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1432450609890959360/0RqQoRbC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432450609890959360/0RqQoRbC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15228226/1588377974",
+			"profile_link_color": "F16D7D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In the last 7 days @adidasoriginals have partnered with coinbase, launched a POAP token, created a brand space in Sandbox &amp; are now entering into an apparel collection with the two OG PFP projects…BAYC + Cryptopunks.\n\nPay attention. https://t.co/cWLbA2phMb"
+	},
+	{
 		"created_at": "Sun Nov 28 21:35:44 +0000 2021",
 		"id": 1465071938401935400,
 		"id_str": "1465071938401935370",
