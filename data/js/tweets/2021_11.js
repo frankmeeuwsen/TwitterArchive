@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 29 18:00:55 +0000 2021",
+		"id": 1465380267951022000,
+		"id_str": "1465380267951022082",
+		"full_text": "NFT bier. We zijn gedoemd @erwblo https://t.co/nZu6ksLAKC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erwblo",
+					"name": "Erwin Blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						26,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nZu6ksLAKC",
+					"expanded_url": "https://twitter.com/brantlymillegan/status/1465336361351880711",
+					"display_url": "twitter.com/brantlymillega…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8753,
+			"friends_count": 717,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8701,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1465336361351880700,
+		"quoted_status_id_str": "1465336361351880711",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nZu6ksLAKC",
+			"expanded": "https://twitter.com/brantlymillegan/status/1465336361351880711",
+			"display": "twitter.com/brantlymillega…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Nov 29 15:06:27 +0000 2021",
+			"id": 1465336361351880700,
+			"id_str": "1465336361351880711",
+			"full_text": "holy crap @budweiserusa did it 🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯 https://t.co/tT3wjfmefd",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				48
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "budweiserusa",
+						"name": "beer.eth",
+						"id": 870680989,
+						"id_str": "870680989",
+						"indices": [
+							10,
+							23
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1465336359552438300,
+						"id_str": "1465336359552438283",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/FFXrp8OWUAs-BPA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFXrp8OWUAs-BPA.jpg",
+						"url": "https://t.co/tT3wjfmefd",
+						"display_url": "pic.twitter.com/tT3wjfmefd",
+						"expanded_url": "https://twitter.com/BrantlyMillegan/status/1465336361351880711/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 566,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 998,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1731,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1465336359552438300,
+						"id_str": "1465336359552438283",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/FFXrp8OWUAs-BPA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFXrp8OWUAs-BPA.jpg",
+						"url": "https://t.co/tT3wjfmefd",
+						"display_url": "pic.twitter.com/tT3wjfmefd",
+						"expanded_url": "https://twitter.com/BrantlyMillegan/status/1465336361351880711/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 566,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 998,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1731,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 518918278,
+				"id_str": "518918278",
+				"name": "brantly.eth",
+				"screen_name": "BrantlyMillegan",
+				"location": "Web3",
+				"description": "Catholic, husband, father | dir. of ops @ensdomains | ENS help: https://t.co/EECXd4Tu4q",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/EECXd4Tu4q",
+								"expanded_url": "http://chat.ens.domains",
+								"display_url": "chat.ens.domains",
+								"indices": [
+									64,
+									87
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 34382,
+				"friends_count": 752,
+				"listed_count": 598,
+				"created_at": "Thu Mar 08 21:57:17 +0000 2012",
+				"favourites_count": 61083,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 20932,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "757575",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1450575979366207492/5cU_7pkm_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1450575979366207492/5cU_7pkm_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/518918278/1636750879",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 505,
+			"favorite_count": 2702,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "NFT bier. We zijn gedoemd @erwblo https://t.co/nZu6ksLAKC"
+	},
+	{
 		"created_at": "Mon Nov 29 17:11:19 +0000 2021",
 		"id": 1465367785572380700,
 		"id_str": "1465367785572380679",
