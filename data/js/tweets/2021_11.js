@@ -1,6 +1,600 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 29 18:45:28 +0000 2021",
+		"id": 1465391477035614200,
+		"id_str": "1465391477035614215",
+		"full_text": "Mooi detail in deze scene is dat wiebelvoetje van Ringo op de beat. Voelt dat het klopt en dat er iets in zit. Veelbetekenende blik als er meer woorden komen. Mooi dit. https://t.co/SUSknkNbrQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SUSknkNbrQ",
+					"expanded_url": "https://twitter.com/tedgioia/status/1465049482933030913",
+					"display_url": "twitter.com/tedgioia/statu…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8753,
+			"friends_count": 717,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8704,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65625,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1465049482933031000,
+		"quoted_status_id_str": "1465049482933030913",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SUSknkNbrQ",
+			"expanded": "https://twitter.com/tedgioia/status/1465049482933030913",
+			"display": "twitter.com/tedgioia/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 28 20:06:30 +0000 2021",
+			"id": 1465049482933031000,
+			"id_str": "1465049482933030913",
+			"full_text": "I’ve never seen anything like this on film before. Paul really has nothing at the 30 second mark—but 45 seconds later he’s got the makings of a hit single.  https://t.co/kvGOp1yuZs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				180
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1464651534046830600,
+						"id_str": "1464651534046830605",
+						"indices": [
+							157,
+							180
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1464651534046830605/pu/img/rJIZnMrkABnYplRA.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1464651534046830605/pu/img/rJIZnMrkABnYplRA.jpg",
+						"url": "https://t.co/kvGOp1yuZs",
+						"display_url": "pic.twitter.com/kvGOp1yuZs",
+						"expanded_url": "https://twitter.com/DarthYavin/status/1464651688841826309/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 683,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 728,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 387,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1464651688841826300,
+						"source_status_id_str": "1464651688841826309",
+						"source_user_id": 1384422798060368000,
+						"source_user_id_str": "1384422798060367877"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1464651534046830600,
+						"id_str": "1464651534046830605",
+						"indices": [
+							157,
+							180
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1464651534046830605/pu/img/rJIZnMrkABnYplRA.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1464651534046830605/pu/img/rJIZnMrkABnYplRA.jpg",
+						"url": "https://t.co/kvGOp1yuZs",
+						"display_url": "pic.twitter.com/kvGOp1yuZs",
+						"expanded_url": "https://twitter.com/DarthYavin/status/1464651688841826309/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 683,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 728,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 387,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1464651688841826300,
+						"source_status_id_str": "1464651688841826309",
+						"source_user_id": 1384422798060368000,
+						"source_user_id_str": "1384422798060367877",
+						"video_info": {
+							"aspect_ratio": [
+								160,
+								91
+							],
+							"duration_millis": 140030,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1464651534046830605/pu/vid/632x360/lbQ1s8dKATQYfmYS.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1464651534046830605/pu/vid/474x270/8ZTt-RASh-3swopn.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1464651534046830605/pu/vid/1264x720/gP6HC2EtuJarJR_c.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1464651534046830605/pu/pl/G9uHPLImdO_ZaFmF.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 1384422798060368000,
+								"id_str": "1384422798060367877",
+								"name": "Darth Yavin",
+								"screen_name": "DarthYavin",
+								"location": "Florida, USA",
+								"description": "30 | He/Him | 🇨🇴 | Twitch Affiliate | Powered by Coffee and G-Fuel",
+								"url": "https://t.co/ci1zQNf8BG",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/ci1zQNf8BG",
+												"expanded_url": "https://linktr.ee/DarthYavin",
+												"display_url": "linktr.ee/DarthYavin",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 94,
+								"friends_count": 96,
+								"listed_count": 1,
+								"created_at": "Tue Apr 20 08:24:57 +0000 2021",
+								"favourites_count": 592,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 746,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1384422899608702976/SoBTrlvV_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384422899608702976/SoBTrlvV_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/1384422798060367877/1625058080",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 69034924,
+				"id_str": "69034924",
+				"name": "Ted Gioia",
+				"screen_name": "tedgioia",
+				"location": "",
+				"description": "Author of 11 books including Music: A Subversive History, The History of Jazz, and Delta Blues. Sign up for my Substack at https://t.co/iqAznbFYB5",
+				"url": "https://t.co/YWdhV9mYbE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YWdhV9mYbE",
+								"expanded_url": "http://www.tedgioia.com",
+								"display_url": "tedgioia.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/iqAznbFYB5",
+								"expanded_url": "http://tedgioia.substack.com",
+								"display_url": "tedgioia.substack.com",
+								"indices": [
+									123,
+									146
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 55098,
+				"friends_count": 5350,
+				"listed_count": 1369,
+				"created_at": "Wed Aug 26 17:05:28 +0000 2009",
+				"favourites_count": 44229,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 63072,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/732608426774138881/joeQ-CHV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/732608426774138881/joeQ-CHV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/69034924/1463502408",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "AF9447",
+				"profile_sidebar_fill_color": "B6C0B5",
+				"profile_text_color": "72ADA7",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9253,
+			"favorite_count": 50987,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Mooi detail in deze scene is dat wiebelvoetje van Ringo op de beat. Voelt dat het klopt en dat er iets in zit. Veelbetekenende blik als er meer woorden komen. Mooi dit. https://t.co/SUSknkNbrQ"
+	},
+	{
+		"created_at": "Mon Nov 29 18:40:59 +0000 2021",
+		"id": 1465291892506177500,
+		"id_str": "1465390350428745728",
+		"full_text": "This made me laugh. https://t.co/dRW3D6ZUxK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1465291890383851500,
+					"id_str": "1465291890383851525",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/FFXDNfqXEAUfKc-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFXDNfqXEAUfKc-.jpg",
+					"url": "https://t.co/dRW3D6ZUxK",
+					"display_url": "pic.twitter.com/dRW3D6ZUxK",
+					"expanded_url": "https://twitter.com/IndraTor/status/1465291892506177542/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1028,
+							"h": 954,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1028,
+							"h": 954,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 631,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1465291890383851500,
+					"id_str": "1465291890383851525",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/FFXDNfqXEAUfKc-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFXDNfqXEAUfKc-.jpg",
+					"url": "https://t.co/dRW3D6ZUxK",
+					"display_url": "pic.twitter.com/dRW3D6ZUxK",
+					"expanded_url": "https://twitter.com/IndraTor/status/1465291892506177542/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1028,
+							"h": 954,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1028,
+							"h": 954,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 631,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1368271726132535300,
+			"id_str": "1368271726132535296",
+			"name": "𝙞𝙣𝙙𝙧𝙖𝙩𝙤𝙧.𝙚𝙩𝙝",
+			"screen_name": "IndraTor",
+			"location": "",
+			"description": "#Project52 Next gen pfp coming soon\nCollector/Artist Liaison @KnownOrigin_io\nVoxel Artist/Studying AI and robotics (irl) dev\nhttps://t.co/P1pBFzZCVD✍️",
+			"url": "https://t.co/k27kUNDt1b",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/k27kUNDt1b",
+							"expanded_url": "https://knownorigin.io/indrator",
+							"display_url": "knownorigin.io/indrator",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P1pBFzZCVD",
+							"expanded_url": "http://indrator.medium.com",
+							"display_url": "indrator.medium.com",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 6390,
+			"friends_count": 1747,
+			"listed_count": 66,
+			"created_at": "Sat Mar 06 18:46:26 +0000 2021",
+			"favourites_count": 22965,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 13128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368967106239299584/VDupGvuH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368967106239299584/VDupGvuH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1368271726132535296/1629030037",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 141,
+		"favorite_count": 1018,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This made me laugh. https://t.co/dRW3D6ZUxK"
+	},
+	{
 		"created_at": "Mon Nov 29 18:00:55 +0000 2021",
 		"id": 1465380267951022000,
 		"id_str": "1465380267951022082",
