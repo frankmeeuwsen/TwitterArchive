@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 30 22:45:39 +0000 2021",
+		"id": 1465814308923789300,
+		"id_str": "1465814308923789312",
+		"full_text": "Om menig ongefundeerde floephaanviroloog en facebook-is-mijn-wetenschapsbieb pannenkoek hier te parafraseren: “zie deze grafiek. Ik weet het niet hoor. Ik stel mezelf gewoon vragen. Zonder er iets mee te insinueren. Het is allemaal wel toevallig.” https://t.co/7sMc03eSyj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7sMc03eSyj",
+					"expanded_url": "https://twitter.com/caveamsterdam/status/1465783052550955010",
+					"display_url": "twitter.com/caveamsterdam/…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8758,
+			"friends_count": 718,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65639,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1465783052550955000,
+		"quoted_status_id_str": "1465783052550955010",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7sMc03eSyj",
+			"expanded": "https://twitter.com/caveamsterdam/status/1465783052550955010",
+			"display": "twitter.com/caveamsterdam/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 30 20:41:27 +0000 2021",
+			"id": 1465783052550955000,
+			"id_str": "1465783052550955010",
+			"full_text": "https://t.co/KE9wFPy0Vk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1465783048843243500,
+						"id_str": "1465783048843243532",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/FFeB6rgXMAwqkS5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFeB6rgXMAwqkS5.jpg",
+						"url": "https://t.co/KE9wFPy0Vk",
+						"display_url": "pic.twitter.com/KE9wFPy0Vk",
+						"expanded_url": "https://twitter.com/CaveAmsterdam/status/1465783052550955010/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1055,
+								"h": 710,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 458,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1055,
+								"h": 710,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1465783048843243500,
+						"id_str": "1465783048843243532",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/FFeB6rgXMAwqkS5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFeB6rgXMAwqkS5.jpg",
+						"url": "https://t.co/KE9wFPy0Vk",
+						"display_url": "pic.twitter.com/KE9wFPy0Vk",
+						"expanded_url": "https://twitter.com/CaveAmsterdam/status/1465783052550955010/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1055,
+								"h": 710,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 458,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1055,
+								"h": 710,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 976186874342625300,
+				"id_str": "976186874342625280",
+				"name": "Rock Club the Cave",
+				"screen_name": "CaveAmsterdam",
+				"location": "Amsterdam, The Netherlands",
+				"description": "The one and only genuine rock and metal bar in Amsterdam. Expect concert dates, pictures, videos, memes, and all things rock and metal. 🤘Prinsengracht 472",
+				"url": "https://t.co/eiMfbku0tN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eiMfbku0tN",
+								"expanded_url": "https://www.gofundme.com/f/caveamsterdam",
+								"display_url": "gofundme.com/f/caveamsterdam",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 267,
+				"friends_count": 613,
+				"listed_count": 3,
+				"created_at": "Tue Mar 20 20:01:02 +0000 2018",
+				"favourites_count": 162,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 482,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/976187403294699520/NyGcUVaP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/976187403294699520/NyGcUVaP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/976186874342625280/1521576241",
+				"profile_link_color": "8A0707",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Om menig ongefundeerde floephaanviroloog en facebook-is-mijn-wetenschapsbieb pannenkoek hier te parafraseren: “zie deze grafiek. Ik weet het niet hoor. Ik stel mezelf gewoon vragen. Zonder er iets mee te insinueren. Het is allemaal wel toevallig.” https://t.co/7sMc03eSyj"
+	},
+	{
 		"created_at": "Tue Nov 30 21:46:07 +0000 2021",
 		"id": 1465799325175496700,
 		"id_str": "1465799325175496711",
