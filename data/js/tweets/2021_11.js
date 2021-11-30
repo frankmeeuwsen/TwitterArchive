@@ -1,6 +1,439 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 30 20:33:09 +0000 2021",
+		"id": 1465780701807222800,
+		"id_str": "1465780964060241920",
+		"full_text": "Dit zijn B-Boys @QuintKik @copydimitri @frankmeeuwsen @skoopnl @JeroenMirck @heiligegeert die podcasten voor @KINKpuntnl over de meest @ndrgwrdrdldjs van de Beastie Boys! \n\nCh-check it out on Thursday! https://t.co/7K0RPtmurH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "QuintKik",
+					"name": "Quint kik",
+					"id": 586921344,
+					"id_str": "586921344",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"screen_name": "copydimitri",
+					"name": "Copydimitri",
+					"id": 1434590236806365200,
+					"id_str": "1434590236806365186",
+					"indices": [
+						26,
+						38
+					]
+				},
+				{
+					"screen_name": "frankmeeuwsen",
+					"name": "Frank Meeuwsen",
+					"id": 816203,
+					"id_str": "816203",
+					"indices": [
+						39,
+						53
+					]
+				},
+				{
+					"screen_name": "skoopnl",
+					"name": "Stefan Koopmanschap | ꓘINK",
+					"id": 179001722,
+					"id_str": "179001722",
+					"indices": [
+						54,
+						62
+					]
+				},
+				{
+					"screen_name": "JeroenMirck",
+					"name": "Jeroen Mirck",
+					"id": 5567782,
+					"id_str": "5567782",
+					"indices": [
+						63,
+						75
+					]
+				},
+				{
+					"screen_name": "heiligegeert",
+					"name": "Geert Franse",
+					"id": 80114482,
+					"id_str": "80114482",
+					"indices": [
+						76,
+						89
+					]
+				},
+				{
+					"screen_name": "KINKpuntnl",
+					"name": "KINK",
+					"id": 36077942,
+					"id_str": "36077942",
+					"indices": [
+						109,
+						120
+					]
+				},
+				{
+					"screen_name": "ndrgwrdrdldjs",
+					"name": "Ondrgwrdeerdeliedjes",
+					"id": 2274872545,
+					"id_str": "2274872545",
+					"indices": [
+						135,
+						149
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1465780395027406800,
+					"id_str": "1465780395027406859",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FFd_gNRXIAsp9H0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFd_gNRXIAsp9H0.jpg",
+					"url": "https://t.co/7K0RPtmurH",
+					"display_url": "pic.twitter.com/7K0RPtmurH",
+					"expanded_url": "https://twitter.com/freek_janssen/status/1465780701807222784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1326,
+							"h": 837,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 757,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1465780395027406800,
+					"id_str": "1465780395027406859",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/FFd_gNRXIAsp9H0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFd_gNRXIAsp9H0.jpg",
+					"url": "https://t.co/7K0RPtmurH",
+					"display_url": "pic.twitter.com/7K0RPtmurH",
+					"expanded_url": "https://twitter.com/freek_janssen/status/1465780701807222784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1326,
+							"h": 837,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 757,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 71275737,
+			"id_str": "71275737",
+			"name": "uǝssuɐɾ‾ʞǝǝɹɟ@",
+			"screen_name": "freek_janssen",
+			"location": "Netherlands",
+			"description": "Freek Janssen, voor de broodnodige nuance. Altijd wakker met @ndrgwrdrdldjs in mijn hoofd. Content mens @Philips.",
+			"url": "https://t.co/Cn0HpK4Hhz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Cn0HpK4Hhz",
+							"expanded_url": "http://www.ondergewaardeerdeliedjes.nl",
+							"display_url": "ondergewaardeerdeliedjes.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2165,
+			"friends_count": 1197,
+			"listed_count": 106,
+			"created_at": "Thu Sep 03 15:08:24 +0000 2009",
+			"favourites_count": 5649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43342,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1461759173440507906/mwha7ucd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1461759173440507906/mwha7ucd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/71275737/1634504201",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Dit zijn B-Boys @QuintKik @copydimitri @frankmeeuwsen @skoopnl @JeroenMirck @heiligegeert die podcasten voor @KINKpuntnl over de meest @ndrgwrdrdldjs van de Beastie Boys! \n\nCh-check it out on Thursday! https://t.co/7K0RPtmurH"
+	},
+	{
+		"created_at": "Tue Nov 30 20:27:30 +0000 2021",
+		"id": 1465779542753218600,
+		"id_str": "1465779542753218562",
+		"full_text": "@skoopnl @kangarules @Popmartijn @ndrgwrdrdldjs @JeroenMirck @freek_janssen @KINKpuntnl Ik kan altijd audiobomben he...",
+		"truncated": false,
+		"display_text_range": [
+			88,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "skoopnl",
+					"name": "Stefan Koopmanschap | ꓘINK",
+					"id": 179001722,
+					"id_str": "179001722",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "kangarules",
+					"name": "Erik Bras",
+					"id": 16877829,
+					"id_str": "16877829",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"screen_name": "Popmartijn",
+					"name": "Martijn Janssen",
+					"id": 478116264,
+					"id_str": "478116264",
+					"indices": [
+						21,
+						32
+					]
+				},
+				{
+					"screen_name": "ndrgwrdrdldjs",
+					"name": "Ondrgwrdeerdeliedjes",
+					"id": 2274872545,
+					"id_str": "2274872545",
+					"indices": [
+						33,
+						47
+					]
+				},
+				{
+					"screen_name": "JeroenMirck",
+					"name": "Jeroen Mirck",
+					"id": 5567782,
+					"id_str": "5567782",
+					"indices": [
+						48,
+						60
+					]
+				},
+				{
+					"screen_name": "freek_janssen",
+					"name": "uǝssuɐɾ‾ʞǝǝɹɟ@",
+					"id": 71275737,
+					"id_str": "71275737",
+					"indices": [
+						61,
+						75
+					]
+				},
+				{
+					"screen_name": "KINKpuntnl",
+					"name": "KINK",
+					"id": 36077942,
+					"id_str": "36077942",
+					"indices": [
+						76,
+						87
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1465779426029977600,
+		"in_reply_to_status_id_str": "1465779426029977619",
+		"in_reply_to_user_id": 179001722,
+		"in_reply_to_user_id_str": "179001722",
+		"in_reply_to_screen_name": "skoopnl",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8757,
+			"friends_count": 718,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8712,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65635,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@skoopnl @kangarules @Popmartijn @ndrgwrdrdldjs @JeroenMirck @freek_janssen @KINKpuntnl Ik kan altijd audiobomben he..."
+	},
+	{
 		"created_at": "Tue Nov 30 19:31:38 +0000 2021",
 		"id": 1465765483509125000,
 		"id_str": "1465765483509125120",
