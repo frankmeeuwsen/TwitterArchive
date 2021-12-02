@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 02 16:26:33 +0000 2021",
+		"id": 1466443459951272000,
+		"id_str": "1466443682106724355",
+		"full_text": "Today we leap Into The Metaverse with @BoredApeYC, @gmoneyNFT &amp; @punkscomic.\n\nIt’s time to enter a world of limitless possibilities.\n\nhttps://t.co/LmgtrRn20c https://t.co/40kU8tayrS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BoredApeYC",
+					"name": "Bored Ape Yacht Club",
+					"id": 1381699264011772000,
+					"id_str": "1381699264011771906",
+					"indices": [
+						38,
+						49
+					]
+				},
+				{
+					"screen_name": "gmoneyNFT",
+					"name": "gmoney.eth 🏝",
+					"id": 1311393885806100500,
+					"id_str": "1311393885806100481",
+					"indices": [
+						51,
+						61
+					]
+				},
+				{
+					"screen_name": "punkscomic",
+					"name": "PUNKS Comic",
+					"id": 1388172022367330300,
+					"id_str": "1388172022367330307",
+					"indices": [
+						68,
+						79
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LmgtrRn20c",
+					"expanded_url": "http://adidas.com/Metaverse",
+					"display_url": "adidas.com/Metaverse",
+					"indices": [
+						138,
+						161
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1466429838017900500,
+					"id_str": "1466429838017900572",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FFnO8ARXwAEDgSu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFnO8ARXwAEDgSu.jpg",
+					"url": "https://t.co/40kU8tayrS",
+					"display_url": "pic.twitter.com/40kU8tayrS",
+					"expanded_url": "https://twitter.com/adidasoriginals/status/1466443459951271939/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 227,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1466429838017900500,
+					"id_str": "1466429838017900572",
+					"indices": [
+						162,
+						185
+					],
+					"media_url": "http://pbs.twimg.com/media/FFnO8ARXwAEDgSu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFnO8ARXwAEDgSu.jpg",
+					"url": "https://t.co/40kU8tayrS",
+					"display_url": "pic.twitter.com/40kU8tayrS",
+					"expanded_url": "https://twitter.com/adidasoriginals/status/1466443459951271939/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 227,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 28600,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1466429838017900572/vid/640x360/aBLDGTQ3_oXKV4Z5.mp4?tag=14"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1466429838017900572/vid/480x270/l7l0ljfRiQVYkgQR.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1466429838017900572/pl/-qd478xTLOiI3PL-.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1466429838017900572/vid/1280x720/xGy4cxPYH_o9Sj8L.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Into The Metaverse",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20348431,
+			"id_str": "20348431",
+			"name": "adidas Originals",
+			"screen_name": "adidasoriginals",
+			"location": "Global",
+			"description": "Into The Metaverse",
+			"url": "https://t.co/CGUoaDSitZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CGUoaDSitZ",
+							"expanded_url": "https://adidas.com/metaverse",
+							"display_url": "adidas.com/metaverse",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4070776,
+			"friends_count": 352,
+			"listed_count": 6073,
+			"created_at": "Sun Feb 08 03:04:25 +0000 2009",
+			"favourites_count": 8813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1466456186237116423/XHjClvrt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1466456186237116423/XHjClvrt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20348431/1638462731",
+			"profile_link_color": "0066FF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "0066FF",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2657,
+		"favorite_count": 6309,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today we leap Into The Metaverse with @BoredApeYC, @gmoneyNFT &amp; @punkscomic.\n\nIt’s time to enter a world of limitless possibilities.\n\nhttps://t.co/LmgtrRn20c https://t.co/40kU8tayrS"
+	},
+	{
 		"created_at": "Thu Dec 02 12:05:40 +0000 2021",
 		"id": 1466378026539790300,
 		"id_str": "1466378026539790337",
