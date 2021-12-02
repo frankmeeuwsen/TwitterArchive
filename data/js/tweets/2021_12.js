@@ -1,6 +1,115 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 02 17:24:45 +0000 2021",
+		"id": 1466136589030019000,
+		"id_str": "1466458327907459073",
+		"full_text": "Wie weet iets? Wie heeft iets gezien? Wie kan de politie helpen de jongen te vinden die mijn zoon in elkaar sloeg? #Hoogezand #mishandeling\n\nhttps://t.co/oH3tTbFAuW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Hoogezand",
+					"indices": [
+						115,
+						125
+					]
+				},
+				{
+					"text": "mishandeling",
+					"indices": [
+						126,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oH3tTbFAuW",
+					"expanded_url": "https://112hoogezand.nl/2021/12/01/getuigen-gezocht-van-mishandeling-11-jarige-jongen/",
+					"display_url": "112hoogezand.nl/2021/12/01/get…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 115975171,
+			"id_str": "115975171",
+			"name": "Ellen, level 20 heks 🇳🇱 🌈",
+			"screen_name": "IsisEvrinen",
+			"location": "Het Hoge Noorden",
+			"description": "I'm on a mission from God. Always try to be nice and never fail to be kind.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1268,
+			"friends_count": 694,
+			"listed_count": 31,
+			"created_at": "Sat Feb 20 17:14:17 +0000 2010",
+			"favourites_count": 22857,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1408160282225086478/16azjv_F_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1408160282225086478/16azjv_F_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/115975171/1617398947",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 65,
+		"favorite_count": 32,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Wie weet iets? Wie heeft iets gezien? Wie kan de politie helpen de jongen te vinden die mijn zoon in elkaar sloeg? #Hoogezand #mishandeling\n\nhttps://t.co/oH3tTbFAuW"
+	},
+	{
 		"created_at": "Thu Dec 02 16:26:33 +0000 2021",
 		"id": 1466443459951272000,
 		"id_str": "1466443682106724355",
