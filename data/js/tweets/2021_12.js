@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 07 11:45:34 +0000 2021",
+		"id": 1467871850583711700,
+		"id_str": "1468184909164384257",
+		"full_text": "\"Inside The Lockdown Sessions\" is a new documentary with @PearlJam's Eddie Vedder, @StevieNicks and more about Elton John’s new album \"The Lockdown Sessions\".\nhttps://t.co/ZKkh8Mcuq4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PearlJam",
+					"name": "Pearl Jam",
+					"id": 15155074,
+					"id_str": "15155074",
+					"indices": [
+						57,
+						66
+					]
+				},
+				{
+					"screen_name": "StevieNicks",
+					"name": "Stevie Nicks",
+					"id": 235236313,
+					"id_str": "235236313",
+					"indices": [
+						83,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZKkh8Mcuq4",
+					"expanded_url": "https://www.pearljamonline.it/en/eddie-vedder-featured-in-the-new-elton-john-documentary/",
+					"display_url": "pearljamonline.it/en/eddie-vedde…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27473819,
+			"id_str": "27473819",
+			"name": "PearlJamOnline.it",
+			"screen_name": "PearlJamOnline",
+			"location": "Reggio Emilia, Italy",
+			"description": "🇮🇹 @PearlJam italian fansite since 2001. Run by fans, for fans. Follow the strangest tribe...",
+			"url": "https://t.co/VwnPhGUTy6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VwnPhGUTy6",
+							"expanded_url": "http://pearljamonline.it",
+							"display_url": "pearljamonline.it",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41160,
+			"friends_count": 2568,
+			"listed_count": 415,
+			"created_at": "Sun Mar 29 18:24:06 +0000 2009",
+			"favourites_count": 8011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "17160F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/976448147919646721/HxYSlD2O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/976448147919646721/HxYSlD2O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27473819/1632325016",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EBE79F",
+			"profile_text_color": "0A080A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"Inside The Lockdown Sessions\" is a new documentary with @PearlJam's Eddie Vedder, @StevieNicks and more about Elton John’s new album \"The Lockdown Sessions\".\nhttps://t.co/ZKkh8Mcuq4"
+	},
+	{
 		"created_at": "Tue Dec 07 08:45:59 +0000 2021",
 		"id": 1468114987847663600,
 		"id_str": "1468139715752644608",
@@ -38,7 +166,7 @@ Grailbird.data.tweets_2021_12 =
 			"name": "Roel Groeneveld",
 			"screen_name": "roelgroeneveld",
 			"location": "Thuis",
-			"description": "👨‍👩‍👧‍👦 Working dad | 📷 Likes taking photos  | ❤️s the open Web | 🧑‍💻 Product owner | 🏃‍♂️ Running | 🍿 Hello to Jason Isaacs",
+			"description": "👨👩👧👦 Working dad | 📷 Likes taking photos  | ❤️s the open Web | 🧑💻 Product owner | 🏃♂️ Running | 🍿 Hello to Jason Isaacs",
 			"url": "https://t.co/EC3qcBgDBT",
 			"entities": {
 				"url": {
