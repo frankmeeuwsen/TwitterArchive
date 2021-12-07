@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 07 08:45:59 +0000 2021",
+		"id": 1468114987847663600,
+		"id_str": "1468139715752644608",
+		"full_text": "Gezellige jongens:\n\nTile Buyer Life360 Selling Precise Location Data on Millions of Users https://t.co/m7QjsckwYP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m7QjsckwYP",
+					"expanded_url": "https://www.macrumors.com/2021/12/06/life360-selling-location-data-of-millions/",
+					"display_url": "macrumors.com/2021/12/06/lif…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://pragmaticcode.com/linky/\" rel=\"nofollow\">Linky for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16042848,
+			"id_str": "16042848",
+			"name": "Roel Groeneveld",
+			"screen_name": "roelgroeneveld",
+			"location": "Thuis",
+			"description": "👨‍👩‍👧‍👦 Working dad | 📷 Likes taking photos  | ❤️s the open Web | 🧑‍💻 Product owner | 🏃‍♂️ Running | 🍿 Hello to Jason Isaacs",
+			"url": "https://t.co/EC3qcBgDBT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EC3qcBgDBT",
+							"expanded_url": "https://roelgroeneveld.com",
+							"display_url": "roelgroeneveld.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 722,
+			"friends_count": 583,
+			"listed_count": 85,
+			"created_at": "Fri Aug 29 14:56:21 +0000 2008",
+			"favourites_count": 23740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33886,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1345848273005899779/zF8QRuLr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345848273005899779/zF8QRuLr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16042848/1509025786",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Gezellige jongens:\n\nTile Buyer Life360 Selling Precise Location Data on Millions of Users https://t.co/m7QjsckwYP"
+	},
+	{
 		"created_at": "Mon Dec 06 21:34:59 +0000 2021",
 		"id": 1467970852394307600,
 		"id_str": "1467970852394307591",
