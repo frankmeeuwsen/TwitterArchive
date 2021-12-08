@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 08 14:26:41 +0000 2021",
+		"id": 1468587841982767000,
+		"id_str": "1468587841982767121",
+		"full_text": "We konden toch ook DVD'tjes opzetten? Of in dit geval, naar een foto kijken van het schilderij? https://t.co/E10iFCiriQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E10iFCiriQ",
+					"expanded_url": "https://twitter.com/ivanengelshoven/status/1468543317021503497",
+					"display_url": "twitter.com/ivanengelshove…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8768,
+			"friends_count": 753,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65678,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1468543317021503500,
+		"quoted_status_id_str": "1468543317021503497",
+		"quoted_status_permalink": {
+			"url": "https://t.co/E10iFCiriQ",
+			"expanded": "https://twitter.com/ivanengelshoven/status/1468543317021503497",
+			"display": "twitter.com/ivanengelshove…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 08 11:29:45 +0000 2021",
+			"id": 1468543317021503500,
+			"id_str": "1468543317021503497",
+			"full_text": "Met deze aankoop kunnen we één van de mooiste Rembrandts toegankelijk maken voor iedereen. Samen met @rijksmuseum en @VRembrandt zorgen we ervoor dat #DeVaandeldrager voor altijd Nederlands publiek bezit blijft. https://t.co/6gypDjTDwn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				211
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DeVaandeldrager",
+						"indices": [
+							150,
+							166
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "rijksmuseum",
+						"name": "Rijksmuseum",
+						"id": 109515460,
+						"id_str": "109515460",
+						"indices": [
+							101,
+							113
+						]
+					},
+					{
+						"screen_name": "VRembrandt",
+						"name": "Vereniging Rembrandt",
+						"id": 481900641,
+						"id_str": "481900641",
+						"indices": [
+							117,
+							128
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1468543312680341500,
+						"id_str": "1468543312680341512",
+						"indices": [
+							212,
+							235
+						],
+						"media_url": "http://pbs.twimg.com/media/FGFQXLmWUAg_ecW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGFQXLmWUAg_ecW.jpg",
+						"url": "https://t.co/6gypDjTDwn",
+						"display_url": "pic.twitter.com/6gypDjTDwn",
+						"expanded_url": "https://twitter.com/ivanengelshoven/status/1468543317021503497/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 555,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 579,
+								"h": 709,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 579,
+								"h": 709,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1468543312680341500,
+						"id_str": "1468543312680341512",
+						"indices": [
+							212,
+							235
+						],
+						"media_url": "http://pbs.twimg.com/media/FGFQXLmWUAg_ecW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGFQXLmWUAg_ecW.jpg",
+						"url": "https://t.co/6gypDjTDwn",
+						"display_url": "pic.twitter.com/6gypDjTDwn",
+						"expanded_url": "https://twitter.com/ivanengelshoven/status/1468543317021503497/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 555,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 579,
+								"h": 709,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 579,
+								"h": 709,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 38919625,
+				"id_str": "38919625",
+				"name": "Ingrid van Engelshoven",
+				"screen_name": "ivanengelshoven",
+				"location": "Den Haag, Nederland",
+				"description": "Demissionair minister van Onderwijs, Cultuur en Wetenschap (OCW)",
+				"url": "https://t.co/1oahKNApIu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1oahKNApIu",
+								"expanded_url": "https://www.rijksoverheid.nl/regering/bewindspersonen/ingrid-van-engelshoven",
+								"display_url": "rijksoverheid.nl/regering/bewin…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18325,
+				"friends_count": 614,
+				"listed_count": 362,
+				"created_at": "Sat May 09 20:17:17 +0000 2009",
+				"favourites_count": 1003,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6445,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1321196250260250624/foFa3vbi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1321196250260250624/foFa3vbi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/38919625/1524573955",
+				"profile_link_color": "42145F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 97,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "We konden toch ook DVD'tjes opzetten? Of in dit geval, naar een foto kijken van het schilderij? https://t.co/E10iFCiriQ"
+	},
+	{
 		"created_at": "Tue Dec 07 15:53:19 +0000 2021",
 		"id": 1468247256650465300,
 		"id_str": "1468247256650465287",
