@@ -1,6 +1,267 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 10 09:50:30 +0000 2021",
+		"id": 1469243113264791600,
+		"id_str": "1469243113264791556",
+		"full_text": "Tof! https://t.co/i9D5xXLkqN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/i9D5xXLkqN",
+					"expanded_url": "https://twitter.com/getmatterapp/status/1469056422927208449",
+					"display_url": "twitter.com/getmatterapp/s…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8769,
+			"friends_count": 754,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65690,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1469056422927208400,
+		"quoted_status_id_str": "1469056422927208449",
+		"quoted_status_permalink": {
+			"url": "https://t.co/i9D5xXLkqN",
+			"expanded": "https://twitter.com/getmatterapp/status/1469056422927208449",
+			"display": "twitter.com/getmatterapp/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 09 21:28:39 +0000 2021",
+			"id": 1469056422927208400,
+			"id_str": "1469056422927208449",
+			"full_text": "Today, we're delighted to release one our our most requested integrations: @obsdmd!\n\nWith our new Obsidian plugin, you can sync your Matter highlights and notes to your Obsidian vault.\n\nHere's @HunterClarke (who built the plugin) on how to set it up:\nhttps://t.co/A9oinNuWjq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "obsdmd",
+						"name": "Obsidian",
+						"id": 1239876481951596500,
+						"id_str": "1239876481951596545",
+						"indices": [
+							75,
+							82
+						]
+					},
+					{
+						"screen_name": "HunterClarke",
+						"name": "Hunter Clarke",
+						"id": 26942856,
+						"id_str": "26942856",
+						"indices": [
+							193,
+							206
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/A9oinNuWjq",
+						"expanded_url": "https://www.loom.com/share/a86707aff6854e5da5a5b60d6f3fdd04",
+						"display_url": "loom.com/share/a86707af…",
+						"indices": [
+							251,
+							274
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1232479427981791200,
+				"id_str": "1232479427981791233",
+				"name": "Matter",
+				"screen_name": "getmatterapp",
+				"location": "",
+				"description": "Words are my matter. (Ursula K. Le Guin)\n\nWall of love: https://t.co/myCDXholgf",
+				"url": "https://t.co/QmZkLQtA2R",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/QmZkLQtA2R",
+								"expanded_url": "http://getmatter.app",
+								"display_url": "getmatter.app",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/myCDXholgf",
+								"expanded_url": "https://twitter.com/getmatterapp/timelines/1353843820639739906",
+								"display_url": "twitter.com/getmatterapp/t…",
+								"indices": [
+									56,
+									79
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4989,
+				"friends_count": 6,
+				"listed_count": 110,
+				"created_at": "Wed Feb 26 01:36:21 +0000 2020",
+				"favourites_count": 1399,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 736,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1445088103979388936/LWkZZVSQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445088103979388936/LWkZZVSQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1232479427981791233/1607026490",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 80,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Tof! https://t.co/i9D5xXLkqN"
+	},
+	{
 		"created_at": "Thu Dec 09 21:29:37 +0000 2021",
 		"id": 1469056664926052400,
 		"id_str": "1469056664926052359",
