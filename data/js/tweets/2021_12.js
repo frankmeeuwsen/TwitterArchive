@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sat Dec 11 16:38:04 +0000 2021",
+		"id": 1469397033488302000,
+		"id_str": "1469708070481809411",
+		"full_text": "Love this! A seemingly simple execution with a beautiful and surprising result https://t.co/N9bmHmRlNM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1469395658037629000,
+					"id_str": "1469395658037628928",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469395658037628928/pu/img/rPMe3pO2-go3AFY9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469395658037628928/pu/img/rPMe3pO2-go3AFY9.jpg",
+					"url": "https://t.co/N9bmHmRlNM",
+					"display_url": "pic.twitter.com/N9bmHmRlNM",
+					"expanded_url": "https://twitter.com/lauraehall/status/1469397033488302082/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 896,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 896,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 546,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1469395658037629000,
+					"id_str": "1469395658037628928",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1469395658037628928/pu/img/rPMe3pO2-go3AFY9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1469395658037628928/pu/img/rPMe3pO2-go3AFY9.jpg",
+					"url": "https://t.co/N9bmHmRlNM",
+					"display_url": "pic.twitter.com/N9bmHmRlNM",
+					"expanded_url": "https://twitter.com/lauraehall/status/1469397033488302082/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 896,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 896,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 546,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							56,
+							45
+						],
+						"duration_millis": 20133,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469395658037628928/pu/vid/448x360/PKl6NS0FDaLMC1Xv.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1469395658037628928/pu/pl/PnKvjCRKG7Nggcpv.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469395658037628928/pu/vid/336x270/Li-YnFZxdgQNY7rk.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1469395658037628928/pu/vid/896x720/c2xG9FfJQZqBRuIU.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6666892,
+			"id_str": "6666892",
+			"name": "Laura E. Hall",
+			"screen_name": "lauraehall",
+			"location": "Portland, Oregon",
+			"description": "PLANNING YOUR ESCAPE @SimonSchuster, KATAMARI DAMACY @BossFightBooks. Immersive, film, escape rooms, narrative puzzle games, folklore, ARGs, mysteries. She/they",
+			"url": "https://t.co/rEBg9EFg0j",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rEBg9EFg0j",
+							"expanded_url": "http://lauraehall.com",
+							"display_url": "lauraehall.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6713,
+			"friends_count": 2034,
+			"listed_count": 185,
+			"created_at": "Fri Jun 08 12:59:27 +0000 2007",
+			"favourites_count": 263033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5179,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "161D3B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/831461737278746625/uqiBV439_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/831461737278746625/uqiBV439_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6666892/1539973212",
+			"profile_link_color": "521551",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1069,
+		"favorite_count": 5793,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Love this! A seemingly simple execution with a beautiful and surprising result https://t.co/N9bmHmRlNM"
+	},
+	{
 		"created_at": "Fri Dec 10 21:27:26 +0000 2021",
 		"id": 1469418502494826500,
 		"id_str": "1469418502494826498",
