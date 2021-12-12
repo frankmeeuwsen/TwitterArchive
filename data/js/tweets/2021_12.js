@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 12 18:06:11 +0000 2021",
+		"id": 1470081304163147800,
+		"id_str": "1470092635020922890",
+		"full_text": "https://t.co/FGtlyaNUzb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470081301042679800,
+					"id_str": "1470081301042679808",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FGbHJ4uX0AAHZwu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGbHJ4uX0AAHZwu.jpg",
+					"url": "https://t.co/FGtlyaNUzb",
+					"display_url": "pic.twitter.com/FGtlyaNUzb",
+					"expanded_url": "https://twitter.com/WholesomeMeme/status/1470081304163147787/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 531,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 646,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 646,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470081301042679800,
+					"id_str": "1470081301042679808",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FGbHJ4uX0AAHZwu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGbHJ4uX0AAHZwu.jpg",
+					"url": "https://t.co/FGtlyaNUzb",
+					"display_url": "pic.twitter.com/FGtlyaNUzb",
+					"expanded_url": "https://twitter.com/WholesomeMeme/status/1470081304163147787/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 531,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 646,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 646,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 762799939395158000,
+			"id_str": "762799939395158016",
+			"name": "WholesomeMemes",
+			"screen_name": "WholesomeMeme",
+			"location": "Ontario, Canada",
+			"description": "We post memes & wholesome stuff and anything we like. We sell original shirts for charity https://t.co/Upa2OFOAJk. Aggressively blocking shitposters/clout seekers.",
+			"url": "https://t.co/1yKH0Uk1Kq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1yKH0Uk1Kq",
+							"expanded_url": "http://www.wholesomememes.com",
+							"display_url": "wholesomememes.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Upa2OFOAJk",
+							"expanded_url": "http://wholesomememes.com",
+							"display_url": "wholesomememes.com",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2304422,
+			"friends_count": 262,
+			"listed_count": 3698,
+			"created_at": "Mon Aug 08 23:57:32 +0000 2016",
+			"favourites_count": 187638,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21966,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1411016646815358978/H8kX0hfw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1411016646815358978/H8kX0hfw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/762799939395158016/1625089063",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1592,
+		"favorite_count": 16935,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/FGtlyaNUzb"
+	},
+	{
 		"created_at": "Sun Dec 12 17:15:43 +0000 2021",
 		"id": 1470079931250000000,
 		"id_str": "1470079931249999875",
