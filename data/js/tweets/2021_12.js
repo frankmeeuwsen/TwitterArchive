@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 13 21:26:22 +0000 2021",
+		"id": 1470505397689671700,
+		"id_str": "1470505397689671687",
+		"full_text": "Probably nothing... https://t.co/fbNvdAr3Bo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fbNvdAr3Bo",
+					"expanded_url": "https://twitter.com/RTFKTstudios/status/1470502799498792963",
+					"display_url": "twitter.com/RTFKTstudios/s…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8773,
+			"friends_count": 758,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8779,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1470502799498793000,
+		"quoted_status_id_str": "1470502799498792963",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fbNvdAr3Bo",
+			"expanded": "https://twitter.com/RTFKTstudios/status/1470502799498792963",
+			"display": "twitter.com/RTFKTstudios/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 13 21:16:02 +0000 2021",
+			"id": 1470502799498793000,
+			"id_str": "1470502799498792963",
+			"full_text": "RTFKT is now a part of the NIKE, Inc. family. 🌐👁‍🗨 https://t.co/5egNk9d8wA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				50
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1470500101936271400,
+						"id_str": "1470500101936271378",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1470500101936271378/pu/img/iJC6kaEfqm6c2TCp.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1470500101936271378/pu/img/iJC6kaEfqm6c2TCp.jpg",
+						"url": "https://t.co/5egNk9d8wA",
+						"display_url": "pic.twitter.com/5egNk9d8wA",
+						"expanded_url": "https://twitter.com/RTFKTstudios/status/1470502799498792963/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1470500101936271400,
+						"id_str": "1470500101936271378",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1470500101936271378/pu/img/iJC6kaEfqm6c2TCp.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1470500101936271378/pu/img/iJC6kaEfqm6c2TCp.jpg",
+						"url": "https://t.co/5egNk9d8wA",
+						"display_url": "pic.twitter.com/5egNk9d8wA",
+						"expanded_url": "https://twitter.com/RTFKTstudios/status/1470502799498792963/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 19800,
+							"variants": [
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1470500101936271378/pu/vid/480x852/6cWyoQatO2wSmfVq.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1470500101936271378/pu/pl/zxILtYJnDL2VANu_.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1470500101936271378/pu/vid/320x568/qVTvDLf39ankNVEC.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1470500101936271378/pu/vid/720x1280/B3wayhBloNykd1q7.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1122468522297299000,
+				"id_str": "1122468522297298945",
+				"name": "RTFKT Studios",
+				"screen_name": "RTFKTstudios",
+				"location": "Los Angeles, CA",
+				"description": "Next Gen Sneakers and Collectibles for the metaverse. NFT DRIP 🖖🌐💊 Join our discord to create dope stuff https://t.co/G9qTWspERO",
+				"url": "https://t.co/5k7SWZ15dv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5k7SWZ15dv",
+								"expanded_url": "https://clonex.rtfkt.com/",
+								"display_url": "clonex.rtfkt.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/G9qTWspERO",
+								"expanded_url": "http://discord.gg/rtfkt",
+								"display_url": "discord.gg/rtfkt",
+								"indices": [
+									105,
+									128
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 168152,
+				"friends_count": 1131,
+				"listed_count": 1031,
+				"created_at": "Sun Apr 28 11:52:04 +0000 2019",
+				"favourites_count": 15628,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6152,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1454105487985811476/nJeNHbrU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1454105487985811476/nJeNHbrU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1122468522297298945/1635524911",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1668,
+			"favorite_count": 6051,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Probably nothing... https://t.co/fbNvdAr3Bo"
+	},
+	{
 		"created_at": "Mon Dec 13 20:38:20 +0000 2021",
 		"id": 1470493310523515000,
 		"id_str": "1470493310523514889",
