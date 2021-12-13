@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 13 17:13:24 +0000 2021",
+		"id": 1467229251938226200,
+		"id_str": "1470441739903246350",
+		"full_text": "Someone downloaded 80,000 Winamp skins and is now selling them as NFTs. The person has been reported, and it'll wind down, but I'll say again that this isn't some strange anomaly; this is the very nature of what NFTs are. Absorb everything you can modularize into the goo. Forever https://t.co/yaAlaYfCjD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1467229146178896000,
+					"id_str": "1467229146178895872",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FFylIn4XwAA0GD8.png",
+					"media_url_https": "https://pbs.twimg.com/media/FFylIn4XwAA0GD8.png",
+					"url": "https://t.co/yaAlaYfCjD",
+					"display_url": "pic.twitter.com/yaAlaYfCjD",
+					"expanded_url": "https://twitter.com/textfiles/status/1467229251938226176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1467229146178896000,
+					"id_str": "1467229146178895872",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FFylIn4XwAA0GD8.png",
+					"media_url_https": "https://pbs.twimg.com/media/FFylIn4XwAA0GD8.png",
+					"url": "https://t.co/yaAlaYfCjD",
+					"display_url": "pic.twitter.com/yaAlaYfCjD",
+					"expanded_url": "https://twitter.com/textfiles/status/1467229251938226176/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 511,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1465481,
+			"id_str": "1465481",
+			"name": "Jason Scott",
+			"screen_name": "textfiles",
+			"location": "The 1980s",
+			"description": "Proprietor of https://t.co/sdyjXHCZF7, historian, filmmaker, archivist, storyteller. Works on/for the Internet Archive. Rank Amateur.",
+			"url": "https://t.co/3H0xQZataA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3H0xQZataA",
+							"expanded_url": "https://linktr.ee/textfiles",
+							"display_url": "linktr.ee/textfiles",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/sdyjXHCZF7",
+							"expanded_url": "http://TEXTFILES.COM",
+							"display_url": "TEXTFILES.COM",
+							"indices": [
+								14,
+								37
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 44176,
+			"friends_count": 756,
+			"listed_count": 1212,
+			"created_at": "Mon Mar 19 02:55:22 +0000 2007",
+			"favourites_count": 2144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 115378,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1447055691198472192/M6ubNVyL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1447055691198472192/M6ubNVyL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1465481/1398239070",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 392,
+		"favorite_count": 1118,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Someone downloaded 80,000 Winamp skins and is now selling them as NFTs. The person has been reported, and it'll wind down, but I'll say again that this isn't some strange anomaly; this is the very nature of what NFTs are. Absorb everything you can modularize into the goo. Forever https://t.co/yaAlaYfCjD"
+	},
+	{
 		"created_at": "Mon Dec 13 12:42:36 +0000 2021",
 		"id": 1470373590440845300,
 		"id_str": "1470373590440845316",
