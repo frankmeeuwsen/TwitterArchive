@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 16 19:37:58 +0000 2021",
+		"id": 1471565284138004500,
+		"id_str": "1471565284138004482",
+		"full_text": "Waar mensen wild worden van McCartney’s Get Back zoektocht in de docu, zo geniet ik van deze opname. Eddie Vedder in een demo op zoek naar de juiste tonen en woorden wat uiteindelijk een van de mooiste fanclub kerstsingles werd. https://t.co/0EsxendOng",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0EsxendOng",
+					"expanded_url": "https://twitter.com/t_f_h_/status/1471467385945305089",
+					"display_url": "twitter.com/t_f_h_/status/…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8770,
+			"friends_count": 760,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8804,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65749,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1471467385945305000,
+		"quoted_status_id_str": "1471467385945305089",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0EsxendOng",
+			"expanded": "https://twitter.com/t_f_h_/status/1471467385945305089",
+			"display": "twitter.com/t_f_h_/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 16 13:08:58 +0000 2021",
+			"id": 1471467385945305000,
+			"id_str": "1471467385945305089",
+			"full_text": "Let's continue revisiting the 10C (holiday) singles. The '93 song was written by Dave A, and was always a rarity - and then it went 22 years between performances! \nHere is its great demo, including Ed's handwritten lyrics. #tfh\n\n\"Tortured\" (Angel demo): https://t.co/JEZbJk3o9Z https://t.co/MQAgWkFNaq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "tfh",
+						"indices": [
+							223,
+							227
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/JEZbJk3o9Z",
+						"expanded_url": "https://www.youtube.com/watch?v=9IToqwMws7I",
+						"display_url": "youtube.com/watch?v=9IToqw…",
+						"indices": [
+							254,
+							277
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1471466341559328800,
+						"id_str": "1471466341559328772",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/FGuy12uWYAQbVZ9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGuy12uWYAQbVZ9.jpg",
+						"url": "https://t.co/MQAgWkFNaq",
+						"display_url": "pic.twitter.com/MQAgWkFNaq",
+						"expanded_url": "https://twitter.com/t_f_h_/status/1471467385945305089/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 202,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 415,
+								"h": 1400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 356,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1471466341559328800,
+						"id_str": "1471466341559328772",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/FGuy12uWYAQbVZ9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FGuy12uWYAQbVZ9.jpg",
+						"url": "https://t.co/MQAgWkFNaq",
+						"display_url": "pic.twitter.com/MQAgWkFNaq",
+						"expanded_url": "https://twitter.com/t_f_h_/status/1471467385945305089/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 202,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 415,
+								"h": 1400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 356,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1254969777896009700,
+				"id_str": "1254969777896009729",
+				"name": "truant finds home",
+				"screen_name": "t_f_h_",
+				"location": "",
+				"description": "Highly curated content according to a Pearl Jam calendar. This one's for the serious collector. #tfh\nhttps://t.co/d9hnTi0Eaw…",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/d9hnTi0Eaw",
+								"expanded_url": "http://youtube.com/user/ppj45code",
+								"display_url": "youtube.com/user/ppj45code",
+								"indices": [
+									101,
+									124
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 422,
+				"friends_count": 6,
+				"listed_count": 6,
+				"created_at": "Tue Apr 28 03:05:12 +0000 2020",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 939,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1254973771036925953/G58HS1QC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254973771036925953/G58HS1QC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1254969777896009729/1588044086",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Waar mensen wild worden van McCartney’s Get Back zoektocht in de docu, zo geniet ik van deze opname. Eddie Vedder in een demo op zoek naar de juiste tonen en woorden wat uiteindelijk een van de mooiste fanclub kerstsingles werd. https://t.co/0EsxendOng"
+	},
+	{
 		"created_at": "Thu Dec 16 10:04:12 +0000 2021",
 		"id": 1471420891846295600,
 		"id_str": "1471420891846295553",
