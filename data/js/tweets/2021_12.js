@@ -1,6 +1,207 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 17 16:41:19 +0000 2021",
+		"id": 1471845423094636500,
+		"id_str": "1471883217439539200",
+		"full_text": "Teenage grunge/metal band The Timeouts just dropped their debut single “Let Me In”. Definitely got a Zeppelin/Soundgarden vibe to it…heavier than any Greta Van Fleet track. Out now everywhere. Link in bio for everything…🔊 https://t.co/kvcF1PuGbW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471845395303125000,
+					"id_str": "1471845395303124997",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1471845395303124997/pu/img/bygr3qZLhHxtKFiz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1471845395303124997/pu/img/bygr3qZLhHxtKFiz.jpg",
+					"url": "https://t.co/kvcF1PuGbW",
+					"display_url": "pic.twitter.com/kvcF1PuGbW",
+					"expanded_url": "https://twitter.com/grungepoprecord/status/1471845423094636547/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471845395303125000,
+					"id_str": "1471845395303124997",
+					"indices": [
+						222,
+						245
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1471845395303124997/pu/img/bygr3qZLhHxtKFiz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1471845395303124997/pu/img/bygr3qZLhHxtKFiz.jpg",
+					"url": "https://t.co/kvcF1PuGbW",
+					"display_url": "pic.twitter.com/kvcF1PuGbW",
+					"expanded_url": "https://twitter.com/grungepoprecord/status/1471845423094636547/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 406,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							203
+						],
+						"duration_millis": 14672,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471845395303124997/pu/vid/478x270/t50V2CZ7TwY9bPJQ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1471845395303124997/pu/pl/SElcinujwnbcsglD.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1471845395303124997/pu/vid/720x406/VTm4qMzyrSIf_SuX.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1394729710614110200,
+			"id_str": "1394729710614110208",
+			"name": "Grunge Pop Records",
+			"screen_name": "grungepoprecord",
+			"location": "Seattle, WA",
+			"description": "We’re the label spearheading the grunge revival. Link in bio for everything…👇",
+			"url": "https://t.co/EWPjzYo34d",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWPjzYo34d",
+							"expanded_url": "https://linktr.ee/GrungePopRecords",
+							"display_url": "linktr.ee/GrungePopRecor…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 125,
+			"friends_count": 133,
+			"listed_count": 0,
+			"created_at": "Tue May 18 19:01:12 +0000 2021",
+			"favourites_count": 2205,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 282,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394730022338973704/sHKcJOIp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394730022338973704/sHKcJOIp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1394729710614110208/1621366769",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Teenage grunge/metal band The Timeouts just dropped their debut single “Let Me In”. Definitely got a Zeppelin/Soundgarden vibe to it…heavier than any Greta Van Fleet track. Out now everywhere. Link in bio for everything…🔊 https://t.co/kvcF1PuGbW"
+	},
+	{
 		"created_at": "Fri Dec 17 11:13:07 +0000 2021",
 		"id": 1471800621955260400,
 		"id_str": "1471800621955260417",
