@@ -1,6 +1,621 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 17 23:15:14 +0000 2021",
+		"id": 1471982349223084000,
+		"id_str": "1471982349223084034",
+		"full_text": "@Hermannus Bierwinkels zijn toch essentiële winkels he?",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hermannus",
+					"name": "Hermannus Stegeman 😷",
+					"id": 53655670,
+					"id_str": "53655670",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1471980962837930000,
+		"in_reply_to_status_id_str": "1471980962837929991",
+		"in_reply_to_user_id": 53655670,
+		"in_reply_to_user_id_str": "53655670",
+		"in_reply_to_screen_name": "Hermannus",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8767,
+			"friends_count": 764,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Hermannus Bierwinkels zijn toch essentiële winkels he?"
+	},
+	{
+		"created_at": "Fri Dec 17 23:04:55 +0000 2021",
+		"id": 1471719882647650300,
+		"id_str": "1471979753460617220",
+		"full_text": "Dit zou mooi zijn: \"there’s been renewed interest in RSS feeds and they’re primed for a comeback as we get into 2022\". Op een gegeven moment wordt het stuk technisch. Maar mijn tip voor 2022: gebruik een RSS feedreader (als je dat niet al doet). https://t.co/Ze7bvNjcDk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ze7bvNjcDk",
+					"expanded_url": "https://css-tricks.com/working-with-web-feeds-its-more-than-rss/",
+					"display_url": "css-tricks.com/working-with-w…",
+					"indices": [
+						246,
+						269
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 803912,
+			"id_str": "803912",
+			"name": "Wilfred Rubens",
+			"screen_name": "wrubens",
+			"location": "Nijmegen, Nederland",
+			"description": "E-learning, zelfstandig adviseur, edublogger, politiek, onderwijs, pedagogiek, learning & development, education, leren, opleiden,",
+			"url": "https://t.co/ro2nEiJiqs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ro2nEiJiqs",
+							"expanded_url": "http://www.wilfredrubens.com",
+							"display_url": "wilfredrubens.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6952,
+			"friends_count": 2820,
+			"listed_count": 310,
+			"created_at": "Thu Mar 01 17:46:09 +0000 2007",
+			"favourites_count": 4161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 40009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1372286473584717826/0W3Q7Q1B_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1372286473584717826/0W3Q7Q1B_normal.jpg",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Dit zou mooi zijn: \"there’s been renewed interest in RSS feeds and they’re primed for a comeback as we get into 2022\". Op een gegeven moment wordt het stuk technisch. Maar mijn tip voor 2022: gebruik een RSS feedreader (als je dat niet al doet). https://t.co/Ze7bvNjcDk"
+	},
+	{
+		"created_at": "Fri Dec 17 23:02:26 +0000 2021",
+		"id": 1471979126378705000,
+		"id_str": "1471979126378704911",
+		"full_text": "Hahaha. Wat een grap dit. Adidas NFT verkoop is uitverkocht op het moment dat de verkoop begint. Absurd. https://t.co/KA8C3atrAb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KA8C3atrAb",
+					"expanded_url": "https://twitter.com/adidasoriginals/status/1471978538635087875",
+					"display_url": "twitter.com/adidasoriginal…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8767,
+			"friends_count": 764,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8822,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65758,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1471978538635088000,
+		"quoted_status_id_str": "1471978538635087875",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KA8C3atrAb",
+			"expanded": "https://twitter.com/adidasoriginals/status/1471978538635087875",
+			"display": "twitter.com/adidasoriginal…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 17 23:00:06 +0000 2021",
+			"id": 1471978538635088000,
+			"id_str": "1471978538635087875",
+			"full_text": "🎉 And now the Public mint begins.\n\n👉 https://t.co/m70gU99NQA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				60
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/m70gU99NQA",
+						"expanded_url": "http://www.adidas.com/into_the_metaverse",
+						"display_url": "adidas.com/into_the_metav…",
+						"indices": [
+							37,
+							60
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1471909577658675200,
+			"in_reply_to_status_id_str": "1471909577658675204",
+			"in_reply_to_user_id": 20348431,
+			"in_reply_to_user_id_str": "20348431",
+			"in_reply_to_screen_name": "adidasoriginals",
+			"user": {
+				"id": 20348431,
+				"id_str": "20348431",
+				"name": "adidas Originals",
+				"screen_name": "adidasoriginals",
+				"location": "Global",
+				"description": "Into The Metaverse",
+				"url": "https://t.co/CGUoaDSitZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CGUoaDSitZ",
+								"expanded_url": "https://adidas.com/metaverse",
+								"display_url": "adidas.com/metaverse",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4133262,
+				"friends_count": 353,
+				"listed_count": 6171,
+				"created_at": "Sun Feb 08 03:04:25 +0000 2009",
+				"favourites_count": 8817,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 17980,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1466456186237116423/XHjClvrt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1466456186237116423/XHjClvrt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20348431/1638462731",
+				"profile_link_color": "0066FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "0066FF",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 70,
+			"favorite_count": 468,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Hahaha. Wat een grap dit. Adidas NFT verkoop is uitverkocht op het moment dat de verkoop begint. Absurd. https://t.co/KA8C3atrAb"
+	},
+	{
+		"created_at": "Fri Dec 17 22:57:29 +0000 2021",
+		"id": 1471927868313718800,
+		"id_str": "1471977879932215301",
+		"full_text": "In other news... https://t.co/J6meiZITba",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1471927864928919600,
+					"id_str": "1471927864928919562",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/FG1WmDQWYAozops.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG1WmDQWYAozops.jpg",
+					"url": "https://t.co/J6meiZITba",
+					"display_url": "pic.twitter.com/J6meiZITba",
+					"expanded_url": "https://twitter.com/PulpLibrarian/status/1471927868313718785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 602,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1104,
+							"h": 1248,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1062,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1471927864928919600,
+					"id_str": "1471927864928919562",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/media/FG1WmDQWYAozops.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG1WmDQWYAozops.jpg",
+					"url": "https://t.co/J6meiZITba",
+					"display_url": "pic.twitter.com/J6meiZITba",
+					"expanded_url": "https://twitter.com/PulpLibrarian/status/1471927868313718785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 602,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1104,
+							"h": 1248,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1062,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2928209793,
+			"id_str": "2928209793",
+			"name": "Pulp Librarian",
+			"screen_name": "PulpLibrarian",
+			"location": "A library of the mind",
+			"description": "Curator of the art, history and fiction of old dreams.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 145803,
+			"friends_count": 3933,
+			"listed_count": 2108,
+			"created_at": "Wed Dec 17 22:09:14 +0000 2014",
+			"favourites_count": 11403,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 55511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312115299777482753/6ZuI74k7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312115299777482753/6ZuI74k7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2928209793/1604150365",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 78,
+		"favorite_count": 298,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In other news... https://t.co/J6meiZITba"
+	},
+	{
 		"created_at": "Fri Dec 17 18:41:08 +0000 2021",
 		"id": 1471913368009252900,
 		"id_str": "1471913368009252871",
