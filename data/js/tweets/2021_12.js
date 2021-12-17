@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 17 18:41:08 +0000 2021",
+		"id": 1471913368009252900,
+		"id_str": "1471913368009252871",
+		"full_text": "Lekker lijstje toch wel hoor https://t.co/hg2pCQluia",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hg2pCQluia",
+					"expanded_url": "https://twitter.com/twittercomms/status/1471808955865198594",
+					"display_url": "twitter.com/twittercomms/s…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8767,
+			"friends_count": 762,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1471808955865198600,
+		"quoted_status_id_str": "1471808955865198594",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hg2pCQluia",
+			"expanded": "https://twitter.com/twittercomms/status/1471808955865198594",
+			"display": "twitter.com/twittercomms/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Dec 17 11:46:14 +0000 2021",
+			"id": 1471808955865198600,
+			"id_str": "1471808955865198594",
+			"full_text": "Recapping some of the most 🔥new features we shipped this year. Buckle up, it’s a long one 🧵 https://t.co/yUnwinBBCO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				91
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1471794096406630400,
+						"id_str": "1471794096406630400",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/FGzc7srVkAAxLI_.png",
+						"media_url_https": "https://pbs.twimg.com/media/FGzc7srVkAAxLI_.png",
+						"url": "https://t.co/yUnwinBBCO",
+						"display_url": "pic.twitter.com/yUnwinBBCO",
+						"expanded_url": "https://twitter.com/TwitterComms/status/1471808955865198594/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 488,
+								"h": 577,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 488,
+								"h": 577,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 488,
+								"h": 577,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1471794096406630400,
+						"id_str": "1471794096406630400",
+						"indices": [
+							92,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/FGzc7srVkAAxLI_.png",
+						"media_url_https": "https://pbs.twimg.com/media/FGzc7srVkAAxLI_.png",
+						"url": "https://t.co/yUnwinBBCO",
+						"display_url": "pic.twitter.com/yUnwinBBCO",
+						"expanded_url": "https://twitter.com/TwitterComms/status/1471808955865198594/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 488,
+								"h": 577,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 488,
+								"h": 577,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 488,
+								"h": 577,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 234489024,
+				"id_str": "234489024",
+				"name": "Twitter Comms",
+				"screen_name": "TwitterComms",
+				"location": "The Tweets ",
+				"description": "👋 Twitter Communications team here! Check out our Tweets to see what's happening at Twitter.",
+				"url": "https://t.co/SPGIfM1UIR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SPGIfM1UIR",
+								"expanded_url": "https://about.twitter.com",
+								"display_url": "about.twitter.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 301414,
+				"friends_count": 92,
+				"listed_count": 1856,
+				"created_at": "Wed Jan 05 19:52:33 +0000 2011",
+				"favourites_count": 281,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 1221,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1354481238233337856/-mUgc3Pc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354481238233337856/-mUgc3Pc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/234489024/1611768467",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 76,
+			"favorite_count": 265,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Lekker lijstje toch wel hoor https://t.co/hg2pCQluia"
+	},
+	{
 		"created_at": "Fri Dec 17 16:41:19 +0000 2021",
 		"id": 1471845423094636500,
 		"id_str": "1471883217439539200",
