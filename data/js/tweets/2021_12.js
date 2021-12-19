@@ -1,6 +1,144 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 19 11:00:43 +0000 2021",
+		"id": 1472522274569871400,
+		"id_str": "1472522274569871360",
+		"full_text": "@BartFunnekotter Op https://t.co/RKecGO1k3o vind je mijn interview met @camathome over die periode. Op Github is het hele boek gratis te downloaden trouwens ;-)",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BartFunnekotter",
+					"name": "Bart Funnekotter",
+					"id": 594638146,
+					"id_str": "594638146",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "camathome",
+					"name": "Corrie Gerritsma",
+					"id": 4796131,
+					"id_str": "4796131",
+					"indices": [
+						71,
+						81
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RKecGO1k3o",
+					"expanded_url": "https://github.com/frankmeeuwsen/Bloghelden/blob/3af3203b78f55562958d488a9f15f56ebff20394/txt/BLOGHELDEN%20-%20H3%20-%20Groei%20en%20onderscheid.txt#L35",
+					"display_url": "github.com/frankmeeuwsen/…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1472506058245562400,
+		"in_reply_to_status_id_str": "1472506058245562370",
+		"in_reply_to_user_id": 594638146,
+		"in_reply_to_user_id_str": "594638146",
+		"in_reply_to_screen_name": "BartFunnekotter",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8767,
+			"friends_count": 766,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8841,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65779,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@BartFunnekotter Op https://t.co/RKecGO1k3o vind je mijn interview met @camathome over die periode. Op Github is het hele boek gratis te downloaden trouwens ;-)"
+	},
+	{
 		"created_at": "Sun Dec 19 09:00:09 +0000 2021",
 		"id": 1472491935705219000,
 		"id_str": "1472491935705219076",
