@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 20 15:49:20 +0000 2021",
+		"id": 1472957298960130000,
+		"id_str": "1472957298960130050",
+		"full_text": "Een mooie toepassing van AR! al gezien @bgezelle? https://t.co/HfV5vAQ4zf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bgezelle",
+					"name": "Bas Gezelle",
+					"id": 5760742,
+					"id_str": "5760742",
+					"indices": [
+						39,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HfV5vAQ4zf",
+					"expanded_url": "https://twitter.com/miss_lady_pants/status/1470487994540957696",
+					"display_url": "twitter.com/miss_lady_pant…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8769,
+			"friends_count": 771,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8856,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65793,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1470487994540957700,
+		"quoted_status_id_str": "1470487994540957696",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HfV5vAQ4zf",
+			"expanded": "https://twitter.com/miss_lady_pants/status/1470487994540957696",
+			"display": "twitter.com/miss_lady_pant…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 13 20:17:12 +0000 2021",
+			"id": 1470487994540957700,
+			"id_str": "1470487994540957696",
+			"full_text": "As a Person Who Bakes, what I actually want from AR cooking: \n✅local temperatures and timers, instead of 5 timers on my phone. \n✅measuring help, like when rolling out a crust\n✅recipes that go with me, and can easily be turned on or off\n✅the ability to leave notes with family https://t.co/WRC9k41Fka",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1470487871500996600,
+						"id_str": "1470487871500996611",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1470487871500996611/pu/img/pWhAnznLtPxzhp6Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1470487871500996611/pu/img/pWhAnznLtPxzhp6Q.jpg",
+						"url": "https://t.co/WRC9k41Fka",
+						"display_url": "pic.twitter.com/WRC9k41Fka",
+						"expanded_url": "https://twitter.com/miss_lady_pants/status/1470487994540957696/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1470487871500996600,
+						"id_str": "1470487871500996611",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1470487871500996611/pu/img/pWhAnznLtPxzhp6Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1470487871500996611/pu/img/pWhAnznLtPxzhp6Q.jpg",
+						"url": "https://t.co/WRC9k41Fka",
+						"display_url": "pic.twitter.com/WRC9k41Fka",
+						"expanded_url": "https://twitter.com/miss_lady_pants/status/1470487994540957696/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								4,
+								3
+							],
+							"duration_millis": 10008,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1470487871500996611/pu/vid/960x720/KoBEwBP1KubvoUEL.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1470487871500996611/pu/vid/360x270/CrOk1evrq-7sPqu1.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1470487871500996611/pu/vid/480x360/Ddg2JyZDX5RgFctE.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1470487871500996611/pu/pl/GGUCbRU3THK7pLaj.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1621778341,
+				"id_str": "1621778341",
+				"name": "Lauren Cason",
+				"screen_name": "miss_lady_pants",
+				"location": "Santa Fe, NM",
+				"description": "XR Creative Technologist, previously @apple @meowwolf & @ustwogames. Cofounder RefractAR. Forbes #30under30 she/her 🏳️‍🌈👓🎮",
+				"url": "https://t.co/woKRqh0Gob",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/woKRqh0Gob",
+								"expanded_url": "http://laurencason.com",
+								"display_url": "laurencason.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1863,
+				"friends_count": 861,
+				"listed_count": 52,
+				"created_at": "Fri Jul 26 01:58:34 +0000 2013",
+				"favourites_count": 647,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 413,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1467901888884400128/LgCwyWit_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1467901888884400128/LgCwyWit_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1621778341/1521231216",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 192,
+			"favorite_count": 1339,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Een mooie toepassing van AR! al gezien @bgezelle? https://t.co/HfV5vAQ4zf"
+	},
+	{
 		"created_at": "Mon Dec 20 13:49:32 +0000 2021",
 		"id": 1472927147404796000,
 		"id_str": "1472927147404795914",
