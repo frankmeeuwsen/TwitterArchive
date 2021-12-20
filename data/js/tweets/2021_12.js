@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 20 07:30:36 +0000 2021",
+		"id": 1472831785524465700,
+		"id_str": "1472831785524465668",
+		"full_text": "Pioniers in de Nederlandse blogosfeer! Gefeliciteerd met het jubileum! https://t.co/WSQ1JuPFy7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WSQ1JuPFy7",
+					"expanded_url": "https://twitter.com/steeph/status/1472827611369943043",
+					"display_url": "twitter.com/steeph/status/…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/VH3v4gLIpG @ForSubscribing Check ook de OPEN nieuwsbrief voor nieuwsgierige cybersurfer. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/VH3v4gLIpG",
+							"expanded_url": "http://Thanksforsubscribing.app/",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8767,
+			"friends_count": 771,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65789,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1472827611369943000,
+		"quoted_status_id_str": "1472827611369943043",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WSQ1JuPFy7",
+			"expanded": "https://twitter.com/steeph/status/1472827611369943043",
+			"display": "twitter.com/steeph/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 20 07:14:01 +0000 2021",
+			"id": 1472827611369943000,
+			"id_str": "1472827611369943043",
+			"full_text": "Yeah, feest! Champagne in de vroege ochtend. @sargasso bestaat alweer 20 jaar!\nNiet meer die opstandige nieuwe loot aan het mediafirmament, maar nog steeds nodig en levend!\ncc @CarlKonigel @onnob 🥂\nhttps://t.co/ItxGUREheJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				221
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sargasso",
+						"name": "Sargasso",
+						"id": 7504262,
+						"id_str": "7504262",
+						"indices": [
+							45,
+							54
+						]
+					},
+					{
+						"screen_name": "CarlKonigel",
+						"name": "Carl Königel 🇦🇶🇬🇱",
+						"id": 72059812,
+						"id_str": "72059812",
+						"indices": [
+							176,
+							188
+						]
+					},
+					{
+						"screen_name": "onnob",
+						"name": "onnob",
+						"id": 24345286,
+						"id_str": "24345286",
+						"indices": [
+							189,
+							195
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ItxGUREheJ",
+						"expanded_url": "https://sargasso.nl/sargasso-bestaat-20-jaar/",
+						"display_url": "sargasso.nl/sargasso-besta…",
+						"indices": [
+							198,
+							221
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 7692762,
+				"id_str": "7692762",
+				"name": "𝓢tephan Okhuijsen",
+				"screen_name": "steeph",
+				"location": "Utrecht, Nederland",
+				"description": "Chief @Datagraver | Fact checker | ICT - projectmanager/interimmanager https://t.co/wEZPUuZy2L | Blogger, columnist en datamannetje @Sargasso",
+				"url": "https://t.co/4vgNHjVy8y",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/4vgNHjVy8y",
+								"expanded_url": "http://datagraver.com",
+								"display_url": "datagraver.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/wEZPUuZy2L",
+								"expanded_url": "http://itude.com",
+								"display_url": "itude.com",
+								"indices": [
+									71,
+									94
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 10353,
+				"friends_count": 6916,
+				"listed_count": 347,
+				"created_at": "Tue Jul 24 19:30:31 +0000 2007",
+				"favourites_count": 26706,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 65455,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1464196213834760210/hZZvwgxF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1464196213834760210/hZZvwgxF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/7692762/1637926556",
+				"profile_link_color": "00AEEF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Pioniers in de Nederlandse blogosfeer! Gefeliciteerd met het jubileum! https://t.co/WSQ1JuPFy7"
+	},
+	{
 		"created_at": "Mon Dec 20 07:08:39 +0000 2021",
 		"id": 1472826261873610800,
 		"id_str": "1472826261873610755",
