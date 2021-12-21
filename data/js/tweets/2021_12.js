@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 21 07:23:10 +0000 2021",
+		"id": 1472669869573394400,
+		"id_str": "1473192304181751811",
+		"full_text": "IF THE TITANIC SANK TODAY https://t.co/MDLxTdde0m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1472668631460978700,
+					"id_str": "1472668631460978693",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/FG_5F41XMAkFFLh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG_5F41XMAkFFLh.jpg",
+					"url": "https://t.co/MDLxTdde0m",
+					"display_url": "pic.twitter.com/MDLxTdde0m",
+					"expanded_url": "https://twitter.com/brittlestar/status/1472669869573394432/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1472668631460978700,
+					"id_str": "1472668631460978693",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/FG_5F41XMAkFFLh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FG_5F41XMAkFFLh.jpg",
+					"url": "https://t.co/MDLxTdde0m",
+					"display_url": "pic.twitter.com/MDLxTdde0m",
+					"expanded_url": "https://twitter.com/brittlestar/status/1472669869573394432/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 71988,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1472668631460978693/vid/640x360/Bs6pkviYj7INLQYx.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1472668631460978693/vid/1280x720/BIREJSYQGOVnkvy0.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1472668631460978693/pl/3yay-IsbiLkjooeh.m3u8?tag=14&container=fmp4"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1472668631460978693/vid/480x270/_UBr2dcwCQPuurRQ.mp4?tag=14"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": true
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19002345,
+			"id_str": "19002345",
+			"name": "Brittlestar",
+			"screen_name": "brittlestar",
+			"location": "Stratford, ON",
+			"description": "✌️❤️🇨🇦 Stewart Reynolds -The Internet's Favourite Dad* (*unproven) | Be someone's good luck - business@brittlestar.com",
+			"url": "https://t.co/L9MDJiDOVo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L9MDJiDOVo",
+							"expanded_url": "https://www.ChristmasWishTree.com",
+							"display_url": "ChristmasWishTree.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 119159,
+			"friends_count": 4695,
+			"listed_count": 596,
+			"created_at": "Wed Jan 14 23:54:17 +0000 2009",
+			"favourites_count": 185534,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 69212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FA743E",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1367127316871213057/c-Sa_3Dl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1367127316871213057/c-Sa_3Dl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19002345/1525492385",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3732,
+		"favorite_count": 12296,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "IF THE TITANIC SANK TODAY https://t.co/MDLxTdde0m"
+	},
+	{
 		"created_at": "Mon Dec 20 21:02:37 +0000 2021",
 		"id": 1473036137472086000,
 		"id_str": "1473036137472086023",
