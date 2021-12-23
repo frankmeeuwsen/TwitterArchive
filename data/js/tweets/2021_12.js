@@ -1,6 +1,356 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 23 10:49:53 +0000 2021",
+		"id": 1473969101475401700,
+		"id_str": "1473969101475401729",
+		"full_text": "Met Iris is het goed werken! Dus ben/ken je een art director? Laat het me weten! https://t.co/PNNXURIOqt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PNNXURIOqt",
+					"expanded_url": "https://twitter.com/Kaliberinteract/status/1473958094921162754",
+					"display_url": "twitter.com/Kaliberinterac…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8772,
+			"friends_count": 777,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8870,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65824,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1473958094921162800,
+		"quoted_status_id_str": "1473958094921162754",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PNNXURIOqt",
+			"expanded": "https://twitter.com/Kaliberinteract/status/1473958094921162754",
+			"display": "twitter.com/Kaliberinterac…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 23 10:06:09 +0000 2021",
+			"id": 1473958094921162800,
+			"id_str": "1473958094921162754",
+			"full_text": "Iris zoekt een Art Director! Een partner in crime om steengoede concepten te bedenken. Samen brengen jullie je ideeën tot leven. Zij de copy, jij de art. De vacature vind je hier: https://t.co/HdWJ38Jgkp\n\n#vacature #werkenbijkaliber #vacatureutrecht #artdirector https://t.co/dvw8bSWymB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				262
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "vacature",
+						"indices": [
+							205,
+							214
+						]
+					},
+					{
+						"text": "werkenbijkaliber",
+						"indices": [
+							215,
+							232
+						]
+					},
+					{
+						"text": "vacatureutrecht",
+						"indices": [
+							233,
+							249
+						]
+					},
+					{
+						"text": "artdirector",
+						"indices": [
+							250,
+							262
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/HdWJ38Jgkp",
+						"expanded_url": "https://werkenbij.kaliber.net/art-director-van-kaliber/nl?utm_source=twitter&utm_medium=organic&utm_content=iris-zoekt&utm_campaign=art-director-van-kaliber",
+						"display_url": "werkenbij.kaliber.net/art-director-v…",
+						"indices": [
+							180,
+							203
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1473958093600002000,
+						"id_str": "1473958093600002050",
+						"indices": [
+							263,
+							286
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FHSNE6bXEAINPdw.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FHSNE6bXEAINPdw.jpg",
+						"url": "https://t.co/dvw8bSWymB",
+						"display_url": "pic.twitter.com/dvw8bSWymB",
+						"expanded_url": "https://twitter.com/Kaliberinteract/status/1473958094921162754/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1473958093600002000,
+						"id_str": "1473958093600002050",
+						"indices": [
+							263,
+							286
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FHSNE6bXEAINPdw.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FHSNE6bXEAINPdw.jpg",
+						"url": "https://t.co/dvw8bSWymB",
+						"display_url": "pic.twitter.com/dvw8bSWymB",
+						"expanded_url": "https://twitter.com/Kaliberinteract/status/1473958094921162754/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/FHSNE6bXEAINPdw.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10932162,
+				"id_str": "10932162",
+				"name": "Kaliber",
+				"screen_name": "Kaliberinteract",
+				"location": "Utrecht",
+				"description": "Kaliber. Digitaal bureau dat strategie, creativiteit en technologie combineert om mensen te activeren.",
+				"url": "https://t.co/fCpyJZZGmB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fCpyJZZGmB",
+								"expanded_url": "http://www.kaliber.net",
+								"display_url": "kaliber.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1908,
+				"friends_count": 901,
+				"listed_count": 108,
+				"created_at": "Fri Dec 07 10:50:24 +0000 2007",
+				"favourites_count": 418,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3235,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E4E4E4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1409565370541871109/c4cK-EHv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409565370541871109/c4cK-EHv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10932162/1612193476",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Met Iris is het goed werken! Dus ben/ken je een art director? Laat het me weten! https://t.co/PNNXURIOqt"
+	},
+	{
 		"created_at": "Thu Dec 23 09:05:26 +0000 2021",
 		"id": 1473942814245507000,
 		"id_str": "1473942814245507072",
