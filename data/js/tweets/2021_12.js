@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 23 07:28:48 +0000 2021",
+		"id": 1473918495956029400,
+		"id_str": "1473918495956029444",
+		"full_text": "Correlatie, causaliteit, bla bla bla, maar wel gewoon leuk toch? https://t.co/ZKFgXWLHId",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZKFgXWLHId",
+					"expanded_url": "https://twitter.com/zornsllama/status/1473575508784955394",
+					"display_url": "twitter.com/zornsllama/sta…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8772,
+			"friends_count": 777,
+			"listed_count": 547,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8868,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1473575508784955400,
+		"quoted_status_id_str": "1473575508784955394",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZKFgXWLHId",
+			"expanded": "https://twitter.com/zornsllama/status/1473575508784955394",
+			"display": "twitter.com/zornsllama/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 22 08:45:53 +0000 2021",
+			"id": 1473575508784955400,
+			"id_str": "1473575508784955394",
+			"full_text": "blue line: daily COVID cases in the USA\n\nred line: bad reviews of Yankee Candles on Amazon saying \"they don't have any scent\"\n\nsources: google and https://t.co/oZm6ro0E1S https://t.co/8U2XkH0RT4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				170
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/oZm6ro0E1S",
+						"expanded_url": "https://twitter.com/nick_beauchamp/status/1473509106187223043?s=21",
+						"display_url": "twitter.com/nick_beauchamp…",
+						"indices": [
+							147,
+							170
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1473575307596677000,
+						"id_str": "1473575307596677123",
+						"indices": [
+							171,
+							194
+						],
+						"media_url": "http://pbs.twimg.com/media/FHMw71cWQAMQZCE.png",
+						"media_url_https": "https://pbs.twimg.com/media/FHMw71cWQAMQZCE.png",
+						"url": "https://t.co/8U2XkH0RT4",
+						"display_url": "pic.twitter.com/8U2XkH0RT4",
+						"expanded_url": "https://twitter.com/zornsllama/status/1473575508784955394/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1473575307596677000,
+						"id_str": "1473575307596677123",
+						"indices": [
+							171,
+							194
+						],
+						"media_url": "http://pbs.twimg.com/media/FHMw71cWQAMQZCE.png",
+						"media_url_https": "https://pbs.twimg.com/media/FHMw71cWQAMQZCE.png",
+						"url": "https://t.co/8U2XkH0RT4",
+						"display_url": "pic.twitter.com/8U2XkH0RT4",
+						"expanded_url": "https://twitter.com/zornsllama/status/1473575508784955394/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 721987063113867300,
+				"id_str": "721987063113867264",
+				"name": "eleanor",
+				"screen_name": "zornsllama",
+				"location": "Zürich, Switzerland",
+				"description": "PhD candidate in theoretical cryptography @ETH Zurich • I like maths, games, programming languages, and cats • they/sie • en/de (aspirational)",
+				"url": "https://t.co/12pctNFTy7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/12pctNFTy7",
+								"expanded_url": "https://lnor.net/",
+								"display_url": "lnor.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2385,
+				"friends_count": 1525,
+				"listed_count": 44,
+				"created_at": "Mon Apr 18 09:01:44 +0000 2016",
+				"favourites_count": 61570,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 48488,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1294547313805811713/qroo2Dy1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1294547313805811713/qroo2Dy1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/721987063113867264/1600496503",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1473509106187223000,
+			"quoted_status_id_str": "1473509106187223043",
+			"quoted_status_permalink": {
+				"url": "https://t.co/oZm6ro0E1S",
+				"expanded": "https://twitter.com/nick_beauchamp/status/1473509106187223043?s=21",
+				"display": "twitter.com/nick_beauchamp…"
+			},
+			"retweet_count": 11431,
+			"favorite_count": 54065,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Correlatie, causaliteit, bla bla bla, maar wel gewoon leuk toch? https://t.co/ZKFgXWLHId"
+	},
+	{
 		"created_at": "Thu Dec 23 07:20:11 +0000 2021",
 		"id": 1473916328151076900,
 		"id_str": "1473916328151076866",
