@@ -1,6 +1,570 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 24 20:59:38 +0000 2021",
+		"id": 1474484936879005700,
+		"id_str": "1474484936879005703",
+		"full_text": "@industryof_cool @MikevHoenselaar @patrickloonstra @JustinMezzell @VUIG Dit heb ik. Vaag allemaal hoor. https://t.co/Lq4AWmlQfW",
+		"truncated": false,
+		"display_text_range": [
+			72,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "industryof_cool",
+					"name": "Frans Reitsma",
+					"id": 21128108,
+					"id_str": "21128108",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "MikevHoenselaar",
+					"name": "Mike van Hoenselaar",
+					"id": 16144104,
+					"id_str": "16144104",
+					"indices": [
+						17,
+						33
+					]
+				},
+				{
+					"screen_name": "patrickloonstra",
+					"name": "Patrick 🕶",
+					"id": 9647022,
+					"id_str": "9647022",
+					"indices": [
+						34,
+						50
+					]
+				},
+				{
+					"screen_name": "JustinMezzell",
+					"name": "Justin Mezzell",
+					"id": 16026475,
+					"id_str": "16026475",
+					"indices": [
+						51,
+						65
+					]
+				},
+				{
+					"screen_name": "VUIG",
+					"name": "Ruud Brok",
+					"id": 18164197,
+					"id_str": "18164197",
+					"indices": [
+						66,
+						71
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1474484932407877600,
+					"id_str": "1474484932407877638",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FHZsO97WYAYMUMb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHZsO97WYAYMUMb.jpg",
+					"url": "https://t.co/Lq4AWmlQfW",
+					"display_url": "pic.twitter.com/Lq4AWmlQfW",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1474484936879005703/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1474484932407877600,
+					"id_str": "1474484932407877638",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FHZsO97WYAYMUMb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHZsO97WYAYMUMb.jpg",
+					"url": "https://t.co/Lq4AWmlQfW",
+					"display_url": "pic.twitter.com/Lq4AWmlQfW",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1474484936879005703/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1474484932412072000,
+					"id_str": "1474484932412071945",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FHZsO98WYAkbYYj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHZsO98WYAkbYYj.jpg",
+					"url": "https://t.co/Lq4AWmlQfW",
+					"display_url": "pic.twitter.com/Lq4AWmlQfW",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1474484936879005703/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1474482590421864400,
+		"in_reply_to_status_id_str": "1474482590421864455",
+		"in_reply_to_user_id": 21128108,
+		"in_reply_to_user_id_str": "21128108",
+		"in_reply_to_screen_name": "industryof_cool",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8772,
+			"friends_count": 778,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8878,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@industryof_cool @MikevHoenselaar @patrickloonstra @JustinMezzell @VUIG Dit heb ik. Vaag allemaal hoor. https://t.co/Lq4AWmlQfW"
+	},
+	{
+		"created_at": "Fri Dec 24 20:25:07 +0000 2021",
+		"id": 1474469260370006000,
+		"id_str": "1474476251482050566",
+		"full_text": "https://t.co/wZiA8lKoqy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1474469254527344600,
+					"id_str": "1474469254527344651",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FHZd-ZRWYAsy9Yp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHZd-ZRWYAsy9Yp.jpg",
+					"url": "https://t.co/wZiA8lKoqy",
+					"display_url": "pic.twitter.com/wZiA8lKoqy",
+					"expanded_url": "https://twitter.com/grungepoprecord/status/1474469260370006017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1007,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 570,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1474469254527344600,
+					"id_str": "1474469254527344651",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FHZd-ZRWYAsy9Yp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHZd-ZRWYAsy9Yp.jpg",
+					"url": "https://t.co/wZiA8lKoqy",
+					"display_url": "pic.twitter.com/wZiA8lKoqy",
+					"expanded_url": "https://twitter.com/grungepoprecord/status/1474469260370006017/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1007,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 570,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1394729710614110200,
+			"id_str": "1394729710614110208",
+			"name": "Grunge Pop Records",
+			"screen_name": "grungepoprecord",
+			"location": "Seattle, WA",
+			"description": "We’re the label spearheading the grunge revival. Link in bio for everything…👇",
+			"url": "https://t.co/EWPjzYo34d",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWPjzYo34d",
+							"expanded_url": "https://linktr.ee/GrungePopRecords",
+							"display_url": "linktr.ee/GrungePopRecor…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 135,
+			"friends_count": 147,
+			"listed_count": 0,
+			"created_at": "Tue May 18 19:01:12 +0000 2021",
+			"favourites_count": 2380,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 311,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394730022338973704/sHKcJOIp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394730022338973704/sHKcJOIp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1394729710614110208/1621366769",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/wZiA8lKoqy"
+	},
+	{
+		"created_at": "Fri Dec 24 20:22:47 +0000 2021",
+		"id": 1474475663667212300,
+		"id_str": "1474475663667212293",
+		"full_text": "@suzanneunck Worstenbroodjes",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suzanneunck",
+					"name": "💉 Suzanne Unck",
+					"id": 9883922,
+					"id_str": "9883922",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1474423501515858000,
+		"in_reply_to_status_id_str": "1474423501515857921",
+		"in_reply_to_user_id": 9883922,
+		"in_reply_to_user_id_str": "9883922",
+		"in_reply_to_screen_name": "suzanneunck",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8772,
+			"friends_count": 778,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8878,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65836,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@suzanneunck Worstenbroodjes"
+	},
+	{
 		"created_at": "Fri Dec 24 16:27:35 +0000 2021",
 		"id": 1474416472927752200,
 		"id_str": "1474416472927752194",
