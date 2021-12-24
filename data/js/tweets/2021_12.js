@@ -1,6 +1,377 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 24 22:14:28 +0000 2021",
+		"id": 1474224797919891500,
+		"id_str": "1474503769043972098",
+		"full_text": "gathering all my energy to be as annoying as possible this holiday season https://t.co/2ctAXztlGK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1474224795101319200,
+					"id_str": "1474224795101319179",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/FHV_o-8WUAs4Y0w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHV_o-8WUAs4Y0w.jpg",
+					"url": "https://t.co/2ctAXztlGK",
+					"display_url": "pic.twitter.com/2ctAXztlGK",
+					"expanded_url": "https://twitter.com/Melt_Dem/status/1474224797919891480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1057,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1057,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1474224795101319200,
+					"id_str": "1474224795101319179",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/FHV_o-8WUAs4Y0w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHV_o-8WUAs4Y0w.jpg",
+					"url": "https://t.co/2ctAXztlGK",
+					"display_url": "pic.twitter.com/2ctAXztlGK",
+					"expanded_url": "https://twitter.com/Melt_Dem/status/1474224797919891480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1057,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1057,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2363290915,
+			"id_str": "2363290915",
+			"name": "Meltem Demir◎rs",
+			"screen_name": "Melt_Dem",
+			"location": "",
+			"description": "DEGENS SHALL INHERIT THE EARTH. i like sci fi books, #bitcoin, and talking with my hands. disclaimers @CoinSharesCo.",
+			"url": "https://t.co/DDgpp3IlpQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DDgpp3IlpQ",
+							"expanded_url": "https://www.coinshares.com",
+							"display_url": "coinshares.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 230772,
+			"friends_count": 1783,
+			"listed_count": 4698,
+			"created_at": "Wed Feb 26 22:49:15 +0000 2014",
+			"favourites_count": 60362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 33445,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "89C9FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1461858832460701698/lWx5xGL8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1461858832460701698/lWx5xGL8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2363290915/1637364848",
+			"profile_link_color": "0A007B",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 274,
+		"favorite_count": 2700,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "gathering all my energy to be as annoying as possible this holiday season https://t.co/2ctAXztlGK"
+	},
+	{
+		"created_at": "Fri Dec 24 21:40:53 +0000 2021",
+		"id": 1474495319568175000,
+		"id_str": "1474495319568175104",
+		"full_text": "@JasperLeijdens Niet echt kerstbier maar deze porter vloeit er lekker in op deze Kerstavond! https://t.co/FqOIBQq5Fu",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JasperLeijdens",
+					"name": "Jasper Leijdens | ꓘINK 📻",
+					"id": 18266124,
+					"id_str": "18266124",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1474495313452974000,
+					"id_str": "1474495313452974080",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FHZ1rOVXwAA6SmZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHZ1rOVXwAA6SmZ.jpg",
+					"url": "https://t.co/FqOIBQq5Fu",
+					"display_url": "pic.twitter.com/FqOIBQq5Fu",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1474495319568175104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1474495313452974000,
+					"id_str": "1474495313452974080",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FHZ1rOVXwAA6SmZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHZ1rOVXwAA6SmZ.jpg",
+					"url": "https://t.co/FqOIBQq5Fu",
+					"display_url": "pic.twitter.com/FqOIBQq5Fu",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1474495319568175104/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1474481829868679200,
+		"in_reply_to_status_id_str": "1474481829868679168",
+		"in_reply_to_user_id": 18266124,
+		"in_reply_to_user_id_str": "18266124",
+		"in_reply_to_screen_name": "JasperLeijdens",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8772,
+			"friends_count": 778,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8884,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65839,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@JasperLeijdens Niet echt kerstbier maar deze porter vloeit er lekker in op deze Kerstavond! https://t.co/FqOIBQq5Fu"
+	},
+	{
 		"created_at": "Fri Dec 24 20:59:38 +0000 2021",
 		"id": 1474484936879005700,
 		"id_str": "1474484936879005703",
