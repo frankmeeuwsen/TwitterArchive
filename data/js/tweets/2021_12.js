@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 27 10:38:57 +0000 2021",
+		"id": 1475406179585175600,
+		"id_str": "1475415902392832009",
+		"full_text": "We hebben weer 🔥 stageplaatsen 🔥 \n- (content)design https://t.co/F9LV6N3tvI\n- conceptteam https://t.co/8G3EYNjNYo\n\n#stage #stagelopenbijkaliber #stagecreatie #stagedesign #design #stageteam #vacature #stagevacature https://t.co/OMtCDPtJPn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "stage",
+					"indices": [
+						115,
+						121
+					]
+				},
+				{
+					"text": "stagelopenbijkaliber",
+					"indices": [
+						122,
+						143
+					]
+				},
+				{
+					"text": "stagecreatie",
+					"indices": [
+						144,
+						157
+					]
+				},
+				{
+					"text": "stagedesign",
+					"indices": [
+						158,
+						170
+					]
+				},
+				{
+					"text": "design",
+					"indices": [
+						171,
+						178
+					]
+				},
+				{
+					"text": "stageteam",
+					"indices": [
+						179,
+						189
+					]
+				},
+				{
+					"text": "vacature",
+					"indices": [
+						190,
+						199
+					]
+				},
+				{
+					"text": "stagevacature",
+					"indices": [
+						200,
+						214
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/F9LV6N3tvI",
+					"expanded_url": "https://werkenbij.kaliber.net/stage-content-design/nl?utm_source=twitter&utm_medium=organic&utm_campaign=stage-content-design",
+					"display_url": "werkenbij.kaliber.net/stage-content-…",
+					"indices": [
+						52,
+						75
+					]
+				},
+				{
+					"url": "https://t.co/8G3EYNjNYo",
+					"expanded_url": "https://werkenbij.kaliber.net/stage-conceptteam/nl?utm_source=twitter&utm_medium=organic&utm_campaign=stage-content-design",
+					"display_url": "werkenbij.kaliber.net/stage-conceptt…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1475406177039270000,
+					"id_str": "1475406177039269888",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FHmyGdnXwAAz95A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHmyGdnXwAAz95A.jpg",
+					"url": "https://t.co/OMtCDPtJPn",
+					"display_url": "pic.twitter.com/OMtCDPtJPn",
+					"expanded_url": "https://twitter.com/Kaliberinteract/status/1475406179585175553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1475406177039270000,
+					"id_str": "1475406177039269888",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FHmyGdnXwAAz95A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHmyGdnXwAAz95A.jpg",
+					"url": "https://t.co/OMtCDPtJPn",
+					"display_url": "pic.twitter.com/OMtCDPtJPn",
+					"expanded_url": "https://twitter.com/Kaliberinteract/status/1475406179585175553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1475406177630621700,
+					"id_str": "1475406177630621696",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FHmyGf0XEAAnhTf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHmyGf0XEAAnhTf.jpg",
+					"url": "https://t.co/OMtCDPtJPn",
+					"display_url": "pic.twitter.com/OMtCDPtJPn",
+					"expanded_url": "https://twitter.com/Kaliberinteract/status/1475406179585175553/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 10932162,
+			"id_str": "10932162",
+			"name": "Kaliber",
+			"screen_name": "Kaliberinteract",
+			"location": "Utrecht",
+			"description": "Kaliber. Digitaal bureau dat strategie, creativiteit en technologie combineert om mensen te activeren.",
+			"url": "https://t.co/fCpyJZZGmB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fCpyJZZGmB",
+							"expanded_url": "http://www.kaliber.net",
+							"display_url": "kaliber.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1909,
+			"friends_count": 901,
+			"listed_count": 108,
+			"created_at": "Fri Dec 07 10:50:24 +0000 2007",
+			"favourites_count": 419,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E4E4E4",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1409565370541871109/c4cK-EHv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1409565370541871109/c4cK-EHv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/10932162/1612193476",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "We hebben weer 🔥 stageplaatsen 🔥 \n- (content)design https://t.co/F9LV6N3tvI\n- conceptteam https://t.co/8G3EYNjNYo\n\n#stage #stagelopenbijkaliber #stagecreatie #stagedesign #design #stageteam #vacature #stagevacature https://t.co/OMtCDPtJPn"
+	},
+	{
 		"created_at": "Mon Dec 27 07:09:53 +0000 2021",
 		"id": 1475363288930304000,
 		"id_str": "1475363288930304002",
