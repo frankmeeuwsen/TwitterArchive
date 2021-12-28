@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 28 20:16:59 +0000 2021",
+		"id": 1475923757155950600,
+		"id_str": "1475923757155950603",
+		"full_text": "Hier ga ik in 2022 ook meer werk van maken. De Frankopedia verder uitbreiden en notities meer verbinden. Eens zien wat dan komt bovendrijven. https://t.co/uqaNrz6dto",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uqaNrz6dto",
+					"expanded_url": "https://twitter.com/davidhoang/status/1475884388248215554",
+					"display_url": "twitter.com/davidhoang/sta…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8770,
+			"friends_count": 779,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65876,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1475884388248215600,
+		"quoted_status_id_str": "1475884388248215554",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uqaNrz6dto",
+			"expanded": "https://twitter.com/davidhoang/status/1475884388248215554",
+			"display": "twitter.com/davidhoang/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 28 17:40:33 +0000 2021",
+			"id": 1475884388248215600,
+			"id_str": "1475884388248215554",
+			"full_text": "I absolutely love the new live preview feature on @obsdmd—makes the writing experience even more fluid for thinking.\n\nHere's a screenshot of how I take notes—very non-linear and panes for days. https://t.co/BDGzBdIEZF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				193
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "obsdmd",
+						"name": "Obsidian",
+						"id": 1239876481951596500,
+						"id_str": "1239876481951596545",
+						"indices": [
+							50,
+							57
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1475884003290861600,
+						"id_str": "1475884003290861569",
+						"indices": [
+							194,
+							217
+						],
+						"media_url": "http://pbs.twimg.com/media/FHtkrnHVUAEkxnJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FHtkrnHVUAEkxnJ.jpg",
+						"url": "https://t.co/BDGzBdIEZF",
+						"display_url": "pic.twitter.com/BDGzBdIEZF",
+						"expanded_url": "https://twitter.com/davidhoang/status/1475884388248215554/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 651,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 369,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1111,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1475884003290861600,
+						"id_str": "1475884003290861569",
+						"indices": [
+							194,
+							217
+						],
+						"media_url": "http://pbs.twimg.com/media/FHtkrnHVUAEkxnJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FHtkrnHVUAEkxnJ.jpg",
+						"url": "https://t.co/BDGzBdIEZF",
+						"display_url": "pic.twitter.com/BDGzBdIEZF",
+						"expanded_url": "https://twitter.com/davidhoang/status/1475884388248215554/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 651,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 369,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1111,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14338572,
+				"id_str": "14338572",
+				"name": "David Hoang",
+				"screen_name": "davidhoang",
+				"location": "Los Angeles. Palm Springs.",
+				"description": "Software design, angel investing, VPLs, film, art, and the web. Head of Product Design @Webflow. Design Partner @BeOnDeck.",
+				"url": "https://t.co/fXvORRn8Nh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fXvORRn8Nh",
+								"expanded_url": "https://www.davidhoang.com/newsletter",
+								"display_url": "davidhoang.com/newsletter",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26191,
+				"friends_count": 990,
+				"listed_count": 786,
+				"created_at": "Wed Apr 09 03:17:33 +0000 2008",
+				"favourites_count": 70670,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 117844,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1424472368932483074/9eYdMXOl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424472368932483074/9eYdMXOl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14338572/1637774254",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "BABABA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 49,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Hier ga ik in 2022 ook meer werk van maken. De Frankopedia verder uitbreiden en notities meer verbinden. Eens zien wat dan komt bovendrijven. https://t.co/uqaNrz6dto"
+	},
+	{
 		"created_at": "Tue Dec 28 18:57:38 +0000 2021",
 		"id": 1475903786371764200,
 		"id_str": "1475903786371764225",
