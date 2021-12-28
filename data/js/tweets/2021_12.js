@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 28 16:35:04 +0000 2021",
+		"id": 1475846359098040300,
+		"id_str": "1475867908718923778",
+		"full_text": "Bij 1000 donaties presenteer ik een uurtje in het Limburgs. Please RT ;) \n\nhttps://t.co/TTHtSt3APr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TTHtSt3APr",
+					"expanded_url": "https://kink.nl/nieuws/deze-week-zamelt-kink-geld-in-voor-zorgpersoneel-de-kink-album-top-1000-met-zorg",
+					"display_url": "kink.nl/nieuws/deze-we…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 49320577,
+			"id_str": "49320577",
+			"name": "Tim Op het Broek",
+			"screen_name": "TimOphetBroek",
+			"location": "Hilversum. Dag & nacht geopend",
+			"description": "DJ @KINKpuntnl \n\nKink Rush Hour Ma/Do 16-19\nKink Kafe Vrij 18-21\n\nMusic Director KINK CLASSICS\nhttps://t.co/rYLvb6K9pl",
+			"url": "https://t.co/bLvuwNwX8p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bLvuwNwX8p",
+							"expanded_url": "https://www.instagram.com/timophetbroek/",
+							"display_url": "instagram.com/timophetbroek/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/rYLvb6K9pl",
+							"expanded_url": "http://KINK.NL",
+							"display_url": "KINK.NL",
+							"indices": [
+								95,
+								118
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 4334,
+			"friends_count": 1947,
+			"listed_count": 74,
+			"created_at": "Sun Jun 21 14:02:22 +0000 2009",
+			"favourites_count": 9471,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 32009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1374427124891709449/vY6CUyUt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1374427124891709449/vY6CUyUt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/49320577/1557899126",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Bij 1000 donaties presenteer ik een uurtje in het Limburgs. Please RT ;) \n\nhttps://t.co/TTHtSt3APr"
+	},
+	{
 		"created_at": "Tue Dec 28 13:23:12 +0000 2021",
 		"id": 1475819624830849000,
 		"id_str": "1475819624830849033",
