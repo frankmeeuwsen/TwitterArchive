@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 29 18:31:59 +0000 2021",
+		"id": 1476259721694875600,
+		"id_str": "1476259721694875651",
+		"full_text": "@Fundamentadv @jdrijfhout @freek_janssen @Snob_2000 Enorme butt-film maar de cameo’s van Pearl Jam, Chris Cornell en Alice in Chains maken veel goed. https://t.co/6qJr8vSiE0",
+		"truncated": false,
+		"display_text_range": [
+			52,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Fundamentadv",
+					"name": "Remco Smith",
+					"id": 268166396,
+					"id_str": "268166396",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "jdrijfhout",
+					"name": "ﾌ卂几",
+					"id": 43880939,
+					"id_str": "43880939",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "freek_janssen",
+					"name": "uǝssuɐɾ‾ʞǝǝɹɟ@ ✍️🎵",
+					"id": 71275737,
+					"id_str": "71275737",
+					"indices": [
+						26,
+						40
+					]
+				},
+				{
+					"screen_name": "Snob_2000",
+					"name": "Snob 2000",
+					"id": 964603496,
+					"id_str": "964603496",
+					"indices": [
+						41,
+						51
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1476259714241646600,
+					"id_str": "1476259714241646597",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FHy6Y3eX0AUnS-J.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FHy6Y3eX0AUnS-J.jpg",
+					"url": "https://t.co/6qJr8vSiE0",
+					"display_url": "pic.twitter.com/6qJr8vSiE0",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1476259721694875651/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1476259714241646600,
+					"id_str": "1476259714241646597",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FHy6Y3eX0AUnS-J.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FHy6Y3eX0AUnS-J.jpg",
+					"url": "https://t.co/6qJr8vSiE0",
+					"display_url": "pic.twitter.com/6qJr8vSiE0",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1476259721694875651/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							136
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FHy6Y3eX0AUnS-J.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1476157394543595500,
+		"in_reply_to_status_id_str": "1476157394543595527",
+		"in_reply_to_user_id": 268166396,
+		"in_reply_to_user_id_str": "268166396",
+		"in_reply_to_screen_name": "Fundamentadv",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8770,
+			"friends_count": 780,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8935,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@Fundamentadv @jdrijfhout @freek_janssen @Snob_2000 Enorme butt-film maar de cameo’s van Pearl Jam, Chris Cornell en Alice in Chains maken veel goed. https://t.co/6qJr8vSiE0"
+	},
+	{
 		"created_at": "Wed Dec 29 15:46:23 +0000 2021",
 		"id": 1476218046578577400,
 		"id_str": "1476218046578577411",
