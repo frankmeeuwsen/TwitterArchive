@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 29 10:58:05 +0000 2021",
+		"id": 1476145490517500000,
+		"id_str": "1476145490517499905",
+		"full_text": "Ik influence je zo 2022 in! Nu niet snel NFT’s van je knowledge base maken he 😂😂 https://t.co/euhpxFXSdP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/euhpxFXSdP",
+					"expanded_url": "https://twitter.com/dutchcowboy/status/1476144165889130499",
+					"display_url": "twitter.com/dutchcowboy/st…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8771,
+			"friends_count": 780,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8932,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1476144165889130500,
+		"quoted_status_id_str": "1476144165889130499",
+		"quoted_status_permalink": {
+			"url": "https://t.co/euhpxFXSdP",
+			"expanded": "https://twitter.com/dutchcowboy/status/1476144165889130499",
+			"display": "twitter.com/dutchcowboy/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 29 10:52:49 +0000 2021",
+			"id": 1476144165889130500,
+			"id_str": "1476144165889130499",
+			"full_text": "started my first @obsdmd knowledge base! dank @frankmeeuwsen en @martijnaslander voor de inspiratie!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				100
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "obsdmd",
+						"name": "Obsidian",
+						"id": 1239876481951596500,
+						"id_str": "1239876481951596545",
+						"indices": [
+							17,
+							24
+						]
+					},
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							46,
+							60
+						]
+					},
+					{
+						"screen_name": "martijnaslander",
+						"name": " martijn aslander",
+						"id": 3051761,
+						"id_str": "3051761",
+						"indices": [
+							64,
+							80
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 794801,
+				"id_str": "794801",
+				"name": "M. Lens-FitzGerald",
+				"screen_name": "Dutchcowboy",
+				"location": "Amsterdam",
+				"description": "Innovation Executive focused on Voice. Gets orgs onto the Voice channel. Strategy & program management. Founder of Project ZIlver, Open Voice. Just an aspect",
+				"url": "https://t.co/i6uTMmY8op",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/i6uTMmY8op",
+								"expanded_url": "http://www.lens-fitzgerald.com",
+								"display_url": "lens-fitzgerald.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7095,
+				"friends_count": 5291,
+				"listed_count": 410,
+				"created_at": "Mon Feb 26 08:10:55 +0000 2007",
+				"favourites_count": 7922,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 46114,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/953226812737425408/yI9TYGaz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/953226812737425408/yI9TYGaz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/794801/1428913255",
+				"profile_link_color": "999999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "222222",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik influence je zo 2022 in! Nu niet snel NFT’s van je knowledge base maken he 😂😂 https://t.co/euhpxFXSdP"
+	},
+	{
 		"created_at": "Wed Dec 29 09:56:36 +0000 2021",
 		"id": 1476130018157867000,
 		"id_str": "1476130018157867010",
