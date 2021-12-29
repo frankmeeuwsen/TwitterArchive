@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 29 07:51:07 +0000 2021",
+		"id": 1476098439712841700,
+		"id_str": "1476098439712841732",
+		"full_text": "Nog meer leesvoer @erwblo https://t.co/JQwqFHV0DQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erwblo",
+					"name": "Erwin Blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						18,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JQwqFHV0DQ",
+					"expanded_url": "https://twitter.com/cryptosocietys1/status/1476019226251079683",
+					"display_url": "twitter.com/cryptosocietys…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8771,
+			"friends_count": 779,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65877,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1476019226251079700,
+		"quoted_status_id_str": "1476019226251079683",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JQwqFHV0DQ",
+			"expanded": "https://twitter.com/cryptosocietys1/status/1476019226251079683",
+			"display": "twitter.com/cryptosocietys…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 29 02:36:21 +0000 2021",
+			"id": 1476019226251079700,
+			"id_str": "1476019226251079683",
+			"full_text": "As we dig into big questions around the societal and cultural implications from crypto, it's helpful to have a good understanding of the basics of web3, DAOs, NFTs, &amp; DeFi. \n\nSo, we created a lil web3 starter pack for those brand new to the space 👇\n\nhttps://t.co/zGPPrilvSi https://t.co/MhvYE0PmCC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zGPPrilvSi",
+						"expanded_url": "https://www.notion.so/cryptosociety/WEB3-STARTER-PACK-5a922714348e4a7cbaa45b2f0a8861bd",
+						"display_url": "notion.so/cryptosociety/…",
+						"indices": [
+							254,
+							277
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1476008079112159200,
+						"id_str": "1476008079112159235",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/FHvVhxkWQAMqXZm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FHvVhxkWQAMqXZm.jpg",
+						"url": "https://t.co/MhvYE0PmCC",
+						"display_url": "pic.twitter.com/MhvYE0PmCC",
+						"expanded_url": "https://twitter.com/CryptoSocietyS1/status/1476019226251079683/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1188,
+								"h": 1114,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 638,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1188,
+								"h": 1114,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1476008079112159200,
+						"id_str": "1476008079112159235",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/FHvVhxkWQAMqXZm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FHvVhxkWQAMqXZm.jpg",
+						"url": "https://t.co/MhvYE0PmCC",
+						"display_url": "pic.twitter.com/MhvYE0PmCC",
+						"expanded_url": "https://twitter.com/CryptoSocietyS1/status/1476019226251079683/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1188,
+								"h": 1114,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 638,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1188,
+								"h": 1114,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1437562337150455800,
+				"id_str": "1437562337150455809",
+				"name": "Crypto, Culture, & Society 🍎",
+				"screen_name": "CryptoSocietyS1",
+				"location": "🌍",
+				"description": "A learning DAO exploring the impact of crypto on culture and society. Semester 2 announcement coming in January. Join us: https://t.co/TbsuhmdS4C",
+				"url": "https://t.co/WZBW3YOPsJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WZBW3YOPsJ",
+								"expanded_url": "https://society.mirror.xyz/sfgXhqtwwMkhHLnAM1jVr16MdSJ4RGSb1Y6CAKpslgc",
+								"display_url": "society.mirror.xyz/sfgXhqtwwMkhHL…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/TbsuhmdS4C",
+								"expanded_url": "https://discord.gg/aexArjmSnY",
+								"display_url": "discord.gg/aexArjmSnY",
+								"indices": [
+									122,
+									145
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 4601,
+				"friends_count": 0,
+				"listed_count": 110,
+				"created_at": "Mon Sep 13 23:42:35 +0000 2021",
+				"favourites_count": 565,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 393,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1458991184756494352/w5_kw214_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1458991184756494352/w5_kw214_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1437562337150455809/1636733288",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30,
+			"favorite_count": 115,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Nog meer leesvoer @erwblo https://t.co/JQwqFHV0DQ"
+	},
+	{
 		"created_at": "Tue Dec 28 20:16:59 +0000 2021",
 		"id": 1475923757155950600,
 		"id_str": "1475923757155950603",
