@@ -1,6 +1,249 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 30 22:57:43 +0000 2021",
+		"id": 1476688983421821000,
+		"id_str": "1476688983421820928",
+		"full_text": "Hoe meta willen we het nog hebben in #DontLookUp ?\n\nPs: kunnen we in 2022 een ander woord voor meta gebruiken, want ja… facebook en alles… https://t.co/7Mqafxr07u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DontLookUp",
+					"indices": [
+						37,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7Mqafxr07u",
+					"expanded_url": "https://twitter.com/factsimilie/status/1476593547356917764",
+					"display_url": "twitter.com/factsimilie/st…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8772,
+			"friends_count": 781,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8948,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65906,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1476593547356917800,
+		"quoted_status_id_str": "1476593547356917764",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7Mqafxr07u",
+			"expanded": "https://twitter.com/factsimilie/status/1476593547356917764",
+			"display": "twitter.com/factsimilie/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 30 16:38:30 +0000 2021",
+			"id": 1476593547356917800,
+			"id_str": "1476593547356917764",
+			"full_text": "Director pays homage to crew by inserting a few frames of them in his film. And is then met with “bullshit” and “yah right!” comments. \n\nRemember, the movie is literally about the public disbelieving facts. \n\n@GhostPanther if this doesn’t justify your film, nothing does. 😂 https://t.co/aBKBrRyEK6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GhostPanther",
+						"name": "Adam McKay",
+						"id": 37982492,
+						"id_str": "37982492",
+						"indices": [
+							209,
+							222
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/aBKBrRyEK6",
+						"expanded_url": "https://twitter.com/ghostpanther/status/1476028627045076993",
+						"display_url": "twitter.com/ghostpanther/s…",
+						"indices": [
+							274,
+							297
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 117558726,
+				"id_str": "117558726",
+				"name": "We Fact-Check Your Tweets. Facts Are Cool.™",
+				"screen_name": "factsimilie",
+				"location": "Brooklyn, NY",
+				"description": "We fact-check Tweets, debunk conspiracy theories, and correct errors. We call out BS on anyone, anytime. Non-partisan. #factchecking #facts",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10364,
+				"friends_count": 5857,
+				"listed_count": 172,
+				"created_at": "Thu Feb 25 22:49:02 +0000 2010",
+				"favourites_count": 8552,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3609,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1306249249848471555/KLRKAMxz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1306249249848471555/KLRKAMxz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/117558726/1593643158",
+				"profile_link_color": "4099FF",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1476028627045077000,
+			"quoted_status_id_str": "1476028627045076993",
+			"quoted_status_permalink": {
+				"url": "https://t.co/aBKBrRyEK6",
+				"expanded": "https://twitter.com/ghostpanther/status/1476028627045076993",
+				"display": "twitter.com/ghostpanther/s…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Hoe meta willen we het nog hebben in #DontLookUp ?\n\nPs: kunnen we in 2022 een ander woord voor meta gebruiken, want ja… facebook en alles… https://t.co/7Mqafxr07u"
+	},
+	{
 		"created_at": "Thu Dec 30 19:42:31 +0000 2021",
 		"id": 1476639859410444300,
 		"id_str": "1476639859410444290",
