@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 30 06:19:46 +0000 2021",
+		"id": 1476437838178795500,
+		"id_str": "1476437838178795531",
+		"full_text": "Dit is echt wel een goede uitleg. De schaatsclub van @erwblo, de bezwaren die @MarkV voorlegde. Ze komen (soort van) langs. Nu nog de infrastructuur om die eerste stappen eenvoudig te maken. Koop crypto met iDeal in een eenvoudiger wallet. https://t.co/3h753Vvtvm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erwblo",
+					"name": "Erwin Blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						53,
+						60
+					]
+				},
+				{
+					"screen_name": "MarkV",
+					"name": "Mark Vletter 🤙",
+					"id": 7287552,
+					"id_str": "7287552",
+					"indices": [
+						78,
+						84
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3h753Vvtvm",
+					"expanded_url": "https://twitter.com/haltakov/status/1476328978034184203",
+					"display_url": "twitter.com/haltakov/statu…",
+					"indices": [
+						240,
+						263
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8770,
+			"friends_count": 779,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1476328978034184200,
+		"quoted_status_id_str": "1476328978034184203",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3h753Vvtvm",
+			"expanded": "https://twitter.com/haltakov/status/1476328978034184203",
+			"display": "twitter.com/haltakov/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Dec 29 23:07:11 +0000 2021",
+			"id": 1476328978034184200,
+			"id_str": "1476328978034184203",
+			"full_text": "You think you know what is an NFT? Well, think again...\n\nYou are doing it wrong if you think about NFTs as pixelated images of punks, toads, or apes. It is not about the JPEG!\n\nA better mental model for thinking about NFTs 👇",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				224
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://feedhive.io\" rel=\"nofollow\">FeedHive.io</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 82331877,
+				"id_str": "82331877",
+				"name": "Vladimir Haltakov",
+				"screen_name": "haltakov",
+				"location": "Munich, Germany",
+				"description": "I make complicated topics easy to understand. Deep into machine learning and web3. Building @underfittedio. Self-driving car engineer in the rest of the time.",
+				"url": "https://t.co/03VbqEbR7j",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/03VbqEbR7j",
+								"expanded_url": "http://www.haltakov.net",
+								"display_url": "haltakov.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23074,
+				"friends_count": 565,
+				"listed_count": 315,
+				"created_at": "Wed Oct 14 10:54:57 +0000 2009",
+				"favourites_count": 13286,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8069,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1359262982744727555/w9KYC3jL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1359262982744727555/w9KYC3jL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/82331877/1636497247",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 109,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Dit is echt wel een goede uitleg. De schaatsclub van @erwblo, de bezwaren die @MarkV voorlegde. Ze komen (soort van) langs. Nu nog de infrastructuur om die eerste stappen eenvoudig te maken. Koop crypto met iDeal in een eenvoudiger wallet. https://t.co/3h753Vvtvm"
+	},
+	{
 		"created_at": "Wed Dec 29 21:47:05 +0000 2021",
 		"id": 1476308817218621400,
 		"id_str": "1476308817218621444",
