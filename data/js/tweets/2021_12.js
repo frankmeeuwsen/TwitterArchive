@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 31 16:39:53 +0000 2021",
+		"id": 1476955305191911400,
+		"id_str": "1476956283127406599",
+		"full_text": "30 years ago, THIS LINE-UP! #pearljam #rhcp #Nirvana https://t.co/ctwxrzZWD5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pearljam",
+					"indices": [
+						28,
+						37
+					]
+				},
+				{
+					"text": "rhcp",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "Nirvana",
+					"indices": [
+						44,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1476955295377244200,
+					"id_str": "1476955295377244163",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/FH8zBBIXwAM3uaJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH8zBBIXwAM3uaJ.jpg",
+					"url": "https://t.co/ctwxrzZWD5",
+					"display_url": "pic.twitter.com/ctwxrzZWD5",
+					"expanded_url": "https://twitter.com/PearlJamHolland/status/1476955305191911426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 425,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1476955295377244200,
+					"id_str": "1476955295377244163",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/FH8zBBIXwAM3uaJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FH8zBBIXwAM3uaJ.jpg",
+					"url": "https://t.co/ctwxrzZWD5",
+					"display_url": "pic.twitter.com/ctwxrzZWD5",
+					"expanded_url": "https://twitter.com/PearlJamHolland/status/1476955305191911426/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 425,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2933941318,
+			"id_str": "2933941318",
+			"name": "Pearl Jam Holland",
+			"screen_name": "PearlJamHolland",
+			"location": "",
+			"description": "Troubled souls unite! Dutch PJ-fanaccount. Follow for Pearl Jam news, videos, lyrics, facts & photos. Instagram: pearljamholland.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2730,
+			"friends_count": 263,
+			"listed_count": 28,
+			"created_at": "Sat Dec 20 17:16:58 +0000 2014",
+			"favourites_count": 11509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4419,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/968918956860985346/u_FxXkMa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/968918956860985346/u_FxXkMa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2933941318/1581096105",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 19,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "30 years ago, THIS LINE-UP! #pearljam #rhcp #Nirvana https://t.co/ctwxrzZWD5"
+	},
+	{
 		"created_at": "Fri Dec 31 14:13:03 +0000 2021",
 		"id": 1476919332370362400,
 		"id_str": "1476919332370362372",
