@@ -1,6 +1,322 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 31 06:41:06 +0000 2021",
+		"id": 1476805597353980000,
+		"id_str": "1476805597353979904",
+		"full_text": "Gisteren zag ik #DontLookUp en nu vind ik deze headline maar niks! https://t.co/ILCWdTZDXy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DontLookUp",
+					"indices": [
+						16,
+						27
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ILCWdTZDXy",
+					"expanded_url": "https://twitter.com/NeerajKA/status/1476597801509400576",
+					"display_url": "twitter.com/NeerajKA/statu…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8771,
+			"friends_count": 781,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1476597801509400600,
+		"quoted_status_id_str": "1476597801509400576",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ILCWdTZDXy",
+			"expanded": "https://twitter.com/NeerajKA/status/1476597801509400576",
+			"display": "twitter.com/NeerajKA/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 30 16:55:24 +0000 2021",
+			"id": 1476597801509400600,
+			"id_str": "1476597801509400576",
+			"full_text": "probably nothing https://t.co/KfYzviQhtf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				16
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1476597799009595400,
+						"id_str": "1476597799009595398",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/FH3t3_YXMAYtgGC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FH3t3_YXMAYtgGC.jpg",
+						"url": "https://t.co/KfYzviQhtf",
+						"display_url": "pic.twitter.com/KfYzviQhtf",
+						"expanded_url": "https://twitter.com/NeerajKA/status/1476597801509400576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 300,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1170,
+								"h": 517,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1170,
+								"h": 517,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1476597799009595400,
+						"id_str": "1476597799009595398",
+						"indices": [
+							17,
+							40
+						],
+						"media_url": "http://pbs.twimg.com/media/FH3t3_YXMAYtgGC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FH3t3_YXMAYtgGC.jpg",
+						"url": "https://t.co/KfYzviQhtf",
+						"display_url": "pic.twitter.com/KfYzviQhtf",
+						"expanded_url": "https://twitter.com/NeerajKA/status/1476597801509400576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 300,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1170,
+								"h": 517,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1170,
+								"h": 517,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14710235,
+				"id_str": "14710235",
+				"name": "Neeraj K. Agrawal",
+				"screen_name": "NeerajKA",
+				"location": "Washington, DC",
+				"description": "comms @coincenter—the cryptocurrency policy think tank | neeraj@coincenter.org | internet censorship substack: https://t.co/toKSWwD1uD",
+				"url": "https://t.co/sEt4QHvTli",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/sEt4QHvTli",
+								"expanded_url": "http://coincenter.org",
+								"display_url": "coincenter.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/toKSWwD1uD",
+								"expanded_url": "http://neerajka.com",
+								"display_url": "neerajka.com",
+								"indices": [
+									111,
+									134
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 141312,
+				"friends_count": 2693,
+				"listed_count": 2702,
+				"created_at": "Fri May 09 05:38:26 +0000 2008",
+				"favourites_count": 143753,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 61312,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1451213298930700288/0vVbJWzt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1451213298930700288/0vVbJWzt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14710235/1471027278",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 63,
+			"favorite_count": 870,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Gisteren zag ik #DontLookUp en nu vind ik deze headline maar niks! https://t.co/ILCWdTZDXy"
+	},
+	{
 		"created_at": "Thu Dec 30 22:57:43 +0000 2021",
 		"id": 1476688983421821000,
 		"id_str": "1476688983421820928",
