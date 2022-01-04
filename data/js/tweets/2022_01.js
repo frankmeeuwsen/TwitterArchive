@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 04 15:07:02 +0000 2022",
+		"id": 1478382468826816500,
+		"id_str": "1478382468826816522",
+		"full_text": "We zoeken zoveel mensen bij @Kaliberinteract, dat past niet in een tweet. Check daarom https://t.co/IQYDdmLJjf voor alle functies en krijg een indruk van ons clubhuis! https://t.co/JGURamlbD5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Kaliberinteract",
+					"name": "Kaliber",
+					"id": 10932162,
+					"id_str": "10932162",
+					"indices": [
+						28,
+						44
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IQYDdmLJjf",
+					"expanded_url": "https://werkenbij.kaliber.net/?utm_medium=organic&utm_campaign=vacatures&utm_content=frank&utm_source=twitter",
+					"display_url": "werkenbij.kaliber.net/?utm_medium=or…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1478382297313337300,
+					"id_str": "1478382297313337347",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1478382297313337347/pu/img/3SL_bmihps3-E2Dt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1478382297313337347/pu/img/3SL_bmihps3-E2Dt.jpg",
+					"url": "https://t.co/JGURamlbD5",
+					"display_url": "pic.twitter.com/JGURamlbD5",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1478382468826816522/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1478382297313337300,
+					"id_str": "1478382297313337347",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1478382297313337347/pu/img/3SL_bmihps3-E2Dt.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1478382297313337347/pu/img/3SL_bmihps3-E2Dt.jpg",
+					"url": "https://t.co/JGURamlbD5",
+					"display_url": "pic.twitter.com/JGURamlbD5",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1478382468826816522/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 24357,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1478382297313337347/pu/vid/320x320/UjiZ5w1D55sHcgDX.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1478382297313337347/pu/vid/540x540/EZViBT_ucFLHCZ8n.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1478382297313337347/pu/vid/720x720/Bgp65ry_F8wJqGXJ.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1478382297313337347/pu/pl/MyFcY4TYPXkaZgd8.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8769,
+			"friends_count": 790,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8988,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65935,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "We zoeken zoveel mensen bij @Kaliberinteract, dat past niet in een tweet. Check daarom https://t.co/IQYDdmLJjf voor alle functies en krijg een indruk van ons clubhuis! https://t.co/JGURamlbD5"
+	},
+	{
 		"created_at": "Mon Jan 03 14:52:31 +0000 2022",
 		"id": 1478016430868205600,
 		"id_str": "1478016430868205568",
