@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 05 13:41:30 +0000 2022",
+		"id": 1478723333441085400,
+		"id_str": "1478723333441085447",
+		"full_text": "Laat heel 2022 zo zijn. Lekker hoor. https://t.co/AFAJlHQoUQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AFAJlHQoUQ",
+					"expanded_url": "https://twitter.com/100gecs/status/1461767345823633410",
+					"display_url": "twitter.com/100gecs/status…",
+					"indices": [
+						37,
+						60
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8769,
+			"friends_count": 792,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 8995,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65940,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1461767345823633400,
+		"quoted_status_id_str": "1461767345823633410",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AFAJlHQoUQ",
+			"expanded": "https://twitter.com/100gecs/status/1461767345823633410",
+			"display": "twitter.com/100gecs/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 19 18:44:28 +0000 2021",
+			"id": 1461767345823633400,
+			"id_str": "1461767345823633410",
+			"full_text": "mememe video out now \n\n⭐️🎵⭐️🎵⭐️🎵⭐️🎵⭐️🎵⭐️🎵⭐️🎵⭐️\n\nhttps://t.co/zvqHWZRUvr https://t.co/K4b6Xw4Nf1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				71
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zvqHWZRUvr",
+						"expanded_url": "https://youtu.be/1Bw2dTY3SsQ",
+						"display_url": "youtu.be/1Bw2dTY3SsQ",
+						"indices": [
+							48,
+							71
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1461767287300444200,
+						"id_str": "1461767287300444164",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1461767287300444164/pu/img/ET7UtTZA6pzvcj7B.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1461767287300444164/pu/img/ET7UtTZA6pzvcj7B.jpg",
+						"url": "https://t.co/K4b6Xw4Nf1",
+						"display_url": "pic.twitter.com/K4b6Xw4Nf1",
+						"expanded_url": "https://twitter.com/100gecs/status/1461767345823633410/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1461767287300444200,
+						"id_str": "1461767287300444164",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1461767287300444164/pu/img/ET7UtTZA6pzvcj7B.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1461767287300444164/pu/img/ET7UtTZA6pzvcj7B.jpg",
+						"url": "https://t.co/K4b6Xw4Nf1",
+						"display_url": "pic.twitter.com/K4b6Xw4Nf1",
+						"expanded_url": "https://twitter.com/100gecs/status/1461767345823633410/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 14431,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1461767287300444164/pu/vid/640x360/zfZtbg2pOirQW8SL.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1461767287300444164/pu/vid/480x270/tuCh2wPyygq2Jfkl.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1461767287300444164/pu/pl/_LqvXnuvzy-ZWdOP.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1461767287300444164/pu/vid/1280x720/rC1BHJVjwqYYunWC.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1135041350028501000,
+				"id_str": "1135041350028500992",
+				"name": "100 gecs",
+				"screen_name": "100gecs",
+				"location": "",
+				"description": "management cverdecias@bloodcompany.net booking 100gecs@teamwass.com",
+				"url": "https://t.co/l3wGkdSLZb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/l3wGkdSLZb",
+								"expanded_url": "http://100gecs.com",
+								"display_url": "100gecs.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 112196,
+				"friends_count": 14,
+				"listed_count": 140,
+				"created_at": "Sun Jun 02 04:32:00 +0000 2019",
+				"favourites_count": 3767,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 697,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1445482444665229319/Km60k0sL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445482444665229319/Km60k0sL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1135041350028500992/1626193904",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 633,
+			"favorite_count": 3631,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Laat heel 2022 zo zijn. Lekker hoor. https://t.co/AFAJlHQoUQ"
+	},
+	{
 		"created_at": "Wed Jan 05 11:52:49 +0000 2022",
 		"id": 1478695981269012500,
 		"id_str": "1478695981269012482",
