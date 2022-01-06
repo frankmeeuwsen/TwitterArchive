@@ -1,6 +1,329 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 06 18:04:22 +0000 2022",
+		"id": 1479151872409809000,
+		"id_str": "1479151872409808897",
+		"full_text": "hello infinite wordl https://t.co/zK07rx4BBB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zK07rx4BBB",
+					"expanded_url": "http://foldr.moe/hello-wordl/",
+					"display_url": "foldr.moe/hello-wordl/",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8766,
+			"friends_count": 793,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9005,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "hello infinite wordl https://t.co/zK07rx4BBB"
+	},
+	{
+		"created_at": "Thu Jan 06 17:29:11 +0000 2022",
+		"id": 1479142578113155000,
+		"id_str": "1479143016803835916",
+		"full_text": "Sun Puddle headline Central Saloon in Seattle this Saturday. Nirvana’s first show in Seattle was at that legendary venue and that’s where Sub Pop founders Bruce Pavitt and Jonathan Poneman first saw the band and eventually signed them. Cool stuff happening all over again…yup https://t.co/nN7QRdWtJ5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1479142446575628300,
+					"id_str": "1479142446575628299",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1479142446575628299/pu/img/2xUisHEN3sUjJVR1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1479142446575628299/pu/img/2xUisHEN3sUjJVR1.jpg",
+					"url": "https://t.co/nN7QRdWtJ5",
+					"display_url": "pic.twitter.com/nN7QRdWtJ5",
+					"expanded_url": "https://twitter.com/grungepoprecord/status/1479142578113155074/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479142446575628300,
+					"id_str": "1479142446575628299",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1479142446575628299/pu/img/2xUisHEN3sUjJVR1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1479142446575628299/pu/img/2xUisHEN3sUjJVR1.jpg",
+					"url": "https://t.co/nN7QRdWtJ5",
+					"display_url": "pic.twitter.com/nN7QRdWtJ5",
+					"expanded_url": "https://twitter.com/grungepoprecord/status/1479142578113155074/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 23866,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1479142446575628299/pu/vid/360x270/MtG1iTSO-QyVVUd5.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1479142446575628299/pu/pl/10H6DI5-FOVhs5N9.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1479142446575628299/pu/vid/480x360/n6j11k8v6PL_2WQW.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1479142446575628299/pu/vid/960x720/XxPfQOCEDBC1-mZ_.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1394729710614110200,
+			"id_str": "1394729710614110208",
+			"name": "Grunge Pop Records",
+			"screen_name": "grungepoprecord",
+			"location": "Seattle, WA",
+			"description": "We’re the label spearheading the grunge revival. Click link below for everything…👇",
+			"url": "https://t.co/EWPjzYo34d",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/EWPjzYo34d",
+							"expanded_url": "https://linktr.ee/GrungePopRecords",
+							"display_url": "linktr.ee/GrungePopRecor…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 158,
+			"friends_count": 180,
+			"listed_count": 0,
+			"created_at": "Tue May 18 19:01:12 +0000 2021",
+			"favourites_count": 2686,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1394730022338973704/sHKcJOIp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1394730022338973704/sHKcJOIp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1394729710614110208/1621366769",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Sun Puddle headline Central Saloon in Seattle this Saturday. Nirvana’s first show in Seattle was at that legendary venue and that’s where Sub Pop founders Bruce Pavitt and Jonathan Poneman first saw the band and eventually signed them. Cool stuff happening all over again…yup https://t.co/nN7QRdWtJ5"
+	},
+	{
 		"created_at": "Thu Jan 06 13:41:38 +0000 2022",
 		"id": 1479085755184132000,
 		"id_str": "1479085755184132100",
