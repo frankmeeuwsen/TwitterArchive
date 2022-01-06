@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 06 21:45:00 +0000 2022",
+		"id": 1479156460487684000,
+		"id_str": "1479207397897953283",
+		"full_text": "Dit. Dus. (Via @boukjekeijzer) https://t.co/XupkZkEJf2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "boukjekeijzer",
+					"name": "Boukje Keijzer",
+					"id": 166949805,
+					"id_str": "166949805",
+					"indices": [
+						15,
+						29
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1479156454431076400,
+					"id_str": "1479156454431076360",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/FIcE9VmXMAgCvEI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIcE9VmXMAgCvEI.jpg",
+					"url": "https://t.co/XupkZkEJf2",
+					"display_url": "pic.twitter.com/XupkZkEJf2",
+					"expanded_url": "https://twitter.com/jitskekramer/status/1479156460487684098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1479156454431076400,
+					"id_str": "1479156454431076360",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/FIcE9VmXMAgCvEI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FIcE9VmXMAgCvEI.jpg",
+					"url": "https://t.co/XupkZkEJf2",
+					"display_url": "pic.twitter.com/XupkZkEJf2",
+					"expanded_url": "https://twitter.com/jitskekramer/status/1479156460487684098/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1463,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 202814116,
+			"id_str": "202814116",
+			"name": "Jitske Kramer",
+			"screen_name": "jitskekramer",
+			"location": "The Netherlands, Utrecht",
+			"description": "I travel the world to learn from traditional healers, leaders, surprising innovators and random passers-by. Corporate Anthropologist. TEDxSpeaker. Author.",
+			"url": "https://t.co/pcRwoYExrd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pcRwoYExrd",
+							"expanded_url": "http://www.humandimensions.nl",
+							"display_url": "humandimensions.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7169,
+			"friends_count": 1967,
+			"listed_count": 102,
+			"created_at": "Thu Oct 14 21:54:18 +0000 2010",
+			"favourites_count": 6083,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15416,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "79ADC9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1357973504788938753/KdXemnxe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357973504788938753/KdXemnxe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/202814116/1569306521",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Dit. Dus. (Via @boukjekeijzer) https://t.co/XupkZkEJf2"
+	},
+	{
 		"created_at": "Thu Jan 06 19:59:46 +0000 2022",
 		"id": 1479180914659893200,
 		"id_str": "1479180914659893249",
