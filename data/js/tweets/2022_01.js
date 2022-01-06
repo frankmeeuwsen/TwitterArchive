@@ -1,6 +1,359 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 06 19:15:07 +0000 2022",
+		"id": 1479169677142200300,
+		"id_str": "1479169677142200321",
+		"full_text": "@marcoderksen Ze gaan hier Capitooltje spelen tijdens de beëdiging? Er liep toch al een wannabe rond zondag? https://t.co/Ii5aaJtkBN",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marcoderksen",
+					"name": "Marco Derksen",
+					"id": 1252681,
+					"id_str": "1252681",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ii5aaJtkBN",
+					"expanded_url": "https://twitter.com/maartenhopman94/status/1477604441113067520",
+					"display_url": "twitter.com/maartenhopman9…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1479152698301816800,
+		"in_reply_to_status_id_str": "1479152698301816835",
+		"in_reply_to_user_id": 1252681,
+		"in_reply_to_user_id_str": "1252681",
+		"in_reply_to_screen_name": "marcoderksen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8766,
+			"friends_count": 793,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9006,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1477604441113067500,
+		"quoted_status_id_str": "1477604441113067520",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ii5aaJtkBN",
+			"expanded": "https://twitter.com/maartenhopman94/status/1477604441113067520",
+			"display": "twitter.com/maartenhopman9…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 02 11:35:25 +0000 2022",
+			"id": 1477604441113067500,
+			"id_str": "1477604441113067520",
+			"full_text": "Wij hebben de Ali Express versie. #museumplein https://t.co/N33Ylli2WG",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				46
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "museumplein",
+						"indices": [
+							34,
+							46
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1477604436100980700,
+						"id_str": "1477604436100980740",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/FIGBZ-xXIAQaHJB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FIGBZ-xXIAQaHJB.jpg",
+						"url": "https://t.co/N33Ylli2WG",
+						"display_url": "pic.twitter.com/N33Ylli2WG",
+						"expanded_url": "https://twitter.com/maartenhopman94/status/1477604441113067520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 694,
+								"h": 463,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 694,
+								"h": 463,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1477604436100980700,
+						"id_str": "1477604436100980740",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/FIGBZ-xXIAQaHJB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FIGBZ-xXIAQaHJB.jpg",
+						"url": "https://t.co/N33Ylli2WG",
+						"display_url": "pic.twitter.com/N33Ylli2WG",
+						"expanded_url": "https://twitter.com/maartenhopman94/status/1477604441113067520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 694,
+								"h": 463,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 694,
+								"h": 463,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1477604436277178400,
+						"id_str": "1477604436277178368",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/FIGBZ_bXsAAt_fn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FIGBZ_bXsAAt_fn.jpg",
+						"url": "https://t.co/N33Ylli2WG",
+						"display_url": "pic.twitter.com/N33Ylli2WG",
+						"expanded_url": "https://twitter.com/maartenhopman94/status/1477604441113067520/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1198,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1320,
+								"h": 1322,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 679,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 176075255,
+				"id_str": "176075255",
+				"name": "Maarten Hopman",
+				"screen_name": "maartenhopman94",
+				"location": "Rotterdam, Nederland",
+				"description": "De Speld | Dit Was Het Nieuws | Plakshot",
+				"url": "https://t.co/qgNG0LXb1M",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qgNG0LXb1M",
+								"expanded_url": "http://www.maartenhopman.nl",
+								"display_url": "maartenhopman.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5539,
+				"friends_count": 894,
+				"listed_count": 29,
+				"created_at": "Sun Aug 08 13:49:58 +0000 2010",
+				"favourites_count": 21242,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16227,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1357385414588452864/yYuAjepA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357385414588452864/yYuAjepA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/176075255/1616282409",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 347,
+			"favorite_count": 3083,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@marcoderksen Ze gaan hier Capitooltje spelen tijdens de beëdiging? Er liep toch al een wannabe rond zondag? https://t.co/Ii5aaJtkBN"
+	},
+	{
 		"created_at": "Thu Jan 06 18:04:22 +0000 2022",
 		"id": 1479151872409809000,
 		"id_str": "1479151872409808897",
