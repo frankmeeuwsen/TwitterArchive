@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 06 19:59:46 +0000 2022",
+		"id": 1479180914659893200,
+		"id_str": "1479180914659893249",
+		"full_text": "Kom d’r maar in @erwblo https://t.co/nZlQHKqxQs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erwblo",
+					"name": "Erwin Blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						16,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nZlQHKqxQs",
+					"expanded_url": "https://twitter.com/kwebbelkop/status/1478977025679544321",
+					"display_url": "twitter.com/kwebbelkop/sta…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8766,
+			"friends_count": 793,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9006,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1478977025679544300,
+		"quoted_status_id_str": "1478977025679544321",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nZlQHKqxQs",
+			"expanded": "https://twitter.com/kwebbelkop/status/1478977025679544321",
+			"display": "twitter.com/kwebbelkop/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 06 06:29:35 +0000 2022",
+			"id": 1478977025679544300,
+			"id_str": "1478977025679544321",
+			"full_text": "The next big thing in NFTs is going to be music.\n\nBuy your favorite artists track as an NFT.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				92
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 346526830,
+				"id_str": "346526830",
+				"name": "Kwebbelkop",
+				"screen_name": "Kwebbelkop",
+				"location": "Amsterdam, The Netherlands",
+				"description": "Making the world a happier place! 15,000,000 Subscribers on YouTube, Game & Blockchain Dev #NFT #Metaverse\nFounder @LaunchMyNFT \nDiscord: https://t.co/Q5Zu87oAPs",
+				"url": "https://t.co/PxSD1nsIuz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PxSD1nsIuz",
+								"expanded_url": "https://www.youtube.com/c/kwebbelkop",
+								"display_url": "youtube.com/c/kwebbelkop",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Q5Zu87oAPs",
+								"expanded_url": "http://discord.gg/launchmynft",
+								"display_url": "discord.gg/launchmynft",
+								"indices": [
+									138,
+									161
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 412352,
+				"friends_count": 1424,
+				"listed_count": 425,
+				"created_at": "Mon Aug 01 12:13:07 +0000 2011",
+				"favourites_count": 49477,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3314,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1459446390094970883/6HFZywj4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1459446390094970883/6HFZywj4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/346526830/1474485802",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 132,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Kom d’r maar in @erwblo https://t.co/nZlQHKqxQs"
+	},
+	{
 		"created_at": "Thu Jan 06 19:15:07 +0000 2022",
 		"id": 1479169677142200300,
 		"id_str": "1479169677142200321",
