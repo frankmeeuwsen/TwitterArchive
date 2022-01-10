@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 10 18:54:22 +0000 2022",
+		"id": 1480614009284046800,
+		"id_str": "1480614009284046853",
+		"full_text": "Kan niet. 23 jaar geleden… https://t.co/Z0BBKG2I9K https://t.co/Z0plBnb4Dn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Z0BBKG2I9K",
+					"expanded_url": "https://twitter.com/sopranosworld/status/1480588008441188352",
+					"display_url": "twitter.com/sopranosworld/…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1480613996277477400,
+					"id_str": "1480613996277477385",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FIwylcGXMAkyu5k.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FIwylcGXMAkyu5k.jpg",
+					"url": "https://t.co/Z0plBnb4Dn",
+					"display_url": "pic.twitter.com/Z0plBnb4Dn",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1480614009284046853/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1480613996277477400,
+					"id_str": "1480613996277477385",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FIwylcGXMAkyu5k.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FIwylcGXMAkyu5k.jpg",
+					"url": "https://t.co/Z0plBnb4Dn",
+					"display_url": "pic.twitter.com/Z0plBnb4Dn",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1480614009284046853/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FIwylcGXMAkyu5k.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8763,
+			"friends_count": 795,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9030,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1480588008441188400,
+		"quoted_status_id_str": "1480588008441188352",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Z0BBKG2I9K",
+			"expanded": "https://twitter.com/sopranosworld/status/1480588008441188352",
+			"display": "twitter.com/sopranosworld/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 10 17:11:03 +0000 2022",
+			"id": 1480588008441188400,
+			"id_str": "1480588008441188352",
+			"full_text": "The Sopranos debuted 23 years ago, what was going on in your life then? https://t.co/zfb16JJLz6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				71
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1480588005794627600,
+						"id_str": "1480588005794627591",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/FIwa8mAXwAccA60.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FIwa8mAXwAccA60.jpg",
+						"url": "https://t.co/zfb16JJLz6",
+						"display_url": "pic.twitter.com/zfb16JJLz6",
+						"expanded_url": "https://twitter.com/SopranosWorld/status/1480588008441188352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1480588005794627600,
+						"id_str": "1480588005794627591",
+						"indices": [
+							72,
+							95
+						],
+						"media_url": "http://pbs.twimg.com/media/FIwa8mAXwAccA60.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FIwa8mAXwAccA60.jpg",
+						"url": "https://t.co/zfb16JJLz6",
+						"display_url": "pic.twitter.com/zfb16JJLz6",
+						"expanded_url": "https://twitter.com/SopranosWorld/status/1480588008441188352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1069028775801827300,
+				"id_str": "1069028775801827328",
+				"name": "SopranosWorld",
+				"screen_name": "SopranosWorld",
+				"location": "United States",
+				"description": "“Those who want respect, give respect”",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 34577,
+				"friends_count": 769,
+				"listed_count": 32,
+				"created_at": "Sun Dec 02 00:41:36 +0000 2018",
+				"favourites_count": 12462,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4240,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1305327664606203904/3mCdnMMv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305327664606203904/3mCdnMMv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1069028775801827328/1594665662",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 404,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Kan niet. 23 jaar geleden… https://t.co/Z0BBKG2I9K https://t.co/Z0plBnb4Dn"
+	},
+	{
 		"created_at": "Mon Jan 10 18:04:16 +0000 2022",
 		"id": 1480601397817229300,
 		"id_str": "1480601397817229313",
