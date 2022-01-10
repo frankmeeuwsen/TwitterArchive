@@ -1,10 +1,127 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 10 18:04:16 +0000 2022",
+		"id": 1480601397817229300,
+		"id_str": "1480601397817229313",
+		"full_text": "@pvdp Peter…",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pvdp",
+					"name": "Peter van der Ploeg",
+					"id": 10153142,
+					"id_str": "10153142",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1480568555175301000,
+		"in_reply_to_status_id_str": "1480568555175301123",
+		"in_reply_to_user_id": 10153142,
+		"in_reply_to_user_id_str": "10153142",
+		"in_reply_to_screen_name": "pvdp",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8763,
+			"friends_count": 794,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 65974,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@pvdp Peter…"
+	},
+	{
 		"created_at": "Mon Jan 10 11:43:48 +0000 2022",
 		"id": 1480505650396414000,
 		"id_str": "1480505650396413956",
-		"full_text": "Subtweeting my intellect (en dank aan  ⁦@suusj in ons Slack kanaal)\n\nWoordle 205 1/6\n\n🟩🟩🟩🟩🟩",
+		"full_text": "Subtweeting my intellect (en dank aan  @suusj in ons Slack kanaal)\n\nWoordle 205 1/6\n\n🟩🟩🟩🟩🟩",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -115,7 +232,7 @@ Grailbird.data.tweets_2022_01 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "nl",
-		"text": "Subtweeting my intellect (en dank aan  ⁦@suusj in ons Slack kanaal)\n\nWoordle 205 1/6\n\n🟩🟩🟩🟩🟩"
+		"text": "Subtweeting my intellect (en dank aan  @suusj in ons Slack kanaal)\n\nWoordle 205 1/6\n\n🟩🟩🟩🟩🟩"
 	},
 	{
 		"created_at": "Sun Jan 09 21:58:23 +0000 2022",
