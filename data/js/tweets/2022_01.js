@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 17 09:49:00 +0000 2022",
+		"id": 1483013477820252200,
+		"id_str": "1483013477820252163",
+		"full_text": "@saraschlijper @msteeman @suzanneunck @ggdru @rivm Dank voor de link naar het wetenschappelijk artikel. Interessante materie hoe dit virus vooral indoor door de lucht verplaatst ipv via oppervlakte.",
+		"truncated": false,
+		"display_text_range": [
+			51,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "saraschlijper",
+					"name": "𝚜𝚊𝚛𝚊 𝚜𝚌𝚑𝚕𝚒𝚓𝚙𝚎𝚛 🖋🎨",
+					"id": 6481382,
+					"id_str": "6481382",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "msteeman",
+					"name": "Marcel Steeman",
+					"id": 19087381,
+					"id_str": "19087381",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"screen_name": "suzanneunck",
+					"name": "💉 Suzanne Unck",
+					"id": 9883922,
+					"id_str": "9883922",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "ggdru",
+					"name": "GGD regio Utrecht",
+					"id": 323239404,
+					"id_str": "323239404",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"screen_name": "rivm",
+					"name": "RIVM",
+					"id": 35527415,
+					"id_str": "35527415",
+					"indices": [
+						45,
+						50
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1483000168731533300,
+		"in_reply_to_status_id_str": "1483000168731533319",
+		"in_reply_to_user_id": 6481382,
+		"in_reply_to_user_id_str": "6481382",
+		"in_reply_to_screen_name": "saraschlijper",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8757,
+			"friends_count": 799,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66023,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@saraschlijper @msteeman @suzanneunck @ggdru @rivm Dank voor de link naar het wetenschappelijk artikel. Interessante materie hoe dit virus vooral indoor door de lucht verplaatst ipv via oppervlakte."
+	},
+	{
 		"created_at": "Mon Jan 17 09:15:17 +0000 2022",
 		"id": 1483004993330364400,
 		"id_str": "1483004993330364416",
