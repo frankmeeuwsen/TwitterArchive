@@ -1,6 +1,761 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 17 09:15:17 +0000 2022",
+		"id": 1483004993330364400,
+		"id_str": "1483004993330364416",
+		"full_text": "@PhotoJeanique @msteeman @suzanneunck @ggdru @rivm Er is een verschil tussen quarantaine (huis niet uit) en isolatie (kamer niet uit). Ik doe nu het laatste, de rest van het gezin het eerste. Ik wil voorkomen dat na deze week de rest besmet raakt maar lijkt me bijna niet te doen.",
+		"truncated": false,
+		"display_text_range": [
+			51,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhotoJeanique",
+					"name": "Jeanique.",
+					"id": 14224758,
+					"id_str": "14224758",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "msteeman",
+					"name": "Marcel Steeman",
+					"id": 19087381,
+					"id_str": "19087381",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"screen_name": "suzanneunck",
+					"name": "💉 Suzanne Unck",
+					"id": 9883922,
+					"id_str": "9883922",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "ggdru",
+					"name": "GGD regio Utrecht",
+					"id": 323239404,
+					"id_str": "323239404",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"screen_name": "rivm",
+					"name": "RIVM",
+					"id": 35527415,
+					"id_str": "35527415",
+					"indices": [
+						45,
+						50
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1482996979122819000,
+		"in_reply_to_status_id_str": "1482996979122819073",
+		"in_reply_to_user_id": 14224758,
+		"in_reply_to_user_id_str": "14224758",
+		"in_reply_to_screen_name": "PhotoJeanique",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8757,
+			"friends_count": 799,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66022,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@PhotoJeanique @msteeman @suzanneunck @ggdru @rivm Er is een verschil tussen quarantaine (huis niet uit) en isolatie (kamer niet uit). Ik doe nu het laatste, de rest van het gezin het eerste. Ik wil voorkomen dat na deze week de rest besmet raakt maar lijkt me bijna niet te doen."
+	},
+	{
+		"created_at": "Mon Jan 17 08:58:09 +0000 2022",
+		"id": 1483000681636245500,
+		"id_str": "1483000681636245511",
+		"full_text": "@saraschlijper @msteeman @suzanneunck @ggdru @rivm Ik vond douchen met een masker op nog wel een stap te ver gaan ;-) Maar inderdaad, we ventileren ons de moeder nu.",
+		"truncated": false,
+		"display_text_range": [
+			51,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "saraschlijper",
+					"name": "𝚜𝚊𝚛𝚊 𝚜𝚌𝚑𝚕𝚒𝚓𝚙𝚎𝚛 🖋🎨",
+					"id": 6481382,
+					"id_str": "6481382",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "msteeman",
+					"name": "Marcel Steeman",
+					"id": 19087381,
+					"id_str": "19087381",
+					"indices": [
+						15,
+						24
+					]
+				},
+				{
+					"screen_name": "suzanneunck",
+					"name": "💉 Suzanne Unck",
+					"id": 9883922,
+					"id_str": "9883922",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "ggdru",
+					"name": "GGD regio Utrecht",
+					"id": 323239404,
+					"id_str": "323239404",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"screen_name": "rivm",
+					"name": "RIVM",
+					"id": 35527415,
+					"id_str": "35527415",
+					"indices": [
+						45,
+						50
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1483000168731533300,
+		"in_reply_to_status_id_str": "1483000168731533319",
+		"in_reply_to_user_id": 6481382,
+		"in_reply_to_user_id_str": "6481382",
+		"in_reply_to_screen_name": "saraschlijper",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8757,
+			"friends_count": 799,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66022,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@saraschlijper @msteeman @suzanneunck @ggdru @rivm Ik vond douchen met een masker op nog wel een stap te ver gaan ;-) Maar inderdaad, we ventileren ons de moeder nu."
+	},
+	{
+		"created_at": "Mon Jan 17 08:56:47 +0000 2022",
+		"id": 1483000333794226200,
+		"id_str": "1483000333794226179",
+		"full_text": "@msteeman @suzanneunck @ggdru @rivm Wat een gedoe zeg. Ik ben na 24 uur al beu om steeds die schoonmaakdoekjes mee te zeulen naar de badkamer.",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "msteeman",
+					"name": "Marcel Steeman",
+					"id": 19087381,
+					"id_str": "19087381",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "suzanneunck",
+					"name": "💉 Suzanne Unck",
+					"id": 9883922,
+					"id_str": "9883922",
+					"indices": [
+						10,
+						22
+					]
+				},
+				{
+					"screen_name": "ggdru",
+					"name": "GGD regio Utrecht",
+					"id": 323239404,
+					"id_str": "323239404",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"screen_name": "rivm",
+					"name": "RIVM",
+					"id": 35527415,
+					"id_str": "35527415",
+					"indices": [
+						30,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1482998981340942300,
+		"in_reply_to_status_id_str": "1482998981340942343",
+		"in_reply_to_user_id": 19087381,
+		"in_reply_to_user_id_str": "19087381",
+		"in_reply_to_screen_name": "msteeman",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8757,
+			"friends_count": 799,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66022,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@msteeman @suzanneunck @ggdru @rivm Wat een gedoe zeg. Ik ben na 24 uur al beu om steeds die schoonmaakdoekjes mee te zeulen naar de badkamer."
+	},
+	{
+		"created_at": "Mon Jan 17 08:38:25 +0000 2022",
+		"id": 1482995711826350000,
+		"id_str": "1482995711826350080",
+		"full_text": "@ccloin @suzanneunck @ggdru @rivm Wat deed je wel dan?",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ccloin",
+					"name": "Cindy Cloin",
+					"id": 73117561,
+					"id_str": "73117561",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "suzanneunck",
+					"name": "💉 Suzanne Unck",
+					"id": 9883922,
+					"id_str": "9883922",
+					"indices": [
+						8,
+						20
+					]
+				},
+				{
+					"screen_name": "ggdru",
+					"name": "GGD regio Utrecht",
+					"id": 323239404,
+					"id_str": "323239404",
+					"indices": [
+						21,
+						27
+					]
+				},
+				{
+					"screen_name": "rivm",
+					"name": "RIVM",
+					"id": 35527415,
+					"id_str": "35527415",
+					"indices": [
+						28,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1482993202722398200,
+		"in_reply_to_status_id_str": "1482993202722398212",
+		"in_reply_to_user_id": 73117561,
+		"in_reply_to_user_id_str": "73117561",
+		"in_reply_to_screen_name": "ccloin",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8757,
+			"friends_count": 799,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66022,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@ccloin @suzanneunck @ggdru @rivm Wat deed je wel dan?"
+	},
+	{
+		"created_at": "Mon Jan 17 08:38:04 +0000 2022",
+		"id": 1482995626900086800,
+		"id_str": "1482995626900086785",
+		"full_text": "@msteeman @suzanneunck @ggdru @rivm Maar hoe doe je dat dan met niet-besmette (en hopelijk dus vanmiddag negatief geteste) huisgenoten?",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "msteeman",
+					"name": "Marcel Steeman",
+					"id": 19087381,
+					"id_str": "19087381",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "suzanneunck",
+					"name": "💉 Suzanne Unck",
+					"id": 9883922,
+					"id_str": "9883922",
+					"indices": [
+						10,
+						22
+					]
+				},
+				{
+					"screen_name": "ggdru",
+					"name": "GGD regio Utrecht",
+					"id": 323239404,
+					"id_str": "323239404",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"screen_name": "rivm",
+					"name": "RIVM",
+					"id": 35527415,
+					"id_str": "35527415",
+					"indices": [
+						30,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1482988887312060400,
+		"in_reply_to_status_id_str": "1482988887312060418",
+		"in_reply_to_user_id": 19087381,
+		"in_reply_to_user_id_str": "19087381",
+		"in_reply_to_screen_name": "msteeman",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8757,
+			"friends_count": 799,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66022,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@msteeman @suzanneunck @ggdru @rivm Maar hoe doe je dat dan met niet-besmette (en hopelijk dus vanmiddag negatief geteste) huisgenoten?"
+	},
+	{
 		"created_at": "Mon Jan 17 08:06:23 +0000 2022",
 		"id": 1482987652492271600,
 		"id_str": "1482987652492271618",
