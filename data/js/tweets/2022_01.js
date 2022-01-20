@@ -1,6 +1,362 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 20 12:29:40 +0000 2022",
+		"id": 1484141072880128000,
+		"id_str": "1484141072880128004",
+		"full_text": "Onze frontend imagineer Peeke daagt je uit! https://t.co/vJCAl3neuJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vJCAl3neuJ",
+					"expanded_url": "https://twitter.com/peeke__/status/1484091327138705408",
+					"display_url": "twitter.com/peeke__/status…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8753,
+			"friends_count": 801,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66050,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1484091327138705400,
+		"quoted_status_id_str": "1484091327138705408",
+		"quoted_status_permalink": {
+			"url": "https://t.co/vJCAl3neuJ",
+			"expanded": "https://twitter.com/peeke__/status/1484091327138705408",
+			"display": "twitter.com/peeke__/status…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 20 09:12:00 +0000 2022",
+			"id": 1484091327138705400,
+			"id_str": "1484091327138705408",
+			"full_text": "I've prepared a cool code challenge for you all, if you're looking for some action over the weekend! It's an image slider inspired by https://t.co/qlJIwwMvI5 👌🏻\n\nI'll share my implementation on monday. Spoiler: I'm a big fan of #reactspring\n\nLive version: https://t.co/Qm2uvdLUJk https://t.co/LGBLd6whwo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "reactspring",
+						"indices": [
+							228,
+							240
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/qlJIwwMvI5",
+						"expanded_url": "https://www.therailpark.org/",
+						"display_url": "therailpark.org",
+						"indices": [
+							134,
+							157
+						]
+					},
+					{
+						"url": "https://t.co/Qm2uvdLUJk",
+						"expanded_url": "https://if98x.csb.app/",
+						"display_url": "if98x.csb.app",
+						"indices": [
+							256,
+							279
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1484089539761258500,
+						"id_str": "1484089539761258496",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1484089539761258496/pu/img/oR2YAgPRyiJ8GO7-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1484089539761258496/pu/img/oR2YAgPRyiJ8GO7-.jpg",
+						"url": "https://t.co/LGBLd6whwo",
+						"display_url": "pic.twitter.com/LGBLd6whwo",
+						"expanded_url": "https://twitter.com/peeke__/status/1484091327138705408/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1484089539761258500,
+						"id_str": "1484089539761258496",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1484089539761258496/pu/img/oR2YAgPRyiJ8GO7-.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1484089539761258496/pu/img/oR2YAgPRyiJ8GO7-.jpg",
+						"url": "https://t.co/LGBLd6whwo",
+						"display_url": "pic.twitter.com/LGBLd6whwo",
+						"expanded_url": "https://twitter.com/peeke__/status/1484091327138705408/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1024,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								2,
+								1
+							],
+							"duration_millis": 12366,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1484089539761258496/pu/pl/szDnAaV_0lP8Vkpv.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1484089539761258496/pu/vid/1440x720/vBhbPr7cCa5ETdeV.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1484089539761258496/pu/vid/540x270/FaLcjSSCCZlZX44x.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1484089539761258496/pu/vid/720x360/HCsFniO9oqW2BmHm.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 117825828,
+				"id_str": "117825828",
+				"name": "Peeke Kuepers",
+				"screen_name": "peeke__",
+				"location": "The Netherlands",
+				"description": "Lead UI/UX developer @kaliberinteract",
+				"url": "https://t.co/LXbSM6lw6Z",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LXbSM6lw6Z",
+								"expanded_url": "https://peeke.nl",
+								"display_url": "peeke.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 423,
+				"friends_count": 393,
+				"listed_count": 11,
+				"created_at": "Fri Feb 26 18:57:46 +0000 2010",
+				"favourites_count": 1421,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1098,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1241024885943676930/TYYsQgpW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1241024885943676930/TYYsQgpW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/117825828/1584718280",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Onze frontend imagineer Peeke daagt je uit! https://t.co/vJCAl3neuJ"
+	},
+	{
 		"created_at": "Thu Jan 20 11:51:26 +0000 2022",
 		"id": 1484131450932928500,
 		"id_str": "1484131450932928518",
