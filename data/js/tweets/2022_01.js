@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 20 20:34:35 +0000 2022",
+		"id": 1484263107929284600,
+		"id_str": "1484263107929284610",
+		"full_text": "Database outages? Maar alles staat toch op de blockchain? https://t.co/6hUH2BIEQo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6hUH2BIEQo",
+					"expanded_url": "https://twitter.com/techmeme/status/1484233884321542144",
+					"display_url": "twitter.com/techmeme/statu…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8753,
+			"friends_count": 802,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9115,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66061,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1484233884321542100,
+		"quoted_status_id_str": "1484233884321542144",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6hUH2BIEQo",
+			"expanded": "https://twitter.com/techmeme/status/1484233884321542144",
+			"display": "twitter.com/techmeme/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 20 18:38:28 +0000 2022",
+			"id": 1484233884321542100,
+			"id_str": "1484233884321542144",
+			"full_text": "Several services that rely on OpenSea's APIs, including Twitter and MetaMask, are having trouble displaying NFTs as the marketplace suffers a \"database outage\" (@lorenzofb / VICE)\n\nhttps://t.co/H4y1AWY8Jp\nhttps://t.co/V6sOMFzBrA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				228
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "lorenzofb",
+						"name": "Lorenzo Franceschi-Bicchierai",
+						"id": 55643029,
+						"id_str": "55643029",
+						"indices": [
+							161,
+							171
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/H4y1AWY8Jp",
+						"expanded_url": "https://www.vice.com/en/article/g5qjej/people-cant-see-some-nfts-in-crypto-wallets-after-opensea-goes-down",
+						"display_url": "vice.com/en/article/g5q…",
+						"indices": [
+							181,
+							204
+						]
+					},
+					{
+						"url": "https://t.co/V6sOMFzBrA",
+						"expanded_url": "http://www.techmeme.com/220120/p33#a220120p33",
+						"display_url": "techmeme.com/220120/p33#a22…",
+						"indices": [
+							205,
+							228
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://techmeme.com/about\" rel=\"nofollow\">Techmeme Editors</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 817386,
+				"id_str": "817386",
+				"name": "Techmeme",
+				"screen_name": "Techmeme",
+				"location": "United States",
+				"description": "The essential tech news of the moment. Technology's news site of record. Not for dummies.",
+				"url": "http://t.co/5vSb1cxdmu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/5vSb1cxdmu",
+								"expanded_url": "http://techmeme.com/",
+								"display_url": "techmeme.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 430693,
+				"friends_count": 949,
+				"listed_count": 14848,
+				"created_at": "Wed Mar 07 07:10:46 +0000 2007",
+				"favourites_count": 36231,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 158037,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F4F4F4",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1191943129823399936/ZvfTRAlg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1191943129823399936/ZvfTRAlg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/817386/1378485491",
+				"profile_link_color": "1530B0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D7E7EE",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Database outages? Maar alles staat toch op de blockchain? https://t.co/6hUH2BIEQo"
+	},
+	{
 		"created_at": "Thu Jan 20 18:44:42 +0000 2022",
 		"id": 1484235451380736000,
 		"id_str": "1484235451380736013",
