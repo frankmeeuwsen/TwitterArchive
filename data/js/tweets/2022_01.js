@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 21 22:09:56 +0000 2022",
+		"id": 1484414604436701200,
+		"id_str": "1484649488962756616",
+		"full_text": "Published 2007 https://t.co/Vi3kznXfKu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1484414356687585300,
+					"id_str": "1484414356687585282",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/FJmy_h3agAIeIML.png",
+					"media_url_https": "https://pbs.twimg.com/media/FJmy_h3agAIeIML.png",
+					"url": "https://t.co/Vi3kznXfKu",
+					"display_url": "pic.twitter.com/Vi3kznXfKu",
+					"expanded_url": "https://twitter.com/JacobJanerka/status/1484414604436701184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 400,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1484414356687585300,
+					"id_str": "1484414356687585282",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/FJmy_h3agAIeIML.png",
+					"media_url_https": "https://pbs.twimg.com/media/FJmy_h3agAIeIML.png",
+					"url": "https://t.co/Vi3kznXfKu",
+					"display_url": "pic.twitter.com/Vi3kznXfKu",
+					"expanded_url": "https://twitter.com/JacobJanerka/status/1484414604436701184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 400,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 518495199,
+			"id_str": "518495199",
+			"name": "Jacob Janerka - The Dungeon Experience",
+			"screen_name": "JacobJanerka",
+			"location": "Australia",
+			"description": "I made the adventure game 'Paradigm' \nMaking narrative adventure The Dungeon Experience' with @sboxle \nPitched Seinfeld point & click adventure with @ivanRdixon",
+			"url": "https://t.co/73hm7BPPlF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/73hm7BPPlF",
+							"expanded_url": "https://store.steampowered.com/app/994680/The_Dungeon_Experience/",
+							"display_url": "store.steampowered.com/app/994680/The…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17329,
+			"friends_count": 2967,
+			"listed_count": 243,
+			"created_at": "Thu Mar 08 13:30:38 +0000 2012",
+			"favourites_count": 65834,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20089,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D35B29",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398983866338004993/wUfofULe_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398983866338004993/wUfofULe_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/518495199/1603447948",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 562,
+		"favorite_count": 2593,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Published 2007 https://t.co/Vi3kznXfKu"
+	},
+	{
 		"created_at": "Fri Jan 21 10:07:57 +0000 2022",
 		"id": 1484467796671094800,
 		"id_str": "1484467796671094786",
