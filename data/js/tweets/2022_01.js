@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Mon Jan 24 16:57:12 +0000 2022",
+		"id": 1485652384059699200,
+		"id_str": "1485657952153440263",
+		"full_text": "A cool website for submitting your own newsletter or finding new ones - @ForSubscribing curated by @frankmeeuwsen.\n\nhttps://t.co/3CZ2pnJUO4 https://t.co/vZN0WbUywa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ForSubscribing",
+					"name": "Thanks for Subscribing",
+					"id": 1221904161492566000,
+					"id_str": "1221904161492566016",
+					"indices": [
+						72,
+						87
+					]
+				},
+				{
+					"screen_name": "frankmeeuwsen",
+					"name": "Frank Meeuwsen",
+					"id": 816203,
+					"id_str": "816203",
+					"indices": [
+						99,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3CZ2pnJUO4",
+					"expanded_url": "https://thanksforsubscribing.app/submit-your-newsletter/",
+					"display_url": "thanksforsubscribing.app/submit-your-ne…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1485651331280953300,
+					"id_str": "1485651331280953353",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ4YA7UWYAk_b0l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ4YA7UWYAk_b0l.jpg",
+					"url": "https://t.co/vZN0WbUywa",
+					"display_url": "pic.twitter.com/vZN0WbUywa",
+					"expanded_url": "https://twitter.com/freshvanroot/status/1485652384059699200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1305,
+							"h": 607,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 316,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 558,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1485651331280953300,
+					"id_str": "1485651331280953353",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FJ4YA7UWYAk_b0l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJ4YA7UWYAk_b0l.jpg",
+					"url": "https://t.co/vZN0WbUywa",
+					"display_url": "pic.twitter.com/vZN0WbUywa",
+					"expanded_url": "https://twitter.com/freshvanroot/status/1485652384059699200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1305,
+							"h": 607,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 316,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 558,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1485652378720346000,
+		"in_reply_to_status_id_str": "1485652378720346116",
+		"in_reply_to_user_id": 1616088367,
+		"in_reply_to_user_id_str": "1616088367",
+		"in_reply_to_screen_name": "freshvanroot",
+		"user": {
+			"id": 1616088367,
+			"id_str": "1616088367",
+			"name": "Fresh van Root",
+			"screen_name": "freshvanroot",
+			"location": "Vienna",
+			"description": "Follow us for hand-picked content for marketing nerds, creators & curious entrepreneurs!\n🔀 Curated newsletter https://t.co/HC1FTOWLdV\n💛 Tweets by @rolfvanroot & Lena",
+			"url": "https://t.co/Sa8aYOLb6W",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Sa8aYOLb6W",
+							"expanded_url": "https://frsh.fyi/get",
+							"display_url": "frsh.fyi/get",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/HC1FTOWLdV",
+							"expanded_url": "http://FRSH.FYI/nltw",
+							"display_url": "FRSH.FYI/nltw",
+							"indices": [
+								110,
+								133
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 431,
+			"friends_count": 643,
+			"listed_count": 64,
+			"created_at": "Tue Jul 23 20:40:06 +0000 2013",
+			"favourites_count": 897,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090326788683771905/d4Ul-HJZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090326788683771905/d4Ul-HJZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1616088367/1574542449",
+			"profile_link_color": "02739D",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A cool website for submitting your own newsletter or finding new ones - @ForSubscribing curated by @frankmeeuwsen.\n\nhttps://t.co/3CZ2pnJUO4 https://t.co/vZN0WbUywa"
+	},
+	{
 		"created_at": "Mon Jan 24 15:19:12 +0000 2022",
 		"id": 1485633288190537700,
 		"id_str": "1485633288190537732",
