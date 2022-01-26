@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 26 20:10:39 +0000 2022",
+		"id": 1486418479406362600,
+		"id_str": "1486431411242422275",
+		"full_text": "A Kurt Cobain NFT is going to auction at a starting price of 67 ETH, or about $175,000\n\nFor that price you could have had real items of his and $$ left to buy a lot of beer\n\nStage Used Nirvana Amp - $19,200\n\n1992 MTV Video Music Award Statue - $62,500\n\nStage Worn Jacket - $87,000",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 89158522,
+			"id_str": "89158522",
+			"name": "The Grunge Scene",
+			"screen_name": "TheGrungeScene",
+			"location": "Seattle and Olympia",
+			"description": "Grunge Historian |  YouTube Creator | https://t.co/4Rviaoocrl\n\nCheck Out Store Below",
+			"url": "https://t.co/A9qgKJFY7Y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/A9qgKJFY7Y",
+							"expanded_url": "https://www.thegrungescene.store/",
+							"display_url": "thegrungescene.store",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/4Rviaoocrl",
+							"expanded_url": "https://www.youtube.com/c/TheGrungeScene",
+							"display_url": "youtube.com/c/TheGrungeSce…",
+							"indices": [
+								38,
+								61
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 81224,
+			"friends_count": 250,
+			"listed_count": 442,
+			"created_at": "Wed Nov 11 10:53:58 +0000 2009",
+			"favourites_count": 2112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "00070A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1483470128016764936/F_A6OOX5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1483470128016764936/F_A6OOX5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/89158522/1632986553",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 72,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "A Kurt Cobain NFT is going to auction at a starting price of 67 ETH, or about $175,000\n\nFor that price you could have had real items of his and $$ left to buy a lot of beer\n\nStage Used Nirvana Amp - $19,200\n\n1992 MTV Video Music Award Statue - $62,500\n\nStage Worn Jacket - $87,000"
+	},
+	{
 		"created_at": "Tue Jan 25 18:07:55 +0000 2022",
 		"id": 1485408895833186300,
 		"id_str": "1486038137767972875",
