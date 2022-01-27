@@ -1,6 +1,351 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Thu Jan 27 17:33:23 +0000 2022",
+		"id": 1486754221332516900,
+		"id_str": "1486754221332516865",
+		"full_text": "Voorlopig mijn QNap NAS niet opstarten… https://t.co/9IarKT76Nt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9IarKT76Nt",
+					"expanded_url": "https://twitter.com/lexfridman/status/1486609372176429057",
+					"display_url": "twitter.com/lexfridman/sta…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8751,
+			"friends_count": 802,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9133,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1486609372176429000,
+		"quoted_status_id_str": "1486609372176429057",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9IarKT76Nt",
+			"expanded": "https://twitter.com/lexfridman/status/1486609372176429057",
+			"display": "twitter.com/lexfridman/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 27 07:57:48 +0000 2022",
+			"id": 1486609372176429000,
+			"id_str": "1486609372176429057",
+			"full_text": "I just got hacked. Ransomware named DeadBolt found an exploit in @QNAP_nas storage devices, encrypting all files. They ask $1,000 from individuals or $1.8 million from QNAP. I have 50tb of data there, none of it essential or sensitive, but it hurts a lot. Time for a fresh start. https://t.co/E8ZkyIbdfp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "QNAP_nas",
+						"name": "QNAP Systems, Inc.",
+						"id": 45141545,
+						"id_str": "45141545",
+						"indices": [
+							65,
+							74
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1486608809149845500,
+						"id_str": "1486608809149845508",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/FKF-1eVX0AQtnD9.png",
+						"media_url_https": "https://pbs.twimg.com/media/FKF-1eVX0AQtnD9.png",
+						"url": "https://t.co/E8ZkyIbdfp",
+						"display_url": "pic.twitter.com/E8ZkyIbdfp",
+						"expanded_url": "https://twitter.com/lexfridman/status/1486609372176429057/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 851,
+								"h": 851,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 851,
+								"h": 851,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1486608809149845500,
+						"id_str": "1486608809149845508",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/FKF-1eVX0AQtnD9.png",
+						"media_url_https": "https://pbs.twimg.com/media/FKF-1eVX0AQtnD9.png",
+						"url": "https://t.co/E8ZkyIbdfp",
+						"display_url": "pic.twitter.com/E8ZkyIbdfp",
+						"expanded_url": "https://twitter.com/lexfridman/status/1486609372176429057/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 851,
+								"h": 851,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 851,
+								"h": 851,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1486608809153941500,
+						"id_str": "1486608809153941509",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/FKF-1eWWUAUni-m.png",
+						"media_url_https": "https://pbs.twimg.com/media/FKF-1eWWUAUni-m.png",
+						"url": "https://t.co/E8ZkyIbdfp",
+						"display_url": "pic.twitter.com/E8ZkyIbdfp",
+						"expanded_url": "https://twitter.com/lexfridman/status/1486609372176429057/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 730,
+								"h": 730,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 730,
+								"h": 730,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 427089628,
+				"id_str": "427089628",
+				"name": "Lex Fridman",
+				"screen_name": "lexfridman",
+				"location": "",
+				"description": "Host of Lex Fridman Podcast.\nResearch Scientist at MIT.\nInterested in robots and humans.",
+				"url": "https://t.co/7AZXIxZ0sh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7AZXIxZ0sh",
+								"expanded_url": "https://lexfridman.com/podcast",
+								"display_url": "lexfridman.com/podcast",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1037556,
+				"friends_count": 4,
+				"listed_count": 4392,
+				"created_at": "Sat Dec 03 03:06:19 +0000 2011",
+				"favourites_count": 6124,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1888,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/956331551435960322/OaqR8pAB_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/956331551435960322/OaqR8pAB_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/427089628/1641354050",
+				"profile_link_color": "444444",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 456,
+			"favorite_count": 4576,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Voorlopig mijn QNap NAS niet opstarten… https://t.co/9IarKT76Nt"
+	},
+	{
 		"created_at": "Thu Jan 27 17:14:58 +0000 2022",
 		"id": 1486749584286171100,
 		"id_str": "1486749584286171141",
