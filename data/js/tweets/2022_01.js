@@ -1,6 +1,354 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 29 19:34:04 +0000 2022",
+		"id": 1487509369281515500,
+		"id_str": "1487509369281515526",
+		"full_text": "Kan niet wachten tot er Neil Young shirts bij Zaraen H&amp;M liggen, naast die van Nirvana en Metallic. Leuk met een stoer plat laarsje. #neverforget. https://t.co/rIUE48r2iB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "neverforget",
+					"indices": [
+						137,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rIUE48r2iB",
+					"expanded_url": "https://twitter.com/blokhut/status/797021392835379200",
+					"display_url": "twitter.com/blokhut/status…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8749,
+			"friends_count": 804,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66086,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 797021392835379200,
+		"quoted_status_id_str": "797021392835379200",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rIUE48r2iB",
+			"expanded": "https://twitter.com/blokhut/status/797021392835379200",
+			"display": "twitter.com/blokhut/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 11 10:21:22 +0000 2016",
+			"id": 797021392835379200,
+			"id_str": "797021392835379200",
+			"full_text": "Raap mij op. via @carmoede https://t.co/jvoq6u7gbn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				26
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "carmoede",
+						"name": "Carmen Felix",
+						"id": 108020591,
+						"id_str": "108020591",
+						"indices": [
+							17,
+							26
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 797021063637037000,
+						"id_str": "797021063637037056",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/797021063637037056/pu/img/T8cjmXh1v2_oTKFX.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/797021063637037056/pu/img/T8cjmXh1v2_oTKFX.jpg",
+						"url": "https://t.co/jvoq6u7gbn",
+						"display_url": "pic.twitter.com/jvoq6u7gbn",
+						"expanded_url": "https://twitter.com/blokhut/status/797021392835379200/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 797021063637037000,
+						"id_str": "797021063637037056",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/797021063637037056/pu/img/T8cjmXh1v2_oTKFX.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/797021063637037056/pu/img/T8cjmXh1v2_oTKFX.jpg",
+						"url": "https://t.co/jvoq6u7gbn",
+						"display_url": "pic.twitter.com/jvoq6u7gbn",
+						"expanded_url": "https://twitter.com/blokhut/status/797021392835379200/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 35436,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/797021063637037056/pu/pl/71vAeb6-V_bCC9ec.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/797021063637037056/pu/vid/640x360/aF6l9yo9PrSJfZrU.mp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/797021063637037056/pu/vid/1280x720/574IvgqeKLO6IFrT.mp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/797021063637037056/pu/vid/320x180/izf-2aFsGKLHbaI6.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19155723,
+				"id_str": "19155723",
+				"name": "Albert Visser",
+				"screen_name": "blokhut",
+				"location": "ÜT: 52.662023,5.600295",
+				"description": "Laten we ons nergens wat van aantrekken en op de gewone tijd gaan eten.",
+				"url": "https://t.co/JwEnJcJyho",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JwEnJcJyho",
+								"expanded_url": "http://www.newblack.io",
+								"display_url": "newblack.io",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 941,
+				"friends_count": 666,
+				"listed_count": 11,
+				"created_at": "Sun Jan 18 20:00:55 +0000 2009",
+				"favourites_count": 9807,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10272,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1272145662004662272/G29m6QCj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272145662004662272/G29m6QCj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19155723/1570136490",
+				"profile_link_color": "2487BD",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 164,
+			"favorite_count": 257,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Kan niet wachten tot er Neil Young shirts bij Zaraen H&amp;M liggen, naast die van Nirvana en Metallic. Leuk met een stoer plat laarsje. #neverforget. https://t.co/rIUE48r2iB"
+	},
+	{
 		"created_at": "Sat Jan 29 08:53:16 +0000 2022",
 		"id": 1487348106094170000,
 		"id_str": "1487348106094170113",
