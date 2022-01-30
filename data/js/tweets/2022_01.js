@@ -1,6 +1,315 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 30 19:30:29 +0000 2022",
+		"id": 1487870855233384400,
+		"id_str": "1487870855233384450",
+		"full_text": "Een van mijn favoriete fotografen biedt zijn werk als NFT aan. Maar dan wil dat nog niet zeggen dat ik na een eventuele aankoop het origineel aan de muur kan hangen? Denk ik? https://t.co/xWPgAP4FKC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xWPgAP4FKC",
+					"expanded_url": "https://twitter.com/charlesp_photog/status/1486750216325722117",
+					"display_url": "twitter.com/charlesp_photo…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8750,
+			"friends_count": 807,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66094,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1486750216325722000,
+		"quoted_status_id_str": "1486750216325722117",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xWPgAP4FKC",
+			"expanded": "https://twitter.com/charlesp_photog/status/1486750216325722117",
+			"display": "twitter.com/charlesp_photo…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 27 17:17:28 +0000 2022",
+			"id": 1486750216325722000,
+			"id_str": "1486750216325722117",
+			"full_text": "1/4 So last night I *personally* minted my first NFT's. What??!! you say. Let me explain: in August of last year @phospheneapp kindly onboarded me into the realm of NFT's, helping me in ways I know I wouldn't have been capable of if starting from zero in the NFT world. https://t.co/GDyPofZcjm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "phospheneapp",
+						"name": "phosphene",
+						"id": 1371138994411466800,
+						"id_str": "1371138994411466752",
+						"indices": [
+							113,
+							126
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1486748042644525000,
+						"id_str": "1486748042644525059",
+						"indices": [
+							270,
+							293
+						],
+						"media_url": "http://pbs.twimg.com/media/FKH9d7hVkAMVokT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FKH9d7hVkAMVokT.jpg",
+						"url": "https://t.co/GDyPofZcjm",
+						"display_url": "pic.twitter.com/GDyPofZcjm",
+						"expanded_url": "https://twitter.com/CharlesP_photog/status/1486750216325722117/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 801,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1400,
+								"h": 935,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1486748042644525000,
+						"id_str": "1486748042644525059",
+						"indices": [
+							270,
+							293
+						],
+						"media_url": "http://pbs.twimg.com/media/FKH9d7hVkAMVokT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FKH9d7hVkAMVokT.jpg",
+						"url": "https://t.co/GDyPofZcjm",
+						"display_url": "pic.twitter.com/GDyPofZcjm",
+						"expanded_url": "https://twitter.com/CharlesP_photog/status/1486750216325722117/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 801,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1400,
+								"h": 935,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 454,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1435320553489928200,
+				"id_str": "1435320553489928193",
+				"name": "Charles Peterson",
+				"screen_name": "CharlesP_photog",
+				"location": "Seattle, WA",
+				"description": "Yeah, I'm that guy that photographed all those grunge bands you like so much.",
+				"url": "https://t.co/MerpSRQsvu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MerpSRQsvu",
+								"expanded_url": "https://opensea.io/collection/charles-peterson-grunge-years-nft-collection-class",
+								"display_url": "opensea.io/collection/cha…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 908,
+				"friends_count": 257,
+				"listed_count": 7,
+				"created_at": "Tue Sep 07 19:14:57 +0000 2021",
+				"favourites_count": 1339,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 589,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1450598029304598530/DVFTHHKp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1450598029304598530/DVFTHHKp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1435320553489928193/1634684631",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Een van mijn favoriete fotografen biedt zijn werk als NFT aan. Maar dan wil dat nog niet zeggen dat ik na een eventuele aankoop het origineel aan de muur kan hangen? Denk ik? https://t.co/xWPgAP4FKC"
+	},
+	{
 		"created_at": "Sun Jan 30 19:09:59 +0000 2022",
 		"id": 1487865694725316600,
 		"id_str": "1487865694725316612",
