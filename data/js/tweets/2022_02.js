@@ -1,6 +1,289 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 02 05:53:17 +0000 2022",
+		"id": 1488742922673549300,
+		"id_str": "1488752360809717761",
+		"full_text": "This arrived in the mail today. It’s a hefty 333-page documentation of Andrew Wood’s artistic work. There’s zero context or annotations given, which mean this book isn’t for the casual fan who only knows Chloe Dancer from the occasional Pearl Jam setlist placement. https://t.co/7g6njJEWEo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1488742916176572400,
+					"id_str": "1488742916176572416",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FKkTy2iVcAA7Dro.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKkTy2iVcAA7Dro.jpg",
+					"url": "https://t.co/7g6njJEWEo",
+					"display_url": "pic.twitter.com/7g6njJEWEo",
+					"expanded_url": "https://twitter.com/guerrillacandy/status/1488742922673549314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1488742916176572400,
+					"id_str": "1488742916176572416",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FKkTy2iVcAA7Dro.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKkTy2iVcAA7Dro.jpg",
+					"url": "https://t.co/7g6njJEWEo",
+					"display_url": "pic.twitter.com/7g6njJEWEo",
+					"expanded_url": "https://twitter.com/guerrillacandy/status/1488742922673549314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1488742916843397000,
+					"id_str": "1488742916843397123",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FKkTy5BUYAMBcrX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKkTy5BUYAMBcrX.jpg",
+					"url": "https://t.co/7g6njJEWEo",
+					"display_url": "pic.twitter.com/7g6njJEWEo",
+					"expanded_url": "https://twitter.com/guerrillacandy/status/1488742922673549314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1488742917967470600,
+					"id_str": "1488742917967470593",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FKkTy9NUYAERsKl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKkTy9NUYAERsKl.jpg",
+					"url": "https://t.co/7g6njJEWEo",
+					"display_url": "pic.twitter.com/7g6njJEWEo",
+					"expanded_url": "https://twitter.com/guerrillacandy/status/1488742922673549314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1488742918739296300,
+					"id_str": "1488742918739296257",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/FKkTzAFVgAEhToZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKkTzAFVgAEhToZ.jpg",
+					"url": "https://t.co/7g6njJEWEo",
+					"display_url": "pic.twitter.com/7g6njJEWEo",
+					"expanded_url": "https://twitter.com/guerrillacandy/status/1488742922673549314/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16439600,
+			"id_str": "16439600",
+			"name": "Travis Hay",
+			"screen_name": "guerrillacandy",
+			"location": "Seattle, WA",
+			"description": "Semi-retired music journalist. Guerrilla Candy founder. Bylines @seattlepi @crosscut @msnmusic & more. Slowly butchering the Smoke on the Water riff since 2021.",
+			"url": "https://t.co/8M94B4XVoo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8M94B4XVoo",
+							"expanded_url": "https://www.guerrillacandy.com",
+							"display_url": "guerrillacandy.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5866,
+			"friends_count": 4154,
+			"listed_count": 346,
+			"created_at": "Wed Sep 24 19:36:54 +0000 2008",
+			"favourites_count": 341,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 41781,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1431683092645769216/50BOfmL5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1431683092645769216/50BOfmL5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16439600/1484246837",
+			"profile_link_color": "FA0505",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "300930",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This arrived in the mail today. It’s a hefty 333-page documentation of Andrew Wood’s artistic work. There’s zero context or annotations given, which mean this book isn’t for the casual fan who only knows Chloe Dancer from the occasional Pearl Jam setlist placement. https://t.co/7g6njJEWEo"
+	},
+	{
 		"created_at": "Tue Feb 01 21:59:29 +0000 2022",
 		"id": 1488633125131456500,
 		"id_str": "1488633125131456512",
