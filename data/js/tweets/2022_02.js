@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 05 05:52:10 +0000 2022",
+		"id": 1489839245560889300,
+		"id_str": "1489839245560889345",
+		"full_text": "😳😳🤯🤯 https://t.co/xhWYBCc0oP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xhWYBCc0oP",
+					"expanded_url": "https://twitter.com/brainofjoacohen/status/1489802155376758784",
+					"display_url": "twitter.com/brainofjoacohe…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8752,
+			"friends_count": 809,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1489802155376758800,
+		"quoted_status_id_str": "1489802155376758784",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xhWYBCc0oP",
+			"expanded": "https://twitter.com/brainofjoacohen/status/1489802155376758784",
+			"display": "twitter.com/brainofjoacohe…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 05 03:24:47 +0000 2022",
+			"id": 1489802155376758800,
+			"id_str": "1489802155376758784",
+			"full_text": "Wow - Eddie and the band bust out Pearl Jam’s ultra rarity Dirty Frank, which they themselves hadn’t performed since Sept. 9, 2006. Pearl Jam wrote the song on its 1991 tour supporting the Red Hot Chili Peppers and openly borrowed that band’s style for it. https://t.co/iLIZkRorGq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				256
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1489802103317016600,
+						"id_str": "1489802103317016577",
+						"indices": [
+							257,
+							280
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1489802103317016577/pu/img/SMamvua09zK99gcS.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1489802103317016577/pu/img/SMamvua09zK99gcS.jpg",
+						"url": "https://t.co/iLIZkRorGq",
+						"display_url": "pic.twitter.com/iLIZkRorGq",
+						"expanded_url": "https://twitter.com/brainofjoacohen/status/1489802155376758784/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1489802103317016600,
+						"id_str": "1489802103317016577",
+						"indices": [
+							257,
+							280
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1489802103317016577/pu/img/SMamvua09zK99gcS.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1489802103317016577/pu/img/SMamvua09zK99gcS.jpg",
+						"url": "https://t.co/iLIZkRorGq",
+						"display_url": "pic.twitter.com/iLIZkRorGq",
+						"expanded_url": "https://twitter.com/brainofjoacohen/status/1489802155376758784/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 23150,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1489802103317016577/pu/vid/480x270/4ztzx5r18DWApa4f.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1489802103317016577/pu/pl/cT1gUXD2GaoN6aeP.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1489802103317016577/pu/vid/1280x720/p9GjXhm0_4YCSMZG.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1489802103317016577/pu/vid/640x360/L4_fJGOV9kpbRrqd.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1489786877012058000,
+			"in_reply_to_status_id_str": "1489786877012058115",
+			"in_reply_to_user_id": 57743552,
+			"in_reply_to_user_id_str": "57743552",
+			"in_reply_to_screen_name": "brainofjoacohen",
+			"user": {
+				"id": 57743552,
+				"id_str": "57743552",
+				"name": "Jonathan Cohen",
+				"screen_name": "brainofjoacohen",
+				"location": "Brooklyn, NY",
+				"description": "The David Lynch Foundation / words: @variety, @billboard, @pearljam, @spin, @rollingstone / author: “Pearl Jam 20”",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5385,
+				"friends_count": 153,
+				"listed_count": 137,
+				"created_at": "Fri Jul 17 20:11:35 +0000 2009",
+				"favourites_count": 488,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6769,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1133397098840449025/940vORKU_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1133397098840449025/940vORKU_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 83,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "😳😳🤯🤯 https://t.co/xhWYBCc0oP"
+	},
+	{
 		"created_at": "Fri Feb 04 18:36:34 +0000 2022",
 		"id": 1489669225832722400,
 		"id_str": "1489669225832722438",
