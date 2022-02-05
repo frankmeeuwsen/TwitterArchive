@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 05 12:14:53 +0000 2022",
+		"id": 1489719206039806000,
+		"id_str": "1489935558034001922",
+		"full_text": "I’m finally able to play Wordle the way it was meant to be played. Happy Friday!\n\n#Wordle #RetroComputing https://t.co/SzjcicToZb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Wordle",
+					"indices": [
+						82,
+						89
+					]
+				},
+				{
+					"text": "RetroComputing",
+					"indices": [
+						90,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1489718469884928000,
+					"id_str": "1489718469884928000",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FKyLDjTUYAAEojc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKyLDjTUYAAEojc.jpg",
+					"url": "https://t.co/SzjcicToZb",
+					"display_url": "pic.twitter.com/SzjcicToZb",
+					"expanded_url": "https://twitter.com/Huxley_D/status/1489719206039805954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1489718469884928000,
+					"id_str": "1489718469884928000",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FKyLDjTUYAAEojc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FKyLDjTUYAAEojc.jpg",
+					"url": "https://t.co/SzjcicToZb",
+					"display_url": "pic.twitter.com/SzjcicToZb",
+					"expanded_url": "https://twitter.com/Huxley_D/status/1489719206039805954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11489052,
+			"id_str": "11489052",
+			"name": "Huxley Dunsany",
+			"screen_name": "Huxley_D",
+			"location": "California",
+			"description": "Just a guy who loves tech, gaming, fitness and mixed martial arts. Oh, and also capybaras. Capybaras are cool. 🖖",
+			"url": "http://t.co/Dd6RFwY7ne",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/Dd6RFwY7ne",
+							"expanded_url": "http://about.me/huxley",
+							"display_url": "about.me/huxley",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 711,
+			"friends_count": 2412,
+			"listed_count": 9,
+			"created_at": "Mon Dec 24 22:36:22 +0000 2007",
+			"favourites_count": 53025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220770954311172096/qi52yJeE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220770954311172096/qi52yJeE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11489052/1420740445",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 299,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m finally able to play Wordle the way it was meant to be played. Happy Friday!\n\n#Wordle #RetroComputing https://t.co/SzjcicToZb"
+	},
+	{
 		"created_at": "Sat Feb 05 11:12:42 +0000 2022",
 		"id": 1489919909714972700,
 		"id_str": "1489919909714972672",
