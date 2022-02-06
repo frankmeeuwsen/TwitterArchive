@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 06 16:27:17 +0000 2022",
+		"id": 1490361465768976400,
+		"id_str": "1490361465768976384",
+		"full_text": "Het gebrek aan merkbouw en marketing-inzichten is pijnlijk. https://t.co/TIV63EQ73m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TIV63EQ73m",
+					"expanded_url": "https://twitter.com/punk6529/status/1490354855633899527",
+					"display_url": "twitter.com/punk6529/statu…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8750,
+			"friends_count": 812,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1490354855633899500,
+		"quoted_status_id_str": "1490354855633899527",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TIV63EQ73m",
+			"expanded": "https://twitter.com/punk6529/status/1490354855633899527",
+			"display": "twitter.com/punk6529/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 06 16:01:01 +0000 2022",
+			"id": 1490354855633899500,
+			"id_str": "1490354855633899527",
+			"full_text": "Imagine dropping this NFT and saying \"I am going to build a major lifestyle brand on this crocodile\"\n\nAnd, yet, that is Lacoste with close to $700M in annual sales. https://t.co/3o9ZwLXxTE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				164
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1490354455467933700,
+						"id_str": "1490354455467933698",
+						"indices": [
+							165,
+							188
+						],
+						"media_url": "http://pbs.twimg.com/media/FK7NeyOWQAIisVF.png",
+						"media_url_https": "https://pbs.twimg.com/media/FK7NeyOWQAIisVF.png",
+						"url": "https://t.co/3o9ZwLXxTE",
+						"display_url": "pic.twitter.com/3o9ZwLXxTE",
+						"expanded_url": "https://twitter.com/punk6529/status/1490354855633899527/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1490354455467933700,
+						"id_str": "1490354455467933698",
+						"indices": [
+							165,
+							188
+						],
+						"media_url": "http://pbs.twimg.com/media/FK7NeyOWQAIisVF.png",
+						"media_url_https": "https://pbs.twimg.com/media/FK7NeyOWQAIisVF.png",
+						"url": "https://t.co/3o9ZwLXxTE",
+						"display_url": "pic.twitter.com/3o9ZwLXxTE",
+						"expanded_url": "https://twitter.com/punk6529/status/1490354855633899527/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 400,
+								"h": 400,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1388487332093997000,
+				"id_str": "1388487332093997057",
+				"name": "6529",
+				"screen_name": "punk6529",
+				"location": "The Open Metaverse",
+				"description": "https://t.co/7XzSyeUuDO\nAB+1 gallery beta: https://t.co/tTYcQrxQ4Z\n6529 photography: https://t.co/5kk89VyJTz\n6529 gm: https://t.co/3AVx7gS6uo",
+				"url": "https://t.co/p7hfrjPOPs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/p7hfrjPOPs",
+								"expanded_url": "https://opensea.io/6529museum",
+								"display_url": "opensea.io/6529museum",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/7XzSyeUuDO",
+								"expanded_url": "http://opensea.io/6529museum",
+								"display_url": "opensea.io/6529museum",
+								"indices": [
+									0,
+									23
+								]
+							},
+							{
+								"url": "https://t.co/tTYcQrxQ4Z",
+								"expanded_url": "http://oncyber.io/6529ab",
+								"display_url": "oncyber.io/6529ab",
+								"indices": [
+									43,
+									66
+								]
+							},
+							{
+								"url": "https://t.co/5kk89VyJTz",
+								"expanded_url": "http://oncyber.io/6529photo",
+								"display_url": "oncyber.io/6529photo",
+								"indices": [
+									85,
+									108
+								]
+							},
+							{
+								"url": "https://t.co/3AVx7gS6uo",
+								"expanded_url": "http://oncyber.io/6529gm",
+								"display_url": "oncyber.io/6529gm",
+								"indices": [
+									118,
+									141
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 244829,
+				"friends_count": 2238,
+				"listed_count": 4710,
+				"created_at": "Sat May 01 13:36:46 +0000 2021",
+				"favourites_count": 22220,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 17841,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1440017111531855879/A4p6F07H_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440017111531855879/A4p6F07H_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1388487332093997057/1641813943",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 59,
+			"favorite_count": 725,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Het gebrek aan merkbouw en marketing-inzichten is pijnlijk. https://t.co/TIV63EQ73m"
+	},
+	{
 		"created_at": "Sun Feb 06 13:27:58 +0000 2022",
 		"id": 1490316337469612000,
 		"id_str": "1490316337469612035",
