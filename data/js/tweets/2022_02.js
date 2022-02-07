@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 07 18:18:31 +0000 2022",
+		"id": 1490690612672315400,
+		"id_str": "1490751844448182281",
+		"full_text": "Fun little trick in the Sunday New York Times crossword yesterday: the central theme clue was \"The better of two sci-fi franchises\", and regardless of whether you put Star Wars or Star Trek, the crossing clues worked https://t.co/NS4LDxwxxl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1490690390227312600,
+					"id_str": "1490690390227312644",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FK__AwuWYAQsms4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK__AwuWYAQsms4.jpg",
+					"url": "https://t.co/NS4LDxwxxl",
+					"display_url": "pic.twitter.com/NS4LDxwxxl",
+					"expanded_url": "https://twitter.com/matttomic/status/1490690612672315398/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1011,
+							"h": 694,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1011,
+							"h": 694,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 467,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490690390227312600,
+					"id_str": "1490690390227312644",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/media/FK__AwuWYAQsms4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FK__AwuWYAQsms4.jpg",
+					"url": "https://t.co/NS4LDxwxxl",
+					"display_url": "pic.twitter.com/NS4LDxwxxl",
+					"expanded_url": "https://twitter.com/matttomic/status/1490690612672315398/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1011,
+							"h": 694,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1011,
+							"h": 694,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 467,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 26284457,
+			"id_str": "26284457",
+			"name": "ℳatt",
+			"screen_name": "matttomic",
+			"location": "Toronno",
+			"description": "Uncool adult",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8804,
+			"friends_count": 723,
+			"listed_count": 125,
+			"created_at": "Tue Mar 24 17:54:08 +0000 2009",
+			"favourites_count": 9813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 35186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1478195261872783361/woCincnh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478195261872783361/woCincnh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/26284457/1408824975",
+			"profile_link_color": "10612C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4389,
+		"favorite_count": 20299,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fun little trick in the Sunday New York Times crossword yesterday: the central theme clue was \"The better of two sci-fi franchises\", and regardless of whether you put Star Wars or Star Trek, the crossing clues worked https://t.co/NS4LDxwxxl"
+	},
+	{
 		"created_at": "Mon Feb 07 17:06:30 +0000 2022",
 		"id": 1490733724081791000,
 		"id_str": "1490733724081790986",
