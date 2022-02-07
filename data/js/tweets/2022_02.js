@@ -1,6 +1,462 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 07 19:05:41 +0000 2022",
+		"id": 1490763716874363000,
+		"id_str": "1490763716874362883",
+		"full_text": "@Jessemoerkerk @boudewijnsteur Hier nog een stukje nostalgie-quote uit de film in een hipster synthwave jasje. https://t.co/PbVRAyCJro",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jessemoerkerk",
+					"name": "Jesse Moerkerk",
+					"id": 319033092,
+					"id_str": "319033092",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "boudewijnsteur",
+					"name": "Boudewijn Steur",
+					"id": 24582547,
+					"id_str": "24582547",
+					"indices": [
+						15,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PbVRAyCJro",
+					"expanded_url": "https://youtu.be/ri9IefTuNzc",
+					"display_url": "youtu.be/ri9IefTuNzc",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1490761652589023200,
+		"in_reply_to_status_id_str": "1490761652589023232",
+		"in_reply_to_user_id": 319033092,
+		"in_reply_to_user_id_str": "319033092",
+		"in_reply_to_screen_name": "Jessemoerkerk",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8750,
+			"friends_count": 813,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@Jessemoerkerk @boudewijnsteur Hier nog een stukje nostalgie-quote uit de film in een hipster synthwave jasje. https://t.co/PbVRAyCJro"
+	},
+	{
+		"created_at": "Mon Feb 07 19:01:45 +0000 2022",
+		"id": 1490762726594990000,
+		"id_str": "1490762726594990080",
+		"full_text": "https://t.co/mi3kFBHig7 https://t.co/uzKmshmV0p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mi3kFBHig7",
+					"expanded_url": "https://twitter.com/jessemoerkerk/status/1490761652589023232",
+					"display_url": "twitter.com/jessemoerkerk/…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1490762719456383000,
+					"id_str": "1490762719456382976",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FLBAy4GX0AAQmnc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FLBAy4GX0AAQmnc.jpg",
+					"url": "https://t.co/uzKmshmV0p",
+					"display_url": "pic.twitter.com/uzKmshmV0p",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1490762726594990080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 110,
+							"h": 110,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 220,
+							"h": 110,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 110,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 110,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490762719456383000,
+					"id_str": "1490762719456382976",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FLBAy4GX0AAQmnc.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FLBAy4GX0AAQmnc.jpg",
+					"url": "https://t.co/uzKmshmV0p",
+					"display_url": "pic.twitter.com/uzKmshmV0p",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1490762726594990080/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 110,
+							"h": 110,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 220,
+							"h": 110,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 220,
+							"h": 110,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 220,
+							"h": 110,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							2,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FLBAy4GX0AAQmnc.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8750,
+			"friends_count": 813,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9204,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66150,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1490761652589023200,
+		"quoted_status_id_str": "1490761652589023232",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mi3kFBHig7",
+			"expanded": "https://twitter.com/jessemoerkerk/status/1490761652589023232",
+			"display": "twitter.com/jessemoerkerk/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 07 18:57:29 +0000 2022",
+			"id": 1490761652589023200,
+			"id_str": "1490761652589023232",
+			"full_text": "@boudewijnsteur Enige tweet waar het vandaag om draait, @frankmeeuwsen",
+			"truncated": false,
+			"display_text_range": [
+				16,
+				70
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "boudewijnsteur",
+						"name": "Boudewijn Steur",
+						"id": 24582547,
+						"id_str": "24582547",
+						"indices": [
+							0,
+							15
+						]
+					},
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							56,
+							70
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1490754737683243000,
+			"in_reply_to_status_id_str": "1490754737683243012",
+			"in_reply_to_user_id": 24582547,
+			"in_reply_to_user_id_str": "24582547",
+			"in_reply_to_screen_name": "boudewijnsteur",
+			"user": {
+				"id": 319033092,
+				"id_str": "319033092",
+				"name": "Jesse Moerkerk",
+				"screen_name": "Jessemoerkerk",
+				"location": "Haarlem",
+				"description": "Was sumoworstelaar. En schreef daar een boek over. Geek. Wannabe weightlifter. Imker. Guinness Record houder.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 474,
+				"friends_count": 523,
+				"listed_count": 17,
+				"created_at": "Fri Jun 17 13:14:12 +0000 2011",
+				"favourites_count": 1771,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6509,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1186340402879778818/7dvG_OZJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1186340402879778818/7dvG_OZJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/319033092/1367909004",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/mi3kFBHig7 https://t.co/uzKmshmV0p"
+	},
+	{
 		"created_at": "Mon Feb 07 18:18:31 +0000 2022",
 		"id": 1490690612672315400,
 		"id_str": "1490751844448182281",
