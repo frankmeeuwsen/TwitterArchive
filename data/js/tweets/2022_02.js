@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 07 20:38:32 +0000 2022",
+		"id": 1490356055196553200,
+		"id_str": "1490787082389921796",
+		"full_text": "I’ve been doing “creative” “things” on the “internet” since the early 2000s, here’s what I’ve learned:\n\n- every platform that connects you w/audience will die, shut down or become corrupted by capitalism\n- put your stuff in multiple places\n- email works \n- have your own website",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19570231,
+			"id_str": "19570231",
+			"name": "ndp 🔎",
+			"screen_name": "ndpaoletta",
+			"location": "Chicago, IL",
+			"description": "game designer & publisher▪️graphic & layout artist▪️he/him▪️icon by Marnie Galloway▪️contact via website (I will probably not see DMs sorry)",
+			"url": "https://t.co/HnwlJE2hzD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/HnwlJE2hzD",
+							"expanded_url": "http://ndpdesign.com",
+							"display_url": "ndpdesign.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2305,
+			"friends_count": 411,
+			"listed_count": 90,
+			"created_at": "Tue Jan 27 01:15:47 +0000 2009",
+			"favourites_count": 18939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 48901,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E8E8E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1155118545929461761/ZRLzta_k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1155118545929461761/ZRLzta_k_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19570231/1469971754",
+			"profile_link_color": "8A0025",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3219,
+		"favorite_count": 16852,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I’ve been doing “creative” “things” on the “internet” since the early 2000s, here’s what I’ve learned:\n\n- every platform that connects you w/audience will die, shut down or become corrupted by capitalism\n- put your stuff in multiple places\n- email works \n- have your own website"
+	},
+	{
 		"created_at": "Mon Feb 07 19:05:41 +0000 2022",
 		"id": 1490763716874363000,
 		"id_str": "1490763716874362883",
