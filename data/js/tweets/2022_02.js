@@ -1,6 +1,222 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 07 07:43:45 +0000 2022",
+		"id": 1490492203273113600,
+		"id_str": "1490592099430981634",
+		"full_text": "We ❤️ our bored fans. https://t.co/B1cWuZDww4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1490492130325786600,
+					"id_str": "1490492130325786626",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1490492130325786626/pu/img/qN2CCp9UU01FYqsI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1490492130325786626/pu/img/qN2CCp9UU01FYqsI.jpg",
+					"url": "https://t.co/B1cWuZDww4",
+					"display_url": "pic.twitter.com/B1cWuZDww4",
+					"expanded_url": "https://twitter.com/PearlJam/status/1490492203273113601/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1490492130325786600,
+					"id_str": "1490492130325786626",
+					"indices": [
+						22,
+						45
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1490492130325786626/pu/img/qN2CCp9UU01FYqsI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1490492130325786626/pu/img/qN2CCp9UU01FYqsI.jpg",
+					"url": "https://t.co/B1cWuZDww4",
+					"display_url": "pic.twitter.com/B1cWuZDww4",
+					"expanded_url": "https://twitter.com/PearlJam/status/1490492203273113601/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 39497,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1490492130325786626/pu/vid/1280x720/xgBk1W4nyJ1CX9T4.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1490492130325786626/pu/vid/640x360/ZKKIV4B1a_2gBRri.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1490492130325786626/pu/pl/4VnQn7ehAHKJKokw.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1490492130325786626/pu/vid/480x270/SyAAJEcVZ3wzKuRS.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15155074,
+			"id_str": "15155074",
+			"name": "Pearl Jam",
+			"screen_name": "PearlJam",
+			"location": "Seattle, WA",
+			"description": "Gigaton - Out Now. Listen to the new album: https://t.co/7zBEnR3rMU",
+			"url": "https://t.co/J95aoJ5FKF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/J95aoJ5FKF",
+							"expanded_url": "http://www.PearlJam.com",
+							"display_url": "PearlJam.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/7zBEnR3rMU",
+							"expanded_url": "http://pearljam.lnk.to/gigatonTw",
+							"display_url": "pearljam.lnk.to/gigatonTw",
+							"indices": [
+								44,
+								67
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3506739,
+			"friends_count": 936,
+			"listed_count": 16987,
+			"created_at": "Wed Jun 18 06:59:14 +0000 2008",
+			"favourites_count": 4331,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9290,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1216784176659279874/NCaJxxiE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216784176659279874/NCaJxxiE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15155074/1585282596",
+			"profile_link_color": "A17F59",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1244,
+		"favorite_count": 7461,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We ❤️ our bored fans. https://t.co/B1cWuZDww4"
+	},
+	{
 		"created_at": "Mon Feb 07 07:12:49 +0000 2022",
 		"id": 1490584315524268000,
 		"id_str": "1490584315524268036",
