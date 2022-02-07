@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 07 17:06:30 +0000 2022",
+		"id": 1490733724081791000,
+		"id_str": "1490733724081790986",
+		"full_text": "Omegot wat is dit slim! Check de thread voor iPhone gebruikers die de teksten direct kunnen selecteren en muten. https://t.co/La9D53xnZy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/La9D53xnZy",
+					"expanded_url": "https://twitter.com/stillnotsam/status/1490169409024892928",
+					"display_url": "twitter.com/stillnotsam/st…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8750,
+			"friends_count": 813,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9201,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66145,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1490169409024893000,
+		"quoted_status_id_str": "1490169409024892928",
+		"quoted_status_permalink": {
+			"url": "https://t.co/La9D53xnZy",
+			"expanded": "https://twitter.com/stillnotsam/status/1490169409024892928",
+			"display": "twitter.com/stillnotsam/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 06 03:44:07 +0000 2022",
+			"id": 1490169409024893000,
+			"id_str": "1490169409024892928",
+			"full_text": "It suddenly occurred to me that not everyone might know this. If you add these to your muted words, all that \"suggested tweet\" crap magically disappears from your feed! https://t.co/IWrBwaJcX1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				168
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1490169407019966500,
+						"id_str": "1490169407019966464",
+						"indices": [
+							169,
+							192
+						],
+						"media_url": "http://pbs.twimg.com/media/FK4lLjCUYAA8pm2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FK4lLjCUYAA8pm2.jpg",
+						"url": "https://t.co/IWrBwaJcX1",
+						"display_url": "pic.twitter.com/IWrBwaJcX1",
+						"expanded_url": "https://twitter.com/StillNotSam/status/1490169409024892928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1073,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 608,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1208,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1490169407019966500,
+						"id_str": "1490169407019966464",
+						"indices": [
+							169,
+							192
+						],
+						"media_url": "http://pbs.twimg.com/media/FK4lLjCUYAA8pm2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FK4lLjCUYAA8pm2.jpg",
+						"url": "https://t.co/IWrBwaJcX1",
+						"display_url": "pic.twitter.com/IWrBwaJcX1",
+						"expanded_url": "https://twitter.com/StillNotSam/status/1490169409024892928/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1073,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 608,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1208,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 121939328,
+				"id_str": "121939328",
+				"name": "Samantha Wallschlaeger",
+				"screen_name": "StillNotSam",
+				"location": "Seattle, WA",
+				"description": "Lead Writer @CrystalDynamics | Creator of Guncats | Boyfriend material | Probably a cryptid | She/they 💗💜💙 | Views are mine!",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9206,
+				"friends_count": 822,
+				"listed_count": 101,
+				"created_at": "Thu Mar 11 02:55:23 +0000 2010",
+				"favourites_count": 18697,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2474,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1449402670201012225/NJ-wQc-W_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1449402670201012225/NJ-wQc-W_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/121939328/1615098251",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16305,
+			"favorite_count": 56545,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Omegot wat is dit slim! Check de thread voor iPhone gebruikers die de teksten direct kunnen selecteren en muten. https://t.co/La9D53xnZy"
+	},
+	{
 		"created_at": "Mon Feb 07 16:13:52 +0000 2022",
 		"id": 1490720478553677800,
 		"id_str": "1490720478553677832",
