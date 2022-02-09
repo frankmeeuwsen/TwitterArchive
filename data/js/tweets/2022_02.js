@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 09 11:19:19 +0000 2022",
+		"id": 1491371124332331000,
+		"id_str": "1491371124332331008",
+		"full_text": "Had hem nog niet gehoord maar lekker groovy 70s fuzzy gitaarding hoor. https://t.co/eai7pr6WBl https://t.co/Zi5QDPVSaW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eai7pr6WBl",
+					"expanded_url": "https://open.spotify.com/track/4UGNJoeYVM8oDd56dJv549?si=6VKq_0IoRPW2KFO6BS2aUQ",
+					"display_url": "open.spotify.com/track/4UGNJoeY…",
+					"indices": [
+						71,
+						94
+					]
+				},
+				{
+					"url": "https://t.co/Zi5QDPVSaW",
+					"expanded_url": "https://twitter.com/paintedshield/status/1487027272821452801",
+					"display_url": "twitter.com/paintedshield/…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8747,
+			"friends_count": 813,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66157,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1487027272821452800,
+		"quoted_status_id_str": "1487027272821452801",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Zi5QDPVSaW",
+			"expanded": "https://twitter.com/paintedshield/status/1487027272821452801",
+			"display": "twitter.com/paintedshield/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 28 11:38:24 +0000 2022",
+			"id": 1487027272821452800,
+			"id_str": "1487027272821452801",
+			"full_text": "We are very excited to share with you “Dead Man’s Dream” from our new record ‘Painted Shield 2’ out 4/22 on @loosegrooverecords. https://t.co/ZXoUzxnKz5\n\nPre-order digital/vinyl/CD now!\nhttps://t.co/KhnB5RgO0o https://t.co/K3t5qS7Gwg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				209
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZXoUzxnKz5",
+						"expanded_url": "http://orcd.co/deadmansdream",
+						"display_url": "orcd.co/deadmansdream",
+						"indices": [
+							129,
+							152
+						]
+					},
+					{
+						"url": "https://t.co/KhnB5RgO0o",
+						"expanded_url": "http://orcd.co/paintedshield2",
+						"display_url": "orcd.co/paintedshield2",
+						"indices": [
+							186,
+							209
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1487027267633090600,
+						"id_str": "1487027267633090565",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/media/FKL7a9qXEAU6qkc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FKL7a9qXEAU6qkc.jpg",
+						"url": "https://t.co/K3t5qS7Gwg",
+						"display_url": "pic.twitter.com/K3t5qS7Gwg",
+						"expanded_url": "https://twitter.com/PaintedShield/status/1487027272821452801/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1487027267633090600,
+						"id_str": "1487027267633090565",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/media/FKL7a9qXEAU6qkc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FKL7a9qXEAU6qkc.jpg",
+						"url": "https://t.co/K3t5qS7Gwg",
+						"display_url": "pic.twitter.com/K3t5qS7Gwg",
+						"expanded_url": "https://twitter.com/PaintedShield/status/1487027272821452801/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1289246234818089000,
+				"id_str": "1289246234818088967",
+				"name": "Painted Shield",
+				"screen_name": "PaintedShield",
+				"location": "Seattle, WA",
+				"description": "Mason Jennings, Stone Gossard, Matt Chamberlain, Brittany Davis",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 937,
+				"friends_count": 34,
+				"listed_count": 11,
+				"created_at": "Fri Jul 31 17:09:06 +0000 2020",
+				"favourites_count": 196,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 102,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1302643754411741184/DwWTKdSK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1302643754411741184/DwWTKdSK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1289246234818088967/1599409472",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 51,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Had hem nog niet gehoord maar lekker groovy 70s fuzzy gitaarding hoor. https://t.co/eai7pr6WBl https://t.co/Zi5QDPVSaW"
+	},
+	{
 		"created_at": "Wed Feb 09 08:05:27 +0000 2022",
 		"id": 1491322336775409700,
 		"id_str": "1491322336775409664",
