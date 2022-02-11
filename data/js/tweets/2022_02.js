@@ -1,6 +1,235 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 11 21:06:22 +0000 2022",
+		"id": 1492235082509213700,
+		"id_str": "1492243637975007232",
+		"full_text": "RT @PearlJam RT @eddievedder: Tomorrow at 3pm ET, listen to #Earthling together during #TimsTwitterListeningParty. Keep your eyes on Eddie's Twitter for track-by-track commentary while you listen.\n\nTune in: https://t.co/cxt4V2O7XQ https://t.co/WXFkMDy6jx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Earthling",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"text": "TimsTwitterListeningParty",
+					"indices": [
+						87,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PearlJam",
+					"name": "Pearl Jam",
+					"id": 15155074,
+					"id_str": "15155074",
+					"indices": [
+						3,
+						12
+					]
+				},
+				{
+					"screen_name": "eddievedder",
+					"name": "Eddie Vedder",
+					"id": 1489379557543186400,
+					"id_str": "1489379557543186446",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cxt4V2O7XQ",
+					"expanded_url": "http://EddieVedder.lnk.to/EarthlingTTLPTP",
+					"display_url": "EddieVedder.lnk.to/EarthlingTTLPTP",
+					"indices": [
+						207,
+						230
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1492225527083683800,
+					"id_str": "1492225527083683844",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FLVzNfKX0AQ6vOR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLVzNfKX0AQ6vOR.jpg",
+					"url": "https://t.co/WXFkMDy6jx",
+					"display_url": "pic.twitter.com/WXFkMDy6jx",
+					"expanded_url": "https://twitter.com/eddievedder/status/1492225766809079809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 346,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1041,
+							"h": 529,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1041,
+							"h": 529,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1492225766809079800,
+					"source_status_id_str": "1492225766809079809",
+					"source_user_id": 1489379557543186400,
+					"source_user_id_str": "1489379557543186446"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1492225527083683800,
+					"id_str": "1492225527083683844",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/FLVzNfKX0AQ6vOR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLVzNfKX0AQ6vOR.jpg",
+					"url": "https://t.co/WXFkMDy6jx",
+					"display_url": "pic.twitter.com/WXFkMDy6jx",
+					"expanded_url": "https://twitter.com/eddievedder/status/1492225766809079809/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 346,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1041,
+							"h": 529,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1041,
+							"h": 529,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1492225766809079800,
+					"source_status_id_str": "1492225766809079809",
+					"source_user_id": 1489379557543186400,
+					"source_user_id_str": "1489379557543186446"
+				}
+			]
+		},
+		"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 397246347,
+			"id_str": "397246347",
+			"name": "Laura Trafton",
+			"screen_name": "LauraTrafton",
+			"location": "Chicago, IL",
+			"description": "Executive Director of @PearlJam Fan Nonprofit @WishlistPJ in its 17th year!\nMusic. Marketing. Mom. Making magic at @EnchantedAcorn.\n\nThis is my kinda love\n♡♡♡",
+			"url": "https://t.co/gTmIxVT87h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gTmIxVT87h",
+							"expanded_url": "https://linktr.ee/wishlistfoundation",
+							"display_url": "linktr.ee/wishlistfounda…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 883,
+			"friends_count": 1096,
+			"listed_count": 19,
+			"created_at": "Mon Oct 24 12:46:54 +0000 2011",
+			"favourites_count": 440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2734661015/05c4122f1561b760a41a79df36f5591e_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2734661015/05c4122f1561b760a41a79df36f5591e_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/397246347/1579690907",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "RT @PearlJam RT @eddievedder: Tomorrow at 3pm ET, listen to #Earthling together during #TimsTwitterListeningParty. Keep your eyes on Eddie's Twitter for track-by-track commentary while you listen.\n\nTune in: https://t.co/cxt4V2O7XQ https://t.co/WXFkMDy6jx"
+	},
+	{
 		"created_at": "Fri Feb 11 19:28:15 +0000 2022",
 		"id": 1492218944635252700,
 		"id_str": "1492218944635252747",
