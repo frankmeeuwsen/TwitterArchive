@@ -1,6 +1,317 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 11 18:09:15 +0000 2022",
+		"id": 1492199066381467600,
+		"id_str": "1492199066381467654",
+		"full_text": "En zeepaardjes dan? https://t.co/Zzwhwc7RlK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Zzwhwc7RlK",
+					"expanded_url": "https://twitter.com/momofsaul/status/1492116648433700873",
+					"display_url": "twitter.com/momofsaul/stat…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8747,
+			"friends_count": 816,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1492116648433700900,
+		"quoted_status_id_str": "1492116648433700873",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Zzwhwc7RlK",
+			"expanded": "https://twitter.com/momofsaul/status/1492116648433700873",
+			"display": "twitter.com/momofsaul/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 11 12:41:45 +0000 2022",
+			"id": 1492116648433700900,
+			"id_str": "1492116648433700873",
+			"full_text": "Ik dacht echt dat ik het leven inmiddels  wel een beetje in de smiezen had, maar nu staat alles weer volledig op losse schroeven… https://t.co/j5lr1UP9ql",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				129
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1492116569308156000,
+						"id_str": "1492116569308155912",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1492116569308155912/pu/img/GnSkYxJainn5oUzY.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1492116569308155912/pu/img/GnSkYxJainn5oUzY.jpg",
+						"url": "https://t.co/j5lr1UP9ql",
+						"display_url": "pic.twitter.com/j5lr1UP9ql",
+						"expanded_url": "https://twitter.com/momofsaul/status/1492116648433700873/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 828,
+								"h": 458,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 376,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 458,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1492116569308156000,
+						"id_str": "1492116569308155912",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1492116569308155912/pu/img/GnSkYxJainn5oUzY.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1492116569308155912/pu/img/GnSkYxJainn5oUzY.jpg",
+						"url": "https://t.co/j5lr1UP9ql",
+						"display_url": "pic.twitter.com/j5lr1UP9ql",
+						"expanded_url": "https://twitter.com/momofsaul/status/1492116648433700873/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 828,
+								"h": 458,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 376,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 458,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								414,
+								229
+							],
+							"duration_millis": 56905,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1492116569308155912/pu/vid/828x458/QoQQDIu4H2sWdkRI.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1492116569308155912/pu/pl/K_MkhnN0_IzerXTU.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1492116569308155912/pu/vid/488x270/E6PtFzeTFyJXjPAg.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1372293393343258600,
+				"id_str": "1372293393343258631",
+				"name": "Stylistoloog van de Sterren",
+				"screen_name": "momofsaul",
+				"location": "Brussels, Belgium",
+				"description": "Iemand zei dit is Annabel, maar zo heet ik helemaal niet",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2321,
+				"friends_count": 413,
+				"listed_count": 3,
+				"created_at": "Wed Mar 17 21:07:19 +0000 2021",
+				"favourites_count": 2740,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1906,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1481329711557062662/cLXwuA-Q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1481329711557062662/cLXwuA-Q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1372293393343258631/1643219800",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 73,
+			"favorite_count": 1192,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "En zeepaardjes dan? https://t.co/Zzwhwc7RlK"
+	},
+	{
 		"created_at": "Fri Feb 11 17:06:51 +0000 2022",
 		"id": 1492183363297419300,
 		"id_str": "1492183363297419271",
