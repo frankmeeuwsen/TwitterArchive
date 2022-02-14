@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 14 18:35:28 +0000 2022",
+		"id": 1493044107790348300,
+		"id_str": "1493292825403928582",
+		"full_text": "One reason I still have trouble believing crypto currency is money is that there aren’t commercials for money.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 40931468,
+			"id_str": "40931468",
+			"name": "Noah Garfinkel",
+			"screen_name": "NoahGarfinkel",
+			"location": "Los Angeles, CA",
+			"description": "Writer -- Single Parents, President Show, New Girl, Kroll Show, Workaholics.",
+			"url": "https://t.co/9EzVxHHkYR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9EzVxHHkYR",
+							"expanded_url": "http://www.instagram.com/noahgarfinkel",
+							"display_url": "instagram.com/noahgarfinkel",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 37996,
+			"friends_count": 1143,
+			"listed_count": 318,
+			"created_at": "Mon May 18 18:20:21 +0000 2009",
+			"favourites_count": 20703,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17946,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1439275629199855616/VKWWY0u8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1439275629199855616/VKWWY0u8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/40931468/1616622512",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20755,
+		"favorite_count": 232447,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "One reason I still have trouble believing crypto currency is money is that there aren’t commercials for money."
+	},
+	{
 		"created_at": "Mon Feb 14 18:15:52 +0000 2022",
 		"id": 1493287893539954700,
 		"id_str": "1493287893539954692",
