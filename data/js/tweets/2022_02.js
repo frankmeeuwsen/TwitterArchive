@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 16 07:56:57 +0000 2022",
+		"id": 1493856912420520000,
+		"id_str": "1493856912420519938",
+		"full_text": "Na 18 maanden nog altijd de waarheid! Hup @puur https://t.co/XmXBDqVgqA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "puur",
+					"name": "puur",
+					"id": 5776422,
+					"id_str": "5776422",
+					"indices": [
+						42,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XmXBDqVgqA",
+					"expanded_url": "https://twitter.com/puur/status/1317339595793641473",
+					"display_url": "twitter.com/puur/status/13…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8748,
+			"friends_count": 817,
+			"listed_count": 0,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9270,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1317339595793641500,
+		"quoted_status_id_str": "1317339595793641473",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XmXBDqVgqA",
+			"expanded": "https://twitter.com/puur/status/1317339595793641473",
+			"display": "twitter.com/puur/status/13…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 17 05:40:09 +0000 2020",
+			"id": 1317339595793641500,
+			"id_str": "1317339595793641473",
+			"full_text": "#TofTwitter 1 💡Kijk goed naar je timeline. Zie je iemand waarvan je echt niet herinnert of hij/zij iets gedenkwaardigs heeft gepost? Ontvolg ✅ Doe dit een week en je merkt gelijk effect en ruimt lekker op",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				204
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TofTwitter",
+						"indices": [
+							0,
+							11
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1317338880044040200,
+			"in_reply_to_status_id_str": "1317338880044040193",
+			"in_reply_to_user_id": 5776422,
+			"in_reply_to_user_id_str": "5776422",
+			"in_reply_to_screen_name": "puur",
+			"user": {
+				"id": 5776422,
+				"id_str": "5776422",
+				"name": "puur",
+				"screen_name": "puur",
+				"location": "Amsterdam en ook soms Aalsmeer",
+				"description": "Anna Maria Giannattasio l Italiaans Amsterdamse I Verbinder l Podcast l Engaging Woman of the Year I Blog l insta: nooitsaai #radicaalmild #Toftwitter #Kemta",
+				"url": "https://t.co/TAcUf3Xiq9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TAcUf3Xiq9",
+								"expanded_url": "http://www.annamariaheeftgelijk.nl",
+								"display_url": "annamariaheeftgelijk.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16085,
+				"friends_count": 5310,
+				"listed_count": 637,
+				"created_at": "Fri May 04 22:06:39 +0000 2007",
+				"favourites_count": 82169,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 133671,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1189453629486456832/v7ZBGJ9j_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189453629486456832/v7ZBGJ9j_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5776422/1553455118",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "82CE22",
+				"profile_sidebar_fill_color": "715B75",
+				"profile_text_color": "130C0E",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 52,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Na 18 maanden nog altijd de waarheid! Hup @puur https://t.co/XmXBDqVgqA"
+	},
+	{
 		"created_at": "Tue Feb 15 20:35:06 +0000 2022",
 		"id": 1493685322512806000,
 		"id_str": "1493685322512805891",
