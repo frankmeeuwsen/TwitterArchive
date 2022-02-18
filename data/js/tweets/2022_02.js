@@ -1,6 +1,769 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 18 14:58:38 +0000 2022",
+		"id": 1494687811131297800,
+		"id_str": "1494687811131297794",
+		"full_text": "Eigenlijk zoals @erwblo, @gvenk en ik op Slack wat ouwehoeren over dingen... https://t.co/7XapaBeejQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erwblo",
+					"name": "Erwin Blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						16,
+						23
+					]
+				},
+				{
+					"screen_name": "gvenk",
+					"name": "Gerard van Enk",
+					"id": 1789221,
+					"id_str": "1789221",
+					"indices": [
+						25,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7XapaBeejQ",
+					"expanded_url": "https://twitter.com/benedictevans/status/983327882930991105",
+					"display_url": "twitter.com/benedictevans/…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8749,
+			"friends_count": 820,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 983327882930991100,
+		"quoted_status_id_str": "983327882930991105",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7XapaBeejQ",
+			"expanded": "https://twitter.com/benedictevans/status/983327882930991105",
+			"display": "twitter.com/benedictevans/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 09 12:56:51 +0000 2018",
+			"id": 983327882930991100,
+			"id_str": "983327882930991105",
+			"full_text": "You can believe both that crypto is full of delusional utopian lunatics saying stuff that’ll never happen and that it’s a profound technology that will change the world. That’s what talking about the internet was like in 1994.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				226
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1236101,
+				"id_str": "1236101",
+				"name": "Benedict Evans",
+				"screen_name": "benedictevans",
+				"location": "Zoom",
+				"description": "Trying to work out what's going on, and what happens next. Mostly tech.",
+				"url": "https://t.co/vp0xj1bPG0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vp0xj1bPG0",
+								"expanded_url": "http://www.ben-evans.com/",
+								"display_url": "ben-evans.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 346863,
+				"friends_count": 969,
+				"listed_count": 8333,
+				"created_at": "Thu Mar 15 17:33:00 +0000 2007",
+				"favourites_count": 13949,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 173515,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E5E5E5",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1431026502192205828/LaLAMvdn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1431026502192205828/LaLAMvdn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1236101/1584548571",
+				"profile_link_color": "336699",
+				"profile_sidebar_border_color": "5D5D5D",
+				"profile_sidebar_fill_color": "E5E5E5",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 458,
+			"favorite_count": 1415,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Eigenlijk zoals @erwblo, @gvenk en ik op Slack wat ouwehoeren over dingen... https://t.co/7XapaBeejQ"
+	},
+	{
+		"created_at": "Fri Feb 18 14:40:28 +0000 2022",
+		"id": 1494683237804912600,
+		"id_str": "1494683237804912648",
+		"full_text": "Wat is de R-waarde van #Eunice ?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Eunice",
+					"indices": [
+						23,
+						30
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8749,
+			"friends_count": 820,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "Wat is de R-waarde van #Eunice ?"
+	},
+	{
+		"created_at": "Fri Feb 18 14:39:15 +0000 2022",
+		"id": 1494682930098151400,
+		"id_str": "1494682930098151427",
+		"full_text": "Classic https://t.co/B4tp26eCzY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/B4tp26eCzY",
+					"expanded_url": "https://twitter.com/beltrew/status/1494671420969869312",
+					"display_url": "twitter.com/beltrew/status…",
+					"indices": [
+						8,
+						31
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8749,
+			"friends_count": 820,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1494671420969869300,
+		"quoted_status_id_str": "1494671420969869312",
+		"quoted_status_permalink": {
+			"url": "https://t.co/B4tp26eCzY",
+			"expanded": "https://twitter.com/beltrew/status/1494671420969869312",
+			"display": "twitter.com/beltrew/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 18 13:53:31 +0000 2022",
+			"id": 1494671420969869300,
+			"id_str": "1494671420969869312",
+			"full_text": "Is the U.K. O.K. ?  https://t.co/9BeanElgqY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				43
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1494663162435555300,
+						"id_str": "1494663162435555328",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1494663162435555328/pu/img/BkFpETIMqlRHjOlh.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1494663162435555328/pu/img/BkFpETIMqlRHjOlh.jpg",
+						"url": "https://t.co/9BeanElgqY",
+						"display_url": "pic.twitter.com/9BeanElgqY",
+						"expanded_url": "https://twitter.com/Tom_Leak/status/1494663239463886849/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1494663239463886800,
+						"source_status_id_str": "1494663239463886849",
+						"source_user_id": 19456159,
+						"source_user_id_str": "19456159"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1494663162435555300,
+						"id_str": "1494663162435555328",
+						"indices": [
+							20,
+							43
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1494663162435555328/pu/img/BkFpETIMqlRHjOlh.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1494663162435555328/pu/img/BkFpETIMqlRHjOlh.jpg",
+						"url": "https://t.co/9BeanElgqY",
+						"display_url": "pic.twitter.com/9BeanElgqY",
+						"expanded_url": "https://twitter.com/Tom_Leak/status/1494663239463886849/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1494663239463886800,
+						"source_status_id_str": "1494663239463886849",
+						"source_user_id": 19456159,
+						"source_user_id_str": "19456159",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 31000,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1494663162435555328/pu/vid/640x360/IFgZovKzOco0V8t3.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1494663162435555328/pu/pl/iGhbQVW3cykgB0J4.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1494663162435555328/pu/vid/1280x720/IFc2cfEKZvHn39ZQ.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1494663162435555328/pu/vid/480x270/IFXBH7i1ZKQ_X7jj.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 19456159,
+								"id_str": "19456159",
+								"name": "Tom Leak",
+								"screen_name": "Tom_Leak",
+								"location": "",
+								"description": "Més que un Tom, Home of ‘fantastische memes’, Views are my own!",
+								"url": "https://t.co/l8EEdlYJaq",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/l8EEdlYJaq",
+												"expanded_url": "https://youtu.be/DN2p7OZK-P8",
+												"display_url": "youtu.be/DN2p7OZK-P8",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 658,
+								"friends_count": 2080,
+								"listed_count": 11,
+								"created_at": "Sat Jan 24 18:08:56 +0000 2009",
+								"favourites_count": 20699,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 43943,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "454745",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": true,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1280961496223289345/UHy7Ndk7_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1280961496223289345/UHy7Ndk7_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/19456159/1631996794",
+								"profile_link_color": "1B95E0",
+								"profile_sidebar_border_color": "EEEEEE",
+								"profile_sidebar_fill_color": "EFEFEF",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 31114386,
+				"id_str": "31114386",
+				"name": "Bel Trew",
+				"screen_name": "Beltrew",
+				"location": "Lebanon",
+				"description": "Middle East correspondent for The Independent. Now Beirut. Ex-Times woman in Egypt. Email: bel.trew@independent.co.uk Images: https://t.co/WReERjvi0t",
+				"url": "https://t.co/LD3MOwQjZy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LD3MOwQjZy",
+								"expanded_url": "https://www.independent.co.uk/author/bel-trew",
+								"display_url": "independent.co.uk/author/bel-trew",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/WReERjvi0t",
+								"expanded_url": "https://www.instagram.com/beltrew/",
+								"display_url": "instagram.com/beltrew/",
+								"indices": [
+									126,
+									149
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 120245,
+				"friends_count": 4207,
+				"listed_count": 2388,
+				"created_at": "Tue Apr 14 12:54:31 +0000 2009",
+				"favourites_count": 8140,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 58476,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1417709639312019458/gTwachES_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1417709639312019458/gTwachES_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/31114386/1599817610",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1694,
+			"favorite_count": 8879,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Classic https://t.co/B4tp26eCzY"
+	},
+	{
 		"created_at": "Fri Feb 18 13:28:09 +0000 2022",
 		"id": 1494665039378358300,
 		"id_str": "1494665039378358281",
