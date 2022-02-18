@@ -1,6 +1,340 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 18 12:10:34 +0000 2022",
+		"id": 1494645514436022300,
+		"id_str": "1494645514436022272",
+		"full_text": "Wij hebben een boom van dat formaat in onze gezamenlijke achterom staan… https://t.co/luRE1pQbse",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/luRE1pQbse",
+					"expanded_url": "https://twitter.com/bbcdevon/status/1494624248379461639",
+					"display_url": "twitter.com/bbcdevon/statu…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8749,
+			"friends_count": 819,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66207,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1494624248379461600,
+		"quoted_status_id_str": "1494624248379461639",
+		"quoted_status_permalink": {
+			"url": "https://t.co/luRE1pQbse",
+			"expanded": "https://twitter.com/bbcdevon/status/1494624248379461639",
+			"display": "twitter.com/bbcdevon/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 18 10:46:04 +0000 2022",
+			"id": 1494624248379461600,
+			"id_str": "1494624248379461639",
+			"full_text": "Incredible footage of #StormEunice taking down a tree in #Bude. Captured by Kai Wilson Page. Miraculously no one was injured. https://t.co/cUBsnNUtcA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				125
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "StormEunice",
+						"indices": [
+							22,
+							34
+						]
+					},
+					{
+						"text": "Bude",
+						"indices": [
+							57,
+							62
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1494624225302360000,
+						"id_str": "1494624225302360065",
+						"indices": [
+							126,
+							149
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1494624225302360065/pu/img/DCfzpLIF-eWtjnc9.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1494624225302360065/pu/img/DCfzpLIF-eWtjnc9.jpg",
+						"url": "https://t.co/cUBsnNUtcA",
+						"display_url": "pic.twitter.com/cUBsnNUtcA",
+						"expanded_url": "https://twitter.com/BBCDevon/status/1494624248379461639/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 320,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 320,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1494624225302360000,
+						"id_str": "1494624225302360065",
+						"indices": [
+							126,
+							149
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1494624225302360065/pu/img/DCfzpLIF-eWtjnc9.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1494624225302360065/pu/img/DCfzpLIF-eWtjnc9.jpg",
+						"url": "https://t.co/cUBsnNUtcA",
+						"display_url": "pic.twitter.com/cUBsnNUtcA",
+						"expanded_url": "https://twitter.com/BBCDevon/status/1494624248379461639/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 320,
+								"h": 640,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 320,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 320,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								2
+							],
+							"duration_millis": 10213,
+							"variants": [
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1494624225302360065/pu/vid/320x640/5CPRbX2xE2MBknKB.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1494624225302360065/pu/pl/X2u70C1XSyOmlBk7.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22375460,
+				"id_str": "22375460",
+				"name": "BBC Radio Devon",
+				"screen_name": "BBCDevon",
+				"location": "Devon - UK",
+				"description": "The sound of Devon, making a difference and all the music you love 🎼🎙📻 Contact us: radio.devon@bbc.co.uk",
+				"url": "https://t.co/AKmFJhJuCc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AKmFJhJuCc",
+								"expanded_url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_devon",
+								"display_url": "bbc.co.uk/sounds/play/li…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 68120,
+				"friends_count": 1217,
+				"listed_count": 588,
+				"created_at": "Sun Mar 01 16:12:01 +0000 2009",
+				"favourites_count": 7408,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 62664,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1305388865109270533/07V-vrwt_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305388865109270533/07V-vrwt_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22375460/1633719047",
+				"profile_link_color": "B178A6",
+				"profile_sidebar_border_color": "990000",
+				"profile_sidebar_fill_color": "E6FFFF",
+				"profile_text_color": "18215A",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 485,
+			"favorite_count": 1117,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Wij hebben een boom van dat formaat in onze gezamenlijke achterom staan… https://t.co/luRE1pQbse"
+	},
+	{
 		"created_at": "Fri Feb 18 10:22:46 +0000 2022",
 		"id": 1494618383765102600,
 		"id_str": "1494618383765102594",
