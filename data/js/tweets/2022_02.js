@@ -1,6 +1,442 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 20 11:04:28 +0000 2022",
+		"id": 1495353657210118100,
+		"id_str": "1495353657210118147",
+		"full_text": "Weer of geen weer, wij komen even langs voor een handtekening in Finn's exemplaar van Game Helden! https://t.co/AGt1hRSojd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AGt1hRSojd",
+					"expanded_url": "https://twitter.com/marcelvandriel/status/1494993293725347841",
+					"display_url": "twitter.com/marcelvandriel…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8748,
+			"friends_count": 828,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1494993293725347800,
+		"quoted_status_id_str": "1494993293725347841",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AGt1hRSojd",
+			"expanded": "https://twitter.com/marcelvandriel/status/1494993293725347841",
+			"display": "twitter.com/marcelvandriel…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 19 11:12:31 +0000 2022",
+			"id": 1494993293725347800,
+			"id_str": "1494993293725347841",
+			"full_text": "Morgen signeer ik Game Helden in de @kinderboeken030 en illustrator Paco Vink zet een tekening in je boek! Hij geeft ook een “Blaag de Blob”-tekenworkshop. We hebben nog niet heel veel aanmeldingen (Het weer? Corona?) dus wees vooral spontaan welkom. 14.30 tot 16.00 https://t.co/uaTxhvdYjI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				266
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "kinderboeken030",
+						"name": "De Utrechtse Kinderboekwinkel",
+						"id": 3389551265,
+						"id_str": "3389551265",
+						"indices": [
+							36,
+							52
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1494993288994201600,
+						"id_str": "1494993288994201603",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/FL9IebwXoAMBDvH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FL9IebwXoAMBDvH.jpg",
+						"url": "https://t.co/uaTxhvdYjI",
+						"display_url": "pic.twitter.com/uaTxhvdYjI",
+						"expanded_url": "https://twitter.com/marcelvandriel/status/1494993293725347841/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1085,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 904,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1494993288994201600,
+						"id_str": "1494993288994201603",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/FL9IebwXoAMBDvH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FL9IebwXoAMBDvH.jpg",
+						"url": "https://t.co/uaTxhvdYjI",
+						"display_url": "pic.twitter.com/uaTxhvdYjI",
+						"expanded_url": "https://twitter.com/marcelvandriel/status/1494993293725347841/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1085,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 904,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1494993288994168800,
+						"id_str": "1494993288994168834",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/FL9IebwXIAI-z-I.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FL9IebwXIAI-z-I.jpg",
+						"url": "https://t.co/uaTxhvdYjI",
+						"display_url": "pic.twitter.com/uaTxhvdYjI",
+						"expanded_url": "https://twitter.com/marcelvandriel/status/1494993293725347841/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 712,
+								"h": 536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 512,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 712,
+								"h": 536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1494993288969040000,
+						"id_str": "1494993288969039874",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/FL9IebqXsAIEl-r.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FL9IebqXsAIEl-r.jpg",
+						"url": "https://t.co/uaTxhvdYjI",
+						"display_url": "pic.twitter.com/uaTxhvdYjI",
+						"expanded_url": "https://twitter.com/marcelvandriel/status/1494993293725347841/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 711,
+								"h": 536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 513,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 711,
+								"h": 536,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1494993289027674000,
+						"id_str": "1494993289027674113",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/FL9Ieb4WYAE86bg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FL9Ieb4WYAE86bg.jpg",
+						"url": "https://t.co/uaTxhvdYjI",
+						"display_url": "pic.twitter.com/uaTxhvdYjI",
+						"expanded_url": "https://twitter.com/marcelvandriel/status/1494993293725347841/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1116,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 654,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 371,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1426472972513161200,
+				"id_str": "1426472972513161220",
+				"name": "Marcel van Driel - kinderboekenschrijver",
+				"screen_name": "marcelvandriel",
+				"location": "Utrecht",
+				"description": "Kinderboekenschrijver https://t.co/A5BsZvTK8D. Billy de Kip. https://t.co/5kyjJ0ioPv Schrijfdocent Schrijversvakschool. Voorzitter sectie jeugdboeken Auteursbond. Schoolschrijver",
+				"url": "https://t.co/yjHWOJttyn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yjHWOJttyn",
+								"expanded_url": "http://www.marcelvandriel.nl",
+								"display_url": "marcelvandriel.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/A5BsZvTK8D",
+								"expanded_url": "http://game-helden.nl",
+								"display_url": "game-helden.nl",
+								"indices": [
+									22,
+									45
+								]
+							},
+							{
+								"url": "https://t.co/5kyjJ0ioPv",
+								"expanded_url": "http://superhelden.nl",
+								"display_url": "superhelden.nl",
+								"indices": [
+									61,
+									84
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2711,
+				"friends_count": 2185,
+				"listed_count": 11,
+				"created_at": "Sat Aug 14 09:21:49 +0000 2021",
+				"favourites_count": 48017,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 18800,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1474831444795138052/Ce0Xy6y7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1474831444795138052/Ce0Xy6y7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1426472972513161220/1639912000",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Weer of geen weer, wij komen even langs voor een handtekening in Finn's exemplaar van Game Helden! https://t.co/AGt1hRSojd"
+	},
+	{
 		"created_at": "Sun Feb 20 07:12:34 +0000 2022",
 		"id": 1495295297987256300,
 		"id_str": "1495295297987256321",
