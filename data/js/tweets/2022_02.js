@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 22 08:15:24 +0000 2022",
+		"id": 1496035882784235500,
+		"id_str": "1496035882784235526",
+		"full_text": "Benieuwd hoe dit wordt. Zal het RSS ondersteunen, een API hebben om te lezen en schrijven? Interoperabel met andere CMS systemen? https://t.co/KmxqUrrTue",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KmxqUrrTue",
+					"expanded_url": "https://twitter.com/nima_owji/status/1494989510744199169",
+					"display_url": "twitter.com/nima_owji/stat…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8749,
+			"friends_count": 830,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9317,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1494989510744199200,
+		"quoted_status_id_str": "1494989510744199169",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KmxqUrrTue",
+			"expanded": "https://twitter.com/nima_owji/status/1494989510744199169",
+			"display": "twitter.com/nima_owji/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Feb 19 10:57:29 +0000 2022",
+			"id": 1494989510744199200,
+			"id_str": "1494989510744199169",
+			"full_text": "#Twitter keeps working on the Twitter Articles editor!\n\nYou will also be able to add tweets to your articles! https://t.co/xgeD4XSQXn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				109
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Twitter",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1494989396336164900,
+						"id_str": "1494989396336164864",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/FL9E72eXwAAh_x8.png",
+						"media_url_https": "https://pbs.twimg.com/media/FL9E72eXwAAh_x8.png",
+						"url": "https://t.co/xgeD4XSQXn",
+						"display_url": "pic.twitter.com/xgeD4XSQXn",
+						"expanded_url": "https://twitter.com/nima_owji/status/1494989510744199169/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 807,
+								"h": 522,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 440,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 807,
+								"h": 522,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1494989396336164900,
+						"id_str": "1494989396336164864",
+						"indices": [
+							110,
+							133
+						],
+						"media_url": "http://pbs.twimg.com/media/FL9E72eXwAAh_x8.png",
+						"media_url_https": "https://pbs.twimg.com/media/FL9E72eXwAAh_x8.png",
+						"url": "https://t.co/xgeD4XSQXn",
+						"display_url": "pic.twitter.com/xgeD4XSQXn",
+						"expanded_url": "https://twitter.com/nima_owji/status/1494989510744199169/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 807,
+								"h": 522,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 440,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 807,
+								"h": 522,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1324273819184361500,
+				"id_str": "1324273819184361472",
+				"name": "Nima Owji",
+				"screen_name": "nima_owji",
+				"location": "Different Apps",
+				"description": "#Developer. App Researcher. Follow me to see the upcoming features of popular apps!\n\nAs seen on @TechCrunch, @CNET, @Engadget, @Mashable, @9to5mac...",
+				"url": "https://t.co/esnzpUgmL5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/esnzpUgmL5",
+								"expanded_url": "https://nima.omg.lol",
+								"display_url": "nima.omg.lol",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1481,
+				"friends_count": 646,
+				"listed_count": 38,
+				"created_at": "Thu Nov 05 08:54:25 +0000 2020",
+				"favourites_count": 12240,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5378,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1488011275762339844/_Tbj2nbH_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1488011275762339844/_Tbj2nbH_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1324273819184361472/1644416258",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14,
+			"favorite_count": 40,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Benieuwd hoe dit wordt. Zal het RSS ondersteunen, een API hebben om te lezen en schrijven? Interoperabel met andere CMS systemen? https://t.co/KmxqUrrTue"
+	},
+	{
 		"created_at": "Mon Feb 21 18:44:05 +0000 2022",
 		"id": 1495831707832008700,
 		"id_str": "1495831707832008710",
