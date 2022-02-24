@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 24 06:04:47 +0000 2022",
+		"id": 1496727790825136000,
+		"id_str": "1496727790825136129",
+		"full_text": "Ik doe net of er geen nieuws is vanochtend en retweet een blast from the past. https://t.co/AgwfIVfxEA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AgwfIVfxEA",
+					"expanded_url": "https://twitter.com/katie_panda/status/1496607013589204998",
+					"display_url": "twitter.com/katie_panda/st…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8750,
+			"friends_count": 830,
+			"listed_count": 554,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66253,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1496607013589205000,
+		"quoted_status_id_str": "1496607013589204998",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AgwfIVfxEA",
+			"expanded": "https://twitter.com/katie_panda/status/1496607013589204998",
+			"display": "twitter.com/katie_panda/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 23 22:04:52 +0000 2022",
+			"id": 1496607013589205000,
+			"id_str": "1496607013589204998",
+			"full_text": "https://t.co/a52df4j8Ay",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1496606987529896000,
+						"id_str": "1496606987529895936",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/FMUEIDQWQAA2Ifj.png",
+						"media_url_https": "https://pbs.twimg.com/media/FMUEIDQWQAA2Ifj.png",
+						"url": "https://t.co/a52df4j8Ay",
+						"display_url": "pic.twitter.com/a52df4j8Ay",
+						"expanded_url": "https://twitter.com/katie_panda/status/1496607013589204998/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 992,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 562,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1555,
+								"h": 1881,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1496606987529896000,
+						"id_str": "1496606987529895936",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/FMUEIDQWQAA2Ifj.png",
+						"media_url_https": "https://pbs.twimg.com/media/FMUEIDQWQAA2Ifj.png",
+						"url": "https://t.co/a52df4j8Ay",
+						"display_url": "pic.twitter.com/a52df4j8Ay",
+						"expanded_url": "https://twitter.com/katie_panda/status/1496607013589204998/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 992,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 562,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1555,
+								"h": 1881,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 865259534931025900,
+				"id_str": "865259534931025920",
+				"name": "Katie Anderson",
+				"screen_name": "katie_panda",
+				"location": "Redmond, WA",
+				"description": "she/her\nprofile pic by @androidpriest",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 356,
+				"friends_count": 108,
+				"listed_count": 6,
+				"created_at": "Thu May 18 17:35:23 +0000 2017",
+				"favourites_count": 5721,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 7061,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/954846924171079680/PsvitnLu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/954846924171079680/PsvitnLu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/865259534931025920/1598057231",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 264,
+			"favorite_count": 1265,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik doe net of er geen nieuws is vanochtend en retweet een blast from the past. https://t.co/AgwfIVfxEA"
+	},
+	{
 		"created_at": "Wed Feb 23 22:10:11 +0000 2022",
 		"id": 1496608351156899800,
 		"id_str": "1496608351156899840",
