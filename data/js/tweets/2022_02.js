@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 24 19:51:14 +0000 2022",
+		"id": 1496876111342489600,
+		"id_str": "1496935772783587329",
+		"full_text": "LEEEEROOOYYYYYY JENKINS https://t.co/ngevTQkmgI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1496876014886084600,
+					"id_str": "1496876014886084608",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FMX4zgQWYAA6i2h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMX4zgQWYAA6i2h.jpg",
+					"url": "https://t.co/ngevTQkmgI",
+					"display_url": "pic.twitter.com/ngevTQkmgI",
+					"expanded_url": "https://twitter.com/sc23cc/status/1496876111342489612/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 582,
+							"h": 1260,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1496876014886084600,
+					"id_str": "1496876014886084608",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FMX4zgQWYAA6i2h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMX4zgQWYAA6i2h.jpg",
+					"url": "https://t.co/ngevTQkmgI",
+					"display_url": "pic.twitter.com/ngevTQkmgI",
+					"expanded_url": "https://twitter.com/sc23cc/status/1496876111342489612/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 582,
+							"h": 1260,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3345904115,
+			"id_str": "3345904115",
+			"name": "Jay O'Guv. Nauti Cult.",
+			"screen_name": "sc23cc",
+			"location": "On a dropping tide",
+			"description": "Surfcaster, Geek, Horologidiot, AntiStupid. Pro Constitution. Bad Take Activist. GS-11 Obvious. Everything should be downstream from Freedom & Liberty.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 382,
+			"friends_count": 797,
+			"listed_count": 2,
+			"created_at": "Thu Jun 25 20:13:35 +0000 2015",
+			"favourites_count": 36537,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18526,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496123616781651968/9WyuU2cL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496123616781651968/9WyuU2cL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3345904115/1516457905",
+			"profile_link_color": "336699",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7811,
+		"favorite_count": 55508,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "LEEEEROOOYYYYYY JENKINS https://t.co/ngevTQkmgI"
+	},
+	{
 		"created_at": "Thu Feb 24 15:41:48 +0000 2022",
 		"id": 1496873000100335600,
 		"id_str": "1496873000100335618",
