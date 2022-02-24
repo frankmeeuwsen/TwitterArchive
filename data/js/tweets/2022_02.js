@@ -1,6 +1,627 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Thu Feb 24 06:33:56 +0000 2022",
+		"id": 1496735124632879000,
+		"id_str": "1496735124632879105",
+		"full_text": "Pinautomaten doen het al niet meer. Wat betekent dat voor de gewone burger? https://t.co/fINthFHfmE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fINthFHfmE",
+					"expanded_url": "https://twitter.com/rushhour85/status/1496638084045279236",
+					"display_url": "twitter.com/rushhour85/sta…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8750,
+			"friends_count": 832,
+			"listed_count": 553,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1496638084045279200,
+		"quoted_status_id_str": "1496638084045279236",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fINthFHfmE",
+			"expanded": "https://twitter.com/rushhour85/status/1496638084045279236",
+			"display": "twitter.com/rushhour85/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 24 00:08:20 +0000 2022",
+			"id": 1496638084045279200,
+			"id_str": "1496638084045279236",
+			"full_text": "#ATM #oshadbank stoped working #west #ukraine #bank #cyber #atack https://t.co/TsZ3IGgeYS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				65
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ATM",
+						"indices": [
+							0,
+							4
+						]
+					},
+					{
+						"text": "oshadbank",
+						"indices": [
+							5,
+							15
+						]
+					},
+					{
+						"text": "west",
+						"indices": [
+							31,
+							36
+						]
+					},
+					{
+						"text": "ukraine",
+						"indices": [
+							37,
+							45
+						]
+					},
+					{
+						"text": "bank",
+						"indices": [
+							46,
+							51
+						]
+					},
+					{
+						"text": "cyber",
+						"indices": [
+							52,
+							58
+						]
+					},
+					{
+						"text": "atack",
+						"indices": [
+							59,
+							65
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1496638069579079700,
+						"id_str": "1496638069579079687",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/FMUgZQ6WYAc5xAa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMUgZQ6WYAc5xAa.jpg",
+						"url": "https://t.co/TsZ3IGgeYS",
+						"display_url": "pic.twitter.com/TsZ3IGgeYS",
+						"expanded_url": "https://twitter.com/rushhour85/status/1496638084045279236/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1496638069579079700,
+						"id_str": "1496638069579079687",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/FMUgZQ6WYAc5xAa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMUgZQ6WYAc5xAa.jpg",
+						"url": "https://t.co/TsZ3IGgeYS",
+						"display_url": "pic.twitter.com/TsZ3IGgeYS",
+						"expanded_url": "https://twitter.com/rushhour85/status/1496638084045279236/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1496638078139699200,
+						"id_str": "1496638078139699203",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/FMUgZwzXEAMM_uo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMUgZwzXEAMM_uo.jpg",
+						"url": "https://t.co/TsZ3IGgeYS",
+						"display_url": "pic.twitter.com/TsZ3IGgeYS",
+						"expanded_url": "https://twitter.com/rushhour85/status/1496638084045279236/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 306,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 921,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 540,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 233710489,
+				"id_str": "233710489",
+				"name": "Erik G.M",
+				"screen_name": "rushhour85",
+				"location": "Oekraïne",
+				"description": "Creator | Builder | Speaker | Strategy Dev. | Business Consulting| Dutch expat Based in Oekraïne /Ukraine | Kyiv&Cherkasy | views and rt's are strictly personal",
+				"url": "https://t.co/YYqIskDdwc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YYqIskDdwc",
+								"expanded_url": "https://www.linkedin.com/in/erik-gmelig-meyling/",
+								"display_url": "linkedin.com/in/erik-gmelig…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 128,
+				"friends_count": 421,
+				"listed_count": 9,
+				"created_at": "Mon Jan 03 22:54:32 +0000 2011",
+				"favourites_count": 113,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 946,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "709397",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1094020888201187328/dnjiPkP8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094020888201187328/dnjiPkP8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/233710489/1400000468",
+				"profile_link_color": "FF3300",
+				"profile_sidebar_border_color": "86A4A6",
+				"profile_sidebar_fill_color": "A0C5C7",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Pinautomaten doen het al niet meer. Wat betekent dat voor de gewone burger? https://t.co/fINthFHfmE"
+	},
+	{
+		"created_at": "Thu Feb 24 06:32:52 +0000 2022",
+		"id": 1496734855933083600,
+		"id_str": "1496734855933083651",
+		"full_text": "Ik ben benieuwd wat de effecten zijn van de digitale oorlogsvoering. https://t.co/bYAZabrZnx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bYAZabrZnx",
+					"expanded_url": "https://twitter.com/geertjanhahn/status/1496625545911623684",
+					"display_url": "twitter.com/geertjanhahn/s…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8750,
+			"friends_count": 832,
+			"listed_count": 553,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1616318316",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1496625545911623700,
+		"quoted_status_id_str": "1496625545911623684",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bYAZabrZnx",
+			"expanded": "https://twitter.com/geertjanhahn/status/1496625545911623684",
+			"display": "twitter.com/geertjanhahn/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 23 23:18:30 +0000 2022",
+			"id": 1496625545911623700,
+			"id_str": "1496625545911623684",
+			"full_text": "Verontrustend nieuws van vanavond: we gaan een nieuwe fase van de cyber warfare in. Al ruim een week kampt Oekraïne met een spervuur aan DDoS-aanvallen, maar nu is er wiper malware: dat is niet gericht op treiteren, maar op vernietigen 1/ https://t.co/GwVxN5wYiW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				238
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/GwVxN5wYiW",
+						"expanded_url": "https://twitter.com/ESETresearch/status/1496581903205511181",
+						"display_url": "twitter.com/ESETresearch/s…",
+						"indices": [
+							239,
+							262
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34553942,
+				"id_str": "34553942",
+				"name": "Geert Jan Hahn",
+				"screen_name": "geertjanhahn",
+				"location": "",
+				"description": "Journalist - Slavist - Europaverslaggever @BNR.\n\nWo: Host @BNR Europa.\nDo: Factcheck Europa & Europa Update  \nVr: @Perestrojkast\n\nOud-correspondent Oekraïne",
+				"url": "https://t.co/NvHTd8JPi8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/NvHTd8JPi8",
+								"expanded_url": "http://www.geertjanhahn.nl",
+								"display_url": "geertjanhahn.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6353,
+				"friends_count": 5455,
+				"listed_count": 150,
+				"created_at": "Thu Apr 23 06:36:49 +0000 2009",
+				"favourites_count": 6413,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 41531,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1107901262215954433/1TDjM4Gy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1107901262215954433/1TDjM4Gy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/34553942/1644019358",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1496581903205511200,
+			"quoted_status_id_str": "1496581903205511181",
+			"quoted_status_permalink": {
+				"url": "https://t.co/GwVxN5wYiW",
+				"expanded": "https://twitter.com/ESETresearch/status/1496581903205511181",
+				"display": "twitter.com/ESETresearch/s…"
+			},
+			"retweet_count": 24,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik ben benieuwd wat de effecten zijn van de digitale oorlogsvoering. https://t.co/bYAZabrZnx"
+	},
+	{
 		"created_at": "Thu Feb 24 06:04:47 +0000 2022",
 		"id": 1496727790825136000,
 		"id_str": "1496727790825136129",
