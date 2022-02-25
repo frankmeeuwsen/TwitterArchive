@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 25 14:20:21 +0000 2022",
+		"id": 1497214892637569000,
+		"id_str": "1497214892637569030",
+		"full_text": "Wow... ik wist niet dat zoveel dagelijkse apps/tech de roots in Oekraïne hebben. Zoals Whatsapp... https://t.co/uKzileiage",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uKzileiage",
+					"expanded_url": "https://twitter.com/sapitonmix/status/1496797920812843015",
+					"display_url": "twitter.com/sapitonmix/sta…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8750,
+			"friends_count": 832,
+			"listed_count": 553,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9369,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1496797920812843000,
+		"quoted_status_id_str": "1496797920812843015",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uKzileiage",
+			"expanded": "https://twitter.com/sapitonmix/status/1496797920812843015",
+			"display": "twitter.com/sapitonmix/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 24 10:43:28 +0000 2022",
+			"id": 1496797920812843000,
+			"id_str": "1496797920812843015",
+			"full_text": "Hey, world, this war is not about Ukraine. It's about all of you. Let me – as a tech editor at Forbes Ukraine – explain it to you in the most direct way, by naming products and technologies with Ukrainian roots.\n\nAlso asking for RT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				231
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2329117414,
+				"id_str": "2329117414",
+				"name": "Mike Sapiton 🇺🇦",
+				"screen_name": "sapitonmix",
+				"location": "Ukraine",
+				"description": "Deputy Editor-in-Chief at Forbes Ukraine. Reach me at m.sapiton@forbes.ua",
+				"url": "https://t.co/hntN5vm1Xz",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hntN5vm1Xz",
+								"expanded_url": "http://forbes.ua",
+								"display_url": "forbes.ua",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2823,
+				"friends_count": 462,
+				"listed_count": 72,
+				"created_at": "Thu Feb 06 23:59:00 +0000 2014",
+				"favourites_count": 7353,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2658,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1396940233984327682/jsYXjwMb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1396940233984327682/jsYXjwMb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2329117414/1569283898",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16135,
+			"favorite_count": 36541,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Wow... ik wist niet dat zoveel dagelijkse apps/tech de roots in Oekraïne hebben. Zoals Whatsapp... https://t.co/uKzileiage"
+	},
+	{
 		"created_at": "Fri Feb 25 12:07:17 +0000 2022",
 		"id": 1497181404265914400,
 		"id_str": "1497181404265914374",
