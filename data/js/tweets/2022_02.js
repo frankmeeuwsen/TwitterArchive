@@ -1,6 +1,417 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sat Feb 26 01:06:39 +0000 2022",
+		"id": 1497377537319751700,
+		"id_str": "1497377537319751681",
+		"full_text": "@atzedevrieze @erwblo @Helie Dus wel over zeiken…",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "atzedevrieze",
+					"name": "Atze de Vrieze",
+					"id": 3192511,
+					"id_str": "3192511",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "erwblo",
+					"name": "Erwin Blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						14,
+						21
+					]
+				},
+				{
+					"screen_name": "Helie",
+					"name": "Helena",
+					"id": 1599741,
+					"id_str": "1599741",
+					"indices": [
+						22,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1497377430503235600,
+		"in_reply_to_status_id_str": "1497377430503235584",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8750,
+			"friends_count": 833,
+			"listed_count": 553,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@atzedevrieze @erwblo @Helie Dus wel over zeiken…"
+	},
+	{
+		"created_at": "Sat Feb 26 01:06:14 +0000 2022",
+		"id": 1497377430503235600,
+		"id_str": "1497377430503235584",
+		"full_text": "@atzedevrieze Helling met Pip Blom vanavond was ook heerlijk. Ik zal niet zeiken over de ageism omdat er een drum ‘n bass feestje kwam waar @erwblo , @Helie en ik volgens de 1-vinkje security niet bij hoorden…",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "atzedevrieze",
+					"name": "Atze de Vrieze",
+					"id": 3192511,
+					"id_str": "3192511",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "erwblo",
+					"name": "Erwin Blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						140,
+						147
+					]
+				},
+				{
+					"screen_name": "Helie",
+					"name": "Helena",
+					"id": 1599741,
+					"id_str": "1599741",
+					"indices": [
+						150,
+						156
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1497326450554413000,
+		"in_reply_to_status_id_str": "1497326450554413069",
+		"in_reply_to_user_id": 3192511,
+		"in_reply_to_user_id_str": "3192511",
+		"in_reply_to_screen_name": "atzedevrieze",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8750,
+			"friends_count": 833,
+			"listed_count": 553,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@atzedevrieze Helling met Pip Blom vanavond was ook heerlijk. Ik zal niet zeiken over de ageism omdat er een drum ‘n bass feestje kwam waar @erwblo , @Helie en ik volgens de 1-vinkje security niet bij hoorden…"
+	},
+	{
+		"created_at": "Sat Feb 26 01:03:08 +0000 2022",
+		"id": 1497376652384477200,
+		"id_str": "1497376652384477185",
+		"full_text": "@_MRS @GunayUslu Ik vind dat je sowieso een festival livestream met @MENEERDEGREEF moet regelen. En dan vooral met moeilijke singersongwriter jazz in 15/8 maat.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_MRS",
+					"name": "Mariska Berrevoets",
+					"id": 27028158,
+					"id_str": "27028158",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"screen_name": "GunayUslu",
+					"name": "Gunay Uslu",
+					"id": 419523665,
+					"id_str": "419523665",
+					"indices": [
+						6,
+						16
+					]
+				},
+				{
+					"screen_name": "MENEERDEGREEF",
+					"name": "𝙶𝚁𝙴𝙴𝙵𝙱𝙴𝙴𝚂𝚃 𝟷𝟼𝟷/𝙲𝙶 🧷 🏴 🇺🇦",
+					"id": 260245776,
+					"id_str": "260245776",
+					"indices": [
+						68,
+						82
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1497317779791249400,
+		"in_reply_to_status_id_str": "1497317779791249409",
+		"in_reply_to_user_id": 27028158,
+		"in_reply_to_user_id_str": "27028158",
+		"in_reply_to_screen_name": "_MRS",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8750,
+			"friends_count": 833,
+			"listed_count": 553,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@_MRS @GunayUslu Ik vind dat je sowieso een festival livestream met @MENEERDEGREEF moet regelen. En dan vooral met moeilijke singersongwriter jazz in 15/8 maat."
+	},
+	{
 		"created_at": "Fri Feb 25 22:59:01 +0000 2022",
 		"id": 1497345415389364200,
 		"id_str": "1497345415389364228",
