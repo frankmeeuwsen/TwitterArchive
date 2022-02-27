@@ -1,6 +1,384 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 27 22:36:45 +0000 2022",
+		"id": 1498064591376588800,
+		"id_str": "1498064591376588807",
+		"full_text": "Wat! https://t.co/uaftvwIJvh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uaftvwIJvh",
+					"expanded_url": "https://twitter.com/IngmarG/status/1498035375004176386",
+					"display_url": "twitter.com/IngmarG/status…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8753,
+			"friends_count": 836,
+			"listed_count": 553,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1498035375004176400,
+		"quoted_status_id_str": "1498035375004176386",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uaftvwIJvh",
+			"expanded": "https://twitter.com/IngmarG/status/1498035375004176386",
+			"display": "twitter.com/IngmarG/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 27 20:40:40 +0000 2022",
+			"id": 1498035375004176400,
+			"id_str": "1498035375004176386",
+			"full_text": "Good Grief! Jawel, het is de Urban Dance Squad @dBsUtrecht (2/5 vd originele line-up, niettemin dik kippenvel). Setlist telt 20 songs btw... https://t.co/w62ZiYlEuv",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				140
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "dBsUtrecht",
+						"name": "dB's",
+						"id": 40689544,
+						"id_str": "40689544",
+						"indices": [
+							47,
+							58
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1498035363075575800,
+						"id_str": "1498035363075575816",
+						"indices": [
+							141,
+							164
+						],
+						"media_url": "http://pbs.twimg.com/media/FMoXOc0X0AggHnb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMoXOc0X0AggHnb.jpg",
+						"url": "https://t.co/w62ZiYlEuv",
+						"display_url": "pic.twitter.com/w62ZiYlEuv",
+						"expanded_url": "https://twitter.com/IngmarG/status/1498035375004176386/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 418,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 630,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1498035363075575800,
+						"id_str": "1498035363075575816",
+						"indices": [
+							141,
+							164
+						],
+						"media_url": "http://pbs.twimg.com/media/FMoXOc0X0AggHnb.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMoXOc0X0AggHnb.jpg",
+						"url": "https://t.co/w62ZiYlEuv",
+						"display_url": "pic.twitter.com/w62ZiYlEuv",
+						"expanded_url": "https://twitter.com/IngmarG/status/1498035375004176386/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 418,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 630,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 630,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1498035372718272500,
+						"id_str": "1498035372718272514",
+						"indices": [
+							141,
+							164
+						],
+						"media_url": "http://pbs.twimg.com/media/FMoXPAvXsAIUc4Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMoXPAvXsAIUc4Q.jpg",
+						"url": "https://t.co/w62ZiYlEuv",
+						"display_url": "pic.twitter.com/w62ZiYlEuv",
+						"expanded_url": "https://twitter.com/IngmarG/status/1498035375004176386/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 306,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 461,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 461,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 29452000,
+				"id_str": "29452000",
+				"name": "Ingmar Griffioen 🇺🇦✌🏼",
+				"screen_name": "IngmarG",
+				"location": "Utrecht, The Netherlands",
+				"description": "🌶️ Curry, cycling & heavy culture 🤟 cat whisperer /\nTeacher NPAC @ROC_MN + HBA + ArtEZ / copywriter @ESNSnl / editor @nmthype / @3voor12",
+				"url": "https://t.co/xp4WLX4b2L",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xp4WLX4b2L",
+								"expanded_url": "http://nl.linkedin.com/in/ingmargriffioen",
+								"display_url": "nl.linkedin.com/in/ingmargriff…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3408,
+				"friends_count": 1723,
+				"listed_count": 125,
+				"created_at": "Tue Apr 07 13:55:26 +0000 2009",
+				"favourites_count": 10133,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 32655,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1366329928/10._Wildlife_in_Cadier__moeder_Nijjntje_en_kind_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366329928/10._Wildlife_in_Cadier__moeder_Nijjntje_en_kind_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/29452000/1435008625",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "871685aa82f8a489",
+				"url": "https://api.twitter.com/1.1/geo/id/871685aa82f8a489.json",
+				"place_type": "city",
+				"name": "Utrecht",
+				"full_name": "Utrecht, Nederland",
+				"country_code": "NL",
+				"country": "Nederland",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								4.9702867,
+								52.0262429
+							],
+							[
+								5.1952468,
+								52.0262429
+							],
+							[
+								5.1952468,
+								52.142137
+							],
+							[
+								4.9702867,
+								52.142137
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Wat! https://t.co/uaftvwIJvh"
+	},
+	{
 		"created_at": "Sun Feb 27 22:11:48 +0000 2022",
 		"id": 1498058309554815000,
 		"id_str": "1498058309554814995",
