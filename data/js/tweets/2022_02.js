@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 28 21:14:35 +0000 2022",
+		"id": 1498397508845936600,
+		"id_str": "1498406301210234882",
+		"full_text": "En de volgende Ondergewaardeerde Playlist gaat over... Miss Nina Simone! \n\nIk zoek mensen die mee willen samenstellen. Ken jij haar oeuvre goed genoeg om daar de meest @ndrgwrdrdldjs uit te vissen? Meld je in de DM! @skoopnl https://t.co/V71NYxr41b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ndrgwrdrdldjs",
+					"name": "Ondrgwrdeerdeliedjes",
+					"id": 2274872545,
+					"id_str": "2274872545",
+					"indices": [
+						168,
+						182
+					]
+				},
+				{
+					"screen_name": "skoopnl",
+					"name": "Stefan Koopmanschap | ꓘINK",
+					"id": 179001722,
+					"id_str": "179001722",
+					"indices": [
+						216,
+						224
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1498397470962991000,
+					"id_str": "1498397470962991106",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/FMtgj50XwAI3IfB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMtgj50XwAI3IfB.jpg",
+					"url": "https://t.co/V71NYxr41b",
+					"display_url": "pic.twitter.com/V71NYxr41b",
+					"expanded_url": "https://twitter.com/freek_janssen/status/1498397508845936640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 681,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 681,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1498397470962991000,
+					"id_str": "1498397470962991106",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/FMtgj50XwAI3IfB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMtgj50XwAI3IfB.jpg",
+					"url": "https://t.co/V71NYxr41b",
+					"display_url": "pic.twitter.com/V71NYxr41b",
+					"expanded_url": "https://twitter.com/freek_janssen/status/1498397508845936640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1000,
+							"h": 681,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 681,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 463,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 71275737,
+			"id_str": "71275737",
+			"name": "uǝssuɐɾ‾ʞǝǝɹɟ@ ✍️🎵",
+			"screen_name": "freek_janssen",
+			"location": "Netherlands",
+			"description": "Freek Janssen, voor de broodnodige nuance. Altijd wakker met @ndrgwrdrdldjs in mijn hoofd. Content mens @Philips.",
+			"url": "https://t.co/Cn0HpK4Hhz",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Cn0HpK4Hhz",
+							"expanded_url": "http://www.ondergewaardeerdeliedjes.nl",
+							"display_url": "ondergewaardeerdeliedjes.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2176,
+			"friends_count": 1209,
+			"listed_count": 104,
+			"created_at": "Thu Sep 03 15:08:24 +0000 2009",
+			"favourites_count": 5902,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43821,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1466037214450786305/y7nBVkc3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1466037214450786305/y7nBVkc3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/71275737/1634504201",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "En de volgende Ondergewaardeerde Playlist gaat over... Miss Nina Simone! \n\nIk zoek mensen die mee willen samenstellen. Ken jij haar oeuvre goed genoeg om daar de meest @ndrgwrdrdldjs uit te vissen? Meld je in de DM! @skoopnl https://t.co/V71NYxr41b"
+	},
+	{
 		"created_at": "Mon Feb 28 16:09:30 +0000 2022",
 		"id": 1498329522969751600,
 		"id_str": "1498329522969751552",
