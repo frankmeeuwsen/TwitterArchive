@@ -1,6 +1,325 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 28 16:09:30 +0000 2022",
+		"id": 1498329522969751600,
+		"id_str": "1498329522969751552",
+		"full_text": "Want er is maar 1 echte eindbaas! https://t.co/uCG92lQpe0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uCG92lQpe0",
+					"expanded_url": "https://twitter.com/perfectsnl/status/1498325949930221568",
+					"display_url": "twitter.com/perfectsnl/sta…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8754,
+			"friends_count": 836,
+			"listed_count": 553,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9413,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1498325949930221600,
+		"quoted_status_id_str": "1498325949930221568",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uCG92lQpe0",
+			"expanded": "https://twitter.com/perfectsnl/status/1498325949930221568",
+			"display": "twitter.com/perfectsnl/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Feb 28 15:55:18 +0000 2022",
+			"id": 1498325949930221600,
+			"id_str": "1498325949930221568",
+			"full_text": "@Roh is 25 jaar bureaudirecteur van Tangram Netcommunicatie, Rhinofly &amp; Kaliber. Dit is de soundtrack. Ook leuk als je Roh! niet bent of kent. Ska, funk, rock, hip hop &amp; reggae…just how Roh! likes it 🙌\n\nSpotify: https://t.co/bSzvuDHMx0 https://t.co/9QUG5x64fC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				243
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Roh",
+						"name": "Ronald van Schaik",
+						"id": 1447551,
+						"id_str": "1447551",
+						"indices": [
+							0,
+							4
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/bSzvuDHMx0",
+						"expanded_url": "https://open.spotify.com/playlist/3eJWHqn5V2lfX5iEJC983n?si=tBcb5Gu9Qhq9PeRYxQmo9Q",
+						"display_url": "open.spotify.com/playlist/3eJWH…",
+						"indices": [
+							220,
+							243
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1498325944645337000,
+						"id_str": "1498325944645337091",
+						"indices": [
+							244,
+							267
+						],
+						"media_url": "http://pbs.twimg.com/media/FMsfghhWQAMPJyG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMsfghhWQAMPJyG.jpg",
+						"url": "https://t.co/9QUG5x64fC",
+						"display_url": "pic.twitter.com/9QUG5x64fC",
+						"expanded_url": "https://twitter.com/perfectsnl/status/1498325949930221568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1498325944645337000,
+						"id_str": "1498325944645337091",
+						"indices": [
+							244,
+							267
+						],
+						"media_url": "http://pbs.twimg.com/media/FMsfghhWQAMPJyG.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FMsfghhWQAMPJyG.jpg",
+						"url": "https://t.co/9QUG5x64fC",
+						"display_url": "pic.twitter.com/9QUG5x64fC",
+						"expanded_url": "https://twitter.com/perfectsnl/status/1498325949930221568/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 1447551,
+			"in_reply_to_user_id_str": "1447551",
+			"in_reply_to_screen_name": "Roh",
+			"user": {
+				"id": 1228407169,
+				"id_str": "1228407169",
+				"name": "Perfects.nl 🎧",
+				"screen_name": "perfectsnl",
+				"location": "Utrecht, NL",
+				"description": "Mixtapes & Playlists galore.",
+				"url": "https://t.co/AiLIeHcyf4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AiLIeHcyf4",
+								"expanded_url": "http://linktr.ee/perfects.nl",
+								"display_url": "linktr.ee/perfects.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1542,
+				"friends_count": 398,
+				"listed_count": 35,
+				"created_at": "Thu Feb 28 21:16:28 +0000 2013",
+				"favourites_count": 1693,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6011,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1081882758203539456/8LRj5Ju9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1081882758203539456/8LRj5Ju9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1228407169/1476905503",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Want er is maar 1 echte eindbaas! https://t.co/uCG92lQpe0"
+	},
+	{
 		"created_at": "Sun Feb 27 22:36:45 +0000 2022",
 		"id": 1498064591376588800,
 		"id_str": "1498064591376588807",
