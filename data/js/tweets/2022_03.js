@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 04 19:01:38 +0000 2022",
+		"id": 1499729129121407000,
+		"id_str": "1499822394948657155",
+		"full_text": "3 is the magic number\n\n33 years old today, released on 3/3\n\nwho else had this tape on heavy rotation in 1989? https://t.co/Negs8YpWrX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1499729125694660600,
+					"id_str": "1499729125694660608",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FNAbsaRWYAAat7A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNAbsaRWYAAat7A.jpg",
+					"url": "https://t.co/Negs8YpWrX",
+					"display_url": "pic.twitter.com/Negs8YpWrX",
+					"expanded_url": "https://twitter.com/clockwerks/status/1499729129121406989/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 633,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 399,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 633,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1499729125694660600,
+					"id_str": "1499729125694660608",
+					"indices": [
+						110,
+						133
+					],
+					"media_url": "http://pbs.twimg.com/media/FNAbsaRWYAAat7A.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNAbsaRWYAAat7A.jpg",
+					"url": "https://t.co/Negs8YpWrX",
+					"display_url": "pic.twitter.com/Negs8YpWrX",
+					"expanded_url": "https://twitter.com/clockwerks/status/1499729129121406989/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 633,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 399,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 633,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1991,
+			"id_str": "1991",
+			"name": "Trei Brundrett",
+			"screen_name": "clockwerks",
+			"location": "Montclair, NJ",
+			"description": "COO @voxmedia; board @TexasTribune + @OpenNews + @McDonaldObs; Astros fan not sorry; I’m from Texas",
+			"url": "https://t.co/j1NwNiU33x",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/j1NwNiU33x",
+							"expanded_url": "https://subs.nymag.com/magazine/subscribe/official-subscription.html",
+							"display_url": "subs.nymag.com/magazine/subsc…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6526,
+			"friends_count": 2381,
+			"listed_count": 276,
+			"created_at": "Mon Jul 17 16:35:26 +0000 2006",
+			"favourites_count": 12248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246913963650154497/KNB2BaQm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246913963650154497/KNB2BaQm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1991/1620412879",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "DBDBEB",
+			"profile_sidebar_fill_color": "20244B",
+			"profile_text_color": "E90202",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 66,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "3 is the magic number\n\n33 years old today, released on 3/3\n\nwho else had this tape on heavy rotation in 1989? https://t.co/Negs8YpWrX"
+	},
+	{
 		"created_at": "Fri Mar 04 17:56:44 +0000 2022",
 		"id": 1499806062089801700,
 		"id_str": "1499806062089801729",
