@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sat Mar 12 14:58:33 +0000 2022",
+		"id": 1501725470362161200,
+		"id_str": "1502660321596649477",
+		"full_text": "Episode 139 | Teaching A Cold War New Tricks https://t.co/wSktwHdO0l",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1501724709624365000,
+					"id_str": "1501724709624365060",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1501724709624365060/pu/img/0Ah5ZMBriB6-tILZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1501724709624365060/pu/img/0Ah5ZMBriB6-tILZ.jpg",
+					"url": "https://t.co/wSktwHdO0l",
+					"display_url": "pic.twitter.com/wSktwHdO0l",
+					"expanded_url": "https://twitter.com/ThePocketReport/status/1501725470362161155/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 939,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1380,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 532,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1501724709624365000,
+					"id_str": "1501724709624365060",
+					"indices": [
+						45,
+						68
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1501724709624365060/pu/img/0Ah5ZMBriB6-tILZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1501724709624365060/pu/img/0Ah5ZMBriB6-tILZ.jpg",
+					"url": "https://t.co/wSktwHdO0l",
+					"display_url": "pic.twitter.com/wSktwHdO0l",
+					"expanded_url": "https://twitter.com/ThePocketReport/status/1501725470362161155/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 939,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1380,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 532,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							18,
+							23
+						],
+						"duration_millis": 124290,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1501724709624365060/pu/vid/320x408/eFmXEWm_udOZUuaG.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1501724709624365060/pu/pl/F1tBn4o35VLunkGq.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1501724709624365060/pu/vid/720x920/aXgkJKwFKMQATTbY.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1501724709624365060/pu/vid/480x612/rvAE85CHObjtq0z2.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 917392647148441600,
+			"id_str": "917392647148441602",
+			"name": "The Pocket Report",
+			"screen_name": "ThePocketReport",
+			"location": "New York, NY",
+			"description": "Bringing you a sub par look at the news in a timely fashion. Send us tips securely on Signal 347.561.8493 (we’ve already heard about Joe Manchin’s wife)",
+			"url": "https://t.co/aD4lOY9ler",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aD4lOY9ler",
+							"expanded_url": "https://linktr.ee/thepocketreport",
+							"display_url": "linktr.ee/thepocketreport",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65564,
+			"friends_count": 265,
+			"listed_count": 98,
+			"created_at": "Mon Oct 09 14:13:46 +0000 2017",
+			"favourites_count": 2286,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 674,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1322362740762136576/Xzc_ud7S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322362740762136576/Xzc_ud7S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/917392647148441602/1642736274",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 721,
+		"favorite_count": 4588,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Episode 139 | Teaching A Cold War New Tricks https://t.co/wSktwHdO0l"
+	},
+	{
 		"created_at": "Sat Mar 12 06:47:02 +0000 2022",
 		"id": 1502413103807537200,
 		"id_str": "1502536625838043137",
