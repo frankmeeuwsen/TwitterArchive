@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Fri Mar 18 08:05:47 +0000 2022",
+		"id": 1504521734598369300,
+		"id_str": "1504730774754451477",
+		"full_text": "This ad was made 23 years ago @trevorbmbagency https://t.co/8DMsUzAItK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "trevorbmbagency",
+					"name": "trevor beattie",
+					"id": 48367105,
+					"id_str": "48367105",
+					"indices": [
+						30,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1504521351100522500,
+					"id_str": "1504521351100522499",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1504521351100522499/pu/img/FAk_6pAN3ZR0sCxe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1504521351100522499/pu/img/FAk_6pAN3ZR0sCxe.jpg",
+					"url": "https://t.co/8DMsUzAItK",
+					"display_url": "pic.twitter.com/8DMsUzAItK",
+					"expanded_url": "https://twitter.com/keano81/status/1504521734598369284/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1504521351100522500,
+					"id_str": "1504521351100522499",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1504521351100522499/pu/img/FAk_6pAN3ZR0sCxe.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1504521351100522499/pu/img/FAk_6pAN3ZR0sCxe.jpg",
+					"url": "https://t.co/8DMsUzAItK",
+					"display_url": "pic.twitter.com/8DMsUzAItK",
+					"expanded_url": "https://twitter.com/keano81/status/1504521734598369284/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 61068,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1504521351100522499/pu/vid/360x270/w5ufaETDo1b3OxNQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1504521351100522499/pu/vid/480x360/u4Z5GhQ1_RJV6PXU.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1504521351100522499/pu/pl/YMtUtgfYsEQi1ez0.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1504521351100522499/pu/vid/960x720/nkeJu9s5hq7srGcg.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16932797,
+			"id_str": "16932797",
+			"name": "Amy Charlotte Kean",
+			"screen_name": "keano81",
+			"location": "England, United Kingdom",
+			"description": "Cult leader. Creative sociologist. Author of 2 bangers: The Little Girl Who Gave Zero Fucks & House of Weeds. Culture editor @shots & co-creator @theDICEcharter",
+			"url": "https://t.co/MW6q70BI9g",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MW6q70BI9g",
+							"expanded_url": "https://www.amazon.co.uk/Little-Girl-Gave-Zero-Fucks/dp/1783529466",
+							"display_url": "amazon.co.uk/Little-Girl-Ga…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13737,
+			"friends_count": 4135,
+			"listed_count": 196,
+			"created_at": "Thu Oct 23 18:53:59 +0000 2008",
+			"favourites_count": 18740,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 44040,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496076444316975109/xVF4S_ZG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496076444316975109/xVF4S_ZG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16932797/1404682280",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 361,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This ad was made 23 years ago @trevorbmbagency https://t.co/8DMsUzAItK"
+	},
+	{
 		"created_at": "Wed Mar 16 20:40:53 +0000 2022",
 		"id": 1504196023522111500,
 		"id_str": "1504196023522111495",
