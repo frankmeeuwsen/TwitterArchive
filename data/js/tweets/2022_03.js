@@ -1,6 +1,848 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 24 07:47:49 +0000 2022",
+		"id": 1506900578785390600,
+		"id_str": "1506900578785390597",
+		"full_text": "#BreakfastClubDay\n\nHet schoolgebouw waar de film werd opgenomen was destijds al een verlaten school. Nu is het een politiebureau. Het is te vinden op Google Streetview! https://t.co/j83x5AXLMx https://t.co/SA67ZpKsG7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BreakfastClubDay",
+					"indices": [
+						0,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j83x5AXLMx",
+					"expanded_url": "https://goo.gl/maps/XzExiuMALPQoKmYE7",
+					"display_url": "goo.gl/maps/XzExiuMAL…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1506900566261198800,
+					"id_str": "1506900566261198850",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FOmWFMPVcAIMxLW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOmWFMPVcAIMxLW.jpg",
+					"url": "https://t.co/SA67ZpKsG7",
+					"display_url": "pic.twitter.com/SA67ZpKsG7",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1506900578785390597/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 599,
+							"h": 337,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 599,
+							"h": 337,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 599,
+							"h": 337,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506900566261198800,
+					"id_str": "1506900566261198850",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FOmWFMPVcAIMxLW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOmWFMPVcAIMxLW.jpg",
+					"url": "https://t.co/SA67ZpKsG7",
+					"display_url": "pic.twitter.com/SA67ZpKsG7",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1506900578785390597/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 599,
+							"h": 337,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 599,
+							"h": 337,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 599,
+							"h": 337,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1506900569675362300,
+					"id_str": "1506900569675362305",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/FOmWFY9VcAEKzU0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOmWFY9VcAEKzU0.jpg",
+					"url": "https://t.co/SA67ZpKsG7",
+					"display_url": "pic.twitter.com/SA67ZpKsG7",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1506900578785390597/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 883,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 501,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1508,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
+		"in_reply_to_status_id": 1506900564486942700,
+		"in_reply_to_status_id_str": "1506900564486942721",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8748,
+			"friends_count": 862,
+			"listed_count": 551,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9607,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "#BreakfastClubDay\n\nHet schoolgebouw waar de film werd opgenomen was destijds al een verlaten school. Nu is het een politiebureau. Het is te vinden op Google Streetview! https://t.co/j83x5AXLMx https://t.co/SA67ZpKsG7"
+	},
+	{
+		"created_at": "Thu Mar 24 07:47:46 +0000 2022",
+		"id": 1506900564486942700,
+		"id_str": "1506900564486942721",
+		"full_text": "#BreakfastClubDay \n\nEigenlijk zou Nicholas Cage de rol van John Bender spelen. Gelukkig kon de studio het salaris niet betalen. John Cusack werd nog overwogen, maar uiteindelijk ging de rol van de ruwe bolster naar Judd Nelson. https://t.co/df09HkEpiO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BreakfastClubDay",
+					"indices": [
+						0,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1506900554554912800,
+					"id_str": "1506900554554912769",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FOmWEgoVsAEr1Cr.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FOmWEgoVsAEr1Cr.jpg",
+					"url": "https://t.co/df09HkEpiO",
+					"display_url": "pic.twitter.com/df09HkEpiO",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1506900564486942721/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 264,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 264,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 264,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506900554554912800,
+					"id_str": "1506900554554912769",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FOmWEgoVsAEr1Cr.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FOmWEgoVsAEr1Cr.jpg",
+					"url": "https://t.co/df09HkEpiO",
+					"display_url": "pic.twitter.com/df09HkEpiO",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1506900564486942721/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 264,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 264,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 264,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							125,
+							66
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FOmWEgoVsAEr1Cr.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
+		"in_reply_to_status_id": 1506900552034050000,
+		"in_reply_to_status_id_str": "1506900552034050051",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8748,
+			"friends_count": 862,
+			"listed_count": 551,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9607,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "#BreakfastClubDay \n\nEigenlijk zou Nicholas Cage de rol van John Bender spelen. Gelukkig kon de studio het salaris niet betalen. John Cusack werd nog overwogen, maar uiteindelijk ging de rol van de ruwe bolster naar Judd Nelson. https://t.co/df09HkEpiO"
+	},
+	{
+		"created_at": "Thu Mar 24 07:47:43 +0000 2022",
+		"id": 1506900552034050000,
+		"id_str": "1506900552034050051",
+		"full_text": "#BreakfastClubDay\n\nDe quote in de opening is van David Bowie (👋 @djeekopdicht) en komt uit het nummer \"Changes\", te vinden op het album Hunky Dory. Ally Sheedy (Allison) stelde dit voor bij Hughes. https://t.co/ROymhKyRsh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BreakfastClubDay",
+					"indices": [
+						0,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "djeekopdicht",
+					"name": "Djeekop de Dichter ★",
+					"id": 230191922,
+					"id_str": "230191922",
+					"indices": [
+						64,
+						77
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1506900547718180900,
+					"id_str": "1506900547718180867",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FOmWEHKVcAMlAYU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOmWEHKVcAMlAYU.jpg",
+					"url": "https://t.co/ROymhKyRsh",
+					"display_url": "pic.twitter.com/ROymhKyRsh",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1506900552034050051/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 736,
+							"h": 608,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 608,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 562,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506900547718180900,
+					"id_str": "1506900547718180867",
+					"indices": [
+						198,
+						221
+					],
+					"media_url": "http://pbs.twimg.com/media/FOmWEHKVcAMlAYU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOmWEHKVcAMlAYU.jpg",
+					"url": "https://t.co/ROymhKyRsh",
+					"display_url": "pic.twitter.com/ROymhKyRsh",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1506900552034050051/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 736,
+							"h": 608,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 736,
+							"h": 608,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 562,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
+		"in_reply_to_status_id": 1506900545809707000,
+		"in_reply_to_status_id_str": "1506900545809707011",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8748,
+			"friends_count": 862,
+			"listed_count": 551,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9607,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "#BreakfastClubDay\n\nDe quote in de opening is van David Bowie (👋 @djeekopdicht) en komt uit het nummer \"Changes\", te vinden op het album Hunky Dory. Ally Sheedy (Allison) stelde dit voor bij Hughes. https://t.co/ROymhKyRsh"
+	},
+	{
+		"created_at": "Thu Mar 24 07:47:41 +0000 2022",
+		"id": 1506900545809707000,
+		"id_str": "1506900545809707011",
+		"full_text": "#BreakfastClubDay\n\nRegisseur John Hughes schreef het script voor de film in 2 dagen (4 en 5 juli 1982). Na het succes herschreef hij het naar een toneelstuk zodat op scholen kon worden uitgevoerd. https://t.co/rCEq4yk9JQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BreakfastClubDay",
+					"indices": [
+						0,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1506900541623849000,
+					"id_str": "1506900541623848961",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FOmWDwdVUAEChr0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOmWDwdVUAEChr0.jpg",
+					"url": "https://t.co/rCEq4yk9JQ",
+					"display_url": "pic.twitter.com/rCEq4yk9JQ",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1506900545809707011/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506900541623849000,
+					"id_str": "1506900541623848961",
+					"indices": [
+						197,
+						220
+					],
+					"media_url": "http://pbs.twimg.com/media/FOmWDwdVUAEChr0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOmWDwdVUAEChr0.jpg",
+					"url": "https://t.co/rCEq4yk9JQ",
+					"display_url": "pic.twitter.com/rCEq4yk9JQ",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1506900545809707011/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
+		"in_reply_to_status_id": 1506900539782488000,
+		"in_reply_to_status_id_str": "1506900539782488067",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8748,
+			"friends_count": 862,
+			"listed_count": 551,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9607,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66415,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "#BreakfastClubDay\n\nRegisseur John Hughes schreef het script voor de film in 2 dagen (4 en 5 juli 1982). Na het succes herschreef hij het naar een toneelstuk zodat op scholen kon worden uitgevoerd. https://t.co/rCEq4yk9JQ"
+	},
+	{
 		"created_at": "Wed Mar 23 20:05:21 +0000 2022",
 		"id": 1506723797302399000,
 		"id_str": "1506723797302398978",
