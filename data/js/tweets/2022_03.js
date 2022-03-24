@@ -1,6 +1,412 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Thu Mar 24 14:57:47 +0000 2022",
+		"id": 1506993024407986200,
+		"id_str": "1507008783511293962",
+		"full_text": "Today is March 24th, i.e. #breakfastclubday. It ain't Saturday, it sure as heck ain't 1984 BUT it is the celebration of one of the grreat movie about young people ever made. I'm Kevin, I wrote a book about teen movies called \"Brat Pack America\" and I will be your guide https://t.co/94yp47YJj9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "breakfastclubday",
+					"indices": [
+						26,
+						43
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1506992986483167200,
+					"id_str": "1506992986483167235",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FOnqIwZVkAMPXq4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOnqIwZVkAMPXq4.jpg",
+					"url": "https://t.co/94yp47YJj9",
+					"display_url": "pic.twitter.com/94yp47YJj9",
+					"expanded_url": "https://twitter.com/Weegee/status/1506993024407986185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 224,
+							"h": 346,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 224,
+							"h": 346,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 224,
+							"h": 346,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506992986483167200,
+					"id_str": "1506992986483167235",
+					"indices": [
+						270,
+						293
+					],
+					"media_url": "http://pbs.twimg.com/media/FOnqIwZVkAMPXq4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FOnqIwZVkAMPXq4.jpg",
+					"url": "https://t.co/94yp47YJj9",
+					"display_url": "pic.twitter.com/94yp47YJj9",
+					"expanded_url": "https://twitter.com/Weegee/status/1506993024407986185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 224,
+							"h": 346,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 224,
+							"h": 346,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 224,
+							"h": 346,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 44353,
+			"id_str": "44353",
+			"name": "Kevin Smokler",
+			"screen_name": "Weegee",
+			"location": "San Francisco",
+			"description": "3 books, 1 documentary film (https://t.co/P8WgGW3GRq), hosting stuff.  https://t.co/UNYFwvWWFg Rep: @nickirichesin. Make friends, ignore enemies.",
+			"url": "https://t.co/kS2z3jQ3Bm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kS2z3jQ3Bm",
+							"expanded_url": "http://www.kevinsmokler.com",
+							"display_url": "kevinsmokler.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/P8WgGW3GRq",
+							"expanded_url": "http://vinylnationfilm.com",
+							"display_url": "vinylnationfilm.com",
+							"indices": [
+								29,
+								52
+							]
+						},
+						{
+							"url": "https://t.co/UNYFwvWWFg",
+							"expanded_url": "http://kevinsmokler.com",
+							"display_url": "kevinsmokler.com",
+							"indices": [
+								71,
+								94
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 51139,
+			"friends_count": 840,
+			"listed_count": 1044,
+			"created_at": "Wed Dec 06 03:40:49 +0000 2006",
+			"favourites_count": 16670,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 81641,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1412902196249694208/OglNM3l5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1412902196249694208/OglNM3l5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44353/1471058621",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "0B0F0D",
+			"profile_sidebar_fill_color": "EAF7CA",
+			"profile_text_color": "100F0F",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today is March 24th, i.e. #breakfastclubday. It ain't Saturday, it sure as heck ain't 1984 BUT it is the celebration of one of the grreat movie about young people ever made. I'm Kevin, I wrote a book about teen movies called \"Brat Pack America\" and I will be your guide https://t.co/94yp47YJj9"
+	},
+	{
+		"created_at": "Thu Mar 24 14:51:00 +0000 2022",
+		"id": 1507007075406127000,
+		"id_str": "1507007075406127121",
+		"full_text": "#BreakfastClubDay\n\nEen fijn boek over de films van John Hughes en vele andere highschool movies van de 80s is Brat Pack America van @Weegee.  Tjokvol weetjes! https://t.co/Aad37wliNZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BreakfastClubDay",
+					"indices": [
+						0,
+						17
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Weegee",
+					"name": "Kevin Smokler",
+					"id": 44353,
+					"id_str": "44353",
+					"indices": [
+						132,
+						139
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1506749732386975700,
+					"id_str": "1506749732386975757",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FOkM5gRXMA0cdRm.png",
+					"media_url_https": "https://pbs.twimg.com/media/FOkM5gRXMA0cdRm.png",
+					"url": "https://t.co/Aad37wliNZ",
+					"display_url": "pic.twitter.com/Aad37wliNZ",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1507007075406127121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1506749732386975700,
+					"id_str": "1506749732386975757",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FOkM5gRXMA0cdRm.png",
+					"media_url_https": "https://pbs.twimg.com/media/FOkM5gRXMA0cdRm.png",
+					"url": "https://t.co/Aad37wliNZ",
+					"display_url": "pic.twitter.com/Aad37wliNZ",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1507007075406127121/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 506,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8746,
+			"friends_count": 862,
+			"listed_count": 551,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9620,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "#BreakfastClubDay\n\nEen fijn boek over de films van John Hughes en vele andere highschool movies van de 80s is Brat Pack America van @Weegee.  Tjokvol weetjes! https://t.co/Aad37wliNZ"
+	},
+	{
 		"created_at": "Thu Mar 24 13:48:04 +0000 2022",
 		"id": 1506991239790534700,
 		"id_str": "1506991239790534659",
