@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 28 15:14:18 +0000 2022",
+		"id": 1508462491445211100,
+		"id_str": "1508462491445211136",
+		"full_text": "voor @KirstenJassies en @eljadaae . Insta in je nieuwsbrief! Mailbrew is sowieso een aanrader van jewelste. https://t.co/7l1sK1WGGL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KirstenJassies",
+					"name": "Kirsten Jassies - DIY🤘",
+					"id": 15032299,
+					"id_str": "15032299",
+					"indices": [
+						5,
+						20
+					]
+				},
+				{
+					"screen_name": "eljadaae",
+					"name": "Elja Daae",
+					"id": 111704957,
+					"id_str": "111704957",
+					"indices": [
+						24,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7l1sK1WGGL",
+					"expanded_url": "https://twitter.com/mailbrew/status/1507385813721440259",
+					"display_url": "twitter.com/mailbrew/statu…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8747,
+			"friends_count": 863,
+			"listed_count": 551,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1507385813721440300,
+		"quoted_status_id_str": "1507385813721440259",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7l1sK1WGGL",
+			"expanded": "https://twitter.com/mailbrew/status/1507385813721440259",
+			"display": "twitter.com/mailbrew/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Mar 25 15:55:58 +0000 2022",
+			"id": 1507385813721440300,
+			"id_str": "1507385813721440259",
+			"full_text": "📣 New Instagram source!\n\nAdd any public Instagram account to your Mailbrew digest.\n\nYou can use it to:\n\n• Get a visual inspiration email digest\n• Create a newsletter from your IG account\n• Add IG news feeds to your daily brew\n\nTry it now → https://t.co/V6OJMoFAeg https://t.co/9ki2gzyIRf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				263
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/V6OJMoFAeg",
+						"expanded_url": "http://mailbrew.com",
+						"display_url": "mailbrew.com",
+						"indices": [
+							240,
+							263
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1507385807895625700,
+						"id_str": "1507385807895625728",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/media/FOtPZ-MVgAAyYuH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FOtPZ-MVgAAyYuH.jpg",
+						"url": "https://t.co/9ki2gzyIRf",
+						"display_url": "pic.twitter.com/9ki2gzyIRf",
+						"expanded_url": "https://twitter.com/mailbrew/status/1507385813721440259/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1800,
+								"h": 942,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1507385807895625700,
+						"id_str": "1507385807895625728",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/media/FOtPZ-MVgAAyYuH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FOtPZ-MVgAAyYuH.jpg",
+						"url": "https://t.co/9ki2gzyIRf",
+						"display_url": "pic.twitter.com/9ki2gzyIRf",
+						"expanded_url": "https://twitter.com/mailbrew/status/1507385813721440259/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1800,
+								"h": 942,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1185826789454729200,
+				"id_str": "1185826789454729216",
+				"name": "Mailbrew",
+				"screen_name": "mailbrew",
+				"location": "get your free digest →",
+				"description": "Your personal daily newsletter 💌",
+				"url": "https://t.co/N7eO9Nhn42",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/N7eO9Nhn42",
+								"expanded_url": "http://mailbrew.com",
+								"display_url": "mailbrew.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3811,
+				"friends_count": 3,
+				"listed_count": 106,
+				"created_at": "Sun Oct 20 07:55:33 +0000 2019",
+				"favourites_count": 840,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 751,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1418175281626497030/_FQnoBRe_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1418175281626497030/_FQnoBRe_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1185826789454729216/1626954311",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "voor @KirstenJassies en @eljadaae . Insta in je nieuwsbrief! Mailbrew is sowieso een aanrader van jewelste. https://t.co/7l1sK1WGGL"
+	},
+	{
 		"created_at": "Mon Mar 28 11:01:09 +0000 2022",
 		"id": 1508398786149814300,
 		"id_str": "1508398786149814277",
