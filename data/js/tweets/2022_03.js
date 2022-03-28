@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 28 05:25:10 +0000 2022",
+		"id": 1508284373002596400,
+		"id_str": "1508314233016139779",
+		"full_text": "\"now imagine if you could own that moment as an NFT\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15858184,
+			"id_str": "15858184",
+			"name": "Trevorsura",
+			"screen_name": "whatdotcd",
+			"location": "LOS ANGELES",
+			"description": "founder @makebrud (acq: @dapperlabs) & @fwbtweets. full bio here: https://t.co/0aUz0T8oks // $FWB @chadteam6 @TheRealDAOJones",
+			"url": "https://t.co/FjQ3SKf6TB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FjQ3SKf6TB",
+							"expanded_url": "http://brud.fyi",
+							"display_url": "brud.fyi",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0aUz0T8oks",
+							"expanded_url": "http://bit.ly/2tWE80z",
+							"display_url": "bit.ly/2tWE80z",
+							"indices": [
+								66,
+								89
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 74931,
+			"friends_count": 5080,
+			"listed_count": 1073,
+			"created_at": "Fri Aug 15 01:14:05 +0000 2008",
+			"favourites_count": 25190,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "090A0A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487232567916990464/C8EJcqn2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487232567916990464/C8EJcqn2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15858184/1509347409",
+			"profile_link_color": "B3B1B3",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 273,
+		"favorite_count": 2026,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "\"now imagine if you could own that moment as an NFT\""
+	},
+	{
 		"created_at": "Mon Mar 28 05:12:52 +0000 2022",
 		"id": 1508311134696312800,
 		"id_str": "1508311134696312835",
