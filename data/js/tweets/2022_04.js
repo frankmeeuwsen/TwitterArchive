@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sat Apr 02 05:03:22 +0000 2022",
+		"id": 1510120684374089700,
+		"id_str": "1510120684374089736",
+		"full_text": "Dit is waar we het over hadden, @CharlottesLaw https://t.co/xHp1s797zd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CharlottesLaw",
+					"name": "Charlotte | jurist en ondernemer",
+					"id": 337207549,
+					"id_str": "337207549",
+					"indices": [
+						32,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xHp1s797zd",
+					"expanded_url": "https://twitter.com/willemslockdown/status/1509978355709485057",
+					"display_url": "twitter.com/willemslockdow…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8749,
+			"friends_count": 864,
+			"listed_count": 551,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9679,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66483,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1509978355709485000,
+		"quoted_status_id_str": "1509978355709485057",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xHp1s797zd",
+			"expanded": "https://twitter.com/willemslockdown/status/1509978355709485057",
+			"display": "twitter.com/willemslockdow…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 01 19:37:48 +0000 2022",
+			"id": 1509978355709485000,
+			"id_str": "1509978355709485057",
+			"full_text": "'onthoudt van uitingen op social media' https://t.co/NTAQLl6DOb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				39
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1509978043342798800,
+						"id_str": "1509978043342798852",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/FPSFB7wWQAQEmsf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FPSFB7wWQAQEmsf.jpg",
+						"url": "https://t.co/NTAQLl6DOb",
+						"display_url": "pic.twitter.com/NTAQLl6DOb",
+						"expanded_url": "https://twitter.com/WillemsLockdown/status/1509978355709485057/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1254,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 735,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 416,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1509978043342798800,
+						"id_str": "1509978043342798852",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/FPSFB7wWQAQEmsf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FPSFB7wWQAQEmsf.jpg",
+						"url": "https://t.co/NTAQLl6DOb",
+						"display_url": "pic.twitter.com/NTAQLl6DOb",
+						"expanded_url": "https://twitter.com/WillemsLockdown/status/1509978355709485057/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1254,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 735,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 416,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1509978318635946000,
+						"id_str": "1509978318635945987",
+						"indices": [
+							40,
+							63
+						],
+						"media_url": "http://pbs.twimg.com/media/FPSFR9TWUAMZ8lu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FPSFR9TWUAMZ8lu.jpg",
+						"url": "https://t.co/NTAQLl6DOb",
+						"display_url": "pic.twitter.com/NTAQLl6DOb",
+						"expanded_url": "https://twitter.com/WillemsLockdown/status/1509978355709485057/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1143,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 648,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1310,
+								"h": 1248,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1506047466608763000,
+				"id_str": "1506047466608762885",
+				"name": "Zit Willem nog in de cel?",
+				"screen_name": "WillemsLockdown",
+				"location": "Marconiplein Rotterdam",
+				"description": "Zit Willem nog in de cel?",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27,
+				"friends_count": 4,
+				"listed_count": 0,
+				"created_at": "Mon Mar 21 23:18:33 +0000 2022",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 26,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1506051574312972296/P57Z7UQN_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1506051574312972296/P57Z7UQN_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1506047466608762885/1647905652",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 64,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Dit is waar we het over hadden, @CharlottesLaw https://t.co/xHp1s797zd"
+	},
+	{
 		"created_at": "Fri Apr 01 05:43:59 +0000 2022",
 		"id": 1509768519440904200,
 		"id_str": "1509768519440904241",
