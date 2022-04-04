@@ -1,6 +1,154 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 04 05:50:34 +0000 2022",
+		"id": 1510857338441322500,
+		"id_str": "1510857338441322498",
+		"full_text": "@lykle @unsplash Ik gebruik Timing via @Setapp abonnement. Het houdt bij welke tabbladen en docs je open hebt. Via regels kun je die aan projecten hangen. Met de API of Zapier kun je direct koppelen aan je urenschrijfprogramma mocht je willen. \n\nhttps://t.co/BQjFzTAc1g",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lykle",
+					"name": "Lykle de Vries",
+					"id": 5146031,
+					"id_str": "5146031",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "unsplash",
+					"name": "Unsplash",
+					"id": 1520228526,
+					"id_str": "1520228526",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"screen_name": "Setapp",
+					"name": "Setapp",
+					"id": 783654619662745600,
+					"id_str": "783654619662745600",
+					"indices": [
+						39,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BQjFzTAc1g",
+					"expanded_url": "https://diggingthedigital.com/handig-videocalls-bijhouden-met-timing/",
+					"display_url": "diggingthedigital.com/handig-videoca…",
+					"indices": [
+						246,
+						269
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1510527558642765800,
+		"in_reply_to_status_id_str": "1510527558642765831",
+		"in_reply_to_user_id": 5146031,
+		"in_reply_to_user_id_str": "5146031",
+		"in_reply_to_screen_name": "lykle",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8750,
+			"friends_count": 865,
+			"listed_count": 551,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9687,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66494,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@lykle @unsplash Ik gebruik Timing via @Setapp abonnement. Het houdt bij welke tabbladen en docs je open hebt. Via regels kun je die aan projecten hangen. Met de API of Zapier kun je direct koppelen aan je urenschrijfprogramma mocht je willen. \n\nhttps://t.co/BQjFzTAc1g"
+	},
+	{
 		"created_at": "Sun Apr 03 11:08:33 +0000 2022",
 		"id": 1510574972468707300,
 		"id_str": "1510574972468707338",
