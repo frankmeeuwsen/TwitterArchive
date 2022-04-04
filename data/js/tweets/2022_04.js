@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 04 19:14:41 +0000 2022",
+		"id": 1511059702821630000,
+		"id_str": "1511059702821629967",
+		"full_text": "@bitsoffreedom dus ;-) https://t.co/k4GMhnKlUR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bitsoffreedom",
+					"name": "Bits of Freedom",
+					"id": 55914675,
+					"id_str": "55914675",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/k4GMhnKlUR",
+					"expanded_url": "https://twitter.com/marcoderksen/status/1511057616306380805",
+					"display_url": "twitter.com/marcoderksen/s…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 55914675,
+		"in_reply_to_user_id_str": "55914675",
+		"in_reply_to_screen_name": "bitsoffreedom",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8749,
+			"friends_count": 865,
+			"listed_count": 551,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9688,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1511057616306380800,
+		"quoted_status_id_str": "1511057616306380805",
+		"quoted_status_permalink": {
+			"url": "https://t.co/k4GMhnKlUR",
+			"expanded": "https://twitter.com/marcoderksen/status/1511057616306380805",
+			"display": "twitter.com/marcoderksen/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 04 19:06:24 +0000 2022",
+			"id": 1511057616306380800,
+			"id_str": "1511057616306380805",
+			"full_text": "Heb ik wellicht nog mensen van Bits of Freedom in mijn tijdlijn die kunnen helpen? https://t.co/AOIGrqgiCZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				106
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/AOIGrqgiCZ",
+						"expanded_url": "https://www.linkedin.com/posts/mderksen_in-hoeveel-databases-van-de-overheid-staan-activity-6916799246285332480-YXR3",
+						"display_url": "linkedin.com/posts/mderksen…",
+						"indices": [
+							83,
+							106
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1252681,
+				"id_str": "1252681",
+				"name": "Marco Derksen",
+				"screen_name": "marcoderksen",
+				"location": "Arnhem, Netherlands ",
+				"description": "Oprichter/partner Upstream, Marketingfacts, Dagstage, AOG, HAN, VPRO, DDMA, Luxor Live, leiderschap bij digitale transformatie, onderwijs, fotografie en vader!",
+				"url": "https://t.co/XN0TBMzQnD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XN0TBMzQnD",
+								"expanded_url": "https://www.linkedin.com/in/mderksen/",
+								"display_url": "linkedin.com/in/mderksen/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27286,
+				"friends_count": 5291,
+				"listed_count": 1374,
+				"created_at": "Thu Mar 15 22:44:18 +0000 2007",
+				"favourites_count": 12910,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 164458,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1260459260858830848/H1Zyfo8O_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260459260858830848/H1Zyfo8O_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1252681/1348906748",
+				"profile_link_color": "EB8415",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@bitsoffreedom dus ;-) https://t.co/k4GMhnKlUR"
+	},
+	{
 		"created_at": "Mon Apr 04 05:50:34 +0000 2022",
 		"id": 1510857338441322500,
 		"id_str": "1510857338441322498",
