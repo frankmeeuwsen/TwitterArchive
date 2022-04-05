@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 05 15:49:04 +0000 2022",
+		"id": 1510692748931784700,
+		"id_str": "1511370342736056320",
+		"full_text": "if Thanos' snap killed 50% of all life, that means that the survivors would have lost 50% of their gut biomes in an instant and spent the next few months power-blasting their bathrooms with diarrhea, in this essay I will-",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 460887584,
+			"id_str": "460887584",
+			"name": "Janel Comeau",
+			"screen_name": "VeryBadLlama",
+			"location": "Halifax, Canada",
+			"description": "Writer, comedian, illustrator, and international woman of mystery. Co-host of @fatfrenchfab. Sworn enemy of the Swedish Yule Goat. Words: @cracked @TheBeaverton",
+			"url": "https://t.co/gB1d5lEGan",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gB1d5lEGan",
+							"expanded_url": "https://linktr.ee/allwitnobrevity",
+							"display_url": "linktr.ee/allwitnobrevity",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33797,
+			"friends_count": 1576,
+			"listed_count": 168,
+			"created_at": "Wed Jan 11 07:06:20 +0000 2012",
+			"favourites_count": 77008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 18865,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/805630734983524352/sid3OF8b_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/805630734983524352/sid3OF8b_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/460887584/1386042971",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10247,
+		"favorite_count": 101362,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "if Thanos' snap killed 50% of all life, that means that the survivors would have lost 50% of their gut biomes in an instant and spent the next few months power-blasting their bathrooms with diarrhea, in this essay I will-"
+	},
+	{
 		"created_at": "Tue Apr 05 11:31:47 +0000 2022",
 		"id": 1511305597836304400,
 		"id_str": "1511305597836304385",
