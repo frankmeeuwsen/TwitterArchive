@@ -1,6 +1,355 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 06 06:55:15 +0000 2022",
+		"id": 1511598390198648800,
+		"id_str": "1511598390198648833",
+		"full_text": "@ramak Jouw tweet ondermijnt het principe van de captcha. \"Bewijzen dat je mens bent\". \nZo vroeg op de ochtend al over de Turing test filosoferen... oef..",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ramak",
+					"name": "Ralph v/h Nederend",
+					"id": 17604339,
+					"id_str": "17604339",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1511593316978151400,
+		"in_reply_to_status_id_str": "1511593316978151432",
+		"in_reply_to_user_id": 17604339,
+		"in_reply_to_user_id_str": "17604339",
+		"in_reply_to_screen_name": "ramak",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8750,
+			"friends_count": 867,
+			"listed_count": 551,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@ramak Jouw tweet ondermijnt het principe van de captcha. \"Bewijzen dat je mens bent\". \nZo vroeg op de ochtend al over de Turing test filosoferen... oef.."
+	},
+	{
+		"created_at": "Wed Apr 06 06:53:45 +0000 2022",
+		"id": 1511598013160079400,
+		"id_str": "1511598013160079364",
+		"full_text": "Ik gebruik met veel tevredenheid @cleanmymac , het was mij ontgaan dat de makers uit Oekraïne komen. De laatste releasenotes maken dat wel duidelijk. https://t.co/rHiuRVdbYz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cleanmymac",
+					"name": "CleanMyMac",
+					"id": 109394846,
+					"id_str": "109394846",
+					"indices": [
+						33,
+						44
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1511597994839318500,
+					"id_str": "1511597994839318534",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FPpGXhWXIAYJrVg.png",
+					"media_url_https": "https://pbs.twimg.com/media/FPpGXhWXIAYJrVg.png",
+					"url": "https://t.co/rHiuRVdbYz",
+					"display_url": "pic.twitter.com/rHiuRVdbYz",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1511598013160079364/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 563,
+							"h": 262,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 563,
+							"h": 262,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 563,
+							"h": 262,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511597994839318500,
+					"id_str": "1511597994839318534",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FPpGXhWXIAYJrVg.png",
+					"media_url_https": "https://pbs.twimg.com/media/FPpGXhWXIAYJrVg.png",
+					"url": "https://t.co/rHiuRVdbYz",
+					"display_url": "pic.twitter.com/rHiuRVdbYz",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1511598013160079364/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 563,
+							"h": 262,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 563,
+							"h": 262,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 563,
+							"h": 262,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1511597994814156800,
+					"id_str": "1511597994814156804",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/media/FPpGXhQXMAQq2ak.png",
+					"media_url_https": "https://pbs.twimg.com/media/FPpGXhQXMAQq2ak.png",
+					"url": "https://t.co/rHiuRVdbYz",
+					"display_url": "pic.twitter.com/rHiuRVdbYz",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1511598013160079364/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 558,
+							"h": 185,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 558,
+							"h": 185,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 558,
+							"h": 185,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8750,
+			"friends_count": 867,
+			"listed_count": 551,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik gebruik met veel tevredenheid @cleanmymac , het was mij ontgaan dat de makers uit Oekraïne komen. De laatste releasenotes maken dat wel duidelijk. https://t.co/rHiuRVdbYz"
+	},
+	{
 		"created_at": "Tue Apr 05 20:42:21 +0000 2022",
 		"id": 1511444151002407000,
 		"id_str": "1511444151002406914",
