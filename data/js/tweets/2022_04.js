@@ -1,6 +1,110 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 07 21:17:39 +0000 2022",
+		"id": 1511736205150507000,
+		"id_str": "1512177808231043075",
+		"full_text": "I am quite obsessed about what I hear is happening in the books world with TikTok. I\n\nI don’t mean just the #booktok content streams and influencers - powerful as they are - I mean the ordinary reader-created content going viral and driving non-digital buying and reading.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "booktok",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7686092,
+			"id_str": "7686092",
+			"name": "Anna Rafferty",
+			"screen_name": "raffers",
+			"location": "London",
+			"description": "Talks fast. Now: @LEGO_Group @womensprize + @WEF Future Council. Prev: @bbcstudios @Pottermore & @Penguinukbooks. This is books, TV, kids & personal.",
+			"url": "https://t.co/Zg7r4GViI8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Zg7r4GViI8",
+							"expanded_url": "https://uk.linkedin.com/in/annarafferty",
+							"display_url": "uk.linkedin.com/in/annarafferty",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6850,
+			"friends_count": 5033,
+			"listed_count": 213,
+			"created_at": "Tue Jul 24 15:31:22 +0000 2007",
+			"favourites_count": 12749,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19790,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "642D8B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1499525518252810240/jqfN_PYj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1499525518252810240/jqfN_PYj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7686092/1646733151",
+			"profile_link_color": "FF0000",
+			"profile_sidebar_border_color": "65B0DA",
+			"profile_sidebar_fill_color": "7AC3EE",
+			"profile_text_color": "3D1957",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 22,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I am quite obsessed about what I hear is happening in the books world with TikTok. I\n\nI don’t mean just the #booktok content streams and influencers - powerful as they are - I mean the ordinary reader-created content going viral and driving non-digital buying and reading."
+	},
+	{
 		"created_at": "Thu Apr 07 08:03:30 +0000 2022",
 		"id": 1511977956066926600,
 		"id_str": "1511977956066926593",
