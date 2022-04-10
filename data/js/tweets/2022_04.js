@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sun Apr 10 16:59:36 +0000 2022",
+		"id": 1513176213711376400,
+		"id_str": "1513200032232742917",
+		"full_text": "I set aside 3 hours this weekend to take notes on  @punk6529 &amp; @RaoulGMI's recent podcast.\n\nAnon, here's my summary and takeaways:\n🧵👇 https://t.co/a7qRX1XJM7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "punk6529",
+					"name": "6529",
+					"id": 1388487332093997000,
+					"id_str": "1388487332093997057",
+					"indices": [
+						51,
+						60
+					]
+				},
+				{
+					"screen_name": "RaoulGMI",
+					"name": "Raoul Pal",
+					"id": 2453385626,
+					"id_str": "2453385626",
+					"indices": [
+						67,
+						76
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/a7qRX1XJM7",
+					"expanded_url": "https://twitter.com/punk6529/status/1512486138983895050",
+					"display_url": "twitter.com/punk6529/statu…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1088887352418881500,
+			"id_str": "1088887352418881537",
+			"name": "Snowflake ❄️",
+			"screen_name": "jameskwho",
+			"location": "",
+			"description": "analyst and global citizen, 美国华人, strategy @opensea, tweets are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 11062,
+			"friends_count": 742,
+			"listed_count": 49,
+			"created_at": "Fri Jan 25 19:52:30 +0000 2019",
+			"favourites_count": 5717,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1342,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496521034488586246/b5X7pGSZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496521034488586246/b5X7pGSZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1088887352418881537/1646324709",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1512486138983895000,
+		"quoted_status_id_str": "1512486138983895050",
+		"quoted_status_permalink": {
+			"url": "https://t.co/a7qRX1XJM7",
+			"expanded": "https://twitter.com/punk6529/status/1512486138983895050",
+			"display": "twitter.com/punk6529/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 08 17:42:50 +0000 2022",
+			"id": 1512486138983895000,
+			"id_str": "1512486138983895050",
+			"full_text": "My chat with @RaoulGMI has dropped.    This was a ton of fun and clocks in at merely, checks notes, 142 minutes.\n\nHope it is interesting to some of you. \n\nhttps://t.co/yt3EXY3iTk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				178
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RaoulGMI",
+						"name": "Raoul Pal",
+						"id": 2453385626,
+						"id_str": "2453385626",
+						"indices": [
+							13,
+							22
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/yt3EXY3iTk",
+						"expanded_url": "https://www.realvision.com/shows/raoul-pal-adventures-in-crypto/videos/the-world-according-to-punk6529-mXg5",
+						"display_url": "realvision.com/shows/raoul-pa…",
+						"indices": [
+							155,
+							178
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1388487332093997000,
+				"id_str": "1388487332093997057",
+				"name": "6529",
+				"screen_name": "punk6529",
+				"location": "The Open Metaverse",
+				"description": "https://t.co/7XzSyeUuDO\nAB+1 gallery beta: https://t.co/tTYcQrxQ4Z\n6529 photography: https://t.co/5kk89VyJTz\n6529 gm: https://t.co/3AVx7gS6uo",
+				"url": "https://t.co/p7hfrjPOPs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/p7hfrjPOPs",
+								"expanded_url": "https://opensea.io/6529museum",
+								"display_url": "opensea.io/6529museum",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/7XzSyeUuDO",
+								"expanded_url": "http://opensea.io/6529museum",
+								"display_url": "opensea.io/6529museum",
+								"indices": [
+									0,
+									23
+								]
+							},
+							{
+								"url": "https://t.co/tTYcQrxQ4Z",
+								"expanded_url": "http://oncyber.io/6529ab",
+								"display_url": "oncyber.io/6529ab",
+								"indices": [
+									43,
+									66
+								]
+							},
+							{
+								"url": "https://t.co/5kk89VyJTz",
+								"expanded_url": "http://oncyber.io/6529photo",
+								"display_url": "oncyber.io/6529photo",
+								"indices": [
+									85,
+									108
+								]
+							},
+							{
+								"url": "https://t.co/3AVx7gS6uo",
+								"expanded_url": "http://oncyber.io/6529gm",
+								"display_url": "oncyber.io/6529gm",
+								"indices": [
+									118,
+									141
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 317619,
+				"friends_count": 2466,
+				"listed_count": 5809,
+				"created_at": "Sat May 01 13:36:46 +0000 2021",
+				"favourites_count": 23982,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 20788,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1440017111531855879/A4p6F07H_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440017111531855879/A4p6F07H_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1388487332093997057/1641813943",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 96,
+			"favorite_count": 634,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 50,
+		"favorite_count": 199,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I set aside 3 hours this weekend to take notes on  @punk6529 &amp; @RaoulGMI's recent podcast.\n\nAnon, here's my summary and takeaways:\n🧵👇 https://t.co/a7qRX1XJM7"
+	},
+	{
 		"created_at": "Sun Apr 10 15:31:17 +0000 2022",
 		"id": 1513177806087364600,
 		"id_str": "1513177806087364613",
