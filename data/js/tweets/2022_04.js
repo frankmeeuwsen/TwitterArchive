@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 12 19:27:55 +0000 2022",
+		"id": 1513962133305897000,
+		"id_str": "1513962133305896977",
+		"full_text": "Wow. https://t.co/BzfVvQ8FbQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BzfVvQ8FbQ",
+					"expanded_url": "https://twitter.com/kittyzandpichu/status/1513530980744716290",
+					"display_url": "twitter.com/kittyzandpichu…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8749,
+			"friends_count": 878,
+			"listed_count": 551,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9717,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1513530980744716300,
+		"quoted_status_id_str": "1513530980744716290",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BzfVvQ8FbQ",
+			"expanded": "https://twitter.com/kittyzandpichu/status/1513530980744716290",
+			"display": "twitter.com/kittyzandpichu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 11 14:54:40 +0000 2022",
+			"id": 1513530980744716300,
+			"id_str": "1513530980744716290",
+			"full_text": "just got killed by this kid on steam mw2 with twitch in his name and this is what i see https://t.co/yjYYOkj0Hy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				87
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1513530831855399000,
+						"id_str": "1513530831855398925",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1513530831855398925/pu/img/1w51Mm9DHXWjN8kw.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1513530831855398925/pu/img/1w51Mm9DHXWjN8kw.jpg",
+						"url": "https://t.co/yjYYOkj0Hy",
+						"display_url": "pic.twitter.com/yjYYOkj0Hy",
+						"expanded_url": "https://twitter.com/kittyzandpichu/status/1513530980744716290/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1513530831855399000,
+						"id_str": "1513530831855398925",
+						"indices": [
+							88,
+							111
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1513530831855398925/pu/img/1w51Mm9DHXWjN8kw.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1513530831855398925/pu/img/1w51Mm9DHXWjN8kw.jpg",
+						"url": "https://t.co/yjYYOkj0Hy",
+						"display_url": "pic.twitter.com/yjYYOkj0Hy",
+						"expanded_url": "https://twitter.com/kittyzandpichu/status/1513530980744716290/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 25018,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1513530831855398925/pu/vid/640x360/sdXMrItjQOzz8yFL.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1513530831855398925/pu/vid/480x270/lp0pYyuTst_BwZ5E.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1513530831855398925/pu/vid/1280x720/ZdwFSebao5e7fZ4-.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1513530831855398925/pu/pl/VMTpsNKlgVQ_47cN.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2790581074,
+				"id_str": "2790581074",
+				"name": "pj 黒",
+				"screen_name": "kittyzandpichu",
+				"location": "steam mw2",
+				"description": "lead @kurospirit",
+				"url": "https://t.co/5EnkMEseVN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/5EnkMEseVN",
+								"expanded_url": "https://www.youtube.com/watch?v=Ti5nP9-0Ayw",
+								"display_url": "youtube.com/watch?v=Ti5nP9…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2619,
+				"friends_count": 414,
+				"listed_count": 23,
+				"created_at": "Mon Sep 29 03:05:32 +0000 2014",
+				"favourites_count": 9306,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2162,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1489785695761747969/c9f8Uaop_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1489785695761747969/c9f8Uaop_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2790581074/1648949314",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 61036,
+			"favorite_count": 426092,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Wow. https://t.co/BzfVvQ8FbQ"
+	},
+	{
 		"created_at": "Tue Apr 12 16:48:25 +0000 2022",
 		"id": 1513921996446392300,
 		"id_str": "1513921996446392321",
