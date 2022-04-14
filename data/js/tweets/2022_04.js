@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 14 04:35:42 +0000 2022",
+		"id": 1514171081548083200,
+		"id_str": "1514462376799744004",
+		"full_text": "@ANWB @Hartenn Hallo ANWB webredactie, wij zijn van mening dat voor een webcaremedewerker om veilig te kunnen twitteren en aan het internet deel te nemen, er echt 10.000 twitteruren nodig zijn. Veilig twitteren heeft te maken met ervaring en concentratie.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ANWB",
+					"name": "anwb",
+					"id": 61206532,
+					"id_str": "61206532",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"screen_name": "Hartenn",
+					"name": "Nic⭕ van Harten",
+					"id": 189126069,
+					"id_str": "189126069",
+					"indices": [
+						6,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1513460902690963500,
+		"in_reply_to_status_id_str": "1513460902690963461",
+		"in_reply_to_user_id": 61206532,
+		"in_reply_to_user_id_str": "61206532",
+		"in_reply_to_screen_name": "ANWB",
+		"user": {
+			"id": 60686166,
+			"id_str": "60686166",
+			"name": "Martijn Looijer 🐰🇺🇦",
+			"screen_name": "looijman",
+			"location": "",
+			"description": "Kan wezen, maar ik ben de kapitein van dit schip.",
+			"url": "https://t.co/X8OE3FRY45",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/X8OE3FRY45",
+							"expanded_url": "http://www.deltacommissaris.nl",
+							"display_url": "deltacommissaris.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 315,
+			"friends_count": 842,
+			"listed_count": 1,
+			"created_at": "Mon Jul 27 19:29:26 +0000 2009",
+			"favourites_count": 9776,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10386,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1182670430269775874/_ACf78Rn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182670430269775874/_ACf78Rn_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 62,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "nl",
+		"text": "@ANWB @Hartenn Hallo ANWB webredactie, wij zijn van mening dat voor een webcaremedewerker om veilig te kunnen twitteren en aan het internet deel te nemen, er echt 10.000 twitteruren nodig zijn. Veilig twitteren heeft te maken met ervaring en concentratie."
+	},
+	{
 		"created_at": "Tue Apr 12 19:27:55 +0000 2022",
 		"id": 1513962133305897000,
 		"id_str": "1513962133305896977",
