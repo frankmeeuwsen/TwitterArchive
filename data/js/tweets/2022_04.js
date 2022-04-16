@@ -1,6 +1,308 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sat Apr 16 22:07:50 +0000 2022",
+		"id": 1515451930407055400,
+		"id_str": "1515451930407055370",
+		"full_text": "@skoopnl @elger Een aanname gebaseerd op een sterke PR strategie van Spotify over de jaren heen. Ze hoeven dan niet expliciet te zeggen dat ze podcasters níet betalen. Door te zeggen dat ze artiesten betalen en het Joe Rogan mediaoffensief is de aanname geboren. Slim.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "skoopnl",
+					"name": "Stefan Koopmanschap | ꓘINK",
+					"id": 179001722,
+					"id_str": "179001722",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "elger",
+					"name": "Elger van der Wel",
+					"id": 14142375,
+					"id_str": "14142375",
+					"indices": [
+						9,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1515428123436847000,
+		"in_reply_to_status_id_str": "1515428123436847122",
+		"in_reply_to_user_id": 179001722,
+		"in_reply_to_user_id_str": "179001722",
+		"in_reply_to_screen_name": "skoopnl",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8751,
+			"friends_count": 877,
+			"listed_count": 551,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9734,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@skoopnl @elger Een aanname gebaseerd op een sterke PR strategie van Spotify over de jaren heen. Ze hoeven dan niet expliciet te zeggen dat ze podcasters níet betalen. Door te zeggen dat ze artiesten betalen en het Joe Rogan mediaoffensief is de aanname geboren. Slim."
+	},
+	{
+		"created_at": "Sat Apr 16 22:01:56 +0000 2022",
+		"id": 1515439882105065500,
+		"id_str": "1515450443853451266",
+		"full_text": "On this day in 1991, Temple Of The Dog released their only album. https://t.co/fNA6W18tP0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1515439863209681000,
+					"id_str": "1515439863209680897",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FQfshsUUYAEDfIS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQfshsUUYAEDfIS.jpg",
+					"url": "https://t.co/fNA6W18tP0",
+					"display_url": "pic.twitter.com/fNA6W18tP0",
+					"expanded_url": "https://twitter.com/nwpassage1/status/1515439882105065472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1515439863209681000,
+					"id_str": "1515439863209680897",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/FQfshsUUYAEDfIS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQfshsUUYAEDfIS.jpg",
+					"url": "https://t.co/fNA6W18tP0",
+					"display_url": "pic.twitter.com/fNA6W18tP0",
+					"expanded_url": "https://twitter.com/nwpassage1/status/1515439882105065472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120521320,
+			"id_str": "120521320",
+			"name": "Northwest Passage",
+			"screen_name": "nwpassage1",
+			"location": "",
+			"description": "An exploration of the music scene centered around Seattle in the 80s and 90s. #grunge, #riotgrrrl, #indie and beyond. Tweets by @substate.",
+			"url": "https://t.co/TQgwW59oC0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TQgwW59oC0",
+							"expanded_url": "http://revolutioncomeandgone.com",
+							"display_url": "revolutioncomeandgone.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5348,
+			"friends_count": 234,
+			"listed_count": 92,
+			"created_at": "Sat Mar 06 17:55:48 +0000 2010",
+			"favourites_count": 461,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/879439833285804032/jCAkbts5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/879439833285804032/jCAkbts5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120521320/1419197923",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 60,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On this day in 1991, Temple Of The Dog released their only album. https://t.co/fNA6W18tP0"
+	},
+	{
 		"created_at": "Fri Apr 15 23:15:21 +0000 2022",
 		"id": 1515106531766853600,
 		"id_str": "1515106531766853634",
