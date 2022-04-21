@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 21 19:45:40 +0000 2022",
+		"id": 1517199587886387200,
+		"id_str": "1517228090736496643",
+		"full_text": "I recreated the @netflix intro with $30 worth of yarn https://t.co/dhi6Y5wSTE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "netflix",
+					"name": "Netflix",
+					"id": 16573941,
+					"id_str": "16573941",
+					"indices": [
+						16,
+						24
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1517199000071508000,
+					"id_str": "1517199000071507975",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1517199000071507975/pu/img/wH9V__EyyE6-FN1o.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1517199000071507975/pu/img/wH9V__EyyE6-FN1o.jpg",
+					"url": "https://t.co/dhi6Y5wSTE",
+					"display_url": "pic.twitter.com/dhi6Y5wSTE",
+					"expanded_url": "https://twitter.com/kevinbparry/status/1517199587886387201/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517199000071508000,
+					"id_str": "1517199000071507975",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1517199000071507975/pu/img/wH9V__EyyE6-FN1o.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1517199000071507975/pu/img/wH9V__EyyE6-FN1o.jpg",
+					"url": "https://t.co/dhi6Y5wSTE",
+					"display_url": "pic.twitter.com/dhi6Y5wSTE",
+					"expanded_url": "https://twitter.com/kevinbparry/status/1517199587886387201/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 29000,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1517199000071507975/pu/vid/1280x720/LACh7tg3bbTMSRgw.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1517199000071507975/pu/pl/NapAQ7uP1zz1w5lD.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1517199000071507975/pu/vid/480x270/5lxTKwSGkg5K0pQl.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1517199000071507975/pu/vid/640x360/PUZaGGNrdtteubzl.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 110308521,
+			"id_str": "110308521",
+			"name": "Kevin Parry",
+			"screen_name": "kevinbparry",
+			"location": "Toronto, Ontario",
+			"description": "Stop-Motion Animator + Video Wizard ✨ contact@kevinparry.tv",
+			"url": "https://t.co/xFOmvchb7K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xFOmvchb7K",
+							"expanded_url": "https://linktr.ee/kevinbparry",
+							"display_url": "linktr.ee/kevinbparry",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168320,
+			"friends_count": 1336,
+			"listed_count": 683,
+			"created_at": "Mon Feb 01 03:05:00 +0000 2010",
+			"favourites_count": 29270,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1F1F1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1513519550482026499/scpYuFG2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1513519550482026499/scpYuFG2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/110308521/1646999508",
+			"profile_link_color": "5BA2B8",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3979,
+		"favorite_count": 33803,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I recreated the @netflix intro with $30 worth of yarn https://t.co/dhi6Y5wSTE"
+	},
+	{
 		"created_at": "Thu Apr 21 05:38:46 +0000 2022",
 		"id": 1516971989713490000,
 		"id_str": "1517014962086064128",
