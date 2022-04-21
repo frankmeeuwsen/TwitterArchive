@@ -1,6 +1,421 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 21 05:38:46 +0000 2022",
+		"id": 1516971989713490000,
+		"id_str": "1517014962086064128",
+		"full_text": "The answer to \"is there any authentic demand for the metaverse\" is basically *yes* — but not in the ways one might expect, and certainly not in the way that Facebook PR would have you believe. Like a lot of things, the real story is what regular people do, not giant companies... https://t.co/fswsPWAi0G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fswsPWAi0G",
+					"expanded_url": "https://twitter.com/drvolts/status/1516482353194930176",
+					"display_url": "twitter.com/drvolts/status…",
+					"indices": [
+						280,
+						303
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36823,
+			"id_str": "36823",
+			"name": "anildash",
+			"screen_name": "anildash",
+			"location": "NYC",
+			"description": "CEO 🎏 @glitch, where the web is made • board @eff @girlsclubny @themarkup (formerly @datasociety @stackoverflow) • he/him • “Prince scholar” — NYT",
+			"url": "https://t.co/UlwVhb5Fa7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UlwVhb5Fa7",
+							"expanded_url": "https://anil.fun/",
+							"display_url": "anil.fun",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 581204,
+			"friends_count": 1700,
+			"listed_count": 8582,
+			"created_at": "Sat Dec 02 09:15:15 +0000 2006",
+			"favourites_count": 806079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 243709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1436967784274092032/BxvksM62_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1436967784274092032/BxvksM62_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36823/1530683410",
+			"profile_link_color": "800080",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1516482353194930200,
+		"quoted_status_id_str": "1516482353194930176",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fswsPWAi0G",
+			"expanded": "https://twitter.com/drvolts/status/1516482353194930176",
+			"display": "twitter.com/drvolts/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 19 18:22:22 +0000 2022",
+			"id": 1516482353194930200,
+			"id_str": "1516482353194930176",
+			"full_text": "I'm doing my best to pay no attention at all to the \"metaverse,\" but one thing I can't help noticing is that it seems driven *entirely* by the supply side -- ie, by companies that want to make &amp; sell it. Is anyone *asking* for this? Is there any authentic demand at all?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22737278,
+				"id_str": "22737278",
+				"name": "David Roberts",
+				"screen_name": "drvolts",
+				"location": "Seattle, WA",
+				"description": "I run a newsletter called Volts, about clean energy & politics. Subscribe & join the community at https://t.co/mAVggtz6aw!",
+				"url": "https://t.co/OFfkUhhjY7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OFfkUhhjY7",
+								"expanded_url": "https://volts.wtf",
+								"display_url": "volts.wtf",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/mAVggtz6aw",
+								"expanded_url": "http://volts.wtf",
+								"display_url": "volts.wtf",
+								"indices": [
+									98,
+									121
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 187490,
+				"friends_count": 3459,
+				"listed_count": 5470,
+				"created_at": "Wed Mar 04 05:14:12 +0000 2009",
+				"favourites_count": 12,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39804,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/551076081051004929/2i4QEfn-_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/551076081051004929/2i4QEfn-_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22737278/1636248373",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 66,
+			"favorite_count": 722,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 17,
+		"favorite_count": 98,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The answer to \"is there any authentic demand for the metaverse\" is basically *yes* — but not in the ways one might expect, and certainly not in the way that Facebook PR would have you believe. Like a lot of things, the real story is what regular people do, not giant companies... https://t.co/fswsPWAi0G"
+	},
+	{
+		"created_at": "Thu Apr 21 05:37:02 +0000 2022",
+		"id": 1517014525958135800,
+		"id_str": "1517014525958135810",
+		"full_text": "@Remco_71 Hatsa! Gefeliciteerd! https://t.co/kdH3i6ZqLU",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Remco_71",
+					"name": "Remco",
+					"id": 208418046,
+					"id_str": "208418046",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1517014520610312200,
+					"id_str": "1517014520610312192",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ2Eq0QWUAAZtRB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ2Eq0QWUAAZtRB.jpg",
+					"url": "https://t.co/kdH3i6ZqLU",
+					"display_url": "pic.twitter.com/kdH3i6ZqLU",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1517014525958135810/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 617,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 617,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 617,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517014520610312200,
+					"id_str": "1517014520610312192",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ2Eq0QWUAAZtRB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ2Eq0QWUAAZtRB.jpg",
+					"url": "https://t.co/kdH3i6ZqLU",
+					"display_url": "pic.twitter.com/kdH3i6ZqLU",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1517014525958135810/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 617,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 617,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 617,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1517011328690446300,
+		"in_reply_to_status_id_str": "1517011328690446338",
+		"in_reply_to_user_id": 208418046,
+		"in_reply_to_user_id_str": "208418046",
+		"in_reply_to_screen_name": "Remco_71",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8749,
+			"friends_count": 880,
+			"listed_count": 551,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9758,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66565,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@Remco_71 Hatsa! Gefeliciteerd! https://t.co/kdH3i6ZqLU"
+	},
+	{
 		"created_at": "Wed Apr 20 16:49:15 +0000 2022",
 		"id": 1516821305282154500,
 		"id_str": "1516821305282154506",
