@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 25 19:43:11 +0000 2022",
+		"id": 1518673826397237200,
+		"id_str": "1518677016496717828",
+		"full_text": "No, you only need one account and you can interact with the rest of the network from it. Think of it like e-mail. One service is hosting your mailbox but you communicate with everybody else. https://t.co/6h27wa8iX7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6h27wa8iX7",
+					"expanded_url": "https://twitter.com/kennedytcooper/status/1518673418274676738",
+					"display_url": "twitter.com/kennedytcooper…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 875882643614814200,
+			"id_str": "875882643614814208",
+			"name": "Mastodon",
+			"screen_name": "joinmastodon",
+			"location": "Germany",
+			"description": "Mastodon is the largest decentralized social network on the internet. Built on open web standards by a non-profit.",
+			"url": "https://t.co/iqM0MTBsuq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/iqM0MTBsuq",
+							"expanded_url": "https://joinmastodon.org",
+							"display_url": "joinmastodon.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35159,
+			"friends_count": 1,
+			"listed_count": 445,
+			"created_at": "Sat Jun 17 01:07:50 +0000 2017",
+			"favourites_count": 550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2782,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1452746731192520707/OHzQPcNt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1452746731192520707/OHzQPcNt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/875882643614814208/1520038632",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1518673418274676700,
+		"quoted_status_id_str": "1518673418274676738",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6h27wa8iX7",
+			"expanded": "https://twitter.com/kennedytcooper/status/1518673418274676738",
+			"display": "twitter.com/kennedytcooper…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 25 19:28:53 +0000 2022",
+			"id": 1518673418274676700,
+			"id_str": "1518673418274676738",
+			"full_text": "@joinmastodon @dezertdezine Well for starters, do I have to register separate accounts entirely for each network I want to be a part of?",
+			"truncated": false,
+			"display_text_range": [
+				28,
+				136
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "joinmastodon",
+						"name": "Mastodon",
+						"id": 875882643614814200,
+						"id_str": "875882643614814208",
+						"indices": [
+							0,
+							13
+						]
+					},
+					{
+						"screen_name": "dezertdezine",
+						"name": "Dezert Dezine",
+						"id": 240801931,
+						"id_str": "240801931",
+						"indices": [
+							14,
+							27
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1518672786394296300,
+			"in_reply_to_status_id_str": "1518672786394296320",
+			"in_reply_to_user_id": 875882643614814200,
+			"in_reply_to_user_id_str": "875882643614814208",
+			"in_reply_to_screen_name": "joinmastodon",
+			"user": {
+				"id": 2870114861,
+				"id_str": "2870114861",
+				"name": "Themperor Kennedy🐸🏳️‍🌈",
+				"screen_name": "kennedytcooper",
+				"location": "ABQ, NM",
+				"description": "Follow me cause I have frogs. Non-Binary. They/Them",
+				"url": "https://t.co/xVysIUYAIW",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xVysIUYAIW",
+								"expanded_url": "https://linktr.ee/kennedytcooper",
+								"display_url": "linktr.ee/kennedytcooper",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8695,
+				"friends_count": 1158,
+				"listed_count": 30,
+				"created_at": "Mon Nov 10 05:07:50 +0000 2014",
+				"favourites_count": 55280,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 24927,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1515710966650056710/Xy8WalBK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515710966650056710/Xy8WalBK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2870114861/1621265908",
+				"profile_link_color": "FA743E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 49,
+		"favorite_count": 97,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No, you only need one account and you can interact with the rest of the network from it. Think of it like e-mail. One service is hosting your mailbox but you communicate with everybody else. https://t.co/6h27wa8iX7"
+	},
+	{
 		"created_at": "Mon Apr 25 19:07:22 +0000 2022",
 		"id": 1518668003201716200,
 		"id_str": "1518668003201716236",
