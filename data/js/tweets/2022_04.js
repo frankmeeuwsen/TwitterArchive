@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 26 12:39:00 +0000 2022",
+		"id": 1518932657823957000,
+		"id_str": "1518932657823956992",
+		"full_text": "Ook Mastodon is niet alleen furry mammoetjes op een regenboog die glitterplaatjes delen... Het decentrale karakter zorgt dat je een goede sysadmin moet hebben met (haha) dikke olifantenhuid. https://t.co/mXUK9ibv7r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mXUK9ibv7r",
+					"expanded_url": "https://twitter.com/Gravecat/status/1518598015396818944",
+					"display_url": "twitter.com/Gravecat/statu…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8747,
+			"friends_count": 880,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66605,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1518598015396819000,
+		"quoted_status_id_str": "1518598015396818944",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mXUK9ibv7r",
+			"expanded": "https://twitter.com/Gravecat/status/1518598015396818944",
+			"display": "twitter.com/Gravecat/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 25 14:29:15 +0000 2022",
+			"id": 1518598015396819000,
+			"id_str": "1518598015396818944",
+			"full_text": "Because I'm sure the topic is going to come up now that Twitter is being bought by everyone's least favourite dickhead, so I'm going to try to briefly explain why Mastodon isn't the safe haven of green fields, blue skies and safe free speech people think it is. (1/8)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				267
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 14373172,
+				"id_str": "14373172",
+				"name": "Raine 🏳️‍⚧️ awww the scrunkly",
+				"screen_name": "Gravecat",
+				"location": "Liverpool, England",
+				"description": "Raine ┊ 40 ┊ 🏳️‍⚧️ trans (she/her) ┊ I think I will cause problems on purpose ┊ 💕: @BeerFox ┊ AD: @Depravecat ┊ icon: @thetigerinspace ┊ banner: @Nightlinez",
+				"url": "https://t.co/vqBm6S8rT5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vqBm6S8rT5",
+								"expanded_url": "http://www.gravecat.com/",
+								"display_url": "gravecat.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 794,
+				"friends_count": 404,
+				"listed_count": 16,
+				"created_at": "Sun Apr 13 05:16:39 +0000 2008",
+				"favourites_count": 52226,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 51462,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1516214109032882181/UP66GUoI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1516214109032882181/UP66GUoI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/14373172/1573352824",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1224,
+			"favorite_count": 2969,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ook Mastodon is niet alleen furry mammoetjes op een regenboog die glitterplaatjes delen... Het decentrale karakter zorgt dat je een goede sysadmin moet hebben met (haha) dikke olifantenhuid. https://t.co/mXUK9ibv7r"
+	},
+	{
 		"created_at": "Tue Apr 26 09:21:29 +0000 2022",
 		"id": 1518882950607163400,
 		"id_str": "1518882950607163392",
