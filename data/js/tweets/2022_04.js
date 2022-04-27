@@ -1,6 +1,179 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 27 11:35:53 +0000 2022",
+		"id": 1519269075565830100,
+		"id_str": "1519279161814175745",
+		"full_text": "@frankmeeuwsen https://t.co/72689AZTxU",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frankmeeuwsen",
+					"name": "Frank Meeuwsen",
+					"id": 816203,
+					"id_str": "816203",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1519269033635459000,
+					"id_str": "1519269033635459072",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/FRWHIvwXsAABEPa.png",
+					"media_url_https": "https://pbs.twimg.com/media/FRWHIvwXsAABEPa.png",
+					"url": "https://t.co/72689AZTxU",
+					"display_url": "pic.twitter.com/72689AZTxU",
+					"expanded_url": "https://twitter.com/mulderfrank/status/1519269075565830144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 666,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 801,
+							"h": 818,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 818,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519269033635459000,
+					"id_str": "1519269033635459072",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/FRWHIvwXsAABEPa.png",
+					"media_url_https": "https://pbs.twimg.com/media/FRWHIvwXsAABEPa.png",
+					"url": "https://t.co/72689AZTxU",
+					"display_url": "pic.twitter.com/72689AZTxU",
+					"expanded_url": "https://twitter.com/mulderfrank/status/1519269075565830144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 666,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 801,
+							"h": 818,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 801,
+							"h": 818,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1519242094124150800,
+		"in_reply_to_status_id_str": "1519242094124150784",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 21288075,
+			"id_str": "21288075",
+			"name": "Frank Mulder",
+			"screen_name": "mulderfrank",
+			"location": "Amsterdam",
+			"description": "Tweets about #climatecrisis , #privacy & #popculture\nAlso head of horror webzine @DeNachtvlinders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 983,
+			"friends_count": 463,
+			"listed_count": 53,
+			"created_at": "Thu Feb 19 10:24:12 +0000 2009",
+			"favourites_count": 2827,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1483364667229622279/prwaFsiZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1483364667229622279/prwaFsiZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21288075/1591093731",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@frankmeeuwsen https://t.co/72689AZTxU"
+	},
+	{
 		"created_at": "Wed Apr 27 09:08:36 +0000 2022",
 		"id": 1519242094124150800,
 		"id_str": "1519242094124150784",
