@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 27 06:24:46 +0000 2022",
+		"id": 1518946835469160400,
+		"id_str": "1519200864723996672",
+		"full_text": "This is what happens when you don't have a single female creative on your team. https://t.co/Af2LvGOOS5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Af2LvGOOS5",
+					"expanded_url": "https://www.youtube.com/watch?v=22dCbRItByI",
+					"display_url": "youtube.com/watch?v=22dCbR…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13980302,
+			"id_str": "13980302",
+			"name": "janee",
+			"screen_name": "janee",
+			"location": "London England and Sydney Australia",
+			"description": "Founder Uninvisibility. Co-Author Invisible to Invaluable. Unleashing the power of midlife women. https://t.co/6Px6p7CLAO",
+			"url": "https://t.co/hpLUAvcLS9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hpLUAvcLS9",
+							"expanded_url": "http://janee.london",
+							"display_url": "janee.london",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/6Px6p7CLAO",
+							"expanded_url": "http://amzn.to/37moEEJ",
+							"display_url": "amzn.to/37moEEJ",
+							"indices": [
+								98,
+								121
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3302,
+			"friends_count": 1940,
+			"listed_count": 44,
+			"created_at": "Tue Feb 26 02:19:29 +0000 2008",
+			"favourites_count": 5910,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5621,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1166586306358644736/GJRpAl8I_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1166586306358644736/GJRpAl8I_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13980302/1622924319",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 246,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is what happens when you don't have a single female creative on your team. https://t.co/Af2LvGOOS5"
+	},
+	{
 		"created_at": "Tue Apr 26 12:39:00 +0000 2022",
 		"id": 1518932657823957000,
 		"id_str": "1518932657823956992",
@@ -141,10 +258,10 @@ Grailbird.data.tweets_2022_04 =
 			"user": {
 				"id": 14373172,
 				"id_str": "14373172",
-				"name": "Raine 🏳️‍⚧️ awww the scrunkly",
+				"name": "Raine 🏳️⚧️ awww the scrunkly",
 				"screen_name": "Gravecat",
 				"location": "Liverpool, England",
-				"description": "Raine ┊ 40 ┊ 🏳️‍⚧️ trans (she/her) ┊ I think I will cause problems on purpose ┊ 💕: @BeerFox ┊ AD: @Depravecat ┊ icon: @thetigerinspace ┊ banner: @Nightlinez",
+				"description": "Raine ┊ 40 ┊ 🏳️⚧️ trans (she/her) ┊ I think I will cause problems on purpose ┊ 💕: @BeerFox ┊ AD: @Depravecat ┊ icon: @thetigerinspace ┊ banner: @Nightlinez",
 				"url": "https://t.co/vqBm6S8rT5",
 				"entities": {
 					"url": {
