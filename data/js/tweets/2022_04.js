@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 27 09:08:36 +0000 2022",
+		"id": 1519242094124150800,
+		"id_str": "1519242094124150784",
+		"full_text": "Greenscreenmemes waiting to happen https://t.co/KOuu9dSLGZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KOuu9dSLGZ",
+					"expanded_url": "https://twitter.com/lammert/status/1519232426437926914",
+					"display_url": "twitter.com/lammert/status…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8743,
+			"friends_count": 880,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66607,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1519232426437927000,
+		"quoted_status_id_str": "1519232426437926914",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KOuu9dSLGZ",
+			"expanded": "https://twitter.com/lammert/status/1519232426437926914",
+			"display": "twitter.com/lammert/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 27 08:30:11 +0000 2022",
+			"id": 1519232426437927000,
+			"id_str": "1519232426437926914",
+			"full_text": "Ze zijn er klaar voor! #koningsdag #maastricht https://t.co/aa9dQVFh5U",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				46
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "koningsdag",
+						"indices": [
+							23,
+							34
+						]
+					},
+					{
+						"text": "maastricht",
+						"indices": [
+							35,
+							46
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1519232421488701400,
+						"id_str": "1519232421488701440",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/FRVl1o4XMAAiABU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRVl1o4XMAAiABU.jpg",
+						"url": "https://t.co/aa9dQVFh5U",
+						"display_url": "pic.twitter.com/aa9dQVFh5U",
+						"expanded_url": "https://twitter.com/lammert/status/1519232426437926914/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 828,
+								"h": 939,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 939,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1519232421488701400,
+						"id_str": "1519232421488701440",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/media/FRVl1o4XMAAiABU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRVl1o4XMAAiABU.jpg",
+						"url": "https://t.co/aa9dQVFh5U",
+						"display_url": "pic.twitter.com/aa9dQVFh5U",
+						"expanded_url": "https://twitter.com/lammert/status/1519232426437926914/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 828,
+								"h": 939,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 600,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 828,
+								"h": 939,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17708957,
+				"id_str": "17708957",
+				"name": "Lammert de Bruin",
+				"screen_name": "lammert",
+				"location": "Hilversum / Soest",
+				"description": "Journalist / Presentator NPORadio1 / EenVandaag - Maker van De Showbizzmoord / Mathilde’s Mysterie / De Moord op de Indiaan / Het Geheim van Colonel Parker",
+				"url": "https://t.co/65GrFmFDUN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/65GrFmFDUN",
+								"expanded_url": "https://www.nporadio5.nl/podcasts/het-geheim-van-colonel-parker",
+								"display_url": "nporadio5.nl/podcasts/het-g…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 40568,
+				"friends_count": 2484,
+				"listed_count": 338,
+				"created_at": "Fri Nov 28 14:12:44 +0000 2008",
+				"favourites_count": 211918,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 189203,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "642D8B",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1262085116018470912/xfbZXYJx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1262085116018470912/xfbZXYJx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17708957/1644230514",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "65B0DA",
+				"profile_sidebar_fill_color": "7AC3EE",
+				"profile_text_color": "7C13C9",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 173,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Greenscreenmemes waiting to happen https://t.co/KOuu9dSLGZ"
+	},
+	{
 		"created_at": "Wed Apr 27 06:24:46 +0000 2022",
 		"id": 1518946835469160400,
 		"id_str": "1519200864723996672",
