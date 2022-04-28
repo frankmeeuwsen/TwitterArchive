@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 28 22:13:13 +0000 2022",
+		"id": 1519766646814126000,
+		"id_str": "1519801938828828672",
+		"full_text": "Throwback to the time the BBC asked Rage Against The Machine not to swear during a live broadcast. https://t.co/LWG2bQrdpY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1519766523245641700,
+					"id_str": "1519766523245641728",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1519766523245641728/pu/img/0hrYClkeUGverZfR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1519766523245641728/pu/img/0hrYClkeUGverZfR.jpg",
+					"url": "https://t.co/LWG2bQrdpY",
+					"display_url": "pic.twitter.com/LWG2bQrdpY",
+					"expanded_url": "https://twitter.com/NoContextBrits/status/1519766646814126082/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 724,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 410,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 772,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519766523245641700,
+					"id_str": "1519766523245641728",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1519766523245641728/pu/img/0hrYClkeUGverZfR.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1519766523245641728/pu/img/0hrYClkeUGverZfR.jpg",
+					"url": "https://t.co/LWG2bQrdpY",
+					"display_url": "pic.twitter.com/LWG2bQrdpY",
+					"expanded_url": "https://twitter.com/NoContextBrits/status/1519766646814126082/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 724,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 410,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 772,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							320,
+							193
+						],
+						"duration_millis": 33301,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1519766523245641728/pu/vid/596x360/gndgwMSR4BiK_F4E.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1519766523245641728/pu/vid/446x270/Wdc53SrON4d8Pj0-.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1519766523245641728/pu/vid/1192x720/DEWWreQhmMF01A7z.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1519766523245641728/pu/pl/oNiNeo0EqLWAHX68.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1377572924413124600,
+			"id_str": "1377572924413124609",
+			"name": "No Context Brits",
+			"screen_name": "NoContextBrits",
+			"location": "Great Britain",
+			"description": "A celebration of all things British.",
+			"url": "https://t.co/hYqXvAsDEb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hYqXvAsDEb",
+							"expanded_url": "http://instagram.com/no.context.brits",
+							"display_url": "instagram.com/no.context.bri…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 767874,
+			"friends_count": 0,
+			"listed_count": 1107,
+			"created_at": "Thu Apr 01 10:46:07 +0000 2021",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3448,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1515235815311527937/Kb0lr2LQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1515235815311527937/Kb0lr2LQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1377572924413124609/1650060618",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1419,
+		"favorite_count": 8663,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Throwback to the time the BBC asked Rage Against The Machine not to swear during a live broadcast. https://t.co/LWG2bQrdpY"
+	},
+	{
 		"created_at": "Thu Apr 28 14:31:40 +0000 2022",
 		"id": 1519685786022682600,
 		"id_str": "1519685786022682625",
