@@ -1,6 +1,264 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 28 14:31:40 +0000 2022",
+		"id": 1519685786022682600,
+		"id_str": "1519685786022682625",
+		"full_text": "Ha. Wil je het lezen zonder Medium (pay)wall dan kan dat natuurlijk op https://t.co/ZtRoOA9adU https://t.co/Lw3oOtYx1S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZtRoOA9adU",
+					"expanded_url": "https://scribe.rip/@jomc/we-dont-need-corporate-social-media-f93ba128ebb5",
+					"display_url": "scribe.rip/@jomc/we-dont-…",
+					"indices": [
+						71,
+						94
+					]
+				},
+				{
+					"url": "https://t.co/Lw3oOtYx1S",
+					"expanded_url": "https://twitter.com/jomc/status/1519291661356052481",
+					"display_url": "twitter.com/jomc/status/15…",
+					"indices": [
+						95,
+						118
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8744,
+			"friends_count": 881,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9795,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66612,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1519291661356052500,
+		"quoted_status_id_str": "1519291661356052481",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Lw3oOtYx1S",
+			"expanded": "https://twitter.com/jomc/status/1519291661356052481",
+			"display": "twitter.com/jomc/status/15…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 27 12:25:33 +0000 2022",
+			"id": 1519291661356052500,
+			"id_str": "1519291661356052481",
+			"full_text": "Resources like the World Wide Web and email have operated for decades with no Elon Musks or Mark Zuckerbergs in charge; so why not build online communities away from their influence? Some thoughts I have on the potential for noncommercial social media: https://t.co/ARA9JrqGd3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ARA9JrqGd3",
+						"expanded_url": "https://medium.com/@jomc/we-dont-need-corporate-social-media-f93ba128ebb5",
+						"display_url": "medium.com/@jomc/we-dont-…",
+						"indices": [
+							253,
+							276
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 48473,
+				"id_str": "48473",
+				"name": "joanne mcneil",
+				"screen_name": "jomc",
+				"location": "",
+				"description": "wrote Lurking and the novel Wrong Way (coming soon). writing another book about the future ~ https://t.co/qR3QygJti3 ~ https://t.co/1z7I5CTd7G",
+				"url": "https://t.co/3ql46jf2y8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3ql46jf2y8",
+								"expanded_url": "http://joannemcneil.com",
+								"display_url": "joannemcneil.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/qR3QygJti3",
+								"expanded_url": "https://friend.camp/web/accounts/158",
+								"display_url": "friend.camp/web/accounts/1…",
+								"indices": [
+									93,
+									116
+								]
+							},
+							{
+								"url": "https://t.co/1z7I5CTd7G",
+								"expanded_url": "http://jomc.substack.com",
+								"display_url": "jomc.substack.com",
+								"indices": [
+									119,
+									142
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 12541,
+				"friends_count": 1351,
+				"listed_count": 588,
+				"created_at": "Thu Dec 07 17:11:17 +0000 2006",
+				"favourites_count": 74754,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 11072,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/538766070509617152/yA4iQ4LN_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/538766070509617152/yA4iQ4LN_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/48473/1362593602",
+				"profile_link_color": "48CCCD",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 85,
+			"favorite_count": 328,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ha. Wil je het lezen zonder Medium (pay)wall dan kan dat natuurlijk op https://t.co/ZtRoOA9adU https://t.co/Lw3oOtYx1S"
+	},
+	{
 		"created_at": "Wed Apr 27 14:37:33 +0000 2022",
 		"id": 1519324880285716500,
 		"id_str": "1519324880285716482",
