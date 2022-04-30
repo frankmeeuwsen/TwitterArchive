@@ -1,6 +1,329 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sat Apr 30 06:20:18 +0000 2022",
+		"id": 1520286906873000000,
+		"id_str": "1520286906872999937",
+		"full_text": "De dresscode bij een groot internationaal congres. Ik verbaas me dat ik me blijf verbazen over de ronduit discriminerende en neerbuigende aanwijzingen voor vrouwen. https://t.co/CQMPRQMeAT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CQMPRQMeAT",
+					"expanded_url": "https://twitter.com/suziesheehy/status/1520002606654963714",
+					"display_url": "twitter.com/suziesheehy/st…",
+					"indices": [
+						165,
+						188
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8740,
+			"friends_count": 881,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9794,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66616,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1520002606654963700,
+		"quoted_status_id_str": "1520002606654963714",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CQMPRQMeAT",
+			"expanded": "https://twitter.com/suziesheehy/status/1520002606654963714",
+			"display": "twitter.com/suziesheehy/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 29 11:30:36 +0000 2022",
+			"id": 1520002606654963700,
+			"id_str": "1520002606654963714",
+			"full_text": "This is the major international conference in my field. I appreciate cultural differences and the presence of royalty… but policing the length of womens skirts and not allowing them to wear trousers?! WTF #IPAC22 This does not seem OK to me. https://t.co/jBdzJNWY1b https://t.co/aNjYez7WYa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "IPAC22",
+						"indices": [
+							205,
+							212
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jBdzJNWY1b",
+						"expanded_url": "https://twitter.com/evenkolder/status/1519993050247966721",
+						"display_url": "twitter.com/evenkolder/sta…",
+						"indices": [
+							242,
+							265
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1520002601525420000,
+						"id_str": "1520002601525420032",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/FRgiUBGXoAAAor3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRgiUBGXoAAAor3.jpg",
+						"url": "https://t.co/aNjYez7WYa",
+						"display_url": "pic.twitter.com/aNjYez7WYa",
+						"expanded_url": "https://twitter.com/suziesheehy/status/1520002606654963714/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1448,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 848,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1520002601525420000,
+						"id_str": "1520002601525420032",
+						"indices": [
+							266,
+							289
+						],
+						"media_url": "http://pbs.twimg.com/media/FRgiUBGXoAAAor3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRgiUBGXoAAAor3.jpg",
+						"url": "https://t.co/aNjYez7WYa",
+						"display_url": "pic.twitter.com/aNjYez7WYa",
+						"expanded_url": "https://twitter.com/suziesheehy/status/1520002606654963714/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1448,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 848,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 76757597,
+				"id_str": "76757597",
+				"name": "Dr Suzie Sheehy",
+				"screen_name": "suziesheehy",
+				"location": "Oxford, UK",
+				"description": "Physics, curiosity, feminism. Accelerating particles @ Melbourne Uni & Oxford Uni. Book: The Matter of Everything, pub 28 Apr 22 UK, 3 May Aus, Jan'23 USA/Can)",
+				"url": "https://t.co/DP1rhEM3Bh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/DP1rhEM3Bh",
+								"expanded_url": "http://suziesheehy.com",
+								"display_url": "suziesheehy.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7921,
+				"friends_count": 2867,
+				"listed_count": 263,
+				"created_at": "Wed Sep 23 21:10:33 +0000 2009",
+				"favourites_count": 13623,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7552,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1440048473588437000/Z5J4SrUP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1440048473588437000/Z5J4SrUP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/76757597/1611039497",
+				"profile_link_color": "7FDBB6",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1519993050247966700,
+			"quoted_status_id_str": "1519993050247966721",
+			"quoted_status_permalink": {
+				"url": "https://t.co/jBdzJNWY1b",
+				"expanded": "https://twitter.com/evenkolder/status/1519993050247966721",
+				"display": "twitter.com/evenkolder/sta…"
+			},
+			"retweet_count": 119,
+			"favorite_count": 386,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "De dresscode bij een groot internationaal congres. Ik verbaas me dat ik me blijf verbazen over de ronduit discriminerende en neerbuigende aanwijzingen voor vrouwen. https://t.co/CQMPRQMeAT"
+	},
+	{
 		"created_at": "Fri Apr 29 13:09:58 +0000 2022",
 		"id": 1520027612286013400,
 		"id_str": "1520027612286013442",
