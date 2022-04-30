@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sat Apr 30 18:09:33 +0000 2022",
+		"id": 1519968917636145200,
+		"id_str": "1520465395999821825",
+		"full_text": "Was at a bar alone yesterday when the bartender said, “Hey, check out this text from my sister!” He showed me his phone and it said, “Do not, under any circumstances, get into a conversation with the guy sitting on your right.” Men, if you are in a position to do this, DO THIS.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15789743,
+			"id_str": "15789743",
+			"name": "Laura Motta",
+			"screen_name": "guttersniper",
+			"location": "Brooklyn",
+			"description": "Senior Director of Content at @lonelyplanet.  @EmersonCollege alum.",
+			"url": "https://t.co/WLHTUeHdXt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WLHTUeHdXt",
+							"expanded_url": "http://lauramotta.com",
+							"display_url": "lauramotta.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4688,
+			"friends_count": 1251,
+			"listed_count": 111,
+			"created_at": "Sat Aug 09 15:32:50 +0000 2008",
+			"favourites_count": 30040,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 9918,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/520997660711739392/0grFNtEU_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/520997660711739392/0grFNtEU_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15789743/1569030166",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6F6F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 76090,
+		"favorite_count": 648019,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Was at a bar alone yesterday when the bartender said, “Hey, check out this text from my sister!” He showed me his phone and it said, “Do not, under any circumstances, get into a conversation with the guy sitting on your right.” Men, if you are in a position to do this, DO THIS."
+	},
+	{
 		"created_at": "Sat Apr 30 11:08:57 +0000 2022",
 		"id": 1520359548338557000,
 		"id_str": "1520359548338556928",
