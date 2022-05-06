@@ -1,6 +1,297 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 06 15:26:37 +0000 2022",
+		"id": 1522597051787325400,
+		"id_str": "1522598716900794368",
+		"full_text": "Dark websites with circle navigation in the 1990s\n\n– Space Jam in 1996\n– Steel in 1997\n– Grateful Dead in 1996\n– Game Fan Magazine in 1996\n\n#WebDesignHistory https://t.co/UCByS22PMf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WebDesignHistory",
+					"indices": [
+						140,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1521583882759544800,
+					"id_str": "1521583882759544833",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FR3AesvXoAEXf38.png",
+					"media_url_https": "https://pbs.twimg.com/media/FR3AesvXoAEXf38.png",
+					"url": "https://t.co/UCByS22PMf",
+					"display_url": "pic.twitter.com/UCByS22PMf",
+					"expanded_url": "https://twitter.com/WebDesignMuseum/status/1522597051787325440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 623,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 830,
+							"h": 760,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 830,
+							"h": 760,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1521583882759544800,
+					"id_str": "1521583882759544833",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FR3AesvXoAEXf38.png",
+					"media_url_https": "https://pbs.twimg.com/media/FR3AesvXoAEXf38.png",
+					"url": "https://t.co/UCByS22PMf",
+					"display_url": "pic.twitter.com/UCByS22PMf",
+					"expanded_url": "https://twitter.com/WebDesignMuseum/status/1522597051787325440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 623,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 830,
+							"h": 760,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 830,
+							"h": 760,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1521583882767904800,
+					"id_str": "1521583882767904769",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FR3AesxXMAEBTfS.png",
+					"media_url_https": "https://pbs.twimg.com/media/FR3AesxXMAEBTfS.png",
+					"url": "https://t.co/UCByS22PMf",
+					"display_url": "pic.twitter.com/UCByS22PMf",
+					"expanded_url": "https://twitter.com/WebDesignMuseum/status/1522597051787325440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 830,
+							"h": 830,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 830,
+							"h": 830,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1521583882814042000,
+					"id_str": "1521583882814042114",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FR3Aes8XMAIPIgD.png",
+					"media_url_https": "https://pbs.twimg.com/media/FR3Aes8XMAIPIgD.png",
+					"url": "https://t.co/UCByS22PMf",
+					"display_url": "pic.twitter.com/UCByS22PMf",
+					"expanded_url": "https://twitter.com/WebDesignMuseum/status/1522597051787325440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 830,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 830,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 492,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1521583882822426600,
+					"id_str": "1521583882822426624",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/FR3Aes-XIAA-Q6U.png",
+					"media_url_https": "https://pbs.twimg.com/media/FR3Aes-XIAA-Q6U.png",
+					"url": "https://t.co/UCByS22PMf",
+					"display_url": "pic.twitter.com/UCByS22PMf",
+					"expanded_url": "https://twitter.com/WebDesignMuseum/status/1522597051787325440/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 830,
+							"h": 700,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 830,
+							"h": 700,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 573,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 738019344047845400,
+			"id_str": "738019344047845377",
+			"name": "Web Design Museum",
+			"screen_name": "WebDesignMuseum",
+			"location": "",
+			"description": "Web Design Museum exhibits over 2,000 carefully selected websites that show web design trends between the years 1991 and 2006.",
+			"url": "https://t.co/vyFBftWgRB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vyFBftWgRB",
+							"expanded_url": "http://www.webdesignmuseum.org",
+							"display_url": "webdesignmuseum.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14472,
+			"friends_count": 20,
+			"listed_count": 188,
+			"created_at": "Wed Jun 01 14:48:18 +0000 2016",
+			"favourites_count": 22649,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/860928105975885828/8XLNUZIa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/860928105975885828/8XLNUZIa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/738019344047845377/1541958150",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 48,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dark websites with circle navigation in the 1990s\n\n– Space Jam in 1996\n– Steel in 1997\n– Grateful Dead in 1996\n– Game Fan Magazine in 1996\n\n#WebDesignHistory https://t.co/UCByS22PMf"
+	},
+	{
 		"created_at": "Fri May 06 12:16:06 +0000 2022",
 		"id": 1522550770863849500,
 		"id_str": "1522550770863849472",
@@ -46,7 +337,7 @@ Grailbird.data.tweets_2022_05 =
 				},
 				{
 					"screen_name": "LisaGinneken",
-					"name": "Lisa van Ginneken 🏳️‍⚧️",
+					"name": "Lisa van Ginneken 🏳️⚧️",
 					"id": 3157261037,
 					"id_str": "3157261037",
 					"indices": [
