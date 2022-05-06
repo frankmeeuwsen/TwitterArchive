@@ -1,6 +1,296 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 06 12:16:06 +0000 2022",
+		"id": 1522550770863849500,
+		"id_str": "1522550770863849472",
+		"full_text": "Kom er maar in @OBI4wan! Gaan jullie Mastodon ondersteunen zodat onze overheid ook onafhankelijker van Silicon Valley Big Tech kan communiceren? /cc @marleenstikker @public_spaces @LisaGinneken https://t.co/UAvTTH4iHf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OBI4wan",
+					"name": "OBI4wan",
+					"id": 252507635,
+					"id_str": "252507635",
+					"indices": [
+						15,
+						23
+					]
+				},
+				{
+					"screen_name": "marleenstikker",
+					"name": "marleenstikker",
+					"id": 16408747,
+					"id_str": "16408747",
+					"indices": [
+						149,
+						164
+					]
+				},
+				{
+					"screen_name": "public_spaces",
+					"name": "PublicSpaces",
+					"id": 999601427768062000,
+					"id_str": "999601427768061952",
+					"indices": [
+						165,
+						179
+					]
+				},
+				{
+					"screen_name": "LisaGinneken",
+					"name": "Lisa van Ginneken 🏳️‍⚧️",
+					"id": 3157261037,
+					"id_str": "3157261037",
+					"indices": [
+						180,
+						193
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UAvTTH4iHf",
+					"expanded_url": "https://twitter.com/Rijksoverheid/status/1522547081226899457",
+					"display_url": "twitter.com/Rijksoverheid/…",
+					"indices": [
+						194,
+						217
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8735,
+			"friends_count": 879,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9812,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1522547081226899500,
+		"quoted_status_id_str": "1522547081226899457",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UAvTTH4iHf",
+			"expanded": "https://twitter.com/Rijksoverheid/status/1522547081226899457",
+			"display": "twitter.com/Rijksoverheid/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 06 12:01:26 +0000 2022",
+			"id": 1522547081226899500,
+			"id_str": "1522547081226899457",
+			"full_text": "@stuxOS Dat is zeker een interessante suggestie. Het lijkt erop dat ons webcare platform op het moment geen Mastodon ondersteunt, maar wellicht dat dat in de toekomst nog gebeurt. In ieder geval bedankt dat je dit ter attentie brengt! ^CL",
+			"truncated": false,
+			"display_text_range": [
+				8,
+				238
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stuxOS",
+						"name": "@stux@mstdn.social",
+						"id": 1173027870870048800,
+						"id_str": "1173027870870048769",
+						"indices": [
+							0,
+							7
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://www.obi4wan.com/\" rel=\"nofollow\">OBI4wan</a>",
+			"in_reply_to_status_id": 1522532784799113200,
+			"in_reply_to_status_id_str": "1522532784799113217",
+			"in_reply_to_user_id": 1173027870870048800,
+			"in_reply_to_user_id_str": "1173027870870048769",
+			"in_reply_to_screen_name": "stuxOS",
+			"user": {
+				"id": 15595333,
+				"id_str": "15595333",
+				"name": "Rijksoverheid",
+				"screen_name": "Rijksoverheid",
+				"location": "Den Haag",
+				"description": "Vragen over #coronavirus: 0800-1351 of https://t.co/gVCBlgtNmp. English: https://t.co/Fdj5OE6Kda. Vragen over beleid, wet- en regelgeving? Bel 1400",
+				"url": "https://t.co/RJnGuLB0Sj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RJnGuLB0Sj",
+								"expanded_url": "http://www.rijksoverheid.nl/",
+								"display_url": "rijksoverheid.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/gVCBlgtNmp",
+								"expanded_url": "http://Rijksoverheid.nl/coronavirus",
+								"display_url": "Rijksoverheid.nl/coronavirus",
+								"indices": [
+									39,
+									62
+								]
+							},
+							{
+								"url": "https://t.co/Fdj5OE6Kda",
+								"expanded_url": "http://government.nl/coronavirus",
+								"display_url": "government.nl/coronavirus",
+								"indices": [
+									73,
+									96
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 52142,
+				"friends_count": 142,
+				"listed_count": 769,
+				"created_at": "Fri Jul 25 07:08:34 +0000 2008",
+				"favourites_count": 438,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 26009,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F3F5F6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1284068816016814081/3tKJlqFN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1284068816016814081/3tKJlqFN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15595333/1585145259",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Kom er maar in @OBI4wan! Gaan jullie Mastodon ondersteunen zodat onze overheid ook onafhankelijker van Silicon Valley Big Tech kan communiceren? /cc @marleenstikker @public_spaces @LisaGinneken https://t.co/UAvTTH4iHf"
+	},
+	{
 		"created_at": "Fri May 06 11:19:33 +0000 2022",
 		"id": 1522536540970360800,
 		"id_str": "1522536540970360833",
