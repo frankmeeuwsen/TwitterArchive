@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 10 14:16:43 +0000 2022",
+		"id": 1523576675056775200,
+		"id_str": "1524030677389295619",
+		"full_text": "Here's something we're extremely proud of: the renowned @kees_klomp_ will enter the TEDxUtrecht stage. He will show us a new economic system to handle entangled clusterfuck of ecological, social, individual and economic crises. \n\nGet your tickets at https://t.co/7CZBQwoWNC https://t.co/KUatnL131g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kees_klomp_",
+					"name": "Kees Klomp",
+					"id": 52997134,
+					"id_str": "52997134",
+					"indices": [
+						56,
+						68
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7CZBQwoWNC",
+					"expanded_url": "http://www.TEDxUtrecht.com",
+					"display_url": "TEDxUtrecht.com",
+					"indices": [
+						250,
+						273
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1523576577552007200,
+					"id_str": "1523576577552007168",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1523576577552007168/pu/img/2_VNXaQ6gYaxmTnf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1523576577552007168/pu/img/2_VNXaQ6gYaxmTnf.jpg",
+					"url": "https://t.co/KUatnL131g",
+					"display_url": "pic.twitter.com/KUatnL131g",
+					"expanded_url": "https://twitter.com/tedxutrecht/status/1523576675056775170/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523576577552007200,
+					"id_str": "1523576577552007168",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1523576577552007168/pu/img/2_VNXaQ6gYaxmTnf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1523576577552007168/pu/img/2_VNXaQ6gYaxmTnf.jpg",
+					"url": "https://t.co/KUatnL131g",
+					"display_url": "pic.twitter.com/KUatnL131g",
+					"expanded_url": "https://twitter.com/tedxutrecht/status/1523576675056775170/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 5000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1523576577552007168/pu/pl/lhNTeKl2j8Z-KFeY.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1523576577552007168/pu/vid/320x320/bNDjSdQZHG8KS3Vk.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1523576577552007168/pu/vid/720x720/p8oxwjR91f22cOcX.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1523576577552007168/pu/vid/540x540/mEM99tZ3_mUm2h1-.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 480229577,
+			"id_str": "480229577",
+			"name": "TEDxUtrecht",
+			"screen_name": "tedxutrecht",
+			"location": "Utrecht",
+			"description": "At our #TEDxUtrecht events, speakers and audience unite embracing the best of what Utrecht and abroad has to offer around Ideas Worth Spreading.",
+			"url": "https://t.co/XljVtjCUxc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/XljVtjCUxc",
+							"expanded_url": "http://www.tedxutrecht.com/",
+							"display_url": "tedxutrecht.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1404,
+			"friends_count": 474,
+			"listed_count": 58,
+			"created_at": "Wed Feb 01 08:07:29 +0000 2012",
+			"favourites_count": 527,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1886,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1303346978596716545/XRr45O-__normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1303346978596716545/XRr45O-__normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/480229577/1600529460",
+			"profile_link_color": "E62B1E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here's something we're extremely proud of: the renowned @kees_klomp_ will enter the TEDxUtrecht stage. He will show us a new economic system to handle entangled clusterfuck of ecological, social, individual and economic crises. \n\nGet your tickets at https://t.co/7CZBQwoWNC https://t.co/KUatnL131g"
+	},
+	{
 		"created_at": "Tue May 10 05:22:17 +0000 2022",
 		"id": 1523896184892539000,
 		"id_str": "1523896184892538882",
