@@ -1,6 +1,383 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 12 17:27:14 +0000 2022",
+		"id": 1524803397504876500,
+		"id_str": "1524803397504876544",
+		"full_text": "https://t.co/ivzNJUp7bH https://t.co/U5t5Bwlsfu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ivzNJUp7bH",
+					"expanded_url": "https://twitter.com/brazilie5/status/1524692769691906048",
+					"display_url": "twitter.com/brazilie5/stat…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1524803393767846000,
+					"id_str": "1524803393767845889",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FSkwm53XsAEMAnt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSkwm53XsAEMAnt.jpg",
+					"url": "https://t.co/U5t5Bwlsfu",
+					"display_url": "pic.twitter.com/U5t5Bwlsfu",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1524803397504876544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524803393767846000,
+					"id_str": "1524803393767845889",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/FSkwm53XsAEMAnt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSkwm53XsAEMAnt.jpg",
+					"url": "https://t.co/U5t5Bwlsfu",
+					"display_url": "pic.twitter.com/U5t5Bwlsfu",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1524803397504876544/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 540,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8735,
+			"friends_count": 873,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9821,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66640,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1524692769691906000,
+		"quoted_status_id_str": "1524692769691906048",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ivzNJUp7bH",
+			"expanded": "https://twitter.com/brazilie5/status/1524692769691906048",
+			"display": "twitter.com/brazilie5/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 12 10:07:38 +0000 2022",
+			"id": 1524692769691906000,
+			"id_str": "1524692769691906048",
+			"full_text": "Je bent volksvertegenwoordiger en je gaat zo naar de 2de kamer,sorry hoor maar je gaat niet naar één of andere festival !!#toeslagenschandaal #tweedekamer https://t.co/VuefVpHCcr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				154
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "toeslagenschandaal",
+						"indices": [
+							122,
+							141
+						]
+					},
+					{
+						"text": "tweedekamer",
+						"indices": [
+							142,
+							154
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1524692765182992400,
+						"id_str": "1524692765182992385",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/media/FSjL_eRXIAEPSVE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSjL_eRXIAEPSVE.jpg",
+						"url": "https://t.co/VuefVpHCcr",
+						"display_url": "pic.twitter.com/VuefVpHCcr",
+						"expanded_url": "https://twitter.com/brazilie5/status/1524692769691906048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 773,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1320,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 438,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1524692765182992400,
+						"id_str": "1524692765182992385",
+						"indices": [
+							155,
+							178
+						],
+						"media_url": "http://pbs.twimg.com/media/FSjL_eRXIAEPSVE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSjL_eRXIAEPSVE.jpg",
+						"url": "https://t.co/VuefVpHCcr",
+						"display_url": "pic.twitter.com/VuefVpHCcr",
+						"expanded_url": "https://twitter.com/brazilie5/status/1524692769691906048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 773,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1320,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 438,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 298041487,
+				"id_str": "298041487",
+				"name": "Hugo Tribhawansingh",
+				"screen_name": "brazilie5",
+				"location": "Geldrop",
+				"description": "Levensgenieter | Bourgondiër | Gin Tonic |Carnaval |Sportfanaat |Voetbalen | PSV | Tennissen | F1 | Boksen | Aftrap |Bennekel Eindhoven |Geldrop",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1111,
+				"friends_count": 1203,
+				"listed_count": 0,
+				"created_at": "Fri May 13 15:19:27 +0000 2011",
+				"favourites_count": 176,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 869,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1105572748779245570/5RvamjFa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1105572748779245570/5RvamjFa_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 160,
+			"favorite_count": 862,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/ivzNJUp7bH https://t.co/U5t5Bwlsfu"
+	},
+	{
 		"created_at": "Thu May 12 12:11:57 +0000 2022",
 		"id": 1524724055240327200,
 		"id_str": "1524724055240327170",
