@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 18 09:17:04 +0000 2022",
+		"id": 1526854370272370700,
+		"id_str": "1526854370272370690",
+		"full_text": "\"De manier waar dat op gebeurt\"... lekker bezig Meeuwsen, qua tekst die je schrijft naar de mensen toe...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1526853786416849000,
+		"in_reply_to_status_id_str": "1526853786416848897",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8735,
+			"friends_count": 869,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9849,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "\"De manier waar dat op gebeurt\"... lekker bezig Meeuwsen, qua tekst die je schrijft naar de mensen toe..."
+	},
+	{
+		"created_at": "Wed May 18 09:15:47 +0000 2022",
+		"id": 1526842851660898300,
+		"id_str": "1526854049550807040",
+		"full_text": "Lancering van #PubHubs, een alternatief voor social media platforms. Ook interessant voor lokale democratie\n\n@public_spaces #pubconf2022 https://t.co/M3WsBNnBpI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PubHubs",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"text": "pubconf2022",
+					"indices": [
+						124,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "public_spaces",
+					"name": "PublicSpaces",
+					"id": 999601427768062000,
+					"id_str": "999601427768061952",
+					"indices": [
+						109,
+						123
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1526842822879486000,
+					"id_str": "1526842822879485952",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FTBvdTWWIAADRlA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTBvdTWWIAADRlA.jpg",
+					"url": "https://t.co/M3WsBNnBpI",
+					"display_url": "pic.twitter.com/M3WsBNnBpI",
+					"expanded_url": "https://twitter.com/ElisabethIJmker/status/1526842851660898304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 544,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1574,
+							"h": 714,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 308,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526842822879486000,
+					"id_str": "1526842822879485952",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/FTBvdTWWIAADRlA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTBvdTWWIAADRlA.jpg",
+					"url": "https://t.co/M3WsBNnBpI",
+					"display_url": "pic.twitter.com/M3WsBNnBpI",
+					"expanded_url": "https://twitter.com/ElisabethIJmker/status/1526842851660898304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 544,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1574,
+							"h": 714,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 308,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 27692102,
+			"id_str": "27692102",
+			"name": "Elisabeth IJmker",
+			"screen_name": "ElisabethIJmker",
+			"location": "",
+			"description": "Doet dingen bij @GroenLinks020 @deLinkerWang @VU_FRT",
+			"url": "https://t.co/0LwvBGcJY5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0LwvBGcJY5",
+							"expanded_url": "https://www.elisabethijmker.nl/",
+							"display_url": "elisabethijmker.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1056,
+			"friends_count": 1381,
+			"listed_count": 17,
+			"created_at": "Mon Mar 30 17:58:17 +0000 2009",
+			"favourites_count": 6806,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5808,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1351852476463542278/hPisIlT-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1351852476463542278/hPisIlT-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/27692102/1647524046",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Lancering van #PubHubs, een alternatief voor social media platforms. Ook interessant voor lokale democratie\n\n@public_spaces #pubconf2022 https://t.co/M3WsBNnBpI"
+	},
+	{
 		"created_at": "Wed May 18 07:48:31 +0000 2022",
 		"id": 1526832089420779500,
 		"id_str": "1526832089420779526",
