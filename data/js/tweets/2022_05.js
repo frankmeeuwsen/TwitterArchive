@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 18 09:44:11 +0000 2022",
+		"id": 1526670356051808300,
+		"id_str": "1526861196456079363",
+		"full_text": "Je gelooft het niet, maar het #babymepper verhaal heeft nog een staartje. \n\nHet delen van het filmpje over #politiegeweld en het verhaal van Gaia heeft er toe geleid dat de politie een onderzoek doet naar smaad en laster.\nWat een waanzin.\n\n#BaasInEigenBuik https://t.co/Q2sJPpNNrm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "babymepper",
+					"indices": [
+						30,
+						41
+					]
+				},
+				{
+					"text": "politiegeweld",
+					"indices": [
+						107,
+						121
+					]
+				},
+				{
+					"text": "BaasInEigenBuik",
+					"indices": [
+						240,
+						256
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1526670170365874200,
+					"id_str": "1526670170365874181",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FS_SbmnX0AUqHfG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS_SbmnX0AUqHfG.jpg",
+					"url": "https://t.co/Q2sJPpNNrm",
+					"display_url": "pic.twitter.com/Q2sJPpNNrm",
+					"expanded_url": "https://twitter.com/HarrietmBergman/status/1526670356051808258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 607,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 344,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1268,
+							"h": 641,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1526670170365874200,
+					"id_str": "1526670170365874181",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FS_SbmnX0AUqHfG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS_SbmnX0AUqHfG.jpg",
+					"url": "https://t.co/Q2sJPpNNrm",
+					"display_url": "pic.twitter.com/Q2sJPpNNrm",
+					"expanded_url": "https://twitter.com/HarrietmBergman/status/1526670356051808258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 607,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 344,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1268,
+							"h": 641,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1526670035938332700,
+					"id_str": "1526670035938332673",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/media/FS_STx1WUAEDVJl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FS_STx1WUAEDVJl.jpg",
+					"url": "https://t.co/Q2sJPpNNrm",
+					"display_url": "pic.twitter.com/Q2sJPpNNrm",
+					"expanded_url": "https://twitter.com/HarrietmBergman/status/1526670356051808258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1102,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1265,
+							"h": 1378,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 624,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2740363014,
+			"id_str": "2740363014",
+			"name": "Harriët Bergman",
+			"screen_name": "HarrietmBergman",
+			"location": "",
+			"description": "Reports from meetings, papers & barricades🌻 #feminism 🌻#kozp🌻#climatejustice 🌻PhD Uni Antwerpen on climate breakdown, privilege, social change",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1804,
+			"friends_count": 1953,
+			"listed_count": 21,
+			"created_at": "Sun Aug 17 19:54:34 +0000 2014",
+			"favourites_count": 28390,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11971,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1450933525511905288/QSa9PyiG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1450933525511905288/QSa9PyiG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2740363014/1452095080",
+			"profile_link_color": "94D487",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 123,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Je gelooft het niet, maar het #babymepper verhaal heeft nog een staartje. \n\nHet delen van het filmpje over #politiegeweld en het verhaal van Gaia heeft er toe geleid dat de politie een onderzoek doet naar smaad en laster.\nWat een waanzin.\n\n#BaasInEigenBuik https://t.co/Q2sJPpNNrm"
+	},
+	{
 		"created_at": "Wed May 18 09:17:04 +0000 2022",
 		"id": 1526854370272370700,
 		"id_str": "1526854370272370690",
