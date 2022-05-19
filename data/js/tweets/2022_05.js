@@ -1,6 +1,595 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 19 16:11:51 +0000 2022",
+		"id": 1527321144134553600,
+		"id_str": "1527321144134553602",
+		"full_text": "@ThE_ED Tssssk nee toch. Wat kan er nou helemaal gebeuren? Het is allemaal zo ver weg. Het zal wel overwaaien. https://t.co/dPYMugbpY9",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ThE_ED",
+					"name": "Gyurka Jansen",
+					"id": 14445960,
+					"id_str": "14445960",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1527321135544963000,
+					"id_str": "1527321135544963072",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FTIiew4akAAuE9y.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FTIiew4akAAuE9y.jpg",
+					"url": "https://t.co/dPYMugbpY9",
+					"display_url": "pic.twitter.com/dPYMugbpY9",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1527321144134553602/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 244,
+							"h": 138,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 138,
+							"h": 138,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 244,
+							"h": 138,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 244,
+							"h": 138,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1527321135544963000,
+					"id_str": "1527321135544963072",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FTIiew4akAAuE9y.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FTIiew4akAAuE9y.jpg",
+					"url": "https://t.co/dPYMugbpY9",
+					"display_url": "pic.twitter.com/dPYMugbpY9",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1527321144134553602/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 244,
+							"h": 138,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 138,
+							"h": 138,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 244,
+							"h": 138,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 244,
+							"h": 138,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							122,
+							69
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FTIiew4akAAuE9y.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1527149071340798000,
+		"in_reply_to_status_id_str": "1527149071340797952",
+		"in_reply_to_user_id": 14445960,
+		"in_reply_to_user_id_str": "14445960",
+		"in_reply_to_screen_name": "ThE_ED",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8735,
+			"friends_count": 868,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66680,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@ThE_ED Tssssk nee toch. Wat kan er nou helemaal gebeuren? Het is allemaal zo ver weg. Het zal wel overwaaien. https://t.co/dPYMugbpY9"
+	},
+	{
+		"created_at": "Thu May 19 16:07:26 +0000 2022",
+		"id": 1527320032652341200,
+		"id_str": "1527320032652341248",
+		"full_text": "Alles in de thread en reacties is 🤯 https://t.co/AJzygKhcyW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AJzygKhcyW",
+					"expanded_url": "https://twitter.com/busblog/status/1526815244152033280",
+					"display_url": "twitter.com/busblog/status…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8735,
+			"friends_count": 868,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9860,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66680,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1526815244152033300,
+		"quoted_status_id_str": "1526815244152033280",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AJzygKhcyW",
+			"expanded": "https://twitter.com/busblog/status/1526815244152033280",
+			"display": "twitter.com/busblog/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 18 06:41:35 +0000 2022",
+			"id": 1526815244152033300,
+			"id_str": "1526815244152033280",
+			"full_text": "This is why Gen X has no idea what age anyone is https://t.co/equDatDoqh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				48
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1526815241555693600,
+						"id_str": "1526815241555693571",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/FTBWX26UUAM6T93.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTBWX26UUAM6T93.jpg",
+						"url": "https://t.co/equDatDoqh",
+						"display_url": "pic.twitter.com/equDatDoqh",
+						"expanded_url": "https://twitter.com/busblog/status/1526815244152033280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1526815241555693600,
+						"id_str": "1526815241555693571",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/FTBWX26UUAM6T93.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTBWX26UUAM6T93.jpg",
+						"url": "https://t.co/equDatDoqh",
+						"display_url": "pic.twitter.com/equDatDoqh",
+						"expanded_url": "https://twitter.com/busblog/status/1526815244152033280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 480,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1526815241559953400,
+						"id_str": "1526815241559953408",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/FTBWX27VUAAH4Uj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTBWX27VUAAH4Uj.jpg",
+						"url": "https://t.co/equDatDoqh",
+						"display_url": "pic.twitter.com/equDatDoqh",
+						"expanded_url": "https://twitter.com/busblog/status/1526815244152033280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 448,
+								"h": 356,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 448,
+								"h": 356,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 448,
+								"h": 356,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1526815241559888000,
+						"id_str": "1526815241559887872",
+						"indices": [
+							49,
+							72
+						],
+						"media_url": "http://pbs.twimg.com/media/FTBWX27UUAACcol.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTBWX27UUAACcol.jpg",
+						"url": "https://t.co/equDatDoqh",
+						"display_url": "pic.twitter.com/equDatDoqh",
+						"expanded_url": "https://twitter.com/busblog/status/1526815244152033280/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 874,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 619,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 874,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5490762,
+				"id_str": "5490762",
+				"name": "tony pierce",
+				"screen_name": "busblog",
+				"location": "Mid City",
+				"description": "For the next 14 years I'm visiting every LA neighborhood & talking with the people https://t.co/QCCeWzYpsV previously @LAist @LATimes @DailyNexus",
+				"url": "https://t.co/jOBdNwZtOC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jOBdNwZtOC",
+								"expanded_url": "https://www.hearinLA.com",
+								"display_url": "hearinLA.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/QCCeWzYpsV",
+								"expanded_url": "http://hearinLA.com",
+								"display_url": "hearinLA.com",
+								"indices": [
+									83,
+									106
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 5563,
+				"friends_count": 1533,
+				"listed_count": 271,
+				"created_at": "Wed Apr 25 07:46:40 +0000 2007",
+				"favourites_count": 58640,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 69960,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1521228972326998016/xPBDbdfG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1521228972326998016/xPBDbdfG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5490762/1652828306",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "3E260A",
+				"profile_text_color": "53AB8D",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4670,
+			"favorite_count": 30458,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Alles in de thread en reacties is 🤯 https://t.co/AJzygKhcyW"
+	},
+	{
 		"created_at": "Wed May 18 19:06:12 +0000 2022",
 		"id": 1527002633394864000,
 		"id_str": "1527002633394864130",
