@@ -1,6 +1,426 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 23 06:51:48 +0000 2022",
+		"id": 1528629754500358100,
+		"id_str": "1528629754500358144",
+		"full_text": "Dit wordt de grootste Rickroll ooit https://t.co/Hmk1GO3cep",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Hmk1GO3cep",
+					"expanded_url": "https://twitter.com/LlSTENlNG_PARTY/status/1528624860733349889",
+					"display_url": "twitter.com/LlSTENlNG_PART…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8736,
+			"friends_count": 865,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9867,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66690,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1528624860733350000,
+		"quoted_status_id_str": "1528624860733349889",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Hmk1GO3cep",
+			"expanded": "https://twitter.com/LlSTENlNG_PARTY/status/1528624860733349889",
+			"display": "twitter.com/LlSTENlNG_PART…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 23 06:32:21 +0000 2022",
+			"id": 1528624860733350000,
+			"id_str": "1528624860733349889",
+			"full_text": "TONIGHT! At The @LlSTENlNG_PARTY 8pm (UK time)\n\nIt’s @rickastley \n https://t.co/a87q74EWQq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				90
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "LlSTENlNG_PARTY",
+						"name": "Tim's Listening Party",
+						"id": 1255057822959747000,
+						"id_str": "1255057822959747073",
+						"indices": [
+							16,
+							32
+						]
+					},
+					{
+						"screen_name": "rickastley",
+						"name": "Rick Astley",
+						"id": 148137271,
+						"id_str": "148137271",
+						"indices": [
+							53,
+							64
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1527574546785640400,
+						"id_str": "1527574546785640449",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1527574546785640449/pu/img/pMCaj1wMLWabLLJQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1527574546785640449/pu/img/pMCaj1wMLWabLLJQ.jpg",
+						"url": "https://t.co/a87q74EWQq",
+						"display_url": "pic.twitter.com/a87q74EWQq",
+						"expanded_url": "https://twitter.com/rickastley/status/1527574614276448256/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1527574614276448300,
+						"source_status_id_str": "1527574614276448256",
+						"source_user_id": 148137271,
+						"source_user_id_str": "148137271"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1527574546785640400,
+						"id_str": "1527574546785640449",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1527574546785640449/pu/img/pMCaj1wMLWabLLJQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1527574546785640449/pu/img/pMCaj1wMLWabLLJQ.jpg",
+						"url": "https://t.co/a87q74EWQq",
+						"display_url": "pic.twitter.com/a87q74EWQq",
+						"expanded_url": "https://twitter.com/rickastley/status/1527574614276448256/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1527574614276448300,
+						"source_status_id_str": "1527574614276448256",
+						"source_user_id": 148137271,
+						"source_user_id_str": "148137271",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 31320,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1527574546785640449/pu/vid/720x720/jmxMxCNDSKbVL5_Y.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1527574546785640449/pu/pl/V5u05b0CaA7Hk8Ac.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1527574546785640449/pu/vid/320x320/p8cJWEL78xI5UBye.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1527574546785640449/pu/vid/540x540/uzoTGpuzdKub49Fn.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 148137271,
+								"id_str": "148137271",
+								"name": "Rick Astley",
+								"screen_name": "rickastley",
+								"location": "London",
+								"description": "Official Twitter account for Rick Astley",
+								"url": "https://t.co/d7wXIALpt1",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/d7wXIALpt1",
+												"expanded_url": "https://rickastley.lnk.to/WYNS2022TW",
+												"display_url": "rickastley.lnk.to/WYNS2022TW",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 211563,
+								"friends_count": 1883,
+								"listed_count": 675,
+								"created_at": "Tue May 25 23:17:00 +0000 2010",
+								"favourites_count": 16966,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 3610,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "C0DEED",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1478706915693715458/ofbUUmZ7_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478706915693715458/ofbUUmZ7_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/148137271/1653034942",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1255057822959747000,
+				"id_str": "1255057822959747073",
+				"name": "Tim's Listening Party",
+				"screen_name": "LlSTENlNG_PARTY",
+				"location": "",
+				"description": "#TimsTwitterListeningParty We listen to albums with the people who made them. Join us. Schedule and over 1000 listening parties to replay over on our website 👇",
+				"url": "https://t.co/8sqWFfhtB5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/8sqWFfhtB5",
+								"expanded_url": "https://timstwitterlisteningparty.com/",
+								"display_url": "timstwitterlisteningparty.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 86060,
+				"friends_count": 1,
+				"listed_count": 464,
+				"created_at": "Tue Apr 28 08:55:51 +0000 2020",
+				"favourites_count": 65831,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 66424,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1401913725288960003/n_dKSg1J_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1401913725288960003/n_dKSg1J_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1255057822959747073/1615774885",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Dit wordt de grootste Rickroll ooit https://t.co/Hmk1GO3cep"
+	},
+	{
 		"created_at": "Mon May 23 04:48:11 +0000 2022",
 		"id": 1528598643472728000,
 		"id_str": "1528598643472728066",
