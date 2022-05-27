@@ -1,6 +1,204 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Fri May 27 22:40:53 +0000 2022",
+		"id": 1530318147986903000,
+		"id_str": "1530318147986903043",
+		"full_text": "Everything Everywhere All At Once is inderdaad de smoothie van het smorgasbord van het spectrum van de paella van de nasi van de Ben Liebrand Megamix van filmgenres, multiverses en hysterische scenes. Verpakt in een familiedrama. \nMet stenen. En een bagel. \n⭐️⭐️⭐️⭐️ https://t.co/9D2qNa20sj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1530318140646776800,
+					"id_str": "1530318140646776832",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FTzIPa6WYAAuKnN.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FTzIPa6WYAAuKnN.jpg",
+					"url": "https://t.co/9D2qNa20sj",
+					"display_url": "pic.twitter.com/9D2qNa20sj",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1530318147986903043/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 294,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 294,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 294,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1530318140646776800,
+					"id_str": "1530318140646776832",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FTzIPa6WYAAuKnN.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FTzIPa6WYAAuKnN.jpg",
+					"url": "https://t.co/9D2qNa20sj",
+					"display_url": "pic.twitter.com/9D2qNa20sj",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1530318147986903043/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 294,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 294,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 294,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							49
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FTzIPa6WYAAuKnN.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. \n\n#PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8738,
+			"friends_count": 868,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9878,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66723,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Everything Everywhere All At Once is inderdaad de smoothie van het smorgasbord van het spectrum van de paella van de nasi van de Ben Liebrand Megamix van filmgenres, multiverses en hysterische scenes. Verpakt in een familiedrama. \nMet stenen. En een bagel. \n⭐️⭐️⭐️⭐️ https://t.co/9D2qNa20sj"
+	},
+	{
 		"created_at": "Fri May 27 13:25:44 +0000 2022",
 		"id": 1530178442599313400,
 		"id_str": "1530178442599313410",
