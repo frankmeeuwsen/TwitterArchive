@@ -1,6 +1,176 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 02 06:10:41 +0000 2022",
+		"id": 1532024685566771200,
+		"id_str": "1532243286991282176",
+		"full_text": "All these albums were released within 44 days after each other in 1991. #rock https://t.co/TumNZIHFqi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rock",
+					"indices": [
+						72,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1532024683125739500,
+					"id_str": "1532024683125739524",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FULYVRDXEAQZKC-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FULYVRDXEAQZKC-.jpg",
+					"url": "https://t.co/TumNZIHFqi",
+					"display_url": "pic.twitter.com/TumNZIHFqi",
+					"expanded_url": "https://twitter.com/theequationist7/status/1532024685566771203/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1037,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1037,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 653,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1532024683125739500,
+					"id_str": "1532024683125739524",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/FULYVRDXEAQZKC-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FULYVRDXEAQZKC-.jpg",
+					"url": "https://t.co/TumNZIHFqi",
+					"display_url": "pic.twitter.com/TumNZIHFqi",
+					"expanded_url": "https://twitter.com/theequationist7/status/1532024685566771203/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1037,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1037,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 653,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1351093066132836400,
+			"id_str": "1351093066132836353",
+			"name": "The Great Equationist",
+			"screen_name": "theequationist7",
+			"location": "",
+			"description": "I simplify life into equations",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 115,
+			"friends_count": 56,
+			"listed_count": 1,
+			"created_at": "Mon Jan 18 09:04:38 +0000 2021",
+			"favourites_count": 4624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2896,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1511603467814584324/iZv1Es7x_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1511603467814584324/iZv1Es7x_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1351093066132836353/1610961161",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All these albums were released within 44 days after each other in 1991. #rock https://t.co/TumNZIHFqi"
+	},
+	{
 		"created_at": "Wed Jun 01 21:08:22 +0000 2022",
 		"id": 1532106807514112000,
 		"id_str": "1532106807514112004",
