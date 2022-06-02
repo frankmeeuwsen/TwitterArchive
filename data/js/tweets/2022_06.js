@@ -1,6 +1,329 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 02 17:43:46 +0000 2022",
+		"id": 1532417703100797000,
+		"id_str": "1532417703100796928",
+		"full_text": "Zo benieuwd naar komende zaterdag https://t.co/xZzlThZFUy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xZzlThZFUy",
+					"expanded_url": "https://twitter.com/msteeman/status/1532406326655066113",
+					"display_url": "twitter.com/msteeman/statu…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8741,
+			"friends_count": 869,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9921,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66749,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1532406326655066000,
+		"quoted_status_id_str": "1532406326655066113",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xZzlThZFUy",
+			"expanded": "https://twitter.com/msteeman/status/1532406326655066113",
+			"display": "twitter.com/msteeman/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 02 16:58:33 +0000 2022",
+			"id": 1532406326655066000,
+			"id_str": "1532406326655066113",
+			"full_text": "Anyway, scheelt weer voor de #ophefkalender https://t.co/MQ3wZwsSSX https://t.co/0Rc1lgPSBc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				67
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ophefkalender",
+						"indices": [
+							29,
+							43
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MQ3wZwsSSX",
+						"expanded_url": "https://twitter.com/msteeman/status/1476939860078432277?s=21",
+						"display_url": "twitter.com/msteeman/statu…",
+						"indices": [
+							44,
+							67
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1532406322175651800,
+						"id_str": "1532406322175651847",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/FUQzblTXsAcwJXj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FUQzblTXsAcwJXj.jpg",
+						"url": "https://t.co/0Rc1lgPSBc",
+						"display_url": "pic.twitter.com/0Rc1lgPSBc",
+						"expanded_url": "https://twitter.com/msteeman/status/1532406326655066113/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 644,
+								"h": 1186,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 369,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 644,
+								"h": 1186,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1532406322175651800,
+						"id_str": "1532406322175651847",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/media/FUQzblTXsAcwJXj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FUQzblTXsAcwJXj.jpg",
+						"url": "https://t.co/0Rc1lgPSBc",
+						"display_url": "pic.twitter.com/0Rc1lgPSBc",
+						"expanded_url": "https://twitter.com/msteeman/status/1532406326655066113/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 644,
+								"h": 1186,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 369,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 644,
+								"h": 1186,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1532405317753086000,
+			"in_reply_to_status_id_str": "1532405317753085952",
+			"in_reply_to_user_id": 19087381,
+			"in_reply_to_user_id_str": "19087381",
+			"in_reply_to_screen_name": "msteeman",
+			"user": {
+				"id": 19087381,
+				"id_str": "19087381",
+				"name": "Marcel Steeman",
+				"screen_name": "msteeman",
+				"location": "Castricum",
+				"description": "Ouwe weblogkliek. Statenlid D66 NH. Stroopwafelenthousiast Vader Goeroe Protector of the realm. #eerlijkeverpakkingen #ophefkalender LEGO FIETSPADEN!",
+				"url": "https://t.co/utonAOFnxi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/utonAOFnxi",
+								"expanded_url": "https://ideas.lego.com/projects/acdc6e0c-d635-43d4-8292-76510aa54f02/",
+								"display_url": "ideas.lego.com/projects/acdc6…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6824,
+				"friends_count": 4885,
+				"listed_count": 108,
+				"created_at": "Fri Jan 16 21:53:51 +0000 2009",
+				"favourites_count": 97792,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 111592,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F96609",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1464191387658772480/W-tEyU64_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1464191387658772480/W-tEyU64_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19087381/1634291069",
+				"profile_link_color": "F96609",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F4EBDC",
+				"profile_text_color": "95979A",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1476939860078432300,
+			"quoted_status_id_str": "1476939860078432277",
+			"quoted_status_permalink": {
+				"url": "https://t.co/MQ3wZwsSSX",
+				"expanded": "https://twitter.com/msteeman/status/1476939860078432277?s=21",
+				"display": "twitter.com/msteeman/statu…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Zo benieuwd naar komende zaterdag https://t.co/xZzlThZFUy"
+	},
+	{
 		"created_at": "Thu Jun 02 10:59:34 +0000 2022",
 		"id": 1532315986594091000,
 		"id_str": "1532315986594091008",
