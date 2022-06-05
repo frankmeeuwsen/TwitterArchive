@@ -1,6 +1,328 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 05 12:18:45 +0000 2022",
+		"id": 1533423076305735700,
+		"id_str": "1533423076305735680",
+		"full_text": "@erwblo @puur @Hermaniak @roosvanvugt Dan hebben zij binnenkomst niet de vraag gesteld “bent u bekend met ons concept”…;-)",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erwblo",
+					"name": "Erwin Blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "puur",
+					"name": "puur",
+					"id": 5776422,
+					"id_str": "5776422",
+					"indices": [
+						8,
+						13
+					]
+				},
+				{
+					"screen_name": "Hermaniak",
+					"name": "Herman Couwenbergh",
+					"id": 6438442,
+					"id_str": "6438442",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						25,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1533422838891303000,
+		"in_reply_to_status_id_str": "1533422838891302915",
+		"in_reply_to_user_id": 713333,
+		"in_reply_to_user_id_str": "713333",
+		"in_reply_to_screen_name": "erwblo",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8739,
+			"friends_count": 870,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9938,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@erwblo @puur @Hermaniak @roosvanvugt Dan hebben zij binnenkomst niet de vraag gesteld “bent u bekend met ons concept”…;-)"
+	},
+	{
+		"created_at": "Sun Jun 05 12:17:32 +0000 2022",
+		"id": 1533103330339311600,
+		"id_str": "1533422770629001217",
+		"full_text": "This. 👇 https://t.co/aXyirBQiv9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1533103326803501000,
+					"id_str": "1533103326803501058",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/FUatWl4XoAIM4TT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUatWl4XoAIM4TT.jpg",
+					"url": "https://t.co/aXyirBQiv9",
+					"display_url": "pic.twitter.com/aXyirBQiv9",
+					"expanded_url": "https://twitter.com/_dmoser/status/1533103330339311617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 588,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1075,
+							"h": 1243,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1038,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1533103326803501000,
+					"id_str": "1533103326803501058",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/FUatWl4XoAIM4TT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FUatWl4XoAIM4TT.jpg",
+					"url": "https://t.co/aXyirBQiv9",
+					"display_url": "pic.twitter.com/aXyirBQiv9",
+					"expanded_url": "https://twitter.com/_dmoser/status/1533103330339311617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 588,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1075,
+							"h": 1243,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1038,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 86401456,
+			"id_str": "86401456",
+			"name": "Daniel Moser",
+			"screen_name": "_dmoser",
+			"location": "Washington, DC",
+			"description": "Senior Transport Specialist @worldbank | Before: Head @tuminitiative | Mobility Transport | Urban Planning | Design | Infrastructure | Government Advisory",
+			"url": "https://t.co/hIkyujs1mu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hIkyujs1mu",
+							"expanded_url": "https://www.linkedin.com/in/danielernestomoser/",
+							"display_url": "linkedin.com/in/danielernes…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 25662,
+			"friends_count": 1417,
+			"listed_count": 327,
+			"created_at": "Fri Oct 30 21:37:03 +0000 2009",
+			"favourites_count": 8203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854603156306747392/gC19Xx3w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854603156306747392/gC19Xx3w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/86401456/1608576567",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8453,
+		"favorite_count": 45930,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This. 👇 https://t.co/aXyirBQiv9"
+	},
+	{
 		"created_at": "Sun Jun 05 10:43:41 +0000 2022",
 		"id": 1533399149919490000,
 		"id_str": "1533399149919490048",
