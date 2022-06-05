@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 05 15:26:57 +0000 2022",
+		"id": 1533470437828698000,
+		"id_str": "1533470437828698113",
+		"full_text": "6 Netflix series in 1 headline. https://t.co/Njck6oKMaX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Njck6oKMaX",
+					"expanded_url": "https://twitter.com/kristy_clueless/status/1533036471883546624",
+					"display_url": "twitter.com/kristy_clueles…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8739,
+			"friends_count": 870,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66766,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1533036471883546600,
+		"quoted_status_id_str": "1533036471883546624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Njck6oKMaX",
+			"expanded": "https://twitter.com/kristy_clueless/status/1533036471883546624",
+			"display": "twitter.com/kristy_clueles…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 04 10:42:31 +0000 2022",
+			"id": 1533036471883546600,
+			"id_str": "1533036471883546624",
+			"full_text": "I love how every part of this headline is pure chaos https://t.co/qKiKwTaLID",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				52
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1533036466921676800,
+						"id_str": "1533036466921676800",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/FUZwi1aWIAAI5yp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FUZwi1aWIAAI5yp.jpg",
+						"url": "https://t.co/qKiKwTaLID",
+						"display_url": "pic.twitter.com/qKiKwTaLID",
+						"expanded_url": "https://twitter.com/kristy_clueless/status/1533036471883546624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 1085,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1085,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 451,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1533036466921676800,
+						"id_str": "1533036466921676800",
+						"indices": [
+							53,
+							76
+						],
+						"media_url": "http://pbs.twimg.com/media/FUZwi1aWIAAI5yp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FUZwi1aWIAAI5yp.jpg",
+						"url": "https://t.co/qKiKwTaLID",
+						"display_url": "pic.twitter.com/qKiKwTaLID",
+						"expanded_url": "https://twitter.com/kristy_clueless/status/1533036471883546624/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 720,
+								"h": 1085,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1085,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 451,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 866757688729927700,
+				"id_str": "866757688729927681",
+				"name": "God Is A Tulpa",
+				"screen_name": "kristy_clueless",
+				"location": "Spring, TX",
+				"description": "lover of all things paranormal/metaphysical/supernatural, animals, 80s, punk/ska, and all things spooky and scary. ACAB. No lists, please.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7939,
+				"friends_count": 7931,
+				"listed_count": 7,
+				"created_at": "Mon May 22 20:48:31 +0000 2017",
+				"favourites_count": 144749,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 45847,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1372386854293635076/iAtM1_Ly_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1372386854293635076/iAtM1_Ly_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/866757688729927681/1617778231",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3600,
+			"favorite_count": 22383,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "6 Netflix series in 1 headline. https://t.co/Njck6oKMaX"
+	},
+	{
 		"created_at": "Sun Jun 05 12:18:45 +0000 2022",
 		"id": 1533423076305735700,
 		"id_str": "1533423076305735680",
