@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 09 04:37:23 +0000 2022",
+		"id": 1534756519111270400,
+		"id_str": "1534756519111270400",
+		"full_text": "Geen enkel album na pak’em-beet 2010 in deze lijst. Geen Kendrick Lamar, Kanye, Frank Ocean, Run the Jewels, Hang Youth. Geen dance. \n\nDan noem ik Kyteman’s The Hermit Sessions. https://t.co/SPlthEDf4M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SPlthEDf4M",
+					"expanded_url": "https://twitter.com/eijkema3/status/1534542100800360449",
+					"display_url": "twitter.com/eijkema3/statu…",
+					"indices": [
+						178,
+						201
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8739,
+			"friends_count": 870,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9955,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1534542100800360400,
+		"quoted_status_id_str": "1534542100800360449",
+		"quoted_status_permalink": {
+			"url": "https://t.co/SPlthEDf4M",
+			"expanded": "https://twitter.com/eijkema3/status/1534542100800360449",
+			"display": "twitter.com/eijkema3/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 08 14:25:21 +0000 2022",
+			"id": 1534542100800360400,
+			"id_str": "1534542100800360449",
+			"full_text": "Noem een album waar alleen maar goede muziek op staat...ik begin met: https://t.co/rtdjgxMXW7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				69
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1534542096383754200,
+						"id_str": "1534542096383754240",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/FUvJ6APWQAAumGV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FUvJ6APWQAAumGV.jpg",
+						"url": "https://t.co/rtdjgxMXW7",
+						"display_url": "pic.twitter.com/rtdjgxMXW7",
+						"expanded_url": "https://twitter.com/eijkema3/status/1534542100800360449/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 670,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 670,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 670,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1534542096383754200,
+						"id_str": "1534542096383754240",
+						"indices": [
+							70,
+							93
+						],
+						"media_url": "http://pbs.twimg.com/media/FUvJ6APWQAAumGV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FUvJ6APWQAAumGV.jpg",
+						"url": "https://t.co/rtdjgxMXW7",
+						"display_url": "pic.twitter.com/rtdjgxMXW7",
+						"expanded_url": "https://twitter.com/eijkema3/status/1534542100800360449/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 670,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 670,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 670,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1413175587221479400,
+				"id_str": "1413175587221479424",
+				"name": "𝕄 𝕒 𝕣 𝕚 𝕠",
+				"screen_name": "eijkema3",
+				"location": "(-_-) 🆅🅴🅶🅷🅴🅻 (-_-)",
+				"description": "Leuk dat je mij volgt! * Dingen & humor van vroeger(ook van anderen)  * kras hier ▒▒▒▒ voor meer bio *",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8628,
+				"friends_count": 6232,
+				"listed_count": 6,
+				"created_at": "Thu Jul 08 16:38:38 +0000 2021",
+				"favourites_count": 64386,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6868,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1480233039020101636/x323ML5__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1480233039020101636/x323ML5__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1413175587221479424/1637502826",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 371,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Geen enkel album na pak’em-beet 2010 in deze lijst. Geen Kendrick Lamar, Kanye, Frank Ocean, Run the Jewels, Hang Youth. Geen dance. \n\nDan noem ik Kyteman’s The Hermit Sessions. https://t.co/SPlthEDf4M"
+	},
+	{
 		"created_at": "Wed Jun 08 20:29:29 +0000 2022",
 		"id": 1534633738327441400,
 		"id_str": "1534633738327441408",
