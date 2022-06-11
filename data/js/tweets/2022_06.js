@@ -1,6 +1,246 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 11 04:39:21 +0000 2022",
+		"id": 1535481789682163700,
+		"id_str": "1535481789682163712",
+		"full_text": "Eindelijk eens een goede uitleg waarom het einde van Sopranos is wat het is. https://t.co/UNdThiTIji",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UNdThiTIji",
+					"expanded_url": "https://twitter.com/mikevago/status/1535300809675743232",
+					"display_url": "twitter.com/mikevago/statu…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8740,
+			"friends_count": 870,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66790,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1535300809675743200,
+		"quoted_status_id_str": "1535300809675743232",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UNdThiTIji",
+			"expanded": "https://twitter.com/mikevago/status/1535300809675743232",
+			"display": "twitter.com/mikevago/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 10 16:40:12 +0000 2022",
+			"id": 1535300809675743200,
+			"id_str": "1535300809675743232",
+			"full_text": "@foryourbenefit @sepinwall What actually happens is besides the point. 🧵\n\nRight before the final scene, Tony visits Uncle Jun, who doesn't recognize him or remember being boss. He visits Silv in the ICU, prognosis isn't good. We just saw how it ended for Bobby. However it ends of Tony, it won't end well.",
+			"truncated": false,
+			"display_text_range": [
+				27,
+				305
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "foryourbenefit",
+						"name": "#ForYourBenefit",
+						"id": 37977498,
+						"id_str": "37977498",
+						"indices": [
+							0,
+							15
+						]
+					},
+					{
+						"screen_name": "sepinwall",
+						"name": "Alan Sepinwall",
+						"id": 18840445,
+						"id_str": "18840445",
+						"indices": [
+							16,
+							26
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1535289804354637800,
+			"in_reply_to_status_id_str": "1535289804354637825",
+			"in_reply_to_user_id": 37977498,
+			"in_reply_to_user_id_str": "37977498",
+			"in_reply_to_screen_name": "foryourbenefit",
+			"user": {
+				"id": 1493135106,
+				"id_str": "1493135106",
+				"name": "Cookie Mobster",
+				"screen_name": "Mikevago",
+				"location": "Jersey City, NJ",
+				"description": "My sixth book, The Planets Are Very, Very, Very Far Away, is delayed again! Maybe it'll be out in October! Who knows?",
+				"url": "https://t.co/mfc9pcwhkP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mfc9pcwhkP",
+								"expanded_url": "http://subjectmedia.org",
+								"display_url": "subjectmedia.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1052,
+				"friends_count": 666,
+				"listed_count": 44,
+				"created_at": "Sat Jun 08 15:11:06 +0000 2013",
+				"favourites_count": 401716,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 80869,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1500701888882393089/h6LwfRFJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1500701888882393089/h6LwfRFJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1493135106/1388436546",
+				"profile_link_color": "94D487",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 713,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Eindelijk eens een goede uitleg waarom het einde van Sopranos is wat het is. https://t.co/UNdThiTIji"
+	},
+	{
 		"created_at": "Fri Jun 10 19:47:51 +0000 2022",
 		"id": 1535348032874627000,
 		"id_str": "1535348032874627074",
