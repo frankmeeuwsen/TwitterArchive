@@ -1,6 +1,282 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 12 15:29:26 +0000 2022",
+		"id": 1536002814425677800,
+		"id_str": "1536007778711613440",
+		"full_text": "Reprogrammed information panel in Brooklyn 🇺🇸\n\nhttps://t.co/fdEIUnncsk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1181193623209205800,
+					"id_str": "1181193623209205761",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1181193623209205761/pu/img/WzGV_ixyOeFKmqHz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1181193623209205761/pu/img/WzGV_ixyOeFKmqHz.jpg",
+					"url": "https://t.co/fdEIUnncsk",
+					"display_url": "pic.twitter.com/fdEIUnncsk",
+					"expanded_url": "https://twitter.com/HaelinChoi/status/1181193726506483712/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1181193726506483700,
+					"source_status_id_str": "1181193726506483712",
+					"source_user_id": 18214546,
+					"source_user_id_str": "18214546"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1181193623209205800,
+					"id_str": "1181193623209205761",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1181193623209205761/pu/img/WzGV_ixyOeFKmqHz.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1181193623209205761/pu/img/WzGV_ixyOeFKmqHz.jpg",
+					"url": "https://t.co/fdEIUnncsk",
+					"display_url": "pic.twitter.com/fdEIUnncsk",
+					"expanded_url": "https://twitter.com/HaelinChoi/status/1181193726506483712/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1181193726506483700,
+					"source_status_id_str": "1181193726506483712",
+					"source_user_id": 18214546,
+					"source_user_id_str": "18214546",
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 27870,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1181193623209205761/pu/vid/360x640/Q9o8O0mCDN2vnDYV.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1181193623209205761/pu/pl/y-KntK6R6EkEPCUZ.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1181193623209205761/pu/vid/720x1280/0gWzhf8XbgAJYjtk.mp4?tag=10"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1181193623209205761/pu/vid/320x568/p3mgqq3ZCiA1O0bc.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 18214546,
+							"id_str": "18214546",
+							"name": "Hae-Lin Choi ✊🏼 최혜린",
+							"screen_name": "HaelinChoi",
+							"location": "Brooklyn, New York",
+							"description": "NYS Political Director @CWADistrict1, momX2. Tweets abt labor & politics. Kicking 🍑 for the working class. We have a world to win.",
+							"url": "https://t.co/U1W2X72q4f",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/U1W2X72q4f",
+											"expanded_url": "https://district1.cwa-union.org/",
+											"display_url": "district1.cwa-union.org",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 3460,
+							"friends_count": 4050,
+							"listed_count": 44,
+							"created_at": "Thu Dec 18 13:27:52 +0000 2008",
+							"favourites_count": 19621,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 13303,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1447207626849366019/pjB0KY84_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1447207626849366019/pjB0KY84_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/18214546/1572380248",
+							"profile_link_color": "F58EA8",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 86401456,
+			"id_str": "86401456",
+			"name": "Daniel Moser",
+			"screen_name": "_dmoser",
+			"location": "Washington, DC",
+			"description": "Senior Transport Specialist @worldbank | Before: Head @tuminitiative | Mobility Transport | Urban Planning | Design | Infrastructure | Government Advisory",
+			"url": "https://t.co/hIkyujs1mu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hIkyujs1mu",
+							"expanded_url": "https://www.linkedin.com/in/danielernestomoser/",
+							"display_url": "linkedin.com/in/danielernes…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27832,
+			"friends_count": 1520,
+			"listed_count": 338,
+			"created_at": "Fri Oct 30 21:37:03 +0000 2009",
+			"favourites_count": 8309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854603156306747392/gC19Xx3w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854603156306747392/gC19Xx3w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/86401456/1608576567",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFF7CC",
+			"profile_text_color": "0C3E53",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 128,
+		"favorite_count": 541,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Reprogrammed information panel in Brooklyn 🇺🇸\n\nhttps://t.co/fdEIUnncsk"
+	},
+	{
 		"created_at": "Sun Jun 12 08:40:25 +0000 2022",
 		"id": 1535904846770995200,
 		"id_str": "1535904846770995200",
