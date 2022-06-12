@@ -1,6 +1,163 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 12 08:40:25 +0000 2022",
+		"id": 1535904846770995200,
+		"id_str": "1535904846770995200",
+		"full_text": "@jpagroenen @martijnaslander @marcoderksen @campodipace @sidnfonds In dat licht peins ik al een tijdje hoe PKM’s aan elkaar zijn te knopen. Dmv backlinks of annotaties linken naar elkaars kennis. Een internet op het internet eigenlijk. Email, RSS, txt en markdown kunnen daar cruciale verbindingselementen zijn.",
+		"truncated": false,
+		"display_text_range": [
+			67,
+			311
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jpagroenen",
+					"name": "Johan Groenen",
+					"id": 153201482,
+					"id_str": "153201482",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "martijnaslander",
+					"name": " martijn aslander",
+					"id": 3051761,
+					"id_str": "3051761",
+					"indices": [
+						12,
+						28
+					]
+				},
+				{
+					"screen_name": "marcoderksen",
+					"name": "Marco Derksen",
+					"id": 1252681,
+					"id_str": "1252681",
+					"indices": [
+						29,
+						42
+					]
+				},
+				{
+					"screen_name": "campodipace",
+					"name": "Laurens Vreekamp",
+					"id": 2636081,
+					"id_str": "2636081",
+					"indices": [
+						43,
+						55
+					]
+				},
+				{
+					"screen_name": "sidnfonds",
+					"name": "SIDN fonds",
+					"id": 3044582955,
+					"id_str": "3044582955",
+					"indices": [
+						56,
+						66
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1535896405117649000,
+		"in_reply_to_status_id_str": "1535896405117648896",
+		"in_reply_to_user_id": 153201482,
+		"in_reply_to_user_id_str": "153201482",
+		"in_reply_to_screen_name": "jpagroenen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8740,
+			"friends_count": 871,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9975,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@jpagroenen @martijnaslander @marcoderksen @campodipace @sidnfonds In dat licht peins ik al een tijdje hoe PKM’s aan elkaar zijn te knopen. Dmv backlinks of annotaties linken naar elkaars kennis. Een internet op het internet eigenlijk. Email, RSS, txt en markdown kunnen daar cruciale verbindingselementen zijn."
+	},
+	{
 		"created_at": "Sun Jun 12 07:47:28 +0000 2022",
 		"id": 1535891519722381300,
 		"id_str": "1535891519722381315",
