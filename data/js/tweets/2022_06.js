@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 12 20:27:50 +0000 2022",
+		"id": 1536052394374713300,
+		"id_str": "1536082871097622528",
+		"full_text": "https://t.co/zEwemcK4ll",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1536052338401624000,
+					"id_str": "1536052338401624065",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FVEndqLWQAEo6w0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVEndqLWQAEo6w0.jpg",
+					"url": "https://t.co/zEwemcK4ll",
+					"display_url": "pic.twitter.com/zEwemcK4ll",
+					"expanded_url": "https://twitter.com/depthsofwiki/status/1536052394374713350/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 605,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 916,
+							"h": 1030,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 916,
+							"h": 1030,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536052338401624000,
+					"id_str": "1536052338401624065",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FVEndqLWQAEo6w0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVEndqLWQAEo6w0.jpg",
+					"url": "https://t.co/zEwemcK4ll",
+					"display_url": "pic.twitter.com/zEwemcK4ll",
+					"expanded_url": "https://twitter.com/depthsofwiki/status/1536052394374713350/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 605,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 916,
+							"h": 1030,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 916,
+							"h": 1030,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1289214585170464800,
+			"id_str": "1289214585170464773",
+			"name": "depths of wikipedia",
+			"screen_name": "depthsofwiki",
+			"location": "",
+			"description": "DMs are open!\n@anniierau",
+			"url": "https://t.co/JURUXVM8hh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JURUXVM8hh",
+							"expanded_url": "https://linktr.ee/depthsofwikipedia",
+							"display_url": "linktr.ee/depthsofwikipe…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 484143,
+			"friends_count": 3394,
+			"listed_count": 779,
+			"created_at": "Fri Jul 31 15:01:33 +0000 2020",
+			"favourites_count": 5541,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1289218536464961536/qpIJWvo8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1289218536464961536/qpIJWvo8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1289214585170464773/1649303083",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 338,
+		"favorite_count": 6040,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/zEwemcK4ll"
+	},
+	{
 		"created_at": "Sun Jun 12 18:37:32 +0000 2022",
 		"id": 1536055115710451700,
 		"id_str": "1536055115710451714",
