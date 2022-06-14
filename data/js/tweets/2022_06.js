@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 14 07:34:12 +0000 2022",
+		"id": 1536612109286625300,
+		"id_str": "1536612956091338752",
+		"full_text": "Daar gaat het verjaardagsuitje! We zouden voor de verjaardag van mijn man @frankmeeuwsen naar Pinkpop want Pearl Jam!! Helaas kunnen we vanwege gezondheid niet gaan. Wie wil onze kaartjes overnemen en daarmee mijn man een ander verjaardagsfeestje geven? https://t.co/4QpRw9Hegi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frankmeeuwsen",
+					"name": "Frank Meeuwsen",
+					"id": 816203,
+					"id_str": "816203",
+					"indices": [
+						74,
+						88
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4QpRw9Hegi",
+					"expanded_url": "https://www.ticketswap.nl/listing/pinkpop-2022/6526883/9f41435119",
+					"display_url": "ticketswap.nl/listing/pinkpo…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1599741,
+			"id_str": "1599741",
+			"name": "Helena",
+			"screen_name": "Helie",
+			"location": "Utrecht, the Netherlands",
+			"description": "Nooit klaar met leren. Mensenrechten en onderwijs. Mijn liefs: @frankmeeuwsen, @tessmoana and Finnéan.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 666,
+			"friends_count": 1209,
+			"listed_count": 23,
+			"created_at": "Tue Mar 20 07:29:49 +0000 2007",
+			"favourites_count": 13437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5672,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1512369203373826052/KkviJhCx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1512369203373826052/KkviJhCx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1599741/1649411617",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "CD00AF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "070132",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Daar gaat het verjaardagsuitje! We zouden voor de verjaardag van mijn man @frankmeeuwsen naar Pinkpop want Pearl Jam!! Helaas kunnen we vanwege gezondheid niet gaan. Wie wil onze kaartjes overnemen en daarmee mijn man een ander verjaardagsfeestje geven? https://t.co/4QpRw9Hegi"
+	},
+	{
 		"created_at": "Mon Jun 13 17:17:52 +0000 2022",
 		"id": 1536397452164866000,
 		"id_str": "1536397452164866048",
