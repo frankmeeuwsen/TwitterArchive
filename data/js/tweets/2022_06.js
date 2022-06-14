@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 14 17:35:51 +0000 2022",
+		"id": 1536686641896513500,
+		"id_str": "1536764365373939712",
+		"full_text": "Het wordt lekker zonnig morgen, dus hebben we woensdag 15 juni omgedoopt tot #KINKbandshirtdag! \n\nDeel morgen een foto van jouw favoriete bandshirt, en hoor muziek van die band bij KINK!\n \nMeer info: \nhttps://t.co/hQ8sAfxThm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KINKbandshirtdag",
+					"indices": [
+						77,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hQ8sAfxThm",
+					"expanded_url": "https://kink.nl/nieuws/woensdag-15-juni-is-kink-bandshirtdag",
+					"display_url": "kink.nl/nieuws/woensda…",
+					"indices": [
+						201,
+						224
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36077942,
+			"id_str": "36077942",
+			"name": "KINK",
+			"screen_name": "KINKpuntnl",
+			"location": "Netherlands",
+			"description": "Te beluisteren via DAB+ en onze apps: https://t.co/v04WxKBFpo",
+			"url": "https://t.co/VotPrL8mIR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/VotPrL8mIR",
+							"expanded_url": "https://kink.nl",
+							"display_url": "kink.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/v04WxKBFpo",
+							"expanded_url": "http://www.kink.nl/app",
+							"display_url": "kink.nl/app",
+							"indices": [
+								38,
+								61
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10365,
+			"friends_count": 151,
+			"listed_count": 143,
+			"created_at": "Tue Apr 28 14:27:54 +0000 2009",
+			"favourites_count": 4628,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 17673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531623249775366147/XMyImVpk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531623249775366147/XMyImVpk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36077942/1617710771",
+			"profile_link_color": "040000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "8A8A8A",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Het wordt lekker zonnig morgen, dus hebben we woensdag 15 juni omgedoopt tot #KINKbandshirtdag! \n\nDeel morgen een foto van jouw favoriete bandshirt, en hoor muziek van die band bij KINK!\n \nMeer info: \nhttps://t.co/hQ8sAfxThm"
+	},
+	{
 		"created_at": "Tue Jun 14 11:55:25 +0000 2022",
 		"id": 1536678694365937700,
 		"id_str": "1536678694365937665",
