@@ -1,6 +1,199 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 15 05:12:22 +0000 2022",
+		"id": 1536855473667854300,
+		"id_str": "1536939651927244801",
+		"full_text": "Pearl Jam on Jeopardy tonight. https://t.co/WfIZDCigCk @PearlJam @Jeopardy https://t.co/Thpp2lVEuI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PearlJam",
+					"name": "Pearl Jam 🇺🇦",
+					"id": 15155074,
+					"id_str": "15155074",
+					"indices": [
+						55,
+						64
+					]
+				},
+				{
+					"screen_name": "Jeopardy",
+					"name": "Jeopardy!",
+					"id": 52554306,
+					"id_str": "52554306",
+					"indices": [
+						65,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WfIZDCigCk",
+					"expanded_url": "https://community.pearljam.com/discussion/293712/pearl-jam-on-jeopardy-tonight",
+					"display_url": "community.pearljam.com/discussion/293…",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1536855470891225000,
+					"id_str": "1536855470891225088",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FVQB6H2WUAAzugM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVQB6H2WUAAzugM.jpg",
+					"url": "https://t.co/Thpp2lVEuI",
+					"display_url": "pic.twitter.com/Thpp2lVEuI",
+					"expanded_url": "https://twitter.com/demetriosns/status/1536855473667854338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1104,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 367,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 647,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536855470891225000,
+					"id_str": "1536855470891225088",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/FVQB6H2WUAAzugM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVQB6H2WUAAzugM.jpg",
+					"url": "https://t.co/Thpp2lVEuI",
+					"display_url": "pic.twitter.com/Thpp2lVEuI",
+					"expanded_url": "https://twitter.com/demetriosns/status/1536855473667854338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1104,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 367,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 647,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2445883256,
+			"id_str": "2445883256",
+			"name": "demetrios",
+			"screen_name": "demetriosns",
+			"location": " 🇨🇦",
+			"description": "#pearljam",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6786,
+			"friends_count": 6886,
+			"listed_count": 55,
+			"created_at": "Tue Apr 15 19:14:28 +0000 2014",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 32066,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/964089175489351680/xBdqHMwd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/964089175489351680/xBdqHMwd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2445883256/1518692315",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 133,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pearl Jam on Jeopardy tonight. https://t.co/WfIZDCigCk @PearlJam @Jeopardy https://t.co/Thpp2lVEuI"
+	},
+	{
 		"created_at": "Tue Jun 14 17:35:51 +0000 2022",
 		"id": 1536686641896513500,
 		"id_str": "1536764365373939712",
