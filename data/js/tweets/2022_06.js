@@ -1,6 +1,464 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 15 18:42:53 +0000 2022",
+		"id": 1537143624961609700,
+		"id_str": "1537143624961609733",
+		"full_text": "@ehpo @pinkpopfest @NPO2extra Hopelijk mogen jullie Ome Ed en de band uitzenden. Ik moet helaas live verstek laten gaan. Op mijn eigen verjaardag nog wel. Bummer.",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ehpo",
+					"name": "Niels Aalberts",
+					"id": 20199054,
+					"id_str": "20199054",
+					"indices": [
+						0,
+						5
+					]
+				},
+				{
+					"screen_name": "pinkpopfest",
+					"name": "Pinkpop festival",
+					"id": 82294405,
+					"id_str": "82294405",
+					"indices": [
+						6,
+						18
+					]
+				},
+				{
+					"screen_name": "NPO2extra",
+					"name": "NPO 2 extra",
+					"id": 19716506,
+					"id_str": "19716506",
+					"indices": [
+						19,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1537080113740796000,
+		"in_reply_to_status_id_str": "1537080113740795904",
+		"in_reply_to_user_id": 20199054,
+		"in_reply_to_user_id_str": "20199054",
+		"in_reply_to_screen_name": "ehpo",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8740,
+			"friends_count": 876,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9996,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@ehpo @pinkpopfest @NPO2extra Hopelijk mogen jullie Ome Ed en de band uitzenden. Ik moet helaas live verstek laten gaan. Op mijn eigen verjaardag nog wel. Bummer."
+	},
+	{
+		"created_at": "Wed Jun 15 18:03:14 +0000 2022",
+		"id": 1537133645739311000,
+		"id_str": "1537133645739311106",
+		"full_text": "Matter wordt steeds waardevoller zo. Het is nog wel een bak ongelezen Read Laters die ik nu heb. Dat is meer een persoonlijk issue dan de app. Ik heb dit altijd met alle Read Later diensten. https://t.co/HO6gvNmGi4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HO6gvNmGi4",
+					"expanded_url": "https://twitter.com/getmatterapp/status/1537117989627080704",
+					"display_url": "twitter.com/getmatterapp/s…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8740,
+			"friends_count": 876,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9996,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66816,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1537117989627080700,
+		"quoted_status_id_str": "1537117989627080704",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HO6gvNmGi4",
+			"expanded": "https://twitter.com/getmatterapp/status/1537117989627080704",
+			"display": "twitter.com/getmatterapp/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 15 17:01:01 +0000 2022",
+			"id": 1537117989627080700,
+			"id_str": "1537117989627080704",
+			"full_text": "Some personal news...Matter now supports RSS!\n\nYou might be wondering, what took so long? Here’s the story... 🧵 https://t.co/VrE2Pr108k",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				111
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1537113106467287000,
+						"id_str": "1537113106467287041",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FVTsOfKUcAE84Rz.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FVTsOfKUcAE84Rz.jpg",
+						"url": "https://t.co/VrE2Pr108k",
+						"display_url": "pic.twitter.com/VrE2Pr108k",
+						"expanded_url": "https://twitter.com/getmatterapp/status/1537117989627080704/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 780,
+								"h": 1560,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1537113106467287000,
+						"id_str": "1537113106467287041",
+						"indices": [
+							112,
+							135
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FVTsOfKUcAE84Rz.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FVTsOfKUcAE84Rz.jpg",
+						"url": "https://t.co/VrE2Pr108k",
+						"display_url": "pic.twitter.com/VrE2Pr108k",
+						"expanded_url": "https://twitter.com/getmatterapp/status/1537117989627080704/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 340,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 780,
+								"h": 1560,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								2
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/FVTsOfKUcAE84Rz.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1232479427981791200,
+				"id_str": "1232479427981791233",
+				"name": "Matter",
+				"screen_name": "getmatterapp",
+				"location": "",
+				"description": "Words are my matter. (Ursula K. Le Guin)\n\nWall of love: https://t.co/myCDXholgf",
+				"url": "https://t.co/HpaEubyYCZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HpaEubyYCZ",
+								"expanded_url": "http://getmatter.com",
+								"display_url": "getmatter.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/myCDXholgf",
+								"expanded_url": "https://twitter.com/getmatterapp/timelines/1353843820639739906",
+								"display_url": "twitter.com/getmatterapp/t…",
+								"indices": [
+									56,
+									79
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 6709,
+				"friends_count": 5,
+				"listed_count": 183,
+				"created_at": "Wed Feb 26 01:36:21 +0000 2020",
+				"favourites_count": 2083,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1128,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1445088103979388936/LWkZZVSQ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1445088103979388936/LWkZZVSQ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1232479427981791233/1607026490",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Matter wordt steeds waardevoller zo. Het is nog wel een bak ongelezen Read Laters die ik nu heb. Dat is meer een persoonlijk issue dan de app. Ik heb dit altijd met alle Read Later diensten. https://t.co/HO6gvNmGi4"
+	},
+	{
 		"created_at": "Wed Jun 15 12:02:43 +0000 2022",
 		"id": 1537042918611075000,
 		"id_str": "1537042918611075072",
