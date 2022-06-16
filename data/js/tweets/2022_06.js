@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 16 08:25:08 +0000 2022",
+		"id": 1537350548525138000,
+		"id_str": "1537350548525137922",
+		"full_text": "Dit is wel een classic hoor. The Ultimate Band List. https://t.co/gU0lB4pEwM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gU0lB4pEwM",
+					"expanded_url": "https://twitter.com/wayback_exe/status/1537349338715889665",
+					"display_url": "twitter.com/wayback_exe/st…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8741,
+			"friends_count": 876,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9998,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66821,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1537349338715889700,
+		"quoted_status_id_str": "1537349338715889665",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gU0lB4pEwM",
+			"expanded": "https://twitter.com/wayback_exe/status/1537349338715889665",
+			"display": "twitter.com/wayback_exe/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 16 08:20:19 +0000 2022",
+			"id": 1537349338715889700,
+			"id_str": "1537349338715889665",
+			"full_text": "FAQ Links Resources: Ultimate Band List\nFeb 1997\nhttps://t.co/IkURYG0xZx\nhttps://t.co/ogao8Q9djf https://t.co/YmVGeEZNJl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				96
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/IkURYG0xZx",
+						"expanded_url": "https://web.archive.org/web/19970201060658/http://ubl.com/ubl/rsrc/faq.html",
+						"display_url": "web.archive.org/web/1997020106…",
+						"indices": [
+							49,
+							72
+						]
+					},
+					{
+						"url": "https://t.co/ogao8Q9djf",
+						"expanded_url": "http://oldweb.today/random/19970201060658/http://ubl.com/ubl/rsrc/faq.html",
+						"display_url": "oldweb.today/random/1997020…",
+						"indices": [
+							73,
+							96
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1537349336513794000,
+						"id_str": "1537349336513794048",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/FVXDE4qWUAAyxFQ.png",
+						"media_url_https": "https://pbs.twimg.com/media/FVXDE4qWUAAyxFQ.png",
+						"url": "https://t.co/YmVGeEZNJl",
+						"display_url": "pic.twitter.com/YmVGeEZNJl",
+						"expanded_url": "https://twitter.com/wayback_exe/status/1537349338715889665/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 836,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 836,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 651,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1537349336513794000,
+						"id_str": "1537349336513794048",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/media/FVXDE4qWUAAyxFQ.png",
+						"media_url_https": "https://pbs.twimg.com/media/FVXDE4qWUAAyxFQ.png",
+						"url": "https://t.co/YmVGeEZNJl",
+						"display_url": "pic.twitter.com/YmVGeEZNJl",
+						"expanded_url": "https://twitter.com/wayback_exe/status/1537349338715889665/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 800,
+								"h": 836,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 836,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 651,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://muffinlabs.com\" rel=\"nofollow\">wayyyyyyyyyyback</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3772896857,
+				"id_str": "3772896857",
+				"name": "wayback_exe",
+				"screen_name": "wayback_exe",
+				"location": "The ancient web",
+				"description": "I generate screenshots of old websites in old browsers. Tweets every 2 hours. Data from the Wayback Machine, bot from @muffinista #botALLY",
+				"url": "https://t.co/mGcnQ96Y14",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mGcnQ96Y14",
+								"expanded_url": "http://muffinlabs.com/wayback_exe/",
+								"display_url": "muffinlabs.com/wayback_exe/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19422,
+				"friends_count": 1,
+				"listed_count": 395,
+				"created_at": "Fri Sep 25 16:42:56 +0000 2015",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 27646,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/655417243275169792/A9oDxwrm_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/655417243275169792/A9oDxwrm_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3772896857/1445098667",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dit is wel een classic hoor. The Ultimate Band List. https://t.co/gU0lB4pEwM"
+	},
+	{
 		"created_at": "Thu Jun 16 06:43:12 +0000 2022",
 		"id": 1537324896790904800,
 		"id_str": "1537324896790904833",
