@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 17 18:27:46 +0000 2022",
+		"id": 1537864595578273800,
+		"id_str": "1537864595578273792",
+		"full_text": "Wat een heerlijke fototour. Wat goed dat Bonami zo is uitgebreid. Ik ben er al een paar jaar niet meer geweest. https://t.co/8jBciB15nH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8jBciB15nH",
+					"expanded_url": "https://twitter.com/mwichary/status/1537628666137415682",
+					"display_url": "twitter.com/mwichary/statu…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8740,
+			"friends_count": 876,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10001,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66827,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1537628666137415700,
+		"quoted_status_id_str": "1537628666137415682",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8jBciB15nH",
+			"expanded": "https://twitter.com/mwichary/status/1537628666137415682",
+			"display": "twitter.com/mwichary/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 17 02:50:16 +0000 2022",
+			"id": 1537628666137415700,
+			"id_str": "1537628666137415682",
+			"full_text": "I visited three different Dutch computer museums last week, and they were so great I wanted to tell you about them a bit more. https://t.co/wjtf0AucGk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				126
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1537628118902395000,
+						"id_str": "1537628118902394880",
+						"indices": [
+							127,
+							150
+						],
+						"media_url": "http://pbs.twimg.com/media/FVbAoJ_UUAAHoA1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FVbAoJ_UUAAHoA1.jpg",
+						"url": "https://t.co/wjtf0AucGk",
+						"display_url": "pic.twitter.com/wjtf0AucGk",
+						"expanded_url": "https://twitter.com/mwichary/status/1537628666137415682/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1366,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 454,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1537628118902395000,
+						"id_str": "1537628118902394880",
+						"indices": [
+							127,
+							150
+						],
+						"media_url": "http://pbs.twimg.com/media/FVbAoJ_UUAAHoA1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FVbAoJ_UUAAHoA1.jpg",
+						"url": "https://t.co/wjtf0AucGk",
+						"display_url": "pic.twitter.com/wjtf0AucGk",
+						"expanded_url": "https://twitter.com/mwichary/status/1537628666137415682/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1366,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 454,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1537628428324614100,
+						"id_str": "1537628428324614144",
+						"indices": [
+							127,
+							150
+						],
+						"media_url": "http://pbs.twimg.com/media/FVbA6KrUsAA7R5s.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FVbA6KrUsAA7R5s.jpg",
+						"url": "https://t.co/wjtf0AucGk",
+						"display_url": "pic.twitter.com/wjtf0AucGk",
+						"expanded_url": "https://twitter.com/mwichary/status/1537628666137415682/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 454,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1366,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1537628511959036000,
+						"id_str": "1537628511959035904",
+						"indices": [
+							127,
+							150
+						],
+						"media_url": "http://pbs.twimg.com/media/FVbA_CPUsAAAoUs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FVbA_CPUsAAAoUs.jpg",
+						"url": "https://t.co/wjtf0AucGk",
+						"display_url": "pic.twitter.com/wjtf0AucGk",
+						"expanded_url": "https://twitter.com/mwichary/status/1537628666137415682/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1366,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 454,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 86239754,
+				"id_str": "86239754",
+				"name": "Marcin Wichary",
+				"screen_name": "mwichary",
+				"location": "San Francisco, Calif.",
+				"description": "Writing a book about the history of keyboards: https://t.co/eEA7Y9ssuF · Design manager @figma · Typographer · Occasional speaker · He/him",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/eEA7Y9ssuF",
+								"expanded_url": "http://aresluna.org/shift-happens",
+								"display_url": "aresluna.org/shift-happens",
+								"indices": [
+									47,
+									70
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 17358,
+				"friends_count": 3565,
+				"listed_count": 523,
+				"created_at": "Fri Oct 30 04:28:51 +0000 2009",
+				"favourites_count": 6019,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 39531,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1531455933884166144/9gARc1Jr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531455933884166144/9gARc1Jr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/86239754/1437445368",
+				"profile_link_color": "3F3F3F",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 148,
+			"favorite_count": 708,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Wat een heerlijke fototour. Wat goed dat Bonami zo is uitgebreid. Ik ben er al een paar jaar niet meer geweest. https://t.co/8jBciB15nH"
+	},
+	{
 		"created_at": "Fri Jun 17 18:07:40 +0000 2022",
 		"id": 1537859538564616200,
 		"id_str": "1537859538564616193",
