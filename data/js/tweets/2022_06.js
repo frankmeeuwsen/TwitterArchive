@@ -1,6 +1,345 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 17 06:32:49 +0000 2022",
+		"id": 1537684671118594000,
+		"id_str": "1537684671118594048",
+		"full_text": "In de Release Radar vandaag en heerlijk! https://t.co/ct7W8Z6w7c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ct7W8Z6w7c",
+					"expanded_url": "https://twitter.com/reignwolf/status/1536712568860991490",
+					"display_url": "twitter.com/reignwolf/stat…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8741,
+			"friends_count": 876,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 9998,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66823,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1536712568860991500,
+		"quoted_status_id_str": "1536712568860991490",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ct7W8Z6w7c",
+			"expanded": "https://twitter.com/reignwolf/status/1536712568860991490",
+			"display": "twitter.com/reignwolf/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 14 14:10:01 +0000 2022",
+			"id": 1536712568860991500,
+			"id_str": "1536712568860991490",
+			"full_text": "New single “The Woods” ft.Brad Wilk - Out Friday! Pre Save Now.\nhttps://t.co/gjBAQv8jdq 🐺 https://t.co/JgRF4Hhu8C",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				89
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gjBAQv8jdq",
+						"expanded_url": "https://bit.ly/3NSI0nU",
+						"display_url": "bit.ly/3NSI0nU",
+						"indices": [
+							64,
+							87
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1536711846404694000,
+						"id_str": "1536711846404694016",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1536711846404694016/pu/img/543uXfYAEJJplF6R.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1536711846404694016/pu/img/543uXfYAEJJplF6R.jpg",
+						"url": "https://t.co/JgRF4Hhu8C",
+						"display_url": "pic.twitter.com/JgRF4Hhu8C",
+						"expanded_url": "https://twitter.com/reignwolf/status/1536712568860991490/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1536711846404694000,
+						"id_str": "1536711846404694016",
+						"indices": [
+							90,
+							113
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1536711846404694016/pu/img/543uXfYAEJJplF6R.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1536711846404694016/pu/img/543uXfYAEJJplF6R.jpg",
+						"url": "https://t.co/JgRF4Hhu8C",
+						"display_url": "pic.twitter.com/JgRF4Hhu8C",
+						"expanded_url": "https://twitter.com/reignwolf/status/1536712568860991490/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 11680,
+							"variants": [
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1536711846404694016/pu/vid/480x852/PlSnNFBEDXx_DwXq.mp4?tag=12"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1536711846404694016/pu/vid/320x568/wfyvrKE58TOH5Ngd.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1536711846404694016/pu/pl/le-29yg5Ud5w9MY8.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1536711846404694016/pu/vid/720x1280/drOBojL7hWfmSC01.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 433001275,
+				"id_str": "433001275",
+				"name": "Reignwolf",
+				"screen_name": "reignwolf",
+				"location": "",
+				"description": "",
+				"url": "https://t.co/hD0BuS62hX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hD0BuS62hX",
+								"expanded_url": "http://www.reignwolf.com",
+								"display_url": "reignwolf.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 12773,
+				"friends_count": 1138,
+				"listed_count": 139,
+				"created_at": "Sat Dec 10 01:19:45 +0000 2011",
+				"favourites_count": 5353,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2493,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1091208094003154944/WytEJXKr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091208094003154944/WytEJXKr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/433001275/1549014296",
+				"profile_link_color": "BD0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 44,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "In de Release Radar vandaag en heerlijk! https://t.co/ct7W8Z6w7c"
+	},
+	{
 		"created_at": "Fri Jun 17 03:01:00 +0000 2022",
 		"id": 1537631365893587000,
 		"id_str": "1537631365893586950",
