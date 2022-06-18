@@ -1,6 +1,125 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 18 15:34:39 +0000 2022",
+		"id": 1538181590748172300,
+		"id_str": "1538183418105806853",
+		"full_text": "#OtD: 1992\n\nThe Momma-Son trilogy (Alive, Once, Footsteps) is revealed and played in sequence.\n\n\"The next three songs...we've never really played them together, but they go together. You wanna hear about it? I never told anybody about this before...\" #tfh\n\nhttps://t.co/FYyudaDdg5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OtD",
+					"indices": [
+						0,
+						4
+					]
+				},
+				{
+					"text": "tfh",
+					"indices": [
+						251,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FYyudaDdg5",
+					"expanded_url": "https://buff.ly/3mYo1bK",
+					"display_url": "buff.ly/3mYo1bK",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1254969777896009700,
+			"id_str": "1254969777896009729",
+			"name": "truant finds home",
+			"screen_name": "t_f_h_",
+			"location": "",
+			"description": "Highly curated content according to a Pearl Jam calendar. This one's for the serious collector. #tfh\nhttps://t.co/OajWl69OUV…",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/OajWl69OUV",
+							"expanded_url": "http://youtube.com/user/ppj45code",
+							"display_url": "youtube.com/user/ppj45code",
+							"indices": [
+								101,
+								124
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 673,
+			"friends_count": 7,
+			"listed_count": 9,
+			"created_at": "Tue Apr 28 03:05:12 +0000 2020",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254973771036925953/G58HS1QC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254973771036925953/G58HS1QC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1254969777896009729/1588044086",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#OtD: 1992\n\nThe Momma-Son trilogy (Alive, Once, Footsteps) is revealed and played in sequence.\n\n\"The next three songs...we've never really played them together, but they go together. You wanna hear about it? I never told anybody about this before...\" #tfh\n\nhttps://t.co/FYyudaDdg5"
+	},
+	{
 		"created_at": "Sat Jun 18 10:07:27 +0000 2022",
 		"id": 1538101075445784600,
 		"id_str": "1538101075445784576",
