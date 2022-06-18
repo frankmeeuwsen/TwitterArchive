@@ -1,6 +1,220 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 18 04:18:09 +0000 2022",
+		"id": 1537784477979750400,
+		"id_str": "1538013171063005186",
+		"full_text": "People of #TNWConference I really need your help. I lost a piece of juwelery that is dear to me. It is a little bolt that fits in here. It has an inscription. When found please contact me. @thenextweb @boris @patrick . Please RT. https://t.co/OxrJB62I6J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TNWConference",
+					"indices": [
+						10,
+						24
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thenextweb",
+					"name": "TNW",
+					"id": 10876852,
+					"id_str": "10876852",
+					"indices": [
+						189,
+						200
+					]
+				},
+				{
+					"screen_name": "Boris",
+					"name": "Boris Veldhuijzen van Zanten",
+					"id": 17463,
+					"id_str": "17463",
+					"indices": [
+						201,
+						207
+					]
+				},
+				{
+					"screen_name": "patrick",
+					"name": "|☽atrick - delaive.eth",
+					"id": 4485601,
+					"id_str": "4485601",
+					"indices": [
+						208,
+						216
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1537784473219223600,
+					"id_str": "1537784473219223552",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/FVdO1LNX0AATw-C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVdO1LNX0AATw-C.jpg",
+					"url": "https://t.co/OxrJB62I6J",
+					"display_url": "pic.twitter.com/OxrJB62I6J",
+					"expanded_url": "https://twitter.com/Burgemeester/status/1537784477979750400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1537784473219223600,
+					"id_str": "1537784473219223552",
+					"indices": [
+						230,
+						253
+					],
+					"media_url": "http://pbs.twimg.com/media/FVdO1LNX0AATw-C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVdO1LNX0AATw-C.jpg",
+					"url": "https://t.co/OxrJB62I6J",
+					"display_url": "pic.twitter.com/OxrJB62I6J",
+					"expanded_url": "https://twitter.com/Burgemeester/status/1537784477979750400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15248156,
+			"id_str": "15248156",
+			"name": "Bart Ensink",
+			"screen_name": "Burgemeester",
+			"location": "Enschede",
+			"description": "Digital, data, story teller, spreker, innovator, marketing, internetverslaafde, gravelbiker, supporter, BBQ, 100% Tukker, Enschede, ",
+			"url": "https://t.co/ykPWky2AYM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ykPWky2AYM",
+							"expanded_url": "http://bartensink.nl/",
+							"display_url": "bartensink.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1738,
+			"friends_count": 2294,
+			"listed_count": 103,
+			"created_at": "Thu Jun 26 20:54:45 +0000 2008",
+			"favourites_count": 3502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 93762,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/684121697285308416/GjGIen8-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/684121697285308416/GjGIen8-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15248156/1398328747",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "People of #TNWConference I really need your help. I lost a piece of juwelery that is dear to me. It is a little bolt that fits in here. It has an inscription. When found please contact me. @thenextweb @boris @patrick . Please RT. https://t.co/OxrJB62I6J"
+	},
+	{
 		"created_at": "Fri Jun 17 21:31:10 +0000 2022",
 		"id": 1537910749476966400,
 		"id_str": "1537910749476966401",
@@ -150,7 +364,7 @@ Grailbird.data.tweets_2022_06 =
 				},
 				{
 					"screen_name": "Monstergoldie",
-					"name": "JIPPEKE is even wat prikken weggooien🧙‍♀️🍀",
+					"name": "JIPPEKE is even wat prikken weggooien🧙♀️🍀",
 					"id": 897977737,
 					"id_str": "897977737",
 					"indices": [
