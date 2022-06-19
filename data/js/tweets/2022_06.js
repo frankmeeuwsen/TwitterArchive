@@ -1,6 +1,228 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 19 17:52:47 +0000 2022",
+		"id": 1538287113111740400,
+		"id_str": "1538580566546710535",
+		"full_text": "So tonight @wembleystadium supplied a BSL signer for @Harry_Styles. My sister is profoundly deaf and this made her night… so much so she cried! 🫶🏻🥹\n\nHonestly such a moment for live music and deaf people! #harrystyles https://t.co/owZjznnXeW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "harrystyles",
+					"indices": [
+						204,
+						216
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wembleystadium",
+					"name": "Wembley Stadium",
+					"id": 19596849,
+					"id_str": "19596849",
+					"indices": [
+						11,
+						26
+					]
+				},
+				{
+					"screen_name": "Harry_Styles",
+					"name": "Harry Styles.",
+					"id": 181561712,
+					"id_str": "181561712",
+					"indices": [
+						53,
+						66
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1538286982752764000,
+					"id_str": "1538286982752763907",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1538286982752763907/pu/img/HOh-jg0Wfw2yb027.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1538286982752763907/pu/img/HOh-jg0Wfw2yb027.jpg",
+					"url": "https://t.co/owZjznnXeW",
+					"display_url": "pic.twitter.com/owZjznnXeW",
+					"expanded_url": "https://twitter.com/courterz_/status/1538287113111740423/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538286982752764000,
+					"id_str": "1538286982752763907",
+					"indices": [
+						217,
+						240
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1538286982752763907/pu/img/HOh-jg0Wfw2yb027.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1538286982752763907/pu/img/HOh-jg0Wfw2yb027.jpg",
+					"url": "https://t.co/owZjznnXeW",
+					"display_url": "pic.twitter.com/owZjznnXeW",
+					"expanded_url": "https://twitter.com/courterz_/status/1538287113111740423/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 30400,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1538286982752763907/pu/vid/720x1280/9zxCwIDcjzWH-vwZ.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1538286982752763907/pu/vid/320x568/oR9LDDroWxXHP-Z8.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1538286982752763907/pu/vid/480x852/nze18kRtFh_LTrO9.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1538286982752763907/pu/pl/ADg3ELMU_phjI2Fn.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20541006,
+			"id_str": "20541006",
+			"name": "Courtney",
+			"screen_name": "courterz_",
+			"location": "Essex",
+			"description": "potential disney star or rapper whatever works best or maybe a popstar.. ... ϟ",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 971,
+			"friends_count": 469,
+			"listed_count": 20,
+			"created_at": "Tue Feb 10 20:10:48 +0000 2009",
+			"favourites_count": 8182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 85698,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "524F52",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525489666631270400/K-0sIa4o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525489666631270400/K-0sIa4o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20541006/1584567391",
+			"profile_link_color": "5D3262",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2318,
+		"favorite_count": 20449,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So tonight @wembleystadium supplied a BSL signer for @Harry_Styles. My sister is profoundly deaf and this made her night… so much so she cried! 🫶🏻🥹\n\nHonestly such a moment for live music and deaf people! #harrystyles https://t.co/owZjznnXeW"
+	},
+	{
 		"created_at": "Sun Jun 19 06:37:13 +0000 2022",
 		"id": 1538410555345625000,
 		"id_str": "1538410555345625090",
