@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 19 06:20:09 +0000 2022",
+		"id": 1538377987439181800,
+		"id_str": "1538406259849838593",
+		"full_text": "Welcome to the Age of Extinction. https://t.co/wRwfyMRiaZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wRwfyMRiaZ",
+					"expanded_url": "https://eand.co/the-summer-extinction-became-real-d7f7ac23dee9",
+					"display_url": "eand.co/the-summer-ext…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://radio3.io/\" rel=\"nofollow\">radio3.io</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3839,
+			"id_str": "3839",
+			"name": "dave.rss",
+			"screen_name": "davewiner",
+			"location": "Woodstock, NY",
+			"description": "Started two Silicon Valley companies. Wrote for Wired. Fellow at Harvard, NYU. Founder of podcasting, blogging, RSS.",
+			"url": "https://t.co/alwLFPBgDF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/alwLFPBgDF",
+							"expanded_url": "http://scripting.com/",
+							"display_url": "scripting.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67140,
+			"friends_count": 3939,
+			"listed_count": 5220,
+			"created_at": "Sat Aug 05 23:04:08 +0000 2006",
+			"favourites_count": 19432,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 203905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398806004528263168/2SXipvrt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398806004528263168/2SXipvrt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3839/1636295224",
+			"profile_link_color": "7F7F90",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E1E1DF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Welcome to the Age of Extinction. https://t.co/wRwfyMRiaZ"
+	},
+	{
 		"created_at": "Sat Jun 18 20:41:51 +0000 2022",
 		"id": 1538260725600243700,
 		"id_str": "1538260725600243715",
