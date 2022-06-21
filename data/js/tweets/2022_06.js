@@ -1,10 +1,393 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 21 16:54:47 +0000 2022",
+		"id": 1539282945193693200,
+		"id_str": "1539290748067119104",
+		"full_text": "Just spoke with Roland who is at @WaldbuhneBerlin to see @PearlJam tonight to hear #RVMforRoland. Please @PearlJam make this happen.  cc @liveon4legspod https://t.co/hy3rRaJ0sN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RVMforRoland",
+					"indices": [
+						83,
+						96
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WaldbuhneBerlin",
+					"name": "Waldbühne Berlin",
+					"id": 1089567050,
+					"id_str": "1089567050",
+					"indices": [
+						33,
+						49
+					]
+				},
+				{
+					"screen_name": "PearlJam",
+					"name": "Pearl Jam 🇺🇦",
+					"id": 15155074,
+					"id_str": "15155074",
+					"indices": [
+						57,
+						66
+					]
+				},
+				{
+					"screen_name": "PearlJam",
+					"name": "Pearl Jam 🇺🇦",
+					"id": 15155074,
+					"id_str": "15155074",
+					"indices": [
+						105,
+						114
+					]
+				},
+				{
+					"screen_name": "liveon4legspod",
+					"name": "Live On 4 Legs Podcast",
+					"id": 1031957203366932500,
+					"id_str": "1031957203366932481",
+					"indices": [
+						137,
+						152
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hy3rRaJ0sN",
+					"expanded_url": "https://twitter.com/tazgezwitscher/status/1536748530370547712",
+					"display_url": "twitter.com/tazgezwitscher…",
+					"indices": [
+						153,
+						176
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1128821376,
+			"id_str": "1128821376",
+			"name": "Axel",
+			"screen_name": "AxelPicker",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 35,
+			"friends_count": 106,
+			"listed_count": 0,
+			"created_at": "Mon Jan 28 18:19:58 +0000 2013",
+			"favourites_count": 1211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1393192388328316928/qr1CQSo1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1393192388328316928/qr1CQSo1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1128821376/1620997925",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1536748530370547700,
+		"quoted_status_id_str": "1536748530370547712",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hy3rRaJ0sN",
+			"expanded": "https://twitter.com/tazgezwitscher/status/1536748530370547712",
+			"display": "twitter.com/tazgezwitscher…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 14 16:32:55 +0000 2022",
+			"id": 1536748530370547700,
+			"id_str": "1536748530370547712",
+			"full_text": "Roland Mandel sitzt im Rollstuhl, ihm wurde der Zugang zur @WaldbuhneBerlin zunächst verwehrt. Denn dort fehlt es an #barrierefrei.en Plätzen – und zwar gewaltig: 12 statt der mindestens 220 (1% aller Plätze) gibt es dort. \n👉 https://t.co/m4ksw5Q6qe \n✒️@heim_taz @PearlJam https://t.co/qRY0fAcIZh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "barrierefrei",
+						"indices": [
+							117,
+							130
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WaldbuhneBerlin",
+						"name": "Waldbühne Berlin",
+						"id": 1089567050,
+						"id_str": "1089567050",
+						"indices": [
+							59,
+							75
+						]
+					},
+					{
+						"screen_name": "heim_taz",
+						"name": "manuela heim",
+						"id": 1211597010505093000,
+						"id_str": "1211597010505093120",
+						"indices": [
+							253,
+							262
+						]
+					},
+					{
+						"screen_name": "PearlJam",
+						"name": "Pearl Jam 🇺🇦",
+						"id": 15155074,
+						"id_str": "15155074",
+						"indices": [
+							263,
+							272
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/m4ksw5Q6qe",
+						"expanded_url": "https://taz.de/!5857855/",
+						"display_url": "taz.de/!5857855/",
+						"indices": [
+							226,
+							249
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1536748520593571800,
+						"id_str": "1536748520593571843",
+						"indices": [
+							273,
+							296
+						],
+						"media_url": "http://pbs.twimg.com/media/FVOgoy8WQAM40px.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FVOgoy8WQAM40px.jpg",
+						"url": "https://t.co/qRY0fAcIZh",
+						"display_url": "pic.twitter.com/qRY0fAcIZh",
+						"expanded_url": "https://twitter.com/tazgezwitscher/status/1536748530370547712/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1536748520593571800,
+						"id_str": "1536748520593571843",
+						"indices": [
+							273,
+							296
+						],
+						"media_url": "http://pbs.twimg.com/media/FVOgoy8WQAM40px.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FVOgoy8WQAM40px.jpg",
+						"url": "https://t.co/qRY0fAcIZh",
+						"display_url": "pic.twitter.com/qRY0fAcIZh",
+						"expanded_url": "https://twitter.com/tazgezwitscher/status/1536748530370547712/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.falcon.io\" rel=\"nofollow\">Brandwatch</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15243812,
+				"id_str": "15243812",
+				"name": "taz",
+				"screen_name": "tazgezwitscher",
+				"location": "Berlin, Friedrichstraße",
+				"description": "Hier zwitschert die taz. Ermöglicht von über 21.000 Genoss*innen und https://t.co/QAm1no4RFf. Schlagzeilen unter @taz_news, lange Texte unter @tazLesestoff",
+				"url": "https://t.co/LL4kXJeqOn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LL4kXJeqOn",
+								"expanded_url": "http://www.taz.de",
+								"display_url": "taz.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/QAm1no4RFf",
+								"expanded_url": "http://taz.de/taz-zahl-ich",
+								"display_url": "taz.de/taz-zahl-ich",
+								"indices": [
+									69,
+									92
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 688326,
+				"friends_count": 1365,
+				"listed_count": 5712,
+				"created_at": "Thu Jun 26 13:22:35 +0000 2008",
+				"favourites_count": 5499,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 146186,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1261684711602163713/SC78ikZ5_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261684711602163713/SC78ikZ5_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15243812/1608819509",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 87,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "de"
+		},
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just spoke with Roland who is at @WaldbuhneBerlin to see @PearlJam tonight to hear #RVMforRoland. Please @PearlJam make this happen.  cc @liveon4legspod https://t.co/hy3rRaJ0sN"
+	},
+	{
 		"created_at": "Tue Jun 21 05:46:53 +0000 2022",
 		"id": 1539122666900177000,
 		"id_str": "1539122666900176897",
-		"full_text": "Moet een koopje zijn met die bezoekersaantallen ⁦@adformatie⁩ 😉 https://t.co/BE5DEJs5WD",
+		"full_text": "Moet een koopje zijn met die bezoekersaantallen @adformatie 😉 https://t.co/BE5DEJs5WD",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -194,7 +577,7 @@ Grailbird.data.tweets_2022_06 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "nl",
-		"text": "Moet een koopje zijn met die bezoekersaantallen ⁦@adformatie⁩ 😉 https://t.co/BE5DEJs5WD"
+		"text": "Moet een koopje zijn met die bezoekersaantallen @adformatie 😉 https://t.co/BE5DEJs5WD"
 	},
 	{
 		"created_at": "Tue Jun 21 05:14:32 +0000 2022",
