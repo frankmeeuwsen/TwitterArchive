@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 21 20:14:08 +0000 2022",
+		"id": 1539339228500398000,
+		"id_str": "1539340915839483905",
+		"full_text": "What a moment! We did it everyone. Here’s Roland getting to live out a dream and getting a wonderful ovation. @AxelPicker #RVMforRoland #pearljam https://t.co/LU1z3yM1tv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RVMforRoland",
+					"indices": [
+						122,
+						135
+					]
+				},
+				{
+					"text": "pearljam",
+					"indices": [
+						136,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AxelPicker",
+					"name": "Axel",
+					"id": 1128821376,
+					"id_str": "1128821376",
+					"indices": [
+						110,
+						121
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1539339125546942500,
+					"id_str": "1539339125546942465",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1539339125546942465/pu/img/2a-3m_I7ZbVxtgRV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1539339125546942465/pu/img/2a-3m_I7ZbVxtgRV.jpg",
+					"url": "https://t.co/LU1z3yM1tv",
+					"display_url": "pic.twitter.com/LU1z3yM1tv",
+					"expanded_url": "https://twitter.com/liveon4legspod/status/1539339228500398081/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1539339125546942500,
+					"id_str": "1539339125546942465",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1539339125546942465/pu/img/2a-3m_I7ZbVxtgRV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1539339125546942465/pu/img/2a-3m_I7ZbVxtgRV.jpg",
+					"url": "https://t.co/LU1z3yM1tv",
+					"display_url": "pic.twitter.com/LU1z3yM1tv",
+					"expanded_url": "https://twitter.com/liveon4legspod/status/1539339228500398081/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 63766,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539339125546942465/pu/vid/480x270/tKUS894XnCtk2_-z.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539339125546942465/pu/vid/640x360/z3KMLoVxWgxf-cVm.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1539339125546942465/pu/pl/28rXqf32MtbOvYoP.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1539339125546942465/pu/vid/1280x720/jIyr-sGGkN7tCJFD.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1031957203366932500,
+			"id_str": "1031957203366932481",
+			"name": "Live On 4 Legs Podcast",
+			"screen_name": "liveon4legspod",
+			"location": "All over the world",
+			"description": "The Definitive Live Pearl Jam Podcast. Covering shows from every era of the band’s history. Subscribe on Apple, Spotify, etc. liveon4legspodcast@gmail.com",
+			"url": "https://t.co/c4gDrrvntu",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c4gDrrvntu",
+							"expanded_url": "http://liveon4legs.com",
+							"display_url": "liveon4legs.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2642,
+			"friends_count": 646,
+			"listed_count": 24,
+			"created_at": "Tue Aug 21 17:32:24 +0000 2018",
+			"favourites_count": 2164,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6657,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1506784407545425920/hS0Aki3S_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1506784407545425920/hS0Aki3S_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1031957203366932481/1630201143",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 45,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What a moment! We did it everyone. Here’s Roland getting to live out a dream and getting a wonderful ovation. @AxelPicker #RVMforRoland #pearljam https://t.co/LU1z3yM1tv"
+	},
+	{
 		"created_at": "Tue Jun 21 16:54:47 +0000 2022",
 		"id": 1539282945193693200,
 		"id_str": "1539290748067119104",
