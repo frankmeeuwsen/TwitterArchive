@@ -1,6 +1,403 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 22 09:58:07 +0000 2022",
+		"id": 1539548276617248800,
+		"id_str": "1539548276617248768",
+		"full_text": "@martijnaslander \"sort of stay tuned\"... https://t.co/jf2YJZskX9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "martijnaslander",
+					"name": " martijn aslander",
+					"id": 3051761,
+					"id_str": "3051761",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jf2YJZskX9",
+					"expanded_url": "https://twitter.com/MattNavarra/status/1539547306344816643",
+					"display_url": "twitter.com/MattNavarra/st…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 3051761,
+		"in_reply_to_user_id_str": "3051761",
+		"in_reply_to_screen_name": "martijnaslander",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8740,
+			"friends_count": 867,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10031,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66843,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1539547306344816600,
+		"quoted_status_id_str": "1539547306344816643",
+		"quoted_status_permalink": {
+			"url": "https://t.co/jf2YJZskX9",
+			"expanded": "https://twitter.com/MattNavarra/status/1539547306344816643",
+			"display": "twitter.com/MattNavarra/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 22 09:54:15 +0000 2022",
+			"id": 1539547306344816600,
+			"id_str": "1539547306344816643",
+			"full_text": "Tim Cook says \"stay tuned\" for Apple's AR's headset   https://t.co/esr877S9V3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				77
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1539423588230512600,
+						"id_str": "1539423588230512646",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1539423588230512646/pu/img/XNeTZODLYKRBpl0S.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1539423588230512646/pu/img/XNeTZODLYKRBpl0S.jpg",
+						"url": "https://t.co/esr877S9V3",
+						"display_url": "pic.twitter.com/esr877S9V3",
+						"expanded_url": "https://twitter.com/cesarberardini/status/1539426302951837696/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1539426302951837700,
+						"source_status_id_str": "1539426302951837696",
+						"source_user_id": 228964100,
+						"source_user_id_str": "228964100"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1539423588230512600,
+						"id_str": "1539423588230512646",
+						"indices": [
+							54,
+							77
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1539423588230512646/pu/img/XNeTZODLYKRBpl0S.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1539423588230512646/pu/img/XNeTZODLYKRBpl0S.jpg",
+						"url": "https://t.co/esr877S9V3",
+						"display_url": "pic.twitter.com/esr877S9V3",
+						"expanded_url": "https://twitter.com/cesarberardini/status/1539426302951837696/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1539426302951837700,
+						"source_status_id_str": "1539426302951837696",
+						"source_user_id": 228964100,
+						"source_user_id_str": "228964100",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 69966,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1539423588230512646/pu/vid/640x360/_W_k0RN1euMGGBhe.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1539423588230512646/pu/vid/480x270/UUwV4r28ABp-76RB.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1539423588230512646/pu/vid/1280x720/9yt_K1cnr-px3Lxe.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1539423588230512646/pu/pl/1FyPM6UcdzgYysAd.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 228964100,
+								"id_str": "228964100",
+								"name": "Cæsar",
+								"screen_name": "cesarberardini",
+								"location": "13ᵗʰ floor @ Meatspace",
+								"description": "Metaverse debunker implementing industrial AR HMDs since 2015. Opinions expressed are my own and don't express the views of my employers nor partners.",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 382,
+								"friends_count": 58,
+								"listed_count": 12,
+								"created_at": "Tue Dec 21 04:46:50 +0000 2010",
+								"favourites_count": 158,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 1491,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "9AE4E8",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1488639190950723590/-fN1Ji0l_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1488639190950723590/-fN1Ji0l_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/228964100/1642377073",
+								"profile_link_color": "0084B4",
+								"profile_sidebar_border_color": "BDDCAD",
+								"profile_sidebar_fill_color": "DDFFCC",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16211566,
+				"id_str": "16211566",
+				"name": "Matt Navarra",
+				"screen_name": "MattNavarra",
+				"location": "Cardiff, Wales",
+				"description": "Social media consultant + industry analyst | Ex-@govuk + @thenextweb | Founder of Geekout… I tweet... a lot.",
+				"url": "https://t.co/HfPp1AnfOP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HfPp1AnfOP",
+								"expanded_url": "https://mattnavarra.com",
+								"display_url": "mattnavarra.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 126182,
+				"friends_count": 5722,
+				"listed_count": 3105,
+				"created_at": "Tue Sep 09 21:25:05 +0000 2008",
+				"favourites_count": 104429,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 131982,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1453667416840474624/uIMOJF2X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453667416840474624/uIMOJF2X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16211566/1632416347",
+				"profile_link_color": "3C5A99",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "171106",
+				"profile_text_color": "473623",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@martijnaslander \"sort of stay tuned\"... https://t.co/jf2YJZskX9"
+	},
+	{
 		"created_at": "Tue Jun 21 20:14:08 +0000 2022",
 		"id": 1539339228500398000,
 		"id_str": "1539340915839483905",
