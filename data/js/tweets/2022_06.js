@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 23 09:39:46 +0000 2022",
+		"id": 1539906049288839200,
+		"id_str": "1539906049288839168",
+		"full_text": "@MENEERDEGREEF @HuubBellemakers @peterkwint https://t.co/cNjyVFqyDA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MENEERDEGREEF",
+					"name": "𝙶𝚁𝙴𝙴𝙵, 𝙳𝙴 𝚂𝙼𝙰𝙰𝙳𝚂𝙼𝙸𝙳 🧷 🏴 🇺🇦",
+					"id": 260245776,
+					"id_str": "260245776",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "HuubBellemakers",
+					"name": "Huub Bellemakers",
+					"id": 16822936,
+					"id_str": "16822936",
+					"indices": [
+						15,
+						31
+					]
+				},
+				{
+					"screen_name": "peterkwint",
+					"name": "Peter Kwint",
+					"id": 239853793,
+					"id_str": "239853793",
+					"indices": [
+						32,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cNjyVFqyDA",
+					"expanded_url": "https://twitter.com/weirddalle/status/1539905551924183040",
+					"display_url": "twitter.com/weirddalle/sta…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 260245776,
+		"in_reply_to_user_id_str": "260245776",
+		"in_reply_to_screen_name": "MENEERDEGREEF",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8740,
+			"friends_count": 869,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10029,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66847,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1539905551924183000,
+		"quoted_status_id_str": "1539905551924183040",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cNjyVFqyDA",
+			"expanded": "https://twitter.com/weirddalle/status/1539905551924183040",
+			"display": "twitter.com/weirddalle/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 23 09:37:48 +0000 2022",
+			"id": 1539905551924183000,
+			"id_str": "1539905551924183040",
+			"full_text": "https://t.co/j8OPt1BOPa",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1539905547499094000,
+						"id_str": "1539905547499094017",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/FV7X78pWQAEaLXc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FV7X78pWQAEaLXc.jpg",
+						"url": "https://t.co/j8OPt1BOPa",
+						"display_url": "pic.twitter.com/j8OPt1BOPa",
+						"expanded_url": "https://twitter.com/weirddalle/status/1539905551924183040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 726,
+								"h": 857,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 576,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 726,
+								"h": 857,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1539905547499094000,
+						"id_str": "1539905547499094017",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/FV7X78pWQAEaLXc.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FV7X78pWQAEaLXc.jpg",
+						"url": "https://t.co/j8OPt1BOPa",
+						"display_url": "pic.twitter.com/j8OPt1BOPa",
+						"expanded_url": "https://twitter.com/weirddalle/status/1539905551924183040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 726,
+								"h": 857,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 576,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 726,
+								"h": 857,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1492677599390322700,
+				"id_str": "1492677599390322689",
+				"name": "Weird Dall-E Mini Generations",
+				"screen_name": "weirddalle",
+				"location": "",
+				"description": "submit in subreddit | personal @huhwtfthe",
+				"url": "https://t.co/72wirgK1SJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/72wirgK1SJ",
+								"expanded_url": "https://www.reddit.com/r/weirddalle/",
+								"display_url": "reddit.com/r/weirddalle/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 910078,
+				"friends_count": 111,
+				"listed_count": 642,
+				"created_at": "Sun Feb 13 01:50:55 +0000 2022",
+				"favourites_count": 109,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 501,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1534794684731629568/1-5rQhrc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1534794684731629568/1-5rQhrc_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 639,
+			"favorite_count": 6332,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "zxx"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qam",
+		"text": "@MENEERDEGREEF @HuubBellemakers @peterkwint https://t.co/cNjyVFqyDA"
+	},
+	{
 		"created_at": "Thu Jun 23 08:40:22 +0000 2022",
 		"id": 1539891098746847200,
 		"id_str": "1539891098746847233",
