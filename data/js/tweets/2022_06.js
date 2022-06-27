@@ -1,6 +1,121 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 27 16:48:12 +0000 2022",
+		"id": 1541462567557533700,
+		"id_str": "1541463416275181569",
+		"full_text": "50 years ago today Atari was incorporated.  I look back and marvel at how little we knew and the journey it would lead us.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38962746,
+			"id_str": "38962746",
+			"name": "Nolan K Bushnell",
+			"screen_name": "NolanBushnell",
+			"location": "Los Angeles CA.",
+			"description": "Serial Entrepreneur/Founded: Atari, Chuck E. Cheese, uWink. Book “Finding the Next Steve Jobs” | DIR https://t.co/aNdPrB69Tr | CHM https://t.co/pL5ueOrYnq | CKO @moxyio",
+			"url": "https://t.co/mwVzy2myaK",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mwVzy2myaK",
+							"expanded_url": "http://moxy.io",
+							"display_url": "moxy.io",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/aNdPrB69Tr",
+							"expanded_url": "http://arcadeog.com",
+							"display_url": "arcadeog.com",
+							"indices": [
+								101,
+								124
+							]
+						},
+						{
+							"url": "https://t.co/pL5ueOrYnq",
+							"expanded_url": "http://ExoDexa.com",
+							"display_url": "ExoDexa.com",
+							"indices": [
+								131,
+								154
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 66526,
+			"friends_count": 40563,
+			"listed_count": 1059,
+			"created_at": "Sun May 10 00:47:35 +0000 2009",
+			"favourites_count": 120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 952,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1460385359561375751/dnN4O6hu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1460385359561375751/dnN4O6hu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38962746/1637018141",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 277,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "50 years ago today Atari was incorporated.  I look back and marvel at how little we knew and the journey it would lead us."
+	},
+	{
 		"created_at": "Mon Jun 27 14:34:58 +0000 2022",
 		"id": 1541331139608076300,
 		"id_str": "1541429887143219200",
