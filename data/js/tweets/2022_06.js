@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 28 07:47:58 +0000 2022",
+		"id": 1541689851992490000,
+		"id_str": "1541689851992489984",
+		"full_text": "Can relate. Gisteren na een dag werken te ver doorgegaan en weer 'mezelf kwijt'. \n\nBuiten adem van de fiets stappen, uit het niets. \nTrap oplopen en moeten bijkomen. \nPlots in slaap vallen. \nElke dag opnieuw uitvinden hoe ik werk, prive en gezin combineer en de dag indeel. https://t.co/eIAP61DZaJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eIAP61DZaJ",
+					"expanded_url": "https://twitter.com/brechtjedeleij/status/1541688490093592577",
+					"display_url": "twitter.com/brechtjedeleij…",
+					"indices": [
+						274,
+						297
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8743,
+			"friends_count": 865,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10035,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1541688490093592600,
+		"quoted_status_id_str": "1541688490093592577",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eIAP61DZaJ",
+			"expanded": "https://twitter.com/brechtjedeleij/status/1541688490093592577",
+			"display": "twitter.com/brechtjedeleij…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 28 07:42:33 +0000 2022",
+			"id": 1541688490093592600,
+			"id_str": "1541688490093592577",
+			"full_text": "Vandaag is er naast de terreurtrekkers en stikstofstemming een stil mini-debat over #LongCovid.\n\nAlleen focus op de 1e golf zorgmedewerkers. #LongCovidKids negeren ze helemaal. \n\nMaar een élke dag groeiende stille groep is zoals @SylvanaBIJ1 het mooi zei ‘zichzelf kwijt’. \n\n1/5 https://t.co/YmmWUm3UyV",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LongCovid",
+						"indices": [
+							84,
+							94
+						]
+					},
+					{
+						"text": "LongCovidKids",
+						"indices": [
+							141,
+							155
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SylvanaBIJ1",
+						"name": "Sylvana Simons",
+						"id": 1247853156542877700,
+						"id_str": "1247853156542877696",
+						"indices": [
+							229,
+							241
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/YmmWUm3UyV",
+						"expanded_url": "https://twitter.com/basve4/status/1541664525472210951",
+						"display_url": "twitter.com/basve4/status/…",
+						"indices": [
+							279,
+							302
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 9880322,
+				"id_str": "9880322",
+				"name": "Brechtje de Leij",
+				"screen_name": "brechtjedeleij",
+				"location": "Amsterdam",
+				"description": "Digital Product Strategy | Lady Geek | Handjes in de lucht | Koffietweets | Auteur ‘Mobiele Eenheid’ | Tech Columniste Emerce Magazine | 🌱🌎",
+				"url": "https://t.co/Ny06ck81QG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Ny06ck81QG",
+								"expanded_url": "https://www.b-digitized.com/",
+								"display_url": "b-digitized.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16310,
+				"friends_count": 5899,
+				"listed_count": 540,
+				"created_at": "Fri Nov 02 10:09:10 +0000 2007",
+				"favourites_count": 11687,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 170163,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1401242648564965382/AsPxDbHL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1401242648564965382/AsPxDbHL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/9880322/1515223863",
+				"profile_link_color": "1A1A18",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1541664525472211000,
+			"quoted_status_id_str": "1541664525472210951",
+			"quoted_status_permalink": {
+				"url": "https://t.co/YmmWUm3UyV",
+				"expanded": "https://twitter.com/basve4/status/1541664525472210951",
+				"display": "twitter.com/basve4/status/…"
+			},
+			"retweet_count": 7,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Can relate. Gisteren na een dag werken te ver doorgegaan en weer 'mezelf kwijt'. \n\nBuiten adem van de fiets stappen, uit het niets. \nTrap oplopen en moeten bijkomen. \nPlots in slaap vallen. \nElke dag opnieuw uitvinden hoe ik werk, prive en gezin combineer en de dag indeel. https://t.co/eIAP61DZaJ"
+	},
+	{
 		"created_at": "Mon Jun 27 17:53:44 +0000 2022",
 		"id": 1541330642503405600,
 		"id_str": "1541479911868825600",
