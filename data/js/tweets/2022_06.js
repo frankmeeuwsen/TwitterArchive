@@ -1,6 +1,112 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 29 15:40:01 +0000 2022",
+		"id": 1542161419524776000,
+		"id_str": "1542171035457527808",
+		"full_text": "So this is it? Just switching between apps, and then, death.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 66487231,
+			"id_str": "66487231",
+			"name": "Jim Collinson",
+			"screen_name": "jimcollinson",
+			"location": "",
+			"description": "Chief Strategy Officer for @maidsafe. Helping build a new secure, private, autonomous, decentralized Internet. https://t.co/1g8fid1FrE",
+			"url": "https://t.co/1g8fid1FrE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1g8fid1FrE",
+							"expanded_url": "http://safenetwork.tech",
+							"display_url": "safenetwork.tech",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/1g8fid1FrE",
+							"expanded_url": "http://safenetwork.tech",
+							"display_url": "safenetwork.tech",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 417,
+			"friends_count": 840,
+			"listed_count": 12,
+			"created_at": "Mon Aug 17 21:09:41 +0000 2009",
+			"favourites_count": 2316,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278052449325068289/_Rjj79RY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278052449325068289/_Rjj79RY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66487231/1591202343",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "So this is it? Just switching between apps, and then, death."
+	},
+	{
 		"created_at": "Wed Jun 29 15:07:53 +0000 2022",
 		"id": 1542162948134768600,
 		"id_str": "1542162948134768640",
