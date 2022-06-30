@@ -1,6 +1,313 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 30 18:11:39 +0000 2022",
+		"id": 1542571582136123400,
+		"id_str": "1542571582136123392",
+		"full_text": "Beste soundtrack. https://t.co/RP75M0hZUD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RP75M0hZUD",
+					"expanded_url": "https://twitter.com/brooklynsalt/status/1542543778061225984",
+					"display_url": "twitter.com/brooklynsalt/s…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8743,
+			"friends_count": 867,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10046,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66870,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1542543778061226000,
+		"quoted_status_id_str": "1542543778061225984",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RP75M0hZUD",
+			"expanded": "https://twitter.com/brooklynsalt/status/1542543778061225984",
+			"display": "twitter.com/brooklynsalt/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 30 16:21:10 +0000 2022",
+			"id": 1542543778061226000,
+			"id_str": "1542543778061225984",
+			"full_text": "I just learned that this #GenX classic is 30 years old.  #goodgrief #aging https://t.co/QFDAdfHEty",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				74
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GenX",
+						"indices": [
+							25,
+							30
+						]
+					},
+					{
+						"text": "goodgrief",
+						"indices": [
+							57,
+							67
+						]
+					},
+					{
+						"text": "aging",
+						"indices": [
+							68,
+							74
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1542543774844391400,
+						"id_str": "1542543774844391425",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/FWg3Y_YXEAEGeM0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FWg3Y_YXEAEGeM0.jpg",
+						"url": "https://t.co/QFDAdfHEty",
+						"display_url": "pic.twitter.com/QFDAdfHEty",
+						"expanded_url": "https://twitter.com/brooklynsalt/status/1542543778061225984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 1440,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1542543774844391400,
+						"id_str": "1542543774844391425",
+						"indices": [
+							75,
+							98
+						],
+						"media_url": "http://pbs.twimg.com/media/FWg3Y_YXEAEGeM0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FWg3Y_YXEAEGeM0.jpg",
+						"url": "https://t.co/QFDAdfHEty",
+						"display_url": "pic.twitter.com/QFDAdfHEty",
+						"expanded_url": "https://twitter.com/brooklynsalt/status/1542543778061225984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 800,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 1440,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 453,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 480565820,
+				"id_str": "480565820",
+				"name": "Peter Tulupman",
+				"screen_name": "brooklynsalt",
+				"location": "NYC/Connecticut",
+				"description": "The People’s Champion. Active participant, father and communications professional. The requisite disclaimer: Opinions are my own",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 426,
+				"friends_count": 1715,
+				"listed_count": 22,
+				"created_at": "Wed Feb 01 16:58:24 +0000 2012",
+				"favourites_count": 30514,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15589,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E34720",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3651424626/7bd12bc73831365a4498b782e51ceb4b_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3651424626/7bd12bc73831365a4498b782e51ceb4b_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/480565820/1376786584",
+				"profile_link_color": "636AF7",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "AC2A46",
+				"profile_text_color": "EE3822",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Beste soundtrack. https://t.co/RP75M0hZUD"
+	},
+	{
 		"created_at": "Wed Jun 29 15:40:01 +0000 2022",
 		"id": 1542161419524776000,
 		"id_str": "1542171035457527808",
