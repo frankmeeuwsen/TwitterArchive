@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 01 17:13:42 +0000 2022",
+		"id": 1542919385651740700,
+		"id_str": "1542919385651740673",
+		"full_text": "Als er één docu is die je moet zien over de Super Mario franchise, dan is het deze. Fantastisch verteld, veel weetjes en prachtige beelden achter de schermen. https://t.co/Ax3MBxlZxV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ax3MBxlZxV",
+					"expanded_url": "https://twitter.com/gaminghistorian/status/1522623128714817538",
+					"display_url": "twitter.com/gaminghistoria…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8744,
+			"friends_count": 867,
+			"listed_count": 550,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10051,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1522623128714817500,
+		"quoted_status_id_str": "1522623128714817538",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ax3MBxlZxV",
+			"expanded": "https://twitter.com/gaminghistorian/status/1522623128714817538",
+			"display": "twitter.com/gaminghistoria…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 06 17:03:37 +0000 2022",
+			"id": 1522623128714817500,
+			"id_str": "1522623128714817538",
+			"full_text": "NEW VIDEO | The Story of Super Mario World\n\nAn 80-minute documentary on the making of Super Mario World, the launch of the Super Nintendo, and how the game perfected the concepts of the Super Mario series.\n\nhttps://t.co/B1KviAdVol https://t.co/c5JteolcY1",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				230
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/B1KviAdVol",
+						"expanded_url": "https://youtu.be/s2bTQK6vbKI",
+						"display_url": "youtu.be/s2bTQK6vbKI",
+						"indices": [
+							207,
+							230
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1522622969444454400,
+						"id_str": "1522622969444454402",
+						"indices": [
+							231,
+							254
+						],
+						"media_url": "http://pbs.twimg.com/media/FSFxhgSWUAIAVen.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSFxhgSWUAIAVen.jpg",
+						"url": "https://t.co/c5JteolcY1",
+						"display_url": "pic.twitter.com/c5JteolcY1",
+						"expanded_url": "https://twitter.com/GamingHistorian/status/1522623128714817538/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1522622969444454400,
+						"id_str": "1522622969444454402",
+						"indices": [
+							231,
+							254
+						],
+						"media_url": "http://pbs.twimg.com/media/FSFxhgSWUAIAVen.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSFxhgSWUAIAVen.jpg",
+						"url": "https://t.co/c5JteolcY1",
+						"display_url": "pic.twitter.com/c5JteolcY1",
+						"expanded_url": "https://twitter.com/GamingHistorian/status/1522623128714817538/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 275705755,
+				"id_str": "275705755",
+				"name": "Norman Caruso",
+				"screen_name": "GamingHistorian",
+				"location": "USA",
+				"description": "Creating documentaries about video game history since 2008. Grad student in public history. \n\nContact: gaminghistorian at gmail",
+				"url": "https://t.co/YUZhdebcX8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YUZhdebcX8",
+								"expanded_url": "http://www.youtube.com/gaminghistorian",
+								"display_url": "youtube.com/gaminghistorian",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 56908,
+				"friends_count": 261,
+				"listed_count": 386,
+				"created_at": "Fri Apr 01 20:45:51 +0000 2011",
+				"favourites_count": 8098,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 27106,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "B2DFDA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1345183784191320071/OyXkc1gX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345183784191320071/OyXkc1gX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/275705755/1634511082",
+				"profile_link_color": "93A644",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 945,
+			"favorite_count": 4544,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Als er één docu is die je moet zien over de Super Mario franchise, dan is het deze. Fantastisch verteld, veel weetjes en prachtige beelden achter de schermen. https://t.co/Ax3MBxlZxV"
+	},
+	{
 		"created_at": "Fri Jul 01 15:41:41 +0000 2022",
 		"id": 1542896231302795300,
 		"id_str": "1542896231302795265",
