@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 03 15:15:39 +0000 2022",
+		"id": 1543614456063824000,
+		"id_str": "1543614456063823875",
+		"full_text": "OK. Ik zal hem retweeten voor meer bereik onder gelijkgestemden. Ik kan je niet beloven of het dezelfde gelijkgestemdheid is als de gelijkgestemdheid die jij het liefste ziet. https://t.co/9pEmj8hCxP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9pEmj8hCxP",
+					"expanded_url": "https://twitter.com/trupplet/status/1543593234173235201",
+					"display_url": "twitter.com/trupplet/statu…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8746,
+			"friends_count": 869,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10049,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66875,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1543593234173235200,
+		"quoted_status_id_str": "1543593234173235201",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9pEmj8hCxP",
+			"expanded": "https://twitter.com/trupplet/status/1543593234173235201",
+			"display": "twitter.com/trupplet/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jul 03 13:51:20 +0000 2022",
+			"id": 1543593234173235200,
+			"id_str": "1543593234173235201",
+			"full_text": "Mensen deze POLL wordt beïnvloed door twitter. 😠\n\nRT voor meer bereik onder gelijkgestemden! \n\n#iksteunONZEvissers #IksteunONZEboeren https://t.co/g5gvGBkTzz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				133
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "iksteunONZEvissers",
+						"indices": [
+							95,
+							114
+						]
+					},
+					{
+						"text": "IksteunONZEboeren",
+						"indices": [
+							115,
+							133
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/g5gvGBkTzz",
+						"expanded_url": "https://twitter.com/trupplet/status/1543570725629460482",
+						"display_url": "twitter.com/trupplet/statu…",
+						"indices": [
+							134,
+							157
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1534191526070435800,
+				"id_str": "1534191526070435847",
+				"name": "Sander 🚜🎣 👩‍🍼🇺🇸 🕊📵 #STEUNBOEREN",
+				"screen_name": "trupplet",
+				"location": "Leiden, Nederland",
+				"description": "Liefde en verbinding. GEEN dictatuur! PUREBLOOD ANTIVAX! 🩸MAGA 🚨zeg NEE tegen het WEF en de GREAT RESET 💩🚽 #WAKKER #FVD 🏛",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 510,
+				"friends_count": 1082,
+				"listed_count": 2,
+				"created_at": "Tue Jun 07 15:12:50 +0000 2022",
+				"favourites_count": 977,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 485,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1534193783084023809/i_ZQKA9N_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1534193783084023809/i_ZQKA9N_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1543570725629460500,
+			"quoted_status_id_str": "1543570725629460482",
+			"quoted_status_permalink": {
+				"url": "https://t.co/g5gvGBkTzz",
+				"expanded": "https://twitter.com/trupplet/status/1543570725629460482",
+				"display": "twitter.com/trupplet/statu…"
+			},
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "OK. Ik zal hem retweeten voor meer bereik onder gelijkgestemden. Ik kan je niet beloven of het dezelfde gelijkgestemdheid is als de gelijkgestemdheid die jij het liefste ziet. https://t.co/9pEmj8hCxP"
+	},
+	{
 		"created_at": "Sun Jul 03 09:18:19 +0000 2022",
 		"id": 1543484033551712300,
 		"id_str": "1543524528231424001",
