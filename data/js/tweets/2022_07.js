@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 05 09:10:27 +0000 2022",
+		"id": 1544196163393491000,
+		"id_str": "1544247325719158789",
+		"full_text": "@frankmeeuwsen https://t.co/8Vxe2XaD4e",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frankmeeuwsen",
+					"name": "Frank Meeuwsen",
+					"id": 816203,
+					"id_str": "816203",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8Vxe2XaD4e",
+					"expanded_url": "https://www.nalden.net/rss",
+					"display_url": "nalden.net/rss",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1543247802255409200,
+		"in_reply_to_status_id_str": "1543247802255409152",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 1500441,
+			"id_str": "1500441",
+			"name": "Nalden",
+			"screen_name": "Nalden",
+			"location": "🇪🇺",
+			"description": "A father of II, husband to one, founder and investor of some.",
+			"url": "https://t.co/DFvqFwaT9Z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DFvqFwaT9Z",
+							"expanded_url": "https://www.nalden.net",
+							"display_url": "nalden.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44235,
+			"friends_count": 122,
+			"listed_count": 923,
+			"created_at": "Mon Mar 19 13:02:40 +0000 2007",
+			"favourites_count": 8560,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 88,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F5F5",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358014511047979008/wXTzlli-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358014511047979008/wXTzlli-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1500441/1650901319",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@frankmeeuwsen https://t.co/8Vxe2XaD4e"
+	},
+	{
 		"created_at": "Mon Jul 04 18:22:16 +0000 2022",
 		"id": 1544023804598419500,
 		"id_str": "1544023804598419457",
