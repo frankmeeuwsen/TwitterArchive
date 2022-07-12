@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 12 04:56:37 +0000 2022",
+		"id": 1546425004119695400,
+		"id_str": "1546720161880743936",
+		"full_text": "Bored youth summertime vandalism at its best: flicking the switch on businesses that keep their lights on all night in the midst of an energy crisis. https://t.co/EGnlSfu7WF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EGnlSfu7WF",
+					"expanded_url": "https://twitter.com/bil_le_creusois/status/1545809354468855808",
+					"display_url": "twitter.com/bil_le_creusoi…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17579431,
+			"id_str": "17579431",
+			"name": "Stanley Pignal",
+			"screen_name": "spignal",
+			"location": "Paris/Brussels",
+			"description": "Charlemagne columnist & Brussels bureau chief, The Economist.\nPast stints in Paris, Mumbai, London. Français. Personal feed. Bio 👇.\nCharlemagne@economist.com",
+			"url": "https://t.co/Rkv15BsTYy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Rkv15BsTYy",
+							"expanded_url": "https://medium.com/@spignal/stanley-pignal-bio-2acd9b705ceb",
+							"display_url": "medium.com/@spignal/stanl…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 41478,
+			"friends_count": 1522,
+			"listed_count": 899,
+			"created_at": "Sun Nov 23 22:15:34 +0000 2008",
+			"favourites_count": 534,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23331,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1450059463617036295/0_0XRFcb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1450059463617036295/0_0XRFcb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17579431/1436980427",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1545809354468855800,
+		"quoted_status_id_str": "1545809354468855808",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EGnlSfu7WF",
+			"expanded": "https://twitter.com/bil_le_creusois/status/1545809354468855808",
+			"display": "twitter.com/bil_le_creusoi…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jul 09 16:37:24 +0000 2022",
+			"id": 1545809354468855800,
+			"id_str": "1545809354468855808",
+			"full_text": "Éteignez la lumière !!!!! https://t.co/QXlZonI7bo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				25
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1545809257127415800,
+						"id_str": "1545809257127415808",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1545809257127415808/pu/img/zFI-jIkrhTNiJ1af.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1545809257127415808/pu/img/zFI-jIkrhTNiJ1af.jpg",
+						"url": "https://t.co/QXlZonI7bo",
+						"display_url": "pic.twitter.com/QXlZonI7bo",
+						"expanded_url": "https://twitter.com/bil_le_creusois/status/1545809354468855808/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1545809257127415800,
+						"id_str": "1545809257127415808",
+						"indices": [
+							26,
+							49
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1545809257127415808/pu/img/zFI-jIkrhTNiJ1af.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1545809257127415808/pu/img/zFI-jIkrhTNiJ1af.jpg",
+						"url": "https://t.co/QXlZonI7bo",
+						"display_url": "pic.twitter.com/QXlZonI7bo",
+						"expanded_url": "https://twitter.com/bil_le_creusois/status/1545809354468855808/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 65367,
+							"variants": [
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1545809257127415808/pu/vid/480x852/gJvo5nAQusgTSc3J.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1545809257127415808/pu/pl/Qz_IuyGI_aOXE6ru.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1545809257127415808/pu/vid/320x568/uFoDhnhtnbtFmXxy.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1545809257127415808/pu/vid/720x1280/A-WVurc8VgY2o0Aa.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1475477743,
+				"id_str": "1475477743",
+				"name": "bil le creusois",
+				"screen_name": "bil_le_creusois",
+				"location": "Clermont-Ferrand, France",
+				"description": "il était une fois un infirmier à temps perdu, fils caché de Grand'pa mini et de mary poppins,à la recherche du con qu'a fait... ⚽🏉🏄🏍🍻 🛀#FCGB #AntiFN #AIDES",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1882,
+				"friends_count": 409,
+				"listed_count": 22,
+				"created_at": "Sat Jun 01 19:04:15 +0000 2013",
+				"favourites_count": 11461,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 27505,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/459693857827872769/jKl3oKE3_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/459693857827872769/jKl3oKE3_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1475477743/1541093638",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17038,
+			"favorite_count": 114609,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "fr"
+		},
+		"retweet_count": 24710,
+		"favorite_count": 204287,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bored youth summertime vandalism at its best: flicking the switch on businesses that keep their lights on all night in the midst of an energy crisis. https://t.co/EGnlSfu7WF"
+	},
+	{
 		"created_at": "Mon Jul 11 18:18:00 +0000 2022",
 		"id": 1546559447140532200,
 		"id_str": "1546559447140532225",
