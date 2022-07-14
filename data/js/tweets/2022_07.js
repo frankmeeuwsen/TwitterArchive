@@ -1,6 +1,351 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 14 05:04:16 +0000 2022",
+		"id": 1547446859735744500,
+		"id_str": "1547446859735744512",
+		"full_text": "AR, Mari Kondo style. https://t.co/Ajrn822qZi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ajrn822qZi",
+					"expanded_url": "https://twitter.com/strangenative/status/1547227797793284096",
+					"display_url": "twitter.com/strangenative/…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8738,
+			"friends_count": 870,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10064,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66901,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1547227797793284000,
+		"quoted_status_id_str": "1547227797793284096",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ajrn822qZi",
+			"expanded": "https://twitter.com/strangenative/status/1547227797793284096",
+			"display": "twitter.com/strangenative/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 13 14:33:47 +0000 2022",
+			"id": 1547227797793284000,
+			"id_str": "1547227797793284096",
+			"full_text": "Lots of interest in this “reset button” for your room we built @Shopify that uses @apple’s new #RoomPlan API. Here’s how we built it… 👇 🧵1/12 https://t.co/YdNP1vebVW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				141
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RoomPlan",
+						"indices": [
+							95,
+							104
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Shopify",
+						"name": "Shopify",
+						"id": 17136315,
+						"id_str": "17136315",
+						"indices": [
+							63,
+							71
+						]
+					},
+					{
+						"screen_name": "Apple",
+						"name": "Apple",
+						"id": 380749300,
+						"id_str": "380749300",
+						"indices": [
+							82,
+							88
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1547227491244183600,
+						"id_str": "1547227491244183553",
+						"indices": [
+							142,
+							165
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1547227491244183553/pu/img/CaYENkGfoVTnioPn.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1547227491244183553/pu/img/CaYENkGfoVTnioPn.jpg",
+						"url": "https://t.co/YdNP1vebVW",
+						"display_url": "pic.twitter.com/YdNP1vebVW",
+						"expanded_url": "https://twitter.com/StrangeNative/status/1547227797793284096/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1547227491244183600,
+						"id_str": "1547227491244183553",
+						"indices": [
+							142,
+							165
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1547227491244183553/pu/img/CaYENkGfoVTnioPn.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1547227491244183553/pu/img/CaYENkGfoVTnioPn.jpg",
+						"url": "https://t.co/YdNP1vebVW",
+						"display_url": "pic.twitter.com/YdNP1vebVW",
+						"expanded_url": "https://twitter.com/StrangeNative/status/1547227797793284096/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 10977,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1547227491244183553/pu/vid/1280x720/bul4-bZlEIleQZwK.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1547227491244183553/pu/pl/nXm55QjCyvigf_ji.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1547227491244183553/pu/vid/640x360/p6R1M9wejtwzHCP9.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1547227491244183553/pu/vid/480x270/g2qvI10Fh1IrfBXF.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24026819,
+				"id_str": "24026819",
+				"name": "Russ Maschmeyer",
+				"screen_name": "StrangeNative",
+				"location": "Berkeley, CA",
+				"description": "AR/VR @shopify, previously co-founder @primersupply and design @facebook.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7699,
+				"friends_count": 619,
+				"listed_count": 268,
+				"created_at": "Thu Mar 12 20:20:04 +0000 2009",
+				"favourites_count": 2306,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4242,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EEE7D8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1456456810160791561/XQekjHh8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1456456810160791561/XQekjHh8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24026819/1636081339",
+				"profile_link_color": "0099D1",
+				"profile_sidebar_border_color": "8FA7AE",
+				"profile_sidebar_fill_color": "282015",
+				"profile_text_color": "99A9AD",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 632,
+			"favorite_count": 4859,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "AR, Mari Kondo style. https://t.co/Ajrn822qZi"
+	},
+	{
 		"created_at": "Wed Jul 13 18:55:57 +0000 2022",
 		"id": 1547293773935296500,
 		"id_str": "1547293773935296512",
