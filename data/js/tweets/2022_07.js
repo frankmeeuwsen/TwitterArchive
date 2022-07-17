@@ -1,6 +1,368 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 17 17:13:47 +0000 2022",
+		"id": 1548717613261508600,
+		"id_str": "1548717613261508609",
+		"full_text": "“Nordic meat shield”…. Die kende ik nog niet. https://t.co/YkSlGk3vy5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YkSlGk3vy5",
+					"expanded_url": "https://twitter.com/milocomedy/status/1548715236399652865",
+					"display_url": "twitter.com/milocomedy/sta…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8736,
+			"friends_count": 871,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10068,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66905,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1548715236399652900,
+		"quoted_status_id_str": "1548715236399652865",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YkSlGk3vy5",
+			"expanded": "https://twitter.com/milocomedy/status/1548715236399652865",
+			"display": "twitter.com/milocomedy/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jul 17 17:04:20 +0000 2022",
+			"id": 1548715236399652900,
+			"id_str": "1548715236399652865",
+			"full_text": "👋GREETERS GUILD👋 ‘Welcome to Training Camp!’ @ManCity #troyhawke #greetersguild #justiceforjan https://t.co/3hetCiOpCS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				94
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "troyhawke",
+						"indices": [
+							54,
+							64
+						]
+					},
+					{
+						"text": "greetersguild",
+						"indices": [
+							65,
+							79
+						]
+					},
+					{
+						"text": "justiceforjan",
+						"indices": [
+							80,
+							94
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ManCity",
+						"name": "Manchester City",
+						"id": 14573900,
+						"id_str": "14573900",
+						"indices": [
+							45,
+							53
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1548714782357848000,
+						"id_str": "1548714782357848065",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1548714782357848065/pu/img/dy8oPdgmd9JvMrI1.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1548714782357848065/pu/img/dy8oPdgmd9JvMrI1.jpg",
+						"url": "https://t.co/3hetCiOpCS",
+						"display_url": "pic.twitter.com/3hetCiOpCS",
+						"expanded_url": "https://twitter.com/milocomedy/status/1548715236399652865/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1548714782357848000,
+						"id_str": "1548714782357848065",
+						"indices": [
+							95,
+							118
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1548714782357848065/pu/img/dy8oPdgmd9JvMrI1.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1548714782357848065/pu/img/dy8oPdgmd9JvMrI1.jpg",
+						"url": "https://t.co/3hetCiOpCS",
+						"display_url": "pic.twitter.com/3hetCiOpCS",
+						"expanded_url": "https://twitter.com/milocomedy/status/1548715236399652865/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 136766,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1548714782357848065/pu/vid/320x320/VIGUwonAOOMY3Lyg.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1548714782357848065/pu/pl/UQscO2_m2_w-jvjs.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1548714782357848065/pu/vid/540x540/885MR1WZOjC0xs4p.mp4?tag=12"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1548714782357848065/pu/vid/720x720/9pBNzlb3UO0KrYF7.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 19238604,
+				"id_str": "19238604",
+				"name": "Troy Hawke",
+				"screen_name": "milocomedy",
+				"location": "Surrey",
+				"description": "Aggressively helpful scrabble based conspiracy legend. Greeters Guild President ENQUIRIES  ruth.morrison@curtisbrown.co.uk ON TOUR NOW! (🔗👇)",
+				"url": "https://t.co/JEQG9tofK2",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JEQG9tofK2",
+								"expanded_url": "http://www.milomccabe.co.uk/tour",
+								"display_url": "milomccabe.co.uk/tour",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 109890,
+				"friends_count": 1065,
+				"listed_count": 108,
+				"created_at": "Tue Jan 20 14:32:43 +0000 2009",
+				"favourites_count": 6247,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4671,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1430231498104389648/4kSJucAb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1430231498104389648/4kSJucAb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/19238604/1518888310",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 319,
+			"favorite_count": 2293,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "“Nordic meat shield”…. Die kende ik nog niet. https://t.co/YkSlGk3vy5"
+	},
+	{
 		"created_at": "Sat Jul 16 18:18:55 +0000 2022",
 		"id": 1548371616848965600,
 		"id_str": "1548371616848965632",
