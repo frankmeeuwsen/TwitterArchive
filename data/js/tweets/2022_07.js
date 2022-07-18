@@ -1,6 +1,208 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 18 15:29:55 +0000 2022",
+		"id": 1549051365888073700,
+		"id_str": "1549053863680004098",
+		"full_text": "Happy 30th Birthday one of the first images on the Web! \n\nOn July 18, 1992, Silvano de Gennaro was asked by Tim Berners-Lee to scan and upload a photo of a parody pop group called Les Horribles Cernettes onto the https://t.co/Ym3ODC8VK1 \n\nhttps://t.co/f1ZE30t0ZL\n\n#InternetHistory https://t.co/fX93WHqJCc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InternetHistory",
+					"indices": [
+						264,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ym3ODC8VK1",
+					"expanded_url": "http://info.cern.ch",
+					"display_url": "info.cern.ch",
+					"indices": [
+						213,
+						236
+					]
+				},
+				{
+					"url": "https://t.co/f1ZE30t0ZL",
+					"expanded_url": "https://webdesignmuseum.org/web-design-history/les-horribles-cernettes-the-first-image-on-the-web-1992",
+					"display_url": "webdesignmuseum.org/web-design-his…",
+					"indices": [
+						239,
+						262
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1536280726785732600,
+					"id_str": "1536280726785732609",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FVH3LnNXsAEMpTc.png",
+					"media_url_https": "https://pbs.twimg.com/media/FVH3LnNXsAEMpTc.png",
+					"url": "https://t.co/fX93WHqJCc",
+					"display_url": "pic.twitter.com/fX93WHqJCc",
+					"expanded_url": "https://twitter.com/WebDesignMuseum/status/1549051365888073731/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536280726785732600,
+					"id_str": "1536280726785732609",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FVH3LnNXsAEMpTc.png",
+					"media_url_https": "https://pbs.twimg.com/media/FVH3LnNXsAEMpTc.png",
+					"url": "https://t.co/fX93WHqJCc",
+					"display_url": "pic.twitter.com/fX93WHqJCc",
+					"expanded_url": "https://twitter.com/WebDesignMuseum/status/1549051365888073731/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 500,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 738019344047845400,
+			"id_str": "738019344047845377",
+			"name": "Web Design Museum",
+			"screen_name": "WebDesignMuseum",
+			"location": "",
+			"description": "Web Design Museum exhibits over 2,000 carefully selected websites that show web design trends between the years 1991 and 2006.",
+			"url": "https://t.co/vyFBftWgRB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vyFBftWgRB",
+							"expanded_url": "http://www.webdesignmuseum.org",
+							"display_url": "webdesignmuseum.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16302,
+			"friends_count": 19,
+			"listed_count": 206,
+			"created_at": "Wed Jun 01 14:48:18 +0000 2016",
+			"favourites_count": 23300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/860928105975885828/8XLNUZIa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/860928105975885828/8XLNUZIa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/738019344047845377/1541958150",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 21,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy 30th Birthday one of the first images on the Web! \n\nOn July 18, 1992, Silvano de Gennaro was asked by Tim Berners-Lee to scan and upload a photo of a parody pop group called Les Horribles Cernettes onto the https://t.co/Ym3ODC8VK1 \n\nhttps://t.co/f1ZE30t0ZL\n\n#InternetHistory https://t.co/fX93WHqJCc"
+	},
+	{
 		"created_at": "Sun Jul 17 17:13:47 +0000 2022",
 		"id": 1548717613261508600,
 		"id_str": "1548717613261508609",
