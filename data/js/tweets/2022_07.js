@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Tue Jul 19 15:38:11 +0000 2022",
+		"id": 1549413608450191400,
+		"id_str": "1549418330519470082",
+		"full_text": "On this day in 1990, Mother Love Bone released their only full-length album, Apple. https://t.co/wnRztfv4Mq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1549413453269311500,
+					"id_str": "1549413453269311488",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FYCfU5xUIAASfqH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYCfU5xUIAASfqH.jpg",
+					"url": "https://t.co/wnRztfv4Mq",
+					"display_url": "pic.twitter.com/wnRztfv4Mq",
+					"expanded_url": "https://twitter.com/nwpassage1/status/1549413608450191360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549413453269311500,
+					"id_str": "1549413453269311488",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/FYCfU5xUIAASfqH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYCfU5xUIAASfqH.jpg",
+					"url": "https://t.co/wnRztfv4Mq",
+					"display_url": "pic.twitter.com/wnRztfv4Mq",
+					"expanded_url": "https://twitter.com/nwpassage1/status/1549413608450191360/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 600,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120521320,
+			"id_str": "120521320",
+			"name": "Northwest Passage",
+			"screen_name": "nwpassage1",
+			"location": "",
+			"description": "An exploration of the music scene centered around Seattle in the 80s and 90s. #grunge, #riotgrrrl, #indie and beyond. Tweets by @substate.",
+			"url": "https://t.co/TQgwW59oC0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TQgwW59oC0",
+							"expanded_url": "http://revolutioncomeandgone.com",
+							"display_url": "revolutioncomeandgone.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5563,
+			"friends_count": 238,
+			"listed_count": 94,
+			"created_at": "Sat Mar 06 17:55:48 +0000 2010",
+			"favourites_count": 467,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/879439833285804032/jCAkbts5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/879439833285804032/jCAkbts5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120521320/1419197923",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 22,
+		"favorite_count": 105,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On this day in 1990, Mother Love Bone released their only full-length album, Apple. https://t.co/wnRztfv4Mq"
+	},
+	{
 		"created_at": "Tue Jul 19 14:56:06 +0000 2022",
 		"id": 1549407738765217800,
 		"id_str": "1549407738765217792",
