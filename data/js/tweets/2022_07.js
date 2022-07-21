@@ -1,6 +1,243 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 21 18:15:37 +0000 2022",
+		"id": 1550182724803207200,
+		"id_str": "1550182724803207168",
+		"full_text": "Ga je de volgende tour wel weer mee? 😉 https://t.co/4uCuoDAGhh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4uCuoDAGhh",
+					"expanded_url": "https://twitter.com/mennopot/status/1549814974658265089",
+					"display_url": "twitter.com/mennopot/statu…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8734,
+			"friends_count": 870,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10076,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1331927626672386049/wNJUeQtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1549814974658265000,
+		"quoted_status_id_str": "1549814974658265089",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4uCuoDAGhh",
+			"expanded": "https://twitter.com/mennopot/status/1549814974658265089",
+			"display": "twitter.com/mennopot/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 20 17:54:18 +0000 2022",
+			"id": 1549814974658265000,
+			"id_str": "1549814974658265089",
+			"full_text": "Iets zegt me dat Pearl Jam bijna klaar is. Laatste album bracht weinig teweeg; dat voelen ze zelf ook. Corona. En nu een tour met korte sets, gezondheids-issues en afzeggingen. Zou me niet verbazen als ergens na de tourverplichtingen de mededeling komt dat het erop zit. https://t.co/SuH3EOlQVo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				270
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SuH3EOlQVo",
+						"expanded_url": "https://twitter.com/PearlJam/status/1549803995509784579",
+						"display_url": "twitter.com/PearlJam/statu…",
+						"indices": [
+							271,
+							294
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 80057254,
+				"id_str": "80057254",
+				"name": "Menno Pot",
+				"screen_name": "mennopot",
+				"location": "Amsterdam",
+				"description": "popjournalist @Volkskrant | columnist @Parool | gastheer @braniedepodcast | muziek | Ajax | voetbalcultuur | boeken | Amsterdam | @amboanthos en @uitgeverBrandt",
+				"url": "https://t.co/Y9caUhH5Em",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Y9caUhH5Em",
+								"expanded_url": "https://www.mennopot.com",
+								"display_url": "mennopot.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 25142,
+				"friends_count": 1208,
+				"listed_count": 352,
+				"created_at": "Mon Oct 05 15:58:19 +0000 2009",
+				"favourites_count": 16554,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 47471,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1529379193146032128/1Y18fhfc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1529379193146032128/1Y18fhfc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/80057254/1623940803",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1549803995509784600,
+			"quoted_status_id_str": "1549803995509784579",
+			"quoted_status_permalink": {
+				"url": "https://t.co/SuH3EOlQVo",
+				"expanded": "https://twitter.com/PearlJam/status/1549803995509784579",
+				"display": "twitter.com/PearlJam/statu…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ga je de volgende tour wel weer mee? 😉 https://t.co/4uCuoDAGhh"
+	},
+	{
 		"created_at": "Tue Jul 19 15:38:11 +0000 2022",
 		"id": 1549413608450191400,
 		"id_str": "1549418330519470082",
