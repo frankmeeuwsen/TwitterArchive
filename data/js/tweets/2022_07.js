@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 25 23:20:21 +0000 2022",
+		"id": 1551708964773044200,
+		"id_str": "1551708964773044226",
+		"full_text": "Dit. Dit moment. Alle frustratie, alles. De tour, The Who, Ramones, punk, Andy, Chris, Layne, het leek wel of alles ineens er uit kwam. https://t.co/ZCSK8R6bEc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZCSK8R6bEc",
+					"expanded_url": "https://twitter.com/mrfranklegs/status/1551704493275987969",
+					"display_url": "twitter.com/mrfranklegs/st…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8734,
+			"friends_count": 869,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10101,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66940,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1551704493275988000,
+		"quoted_status_id_str": "1551704493275987969",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZCSK8R6bEc",
+			"expanded": "https://twitter.com/mrfranklegs/status/1551704493275987969",
+			"display": "twitter.com/mrfranklegs/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 25 23:02:35 +0000 2022",
+			"id": 1551704493275988000,
+			"id_str": "1551704493275987969",
+			"full_text": "😂✌🏽🎸#PearlJam https://t.co/8jqctOE4rh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				37
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PearlJam",
+						"indices": [
+							4,
+							13
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1551694831008850000,
+						"id_str": "1551694831008849920",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1551694831008849920/pu/img/tbZ151PuHqy5utDG.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1551694831008849920/pu/img/tbZ151PuHqy5utDG.jpg",
+						"url": "https://t.co/8jqctOE4rh",
+						"display_url": "pic.twitter.com/8jqctOE4rh",
+						"expanded_url": "https://twitter.com/joshkbrasil/status/1551694900101529601/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1551694900101529600,
+						"source_status_id_str": "1551694900101529601",
+						"source_user_id": 1305569593264611300,
+						"source_user_id_str": "1305569593264611328"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1551694831008850000,
+						"id_str": "1551694831008849920",
+						"indices": [
+							14,
+							37
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1551694831008849920/pu/img/tbZ151PuHqy5utDG.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1551694831008849920/pu/img/tbZ151PuHqy5utDG.jpg",
+						"url": "https://t.co/8jqctOE4rh",
+						"display_url": "pic.twitter.com/8jqctOE4rh",
+						"expanded_url": "https://twitter.com/joshkbrasil/status/1551694900101529601/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 1280,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1551694900101529600,
+						"source_status_id_str": "1551694900101529601",
+						"source_user_id": 1305569593264611300,
+						"source_user_id_str": "1305569593264611328",
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 20525,
+							"variants": [
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1551694831008849920/pu/vid/480x852/Spu-dKcqYg-CE_Qc.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1551694831008849920/pu/pl/XZ4mrl73yETBesY1.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1551694831008849920/pu/vid/320x568/7vYGWF83jrKhKHu6.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1551694831008849920/pu/vid/720x1280/xDQX7Er2pXF1_tIm.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 1305569593264611300,
+								"id_str": "1305569593264611328",
+								"name": "Josh Klinghoffer Brasil🇧🇷",
+								"screen_name": "joshkbrasil",
+								"location": "",
+								"description": "Perfil de fãs brasileiros dedicado a Josh Klinghoffer para informações em português dos seus projetos @pluralone1 @dothackerband @PearlJam❤️🌐🇧🇷",
+								"url": "https://t.co/PWWQOEtBOw",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/PWWQOEtBOw",
+												"expanded_url": "http://instagram.com/joshklinghofferbrasil",
+												"display_url": "instagram.com/joshklinghoffe…",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 408,
+								"friends_count": 75,
+								"listed_count": 0,
+								"created_at": "Mon Sep 14 18:10:51 +0000 2020",
+								"favourites_count": 2654,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": false,
+								"statuses_count": 1196,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1305569767919677440/xv6_I1BC_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1305569767919677440/xv6_I1BC_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/1305569593264611328/1606407694",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 61224749,
+				"id_str": "61224749",
+				"name": "Frank Beenen",
+				"screen_name": "MrFrankLegs",
+				"location": "",
+				"description": "Hoe vinden jullie zelf dat het gaat? * 🎙Zwamt op @radiocamataru over @scHeerenveen *",
+				"url": "https://t.co/U7ZrQiJPtQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/U7ZrQiJPtQ",
+								"expanded_url": "https://frankbeenen.wordpress.com/",
+								"display_url": "frankbeenen.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1489,
+				"friends_count": 1199,
+				"listed_count": 16,
+				"created_at": "Wed Jul 29 15:46:52 +0000 2009",
+				"favourites_count": 10749,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22782,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1551487788255793153/qBJ64dRD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551487788255793153/qBJ64dRD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/61224749/1639923017",
+				"profile_link_color": "080808",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dit. Dit moment. Alle frustratie, alles. De tour, The Who, Ramones, punk, Andy, Chris, Layne, het leek wel of alles ineens er uit kwam. https://t.co/ZCSK8R6bEc"
+	},
+	{
 		"created_at": "Mon Jul 25 21:38:08 +0000 2022",
 		"id": 1551683244264984600,
 		"id_str": "1551683244264984576",
