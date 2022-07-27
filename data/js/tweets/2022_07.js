@@ -1,6 +1,197 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 27 19:59:37 +0000 2022",
+		"id": 1552378311690567700,
+		"id_str": "1552383224634015752",
+		"full_text": "Niet ingrijpen hoor, stel je voor dat het escaleert. Hou die fluwelen handschoentjes vooral aan, politie. #boerenterreur #kutboeren\n\nOpruimwerk boerenprotest op A1 bij Voorst gestaakt na bedreigingen: ‘In slechtste geval is de weg tot in de ochtend dicht’ https://t.co/WfhOqUKq46",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "boerenterreur",
+					"indices": [
+						106,
+						120
+					]
+				},
+				{
+					"text": "kutboeren",
+					"indices": [
+						121,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WfhOqUKq46",
+					"expanded_url": "https://www.ad.nl/binnenland/opruimwerk-boerenprotest-op-a1-bij-voorst-gestaakt-na-bedreigingen-in-slechtste-geval-is-de-weg-tot-in-de-ochtend-dicht~a6fb4e33/",
+					"display_url": "ad.nl/binnenland/opr…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 706877687,
+			"id_str": "706877687",
+			"name": "Filterbitch Nadya🖤",
+			"screen_name": "Zwarte_Magica",
+			"location": "",
+			"description": "Ondanks alles heel gewoon gebleven~Tweets zijn in hoge mate filosofisch~Offert SGP’ers op het altaar van de multiculturele samenleving~",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 8241,
+			"friends_count": 2483,
+			"listed_count": 43,
+			"created_at": "Wed Oct 09 19:15:41 +0000 2013",
+			"favourites_count": 137952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 136396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1516748468806733828/9SSOy22O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1516748468806733828/9SSOy22O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/706877687/1656343439",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Niet ingrijpen hoor, stel je voor dat het escaleert. Hou die fluwelen handschoentjes vooral aan, politie. #boerenterreur #kutboeren\n\nOpruimwerk boerenprotest op A1 bij Voorst gestaakt na bedreigingen: ‘In slechtste geval is de weg tot in de ochtend dicht’ https://t.co/WfhOqUKq46"
+	},
+	{
+		"created_at": "Wed Jul 27 19:59:33 +0000 2022",
+		"id": 1552378333660385300,
+		"id_str": "1552383209706590208",
+		"full_text": "Moet je je voorstellen dat de sekswerkers (die een stuk kutter behandeld worden door de overheid) bermen in brand gingen steken en sperma over gemeentehuizen spetteren en wat dan de reactie van de overheid zou zijn.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1492559178644308000,
+			"id_str": "1492559178644307974",
+			"name": "Schrijfwijf",
+			"screen_name": "Schrijfwijffie",
+			"location": "",
+			"description": "Sekreet reset.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 646,
+			"friends_count": 763,
+			"listed_count": 1,
+			"created_at": "Sat Feb 12 18:01:48 +0000 2022",
+			"favourites_count": 4632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1057,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1492559861745434627/YGtO0l-2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1492559861745434627/YGtO0l-2_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "nl",
+		"text": "Moet je je voorstellen dat de sekswerkers (die een stuk kutter behandeld worden door de overheid) bermen in brand gingen steken en sperma over gemeentehuizen spetteren en wat dan de reactie van de overheid zou zijn."
+	},
+	{
 		"created_at": "Wed Jul 27 05:10:44 +0000 2022",
 		"id": 1552159531802706000,
 		"id_str": "1552159531802705920",
