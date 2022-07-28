@@ -1,6 +1,320 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 28 17:41:48 +0000 2022",
+		"id": 1552710929959497700,
+		"id_str": "1552710929959497729",
+		"full_text": "Misschien hierom dan toch eens AppleTV of Amazon nemen… https://t.co/QGvWLlHo8X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QGvWLlHo8X",
+					"expanded_url": "https://twitter.com/greenwichet/status/1552387357369925633",
+					"display_url": "twitter.com/greenwichet/st…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8736,
+			"friends_count": 868,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66951,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1552387357369925600,
+		"quoted_status_id_str": "1552387357369925633",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QGvWLlHo8X",
+			"expanded": "https://twitter.com/greenwichet/status/1552387357369925633",
+			"display": "twitter.com/greenwichet/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 27 20:16:02 +0000 2022",
+			"id": 1552387357369925600,
+			"id_str": "1552387357369925633",
+			"full_text": "Watch the new trailer for #WeAreAsGods, a #documentary about cyberspace and futurism pioneer @stewartbrand. Available on Amazon &amp; Apple TV September 6.\n\n#Movie #StewartBrand #WholeEarthCatalog #Environment @StewartBrandDoc @science24fps @friendofdurutti https://t.co/rmqNHkJSlM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				281
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WeAreAsGods",
+						"indices": [
+							26,
+							38
+						]
+					},
+					{
+						"text": "documentary",
+						"indices": [
+							42,
+							54
+						]
+					},
+					{
+						"text": "Movie",
+						"indices": [
+							157,
+							163
+						]
+					},
+					{
+						"text": "StewartBrand",
+						"indices": [
+							164,
+							177
+						]
+					},
+					{
+						"text": "WholeEarthCatalog",
+						"indices": [
+							178,
+							196
+						]
+					},
+					{
+						"text": "Environment",
+						"indices": [
+							197,
+							209
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "stewartbrand",
+						"name": "Stewart Brand",
+						"id": 4435227552,
+						"id_str": "4435227552",
+						"indices": [
+							93,
+							106
+						]
+					},
+					{
+						"screen_name": "StewartBrandDoc",
+						"name": "We Are As Gods",
+						"id": 993675581899370500,
+						"id_str": "993675581899370497",
+						"indices": [
+							210,
+							226
+						]
+					},
+					{
+						"screen_name": "science24fps",
+						"name": "David A. Alvarado",
+						"id": 417183027,
+						"id_str": "417183027",
+						"indices": [
+							227,
+							240
+						]
+					},
+					{
+						"screen_name": "friendofdurutti",
+						"name": "Jason Sussberg",
+						"id": 15184129,
+						"id_str": "15184129",
+						"indices": [
+							241,
+							257
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/rmqNHkJSlM",
+						"expanded_url": "http://bit.ly/GodsTrailer",
+						"display_url": "bit.ly/GodsTrailer",
+						"indices": [
+							258,
+							281
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 930237239455465500,
+				"id_str": "930237239455465472",
+				"name": "Greenwich Entertainment",
+				"screen_name": "GreenwichET",
+				"location": "",
+				"description": "Theaters: ACCEPTED, FROM WHERE THEY STOOD, MY DONKEY MY LOVER & I\nWatch Now: HELLO BOOKSTORE, ACCEPTED, STAY PRAYED UP",
+				"url": "https://t.co/yoy4kS2Bkr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yoy4kS2Bkr",
+								"expanded_url": "http://www.GreenwichEntertainment.com",
+								"display_url": "GreenwichEntertainment.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 944,
+				"friends_count": 676,
+				"listed_count": 16,
+				"created_at": "Tue Nov 14 00:53:35 +0000 2017",
+				"favourites_count": 1567,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1252,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/940645651410382848/z1OdeUsz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/940645651410382848/z1OdeUsz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/930237239455465472/1658511689",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Misschien hierom dan toch eens AppleTV of Amazon nemen… https://t.co/QGvWLlHo8X"
+	},
+	{
 		"created_at": "Thu Jul 28 11:30:13 +0000 2022",
 		"id": 1552617417750233000,
 		"id_str": "1552617417750233094",
