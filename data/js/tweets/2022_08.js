@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 04 15:16:41 +0000 2022",
+		"id": 1555211125746270200,
+		"id_str": "1555211125746270209",
+		"full_text": "Check dit @Marjolijn! https://t.co/Rl8GJfOLVw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Marjolijn",
+					"name": "Marjolijn",
+					"id": 1610571,
+					"id_str": "1610571",
+					"indices": [
+						10,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Rl8GJfOLVw",
+					"expanded_url": "https://twitter.com/Weegee/status/1555208850315169792",
+					"display_url": "twitter.com/Weegee/status/…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8736,
+			"friends_count": 867,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66961,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1555208850315169800,
+		"quoted_status_id_str": "1555208850315169792",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Rl8GJfOLVw",
+			"expanded": "https://twitter.com/Weegee/status/1555208850315169792",
+			"display": "twitter.com/Weegee/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 04 15:07:38 +0000 2022",
+			"id": 1555208850315169800,
+			"id_str": "1555208850315169792",
+			"full_text": "Thank you to both @veronicaeye &amp; @anniezaleski (you two should know each other, btw) for bringing the release of the John Hughes Soundtrack box set to my attention. 4 CDs (whatever those are) and 6 red Vinyl pieces. https://t.co/FQzLozrVSF #bratpackamerica https://t.co/Ulav6AbfA8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				260
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "bratpackamerica",
+						"indices": [
+							244,
+							260
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "veronicaeye",
+						"name": "Veronica ☮💜🐬",
+						"id": 14163789,
+						"id_str": "14163789",
+						"indices": [
+							18,
+							30
+						]
+					},
+					{
+						"screen_name": "anniezaleski",
+						"name": "Annie Zaleski",
+						"id": 152553053,
+						"id_str": "152553053",
+						"indices": [
+							37,
+							50
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/FQzLozrVSF",
+						"expanded_url": "https://consequence.net/2022/08/john-hughes-soundtrack-box-set-life-moves-pretty-fast/?fbclid=IwAR0_9_Zav2WPfiYrdV0b7dUjOlOSEUu4IVOCRjlZ4I3cTPPy_uq-9f1DWJU",
+						"display_url": "consequence.net/2022/08/john-h…",
+						"indices": [
+							220,
+							243
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1555208791657816000,
+						"id_str": "1555208791657816065",
+						"indices": [
+							261,
+							284
+						],
+						"media_url": "http://pbs.twimg.com/media/FZU2J_pUIAEkAmP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FZU2J_pUIAEkAmP.jpg",
+						"url": "https://t.co/Ulav6AbfA8",
+						"display_url": "pic.twitter.com/Ulav6AbfA8",
+						"expanded_url": "https://twitter.com/Weegee/status/1555208850315169792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1786,
+								"h": 936,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 629,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1555208791657816000,
+						"id_str": "1555208791657816065",
+						"indices": [
+							261,
+							284
+						],
+						"media_url": "http://pbs.twimg.com/media/FZU2J_pUIAEkAmP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FZU2J_pUIAEkAmP.jpg",
+						"url": "https://t.co/Ulav6AbfA8",
+						"display_url": "pic.twitter.com/Ulav6AbfA8",
+						"expanded_url": "https://twitter.com/Weegee/status/1555208850315169792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1786,
+								"h": 936,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 629,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 44353,
+				"id_str": "44353",
+				"name": "Kevin Smokler",
+				"screen_name": "Weegee",
+				"location": "San Francisco",
+				"description": "An arts journalist who writes books and makes documentary films about pop culture. Hobbies include people and everyday magic. Links: https://t.co/MavRugvAeE",
+				"url": "https://t.co/kS2z3jQ3Bm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kS2z3jQ3Bm",
+								"expanded_url": "http://www.kevinsmokler.com",
+								"display_url": "kevinsmokler.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/MavRugvAeE",
+								"expanded_url": "http://linktr.ee/smokler",
+								"display_url": "linktr.ee/smokler",
+								"indices": [
+									133,
+									156
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 50916,
+				"friends_count": 865,
+				"listed_count": 1026,
+				"created_at": "Wed Dec 06 03:40:49 +0000 2006",
+				"favourites_count": 17843,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 83122,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1553130970831761408/ZYhQTU0m_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1553130970831761408/ZYhQTU0m_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/44353/1659130204",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "0B0F0D",
+				"profile_sidebar_fill_color": "EAF7CA",
+				"profile_text_color": "100F0F",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check dit @Marjolijn! https://t.co/Rl8GJfOLVw"
+	},
+	{
 		"created_at": "Thu Aug 04 11:42:33 +0000 2022",
 		"id": 1555157236502208500,
 		"id_str": "1555157236502208513",
