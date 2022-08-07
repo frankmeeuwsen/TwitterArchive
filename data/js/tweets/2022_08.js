@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 07 07:05:32 +0000 2022",
+		"id": 1556174689214546000,
+		"id_str": "1556174689214545920",
+		"full_text": "Het web is van nature decentraal, open en vrij toegankelijk. Daarom is anonimiteit altijd mogelijk. Door social media niet-anoniem te maken verplaats je het probleem. Er is meer dan (centrale) Twitter en sociale netwerken. Het is een duivels probleem. https://t.co/yfpIXfEqbd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yfpIXfEqbd",
+					"expanded_url": "https://twitter.com/jpvandijken/status/1555104578840002561",
+					"display_url": "twitter.com/jpvandijken/st…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8736,
+			"friends_count": 862,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10116,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1555104578840002600,
+		"quoted_status_id_str": "1555104578840002561",
+		"quoted_status_permalink": {
+			"url": "https://t.co/yfpIXfEqbd",
+			"expanded": "https://twitter.com/jpvandijken/status/1555104578840002561",
+			"display": "twitter.com/jpvandijken/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Aug 04 08:13:18 +0000 2022",
+			"id": 1555104578840002600,
+			"id_str": "1555104578840002561",
+			"full_text": "Elk woord wat @OzcanAkyol zegt, werkelijk elk woord.\n\nBan de laffe anonimiteit, zorg ervoor dat iedereen altijd herkenbaar is op social media! https://t.co/CTPFOyIFQL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				142
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OzcanAkyol",
+						"name": "Özcan Akyol",
+						"id": 45799244,
+						"id_str": "45799244",
+						"indices": [
+							14,
+							25
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1555104575559975000,
+						"id_str": "1555104575559974912",
+						"indices": [
+							143,
+							166
+						],
+						"media_url": "http://pbs.twimg.com/media/FZTXX0bWQAA9LJU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FZTXX0bWQAA9LJU.jpg",
+						"url": "https://t.co/CTPFOyIFQL",
+						"display_url": "pic.twitter.com/CTPFOyIFQL",
+						"expanded_url": "https://twitter.com/JPvanDijken/status/1555104578840002561/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 469,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 535,
+								"h": 1370,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 266,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1555104575559975000,
+						"id_str": "1555104575559974912",
+						"indices": [
+							143,
+							166
+						],
+						"media_url": "http://pbs.twimg.com/media/FZTXX0bWQAA9LJU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FZTXX0bWQAA9LJU.jpg",
+						"url": "https://t.co/CTPFOyIFQL",
+						"display_url": "pic.twitter.com/CTPFOyIFQL",
+						"expanded_url": "https://twitter.com/JPvanDijken/status/1555104578840002561/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 469,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 535,
+								"h": 1370,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 266,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3080032269,
+				"id_str": "3080032269",
+				"name": "Peter 🇪🇺 #standwithUkraine🇺🇦",
+				"screen_name": "JPvanDijken",
+				"location": "Nederland",
+				"description": "| Niet alles wat ik doe is zinvol | Verkeert meestentijds in een goedmoedige en opgeruimde luim | #hetispatat | Fries om utens | Deugt je de moeder |",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 592,
+				"friends_count": 433,
+				"listed_count": 34,
+				"created_at": "Sun Mar 08 19:22:55 +0000 2015",
+				"favourites_count": 42372,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 64990,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1408722476310401026/6qb3f45u_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1408722476310401026/6qb3f45u_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3080032269/1652480121",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 246,
+			"favorite_count": 1505,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Het web is van nature decentraal, open en vrij toegankelijk. Daarom is anonimiteit altijd mogelijk. Door social media niet-anoniem te maken verplaats je het probleem. Er is meer dan (centrale) Twitter en sociale netwerken. Het is een duivels probleem. https://t.co/yfpIXfEqbd"
+	},
+	{
 		"created_at": "Fri Aug 05 06:30:55 +0000 2022",
 		"id": 1555441201612001300,
 		"id_str": "1555441201612001281",
