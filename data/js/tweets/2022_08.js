@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 23 05:35:06 +0000 2022",
+		"id": 1561950133515915300,
+		"id_str": "1561950133515915264",
+		"full_text": "I wonder how many people see it is a viral ad for Taplio, a SaaS to drive business from LinkedIn by creating better content through AI. Whatever that means. From their site:\n\n\"Get endless inspiration from our database of viral content.\"\n\n\"Content. Without lifting a finger.\" 🤯 https://t.co/rqglLEzkxA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rqglLEzkxA",
+					"expanded_url": "https://twitter.com/kushaanshah/status/1561771338510921728",
+					"display_url": "twitter.com/kushaanshah/st…",
+					"indices": [
+						277,
+						300
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8736,
+			"friends_count": 860,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10089,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 66978,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1561771338510921700,
+		"quoted_status_id_str": "1561771338510921728",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rqglLEzkxA",
+			"expanded": "https://twitter.com/kushaanshah/status/1561771338510921728",
+			"display": "twitter.com/kushaanshah/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 22 17:44:38 +0000 2022",
+			"id": 1561771338510921700,
+			"id_str": "1561771338510921728",
+			"full_text": "Found a Linkedin viral post generator and it's already my favorite part of the week lol \n\nhttps://t.co/4AOHlgZOsC https://t.co/Jz4zch4y1F",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				113
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/4AOHlgZOsC",
+						"expanded_url": "https://viralpostgenerator.com/",
+						"display_url": "viralpostgenerator.com",
+						"indices": [
+							90,
+							113
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1561771020914004000,
+						"id_str": "1561771020914003968",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/FayGeAoUEAAlA6F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FayGeAoUEAAlA6F.jpg",
+						"url": "https://t.co/Jz4zch4y1F",
+						"display_url": "pic.twitter.com/Jz4zch4y1F",
+						"expanded_url": "https://twitter.com/kushaanshah/status/1561771338510921728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1022,
+								"h": 778,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 518,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1022,
+								"h": 778,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1561771020914004000,
+						"id_str": "1561771020914003968",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/FayGeAoUEAAlA6F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FayGeAoUEAAlA6F.jpg",
+						"url": "https://t.co/Jz4zch4y1F",
+						"display_url": "pic.twitter.com/Jz4zch4y1F",
+						"expanded_url": "https://twitter.com/kushaanshah/status/1561771338510921728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1022,
+								"h": 778,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 518,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1022,
+								"h": 778,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1561771126681809000,
+						"id_str": "1561771126681808896",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/FayGkKpUsAAib7h.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FayGkKpUsAAib7h.jpg",
+						"url": "https://t.co/Jz4zch4y1F",
+						"display_url": "pic.twitter.com/Jz4zch4y1F",
+						"expanded_url": "https://twitter.com/kushaanshah/status/1561771338510921728/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 910,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 1266,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 516,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 267372072,
+				"id_str": "267372072",
+				"name": "Kushaan",
+				"screen_name": "kushaanshah",
+				"location": "San Francisco, CA",
+				"description": "marketing @grammarly + @berkeleyhaas | fan of writing, live art, cheese, ocean hikes, late night @tacobell ✍️🌮",
+				"url": "https://t.co/v85jJXEKbP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/v85jJXEKbP",
+								"expanded_url": "https://linktr.ee/kushaans",
+								"display_url": "linktr.ee/kushaans",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 8401,
+				"friends_count": 2957,
+				"listed_count": 420,
+				"created_at": "Wed Mar 16 20:44:34 +0000 2011",
+				"favourites_count": 252279,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 62170,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1550659907803758593/7sEKFCun_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550659907803758593/7sEKFCun_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/267372072/1648443557",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8162,
+			"favorite_count": 75055,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I wonder how many people see it is a viral ad for Taplio, a SaaS to drive business from LinkedIn by creating better content through AI. Whatever that means. From their site:\n\n\"Get endless inspiration from our database of viral content.\"\n\n\"Content. Without lifting a finger.\" 🤯 https://t.co/rqglLEzkxA"
+	},
+	{
 		"created_at": "Sun Aug 21 21:42:13 +0000 2022",
 		"id": 1561468743963787300,
 		"id_str": "1561468743963787264",
