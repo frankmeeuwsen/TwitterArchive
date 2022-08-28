@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 28 11:19:09 +0000 2022",
+		"id": 1563360419208925200,
+		"id_str": "1563848656649961472",
+		"full_text": "If wrestling is “fake” then explain this https://t.co/Jen2e0q3wY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1562994153373458400,
+					"id_str": "1562994153373458432",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1562994153373458432/pu/img/yZIEbMS5BR5qdmeM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1562994153373458432/pu/img/yZIEbMS5BR5qdmeM.jpg",
+					"url": "https://t.co/Jen2e0q3wY",
+					"display_url": "pic.twitter.com/Jen2e0q3wY",
+					"expanded_url": "https://twitter.com/W_W_U_Clips/status/1562994333653282817/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1562994333653282800,
+					"source_status_id_str": "1562994333653282817",
+					"source_user_id": 1467556647325343700,
+					"source_user_id_str": "1467556647325343746"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1562994153373458400,
+					"id_str": "1562994153373458432",
+					"indices": [
+						41,
+						64
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1562994153373458432/pu/img/yZIEbMS5BR5qdmeM.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1562994153373458432/pu/img/yZIEbMS5BR5qdmeM.jpg",
+					"url": "https://t.co/Jen2e0q3wY",
+					"display_url": "pic.twitter.com/Jen2e0q3wY",
+					"expanded_url": "https://twitter.com/W_W_U_Clips/status/1562994333653282817/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1562994333653282800,
+					"source_status_id_str": "1562994333653282817",
+					"source_user_id": 1467556647325343700,
+					"source_user_id_str": "1467556647325343746",
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 55953,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1562994153373458432/pu/vid/640x360/D9tVcGeJckalmOlI.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1562994153373458432/pu/vid/480x270/0kerQePtj2lg2_X4.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1562994153373458432/pu/pl/CoXeb_fXfhZ9cePl.m3u8?tag=12&container=fmp4&v=dee"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1562994153373458432/pu/vid/1280x720/ldTYq_NqDXn9-WaA.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 1467556647325343700,
+							"id_str": "1467556647325343746",
+							"name": "WWU Clips",
+							"screen_name": "W_W_U_Clips",
+							"location": "",
+							"description": "Main account: @W_W_Unicorns ; Content Producers ; Work seen on @aew, @wwe, @luchalibreaaa, @whatculture, @SInow, @BRWrestling and @SportsCenter",
+							"url": "https://t.co/0flWTFJ0NY",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/0flWTFJ0NY",
+											"expanded_url": "https://linktr.ee/Wrestlingwithunicorns",
+											"display_url": "linktr.ee/Wrestlingwithu…",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 2299,
+							"friends_count": 4257,
+							"listed_count": 8,
+							"created_at": "Sun Dec 05 18:09:14 +0000 2021",
+							"favourites_count": 7260,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 7074,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "F5F8FA",
+							"profile_background_image_url": null,
+							"profile_background_image_url_https": null,
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1470461194611961858/WYYjCck-_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1470461194611961858/WYYjCck-_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/1467556647325343746/1639419883",
+							"profile_link_color": "1DA1F2",
+							"profile_sidebar_border_color": "C0DEED",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": true,
+							"default_profile": true,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3309398769,
+			"id_str": "3309398769",
+			"name": "Abdelilah Skhir",
+			"screen_name": "abskhir",
+			"location": "Tallahassee, FL",
+			"description": "Voting rights policy w/ @ACLUFL. Views are my own etc. Mostly an unholy combination of politics, sports, wrestling, and other stupid, stupid stuff.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 372,
+			"friends_count": 774,
+			"listed_count": 9,
+			"created_at": "Fri Jun 05 16:25:45 +0000 2015",
+			"favourites_count": 15130,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8417,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1549243399676608512/7c186KsN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1549243399676608512/7c186KsN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3309398769/1596956534",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23861,
+		"favorite_count": 140260,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If wrestling is “fake” then explain this https://t.co/Jen2e0q3wY"
+	},
+	{
 		"created_at": "Fri Aug 26 11:58:11 +0000 2022",
 		"id": 1563133703252897800,
 		"id_str": "1563133703252897792",
