@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 08 05:23:52 +0000 2022",
+		"id": 1567745515382612000,
+		"id_str": "1567745515382611968",
+		"full_text": "Ik vraag me af of we de Dynamic Island UI terug gaan zien in toekomstige Apple innovaties in AR/VR/MR. In auto's? VR brillen? Winkeldisplays? https://t.co/UgcNqjSXTs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UgcNqjSXTs",
+					"expanded_url": "https://twitter.com/CharlesPattson/status/1567583474189570048",
+					"display_url": "twitter.com/CharlesPattson…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8734,
+			"friends_count": 869,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10095,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67009,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1567583474189570000,
+		"quoted_status_id_str": "1567583474189570048",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UgcNqjSXTs",
+			"expanded": "https://twitter.com/CharlesPattson/status/1567583474189570048",
+			"display": "twitter.com/CharlesPattson…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 07 18:39:59 +0000 2022",
+			"id": 1567583474189570000,
+			"id_str": "1567583474189570048",
+			"full_text": "Dynamic island is the hottest piece of UI I've seen in a long time https://t.co/CuezwtTUuX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				66
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1567583208040026000,
+						"id_str": "1567583208040026113",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1567583208040026113/pu/img/E7yLaUIGseh-sEIp.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1567583208040026113/pu/img/E7yLaUIGseh-sEIp.jpg",
+						"url": "https://t.co/CuezwtTUuX",
+						"display_url": "pic.twitter.com/CuezwtTUuX",
+						"expanded_url": "https://twitter.com/CharlesPattson/status/1567583474189570048/video/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1023,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1567583208040026000,
+						"id_str": "1567583208040026113",
+						"indices": [
+							67,
+							90
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1567583208040026113/pu/img/E7yLaUIGseh-sEIp.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1567583208040026113/pu/img/E7yLaUIGseh-sEIp.jpg",
+						"url": "https://t.co/CuezwtTUuX",
+						"display_url": "pic.twitter.com/CuezwtTUuX",
+						"expanded_url": "https://twitter.com/CharlesPattson/status/1567583474189570048/video/1",
+						"type": "video",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1023,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1465,
+								732
+							],
+							"duration_millis": 12966,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1567583208040026113/pu/vid/720x360/UnVkvlUpgyClkwNF.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1567583208040026113/pu/vid/540x270/v7kcHKHSnzGz7yhs.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1567583208040026113/pu/vid/1440x720/7j9EMEvvtVQiAtho.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1567583208040026113/pu/pl/f_wzvxTPS6DoXgyq.m3u8?tag=12&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 80964276,
+				"id_str": "80964276",
+				"name": "Charles Patterson",
+				"screen_name": "CharlesPattson",
+				"location": "🌐",
+				"description": "✧ Senior staff product designer\n✧ Founder & artist @goodmonkeyz",
+				"url": "https://t.co/JnrStdm48P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JnrStdm48P",
+								"expanded_url": "http://charlespatterson.co",
+								"display_url": "charlespatterson.co",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 29115,
+				"friends_count": 7135,
+				"listed_count": 477,
+				"created_at": "Thu Oct 08 22:48:55 +0000 2009",
+				"favourites_count": 38985,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15515,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEBEB",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1551594698409648129/gHZ8lE9n_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551594698409648129/gHZ8lE9n_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/80964276/1662587514",
+				"profile_link_color": "FF3366",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EBEBEB",
+				"profile_text_color": "242424",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2198,
+			"favorite_count": 15022,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik vraag me af of we de Dynamic Island UI terug gaan zien in toekomstige Apple innovaties in AR/VR/MR. In auto's? VR brillen? Winkeldisplays? https://t.co/UgcNqjSXTs"
+	},
+	{
 		"created_at": "Wed Sep 07 18:17:02 +0000 2022",
 		"id": 1567577699580874800,
 		"id_str": "1567577699580874756",
