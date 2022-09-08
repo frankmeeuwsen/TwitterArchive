@@ -1,6 +1,153 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 08 16:58:27 +0000 2022",
+		"id": 1567920312595157000,
+		"id_str": "1567920312595156992",
+		"full_text": "@WeAreAsGodsFilm @stewartbrand @friendofdurutti @science24fps When will it be available for streaming/rent/but outside the US?",
+		"truncated": false,
+		"display_text_range": [
+			62,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WeAreAsGodsFilm",
+					"name": "We Are As Gods - Now On iTunes & Amazon",
+					"id": 993675581899370500,
+					"id_str": "993675581899370497",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "stewartbrand",
+					"name": "Stewart Brand",
+					"id": 4435227552,
+					"id_str": "4435227552",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "friendofdurutti",
+					"name": "Jason Sussberg",
+					"id": 15184129,
+					"id_str": "15184129",
+					"indices": [
+						31,
+						47
+					]
+				},
+				{
+					"screen_name": "science24fps",
+					"name": "David A. Alvarado",
+					"id": 417183027,
+					"id_str": "417183027",
+					"indices": [
+						48,
+						61
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1567916681686556700,
+		"in_reply_to_status_id_str": "1567916681686556676",
+		"in_reply_to_user_id": 993675581899370500,
+		"in_reply_to_user_id_str": "993675581899370497",
+		"in_reply_to_screen_name": "WeAreAsGodsFilm",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8734,
+			"friends_count": 869,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@WeAreAsGodsFilm @stewartbrand @friendofdurutti @science24fps When will it be available for streaming/rent/but outside the US?"
+	},
+	{
 		"created_at": "Thu Sep 08 05:23:52 +0000 2022",
 		"id": 1567745515382612000,
 		"id_str": "1567745515382611968",
