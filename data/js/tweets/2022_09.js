@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 09 05:34:42 +0000 2022",
+		"id": 1568110627410903000,
+		"id_str": "1568110627410903040",
+		"full_text": "Interessant inkijkje hoe snel Wikipedia pagina’s worden aangepast en wat achter de schermen speelt. https://t.co/13C8gpHZ9f",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/13C8gpHZ9f",
+					"expanded_url": "https://twitter.com/depthsofwiki/status/1568101529273643008",
+					"display_url": "twitter.com/depthsofwiki/s…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8734,
+			"friends_count": 872,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67013,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1568101529273643000,
+		"quoted_status_id_str": "1568101529273643008",
+		"quoted_status_permalink": {
+			"url": "https://t.co/13C8gpHZ9f",
+			"expanded": "https://twitter.com/depthsofwiki/status/1568101529273643008",
+			"display": "twitter.com/depthsofwiki/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 09 04:58:33 +0000 2022",
+			"id": 1568101529273643000,
+			"id_str": "1568101529273643008",
+			"full_text": "lots of memes about speedy wikipedia editors — quick thread about what went down on wikipedia in the minutes after her death was announced https://t.co/raKcdWiP4W",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				138
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1568076927629664300,
+						"id_str": "1568076927629664257",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/media/FcLtqFvaIAEM68Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FcLtqFvaIAEM68Q.jpg",
+						"url": "https://t.co/raKcdWiP4W",
+						"display_url": "pic.twitter.com/raKcdWiP4W",
+						"expanded_url": "https://twitter.com/depthsofwiki/status/1568101529273643008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 397,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 397,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1568076927629664300,
+						"id_str": "1568076927629664257",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/media/FcLtqFvaIAEM68Q.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FcLtqFvaIAEM68Q.jpg",
+						"url": "https://t.co/raKcdWiP4W",
+						"display_url": "pic.twitter.com/raKcdWiP4W",
+						"expanded_url": "https://twitter.com/depthsofwiki/status/1568101529273643008/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 397,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 397,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1289214585170464800,
+				"id_str": "1289214585170464773",
+				"name": "depths of wikipedia",
+				"screen_name": "depthsofwiki",
+				"location": "",
+				"description": "DMs are open! Buy tix to live shows in NYC, SF, and Austin — link in bio!\nsee also: @internetdepths\n@anniierau",
+				"url": "https://t.co/JURUXVMG6P",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JURUXVMG6P",
+								"expanded_url": "https://linktr.ee/depthsofwikipedia",
+								"display_url": "linktr.ee/depthsofwikipe…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 625234,
+				"friends_count": 3808,
+				"listed_count": 1088,
+				"created_at": "Fri Jul 31 15:01:33 +0000 2020",
+				"favourites_count": 6777,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3259,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1289218536464961536/qpIJWvo8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1289218536464961536/qpIJWvo8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1289214585170464773/1649303083",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1143,
+			"favorite_count": 7901,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Interessant inkijkje hoe snel Wikipedia pagina’s worden aangepast en wat achter de schermen speelt. https://t.co/13C8gpHZ9f"
+	},
+	{
 		"created_at": "Thu Sep 08 18:43:53 +0000 2022",
 		"id": 1567739003650048000,
 		"id_str": "1567946844684050434",
