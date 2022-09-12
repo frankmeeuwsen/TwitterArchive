@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 12 17:25:10 +0000 2022",
+		"id": 1569376585802711000,
+		"id_str": "1569376585802711042",
+		"full_text": "Beste antwoord op elke lifehack video everooit op elk platform everooit. https://t.co/GN6nSReidY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GN6nSReidY",
+					"expanded_url": "https://twitter.com/JonathanYocom/status/1569040871785435139",
+					"display_url": "twitter.com/JonathanYocom/…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8731,
+			"friends_count": 876,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10113,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67031,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1569040871785435100,
+		"quoted_status_id_str": "1569040871785435139",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GN6nSReidY",
+			"expanded": "https://twitter.com/JonathanYocom/status/1569040871785435139",
+			"display": "twitter.com/JonathanYocom/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 11 19:11:09 +0000 2022",
+			"id": 1569040871785435100,
+			"id_str": "1569040871785435139",
+			"full_text": "@engineering_i0 My favorite part about watching these videos is completely forgetting about them 30 seconds after watching them, then remembering that I watched it when I start doing the task that was in the video but not remembering what was in the video.",
+			"truncated": false,
+			"display_text_range": [
+				16,
+				256
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "engineering_i0",
+						"name": "Engineering Inventions",
+						"id": 1543539780847169500,
+						"id_str": "1543539780847169536",
+						"indices": [
+							0,
+							15
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1568922429845811200,
+			"in_reply_to_status_id_str": "1568922429845811201",
+			"in_reply_to_user_id": 1543539780847169500,
+			"in_reply_to_user_id_str": "1543539780847169536",
+			"in_reply_to_screen_name": "engineering_i0",
+			"user": {
+				"id": 1497808673246257200,
+				"id_str": "1497808673246257157",
+				"name": "One Eye",
+				"screen_name": "JonathanYocom",
+				"location": "Austin, TX",
+				"description": "helping men and women drop 15-30lbs/build muscle/confidence and keep it off, free workouts with consultation on my website #personaltrainer #weightloss #fitness",
+				"url": "https://t.co/9BZsmqRWoO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9BZsmqRWoO",
+								"expanded_url": "https://viphealthfitness.fitbudd.com/",
+								"display_url": "viphealthfitness.fitbudd.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 222,
+				"friends_count": 457,
+				"listed_count": 0,
+				"created_at": "Sun Feb 27 05:40:35 +0000 2022",
+				"favourites_count": 3277,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1776,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1555024332560257025/C0qbry8A_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1555024332560257025/C0qbry8A_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1497808673246257157/1659581330",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 306,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Beste antwoord op elke lifehack video everooit op elk platform everooit. https://t.co/GN6nSReidY"
+	},
+	{
 		"created_at": "Mon Sep 12 11:58:27 +0000 2022",
 		"id": 1569294365297721300,
 		"id_str": "1569294365297721344",
