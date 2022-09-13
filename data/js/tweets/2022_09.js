@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 13 16:19:49 +0000 2022",
+		"id": 1569715495045144600,
+		"id_str": "1569722529203326977",
+		"full_text": "Een gesprek over PKM en data in de Digitale Fitheid Podcast: https://t.co/sGzh54WHOE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sGzh54WHOE",
+					"expanded_url": "https://www.zylstra.org/blog/2022/09/een-gesprek-over-pkm-en-data-in-de-digitale-fitheid-podcast/",
+					"display_url": "zylstra.org/blog/2022/09/e…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://brid.gy/\" rel=\"nofollow\">Bridgy</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25049203,
+			"id_str": "25049203",
+			"name": "Ton Zijlstra",
+			"screen_name": "ton_zylstra",
+			"location": "The Netherlands",
+			"description": "https://t.co/MRVMotNfWT\n\nComplex change, #opendata, #opengov, FabLab, ethics, IoT, learning, communities, philosophy of technology. .eu Signed https://t.co/4ltlqZnngQ",
+			"url": "https://t.co/mxPIeEaDtM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mxPIeEaDtM",
+							"expanded_url": "https://www.zylstra.org/blog",
+							"display_url": "zylstra.org/blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/MRVMotNfWT",
+							"expanded_url": "http://m.tzyl.nl/@ton",
+							"display_url": "m.tzyl.nl/@ton",
+							"indices": [
+								0,
+								23
+							]
+						},
+						{
+							"url": "https://t.co/4ltlqZnngQ",
+							"expanded_url": "http://techpledge.org",
+							"display_url": "techpledge.org",
+							"indices": [
+								143,
+								166
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1642,
+			"friends_count": 555,
+			"listed_count": 186,
+			"created_at": "Wed Mar 18 09:24:58 +0000 2009",
+			"favourites_count": 550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5403,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/659398307081379840/pyAVq5hk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/659398307081379840/pyAVq5hk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25049203/1446047749",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Een gesprek over PKM en data in de Digitale Fitheid Podcast: https://t.co/sGzh54WHOE"
+	},
+	{
 		"created_at": "Tue Sep 13 07:19:18 +0000 2022",
 		"id": 1567924179298656300,
 		"id_str": "1569586501662416896",
