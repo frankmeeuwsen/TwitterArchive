@@ -1,6 +1,314 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 17 20:03:50 +0000 2022",
+		"id": 1571228455332618200,
+		"id_str": "1571228455332618240",
+		"full_text": "Lekkere setlist hoor! https://t.co/ruahn3wrvS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ruahn3wrvS",
+					"expanded_url": "https://twitter.com/PearlJam/status/1570992924757991424",
+					"display_url": "twitter.com/PearlJam/statu…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8732,
+			"friends_count": 876,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67055,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1570992924757991400,
+		"quoted_status_id_str": "1570992924757991424",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ruahn3wrvS",
+			"expanded": "https://twitter.com/PearlJam/status/1570992924757991424",
+			"display": "twitter.com/PearlJam/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 17 04:27:55 +0000 2022",
+			"id": 1570992924757991400,
+			"id_str": "1570992924757991424",
+			"full_text": "Hats off to you, Nashville! 🎸 https://t.co/ryb1Y3FZcs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				29
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1570992920500764700,
+						"id_str": "1570992920500764673",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/Fc1JvNsaAAETDbq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fc1JvNsaAAETDbq.jpg",
+						"url": "https://t.co/ryb1Y3FZcs",
+						"display_url": "pic.twitter.com/ryb1Y3FZcs",
+						"expanded_url": "https://twitter.com/PearlJam/status/1570992924757991424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 937,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 937,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1570992920500764700,
+						"id_str": "1570992920500764673",
+						"indices": [
+							30,
+							53
+						],
+						"media_url": "http://pbs.twimg.com/media/Fc1JvNsaAAETDbq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fc1JvNsaAAETDbq.jpg",
+						"url": "https://t.co/ryb1Y3FZcs",
+						"display_url": "pic.twitter.com/ryb1Y3FZcs",
+						"expanded_url": "https://twitter.com/PearlJam/status/1570992924757991424/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 937,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 937,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15155074,
+				"id_str": "15155074",
+				"name": "Pearl Jam 🇺🇦",
+				"screen_name": "PearlJam",
+				"location": "Seattle, WA",
+				"description": "Gigaton - Out Now. Listen to the new album: https://t.co/p27bfTiqQ0",
+				"url": "https://t.co/nwzG81A093",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nwzG81A093",
+								"expanded_url": "http://www.PearlJam.com",
+								"display_url": "PearlJam.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/p27bfTiqQ0",
+								"expanded_url": "http://pearljam.lnk.to/gigatonTw",
+								"display_url": "pearljam.lnk.to/gigatonTw",
+								"indices": [
+									44,
+									67
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3522867,
+				"friends_count": 920,
+				"listed_count": 16895,
+				"created_at": "Wed Jun 18 06:59:14 +0000 2008",
+				"favourites_count": 4311,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 9602,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1216784176659279874/NCaJxxiE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1216784176659279874/NCaJxxiE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15155074/1657290365",
+				"profile_link_color": "A17F59",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 142,
+			"favorite_count": 2295,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Lekkere setlist hoor! https://t.co/ruahn3wrvS"
+	},
+	{
 		"created_at": "Sat Sep 17 17:31:44 +0000 2022",
 		"id": 1571190178613436400,
 		"id_str": "1571190178613436422",
