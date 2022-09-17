@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 17 15:13:49 +0000 2022",
+		"id": 1570893343185580000,
+		"id_str": "1571155469800034305",
+		"full_text": "Miami Vice was first broadcast OTD in 1984. \nTo celebrate I've managed to fit 60 Miami Vice guest stars into 2 minutes. Enjoy https://t.co/OEAmeAgDCO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1570893062976454700,
+					"id_str": "1570893062976454656",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570893062976454656/pu/img/S24UJhoogxuLxXFf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570893062976454656/pu/img/S24UJhoogxuLxXFf.jpg",
+					"url": "https://t.co/OEAmeAgDCO",
+					"display_url": "pic.twitter.com/OEAmeAgDCO",
+					"expanded_url": "https://twitter.com/TSting18/status/1570893343185580033/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1570893062976454700,
+					"id_str": "1570893062976454656",
+					"indices": [
+						126,
+						149
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570893062976454656/pu/img/S24UJhoogxuLxXFf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570893062976454656/pu/img/S24UJhoogxuLxXFf.jpg",
+					"url": "https://t.co/OEAmeAgDCO",
+					"display_url": "pic.twitter.com/OEAmeAgDCO",
+					"expanded_url": "https://twitter.com/TSting18/status/1570893343185580033/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 122666,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1570893062976454656/pu/pl/giGh1qBALwyUnWR3.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570893062976454656/pu/vid/640x360/2oUUU8BeDagf5A3S.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570893062976454656/pu/vid/480x270/Cjp0manB9UrsXFdj.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1570893062976454656/pu/vid/1280x720/_XUe0f17v85_SSgS.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1391709797146366000,
+			"id_str": "1391709797146365954",
+			"name": "The Sting",
+			"screen_name": "TSting18",
+			"location": "",
+			"description": "I post stuff you like to watch. \nDon't ever say 'you forgot to mention' to me. It really pisses me off. \nWinner of BAFTAs and things. \nAnti-Pedant",
+			"url": "https://t.co/PzMvLJATI7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PzMvLJATI7",
+							"expanded_url": "https://www.youtube.com/c/RySoKidsGaming",
+							"display_url": "youtube.com/c/RySoKidsGami…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33241,
+			"friends_count": 8352,
+			"listed_count": 178,
+			"created_at": "Mon May 10 11:00:58 +0000 2021",
+			"favourites_count": 86624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 29529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1524094696297046017/LO8o75We_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1524094696297046017/LO8o75We_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1391709797146365954/1624477609",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6826,
+		"favorite_count": 29872,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Miami Vice was first broadcast OTD in 1984. \nTo celebrate I've managed to fit 60 Miami Vice guest stars into 2 minutes. Enjoy https://t.co/OEAmeAgDCO"
+	},
+	{
 		"created_at": "Sat Sep 17 07:37:18 +0000 2022",
 		"id": 1570901369707692000,
 		"id_str": "1571040586458894336",
