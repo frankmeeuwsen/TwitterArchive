@@ -1,6 +1,382 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 17 17:31:44 +0000 2022",
+		"id": 1571190178613436400,
+		"id_str": "1571190178613436422",
+		"full_text": "Wederom: https://t.co/GN6nSReidY https://t.co/412ff31Z5j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GN6nSReidY",
+					"expanded_url": "https://twitter.com/JonathanYocom/status/1569040871785435139",
+					"display_url": "twitter.com/JonathanYocom/…",
+					"indices": [
+						9,
+						32
+					]
+				},
+				{
+					"url": "https://t.co/412ff31Z5j",
+					"expanded_url": "https://twitter.com/fastworkers6/status/1570747851285856271",
+					"display_url": "twitter.com/fastworkers6/s…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8732,
+			"friends_count": 876,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67054,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1570747851285856300,
+		"quoted_status_id_str": "1570747851285856271",
+		"quoted_status_permalink": {
+			"url": "https://t.co/412ff31Z5j",
+			"expanded": "https://twitter.com/fastworkers6/status/1570747851285856271",
+			"display": "twitter.com/fastworkers6/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 16 12:14:05 +0000 2022",
+			"id": 1570747851285856300,
+			"id_str": "1570747851285856271",
+			"full_text": "Finally something creative https://t.co/EQrjh5qQHE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				50
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1570650955452133400,
+						"id_str": "1570650955452133377",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570650955452133377/pu/img/K6YF7PT0ztY27yY_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570650955452133377/pu/img/K6YF7PT0ztY27yY_.jpg",
+						"url": "https://t.co/EQrjh5qQHE",
+						"display_url": "pic.twitter.com/EQrjh5qQHE",
+						"expanded_url": "https://twitter.com/wowinteresting8/status/1570726438319362049/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 404,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 404,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1570726438319362000,
+						"source_status_id_str": "1570726438319362049",
+						"source_user_id": 1444760227576881200,
+						"source_user_id_str": "1444760227576881156"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1570650955452133400,
+						"id_str": "1570650955452133377",
+						"indices": [
+							27,
+							50
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1570650955452133377/pu/img/K6YF7PT0ztY27yY_.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1570650955452133377/pu/img/K6YF7PT0ztY27yY_.jpg",
+						"url": "https://t.co/EQrjh5qQHE",
+						"display_url": "pic.twitter.com/EQrjh5qQHE",
+						"expanded_url": "https://twitter.com/wowinteresting8/status/1570726438319362049/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 404,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 404,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1570726438319362000,
+						"source_status_id_str": "1570726438319362049",
+						"source_user_id": 1444760227576881200,
+						"source_user_id_str": "1444760227576881156",
+						"video_info": {
+							"aspect_ratio": [
+								101,
+								180
+							],
+							"duration_millis": 140052,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1570650955452133377/pu/pl/pUr_DFNX2w-zwNLW.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1570650955452133377/pu/vid/320x570/WOPfHs_hRkR31ejP.mp4?tag=12"
+								},
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1570650955452133377/pu/vid/404x720/aVSY1Da15ygJ-TD3.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 1444760227576881200,
+								"id_str": "1444760227576881156",
+								"name": "H0W_THlNGS_W0RK",
+								"screen_name": "wowinteresting8",
+								"location": "",
+								"description": "Basically how things work by @murtazasats",
+								"url": null,
+								"entities": {
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 663477,
+								"friends_count": 10243,
+								"listed_count": 2706,
+								"created_at": "Sun Oct 03 20:24:36 +0000 2021",
+								"favourites_count": 270,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 648,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "F5F8FA",
+								"profile_background_image_url": null,
+								"profile_background_image_url_https": null,
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1546407078918361089/y3d-7C-H_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1546407078918361089/y3d-7C-H_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/1444760227576881156/1657527221",
+								"profile_link_color": "1DA1F2",
+								"profile_sidebar_border_color": "C0DEED",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": false,
+								"default_profile": true,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1434077727041015800,
+				"id_str": "1434077727041015811",
+				"name": "How Things Are Manufactured",
+				"screen_name": "fastworkers6",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 636181,
+				"friends_count": 10750,
+				"listed_count": 1562,
+				"created_at": "Sat Sep 04 08:56:13 +0000 2021",
+				"favourites_count": 178,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 401,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1552902348367745024/PqP8UjSC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1552902348367745024/PqP8UjSC_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 29316,
+			"favorite_count": 108892,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "Wederom: https://t.co/GN6nSReidY https://t.co/412ff31Z5j"
+	},
+	{
 		"created_at": "Sat Sep 17 15:13:49 +0000 2022",
 		"id": 1570893343185580000,
 		"id_str": "1571155469800034305",
