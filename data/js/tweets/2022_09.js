@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 18 15:37:15 +0000 2022",
+		"id": 1571523754890563600,
+		"id_str": "1571523754890563586",
+		"full_text": "It was twenty years ago today\nDave Winer taught the web to play! https://t.co/fW4jduBTFQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fW4jduBTFQ",
+					"expanded_url": "https://twitter.com/davewiner/status/1571417745585242114",
+					"display_url": "twitter.com/davewiner/stat…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8732,
+			"friends_count": 876,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67061,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1571417745585242000,
+		"quoted_status_id_str": "1571417745585242114",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fW4jduBTFQ",
+			"expanded": "https://twitter.com/davewiner/status/1571417745585242114",
+			"display": "twitter.com/davewiner/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 18 08:36:00 +0000 2022",
+			"id": 1571417745585242000,
+			"id_str": "1571417745585242114",
+			"full_text": "September 18, 2002.\n\n20 years ago today the RSS 2.0 format was published.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				73
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1571200726524694500,
+			"in_reply_to_status_id_str": "1571200726524694532",
+			"in_reply_to_user_id": 3839,
+			"in_reply_to_user_id_str": "3839",
+			"in_reply_to_screen_name": "davewiner",
+			"user": {
+				"id": 3839,
+				"id_str": "3839",
+				"name": "Dave Winer",
+				"screen_name": "davewiner",
+				"location": "Woodstock, NY",
+				"description": "Started two Silicon Valley companies. Wrote for Wired. Fellow at Harvard, NYU. Founder of podcasting, blogging, RSS.",
+				"url": "https://t.co/alwLFPBgDF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/alwLFPBgDF",
+								"expanded_url": "http://scripting.com/",
+								"display_url": "scripting.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 67495,
+				"friends_count": 3949,
+				"listed_count": 5216,
+				"created_at": "Sat Aug 05 23:04:08 +0000 2006",
+				"favourites_count": 20184,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 206912,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1398806004528263168/2SXipvrt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398806004528263168/2SXipvrt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3839/1636295224",
+				"profile_link_color": "7F7F90",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E1E1DF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 58,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It was twenty years ago today\nDave Winer taught the web to play! https://t.co/fW4jduBTFQ"
+	},
+	{
 		"created_at": "Sun Sep 18 14:40:30 +0000 2022",
 		"id": 1571509475827413000,
 		"id_str": "1571509475827412994",
