@@ -1,6 +1,309 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 19 05:48:27 +0000 2022",
+		"id": 1571538694984859600,
+		"id_str": "1571737965583544321",
+		"full_text": "On this day in 1992, @CameronCrowe's Singles was released in theaters.\n\nWhat's your favorite scene from the film? https://t.co/rioELUeQqm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CameronCrowe",
+					"name": "Cameron Crowe",
+					"id": 275197798,
+					"id_str": "275197798",
+					"indices": [
+						21,
+						34
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1571538395125674000,
+					"id_str": "1571538395125673985",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc852BBacAEzGKb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc852BBacAEzGKb.jpg",
+					"url": "https://t.co/rioELUeQqm",
+					"display_url": "pic.twitter.com/rioELUeQqm",
+					"expanded_url": "https://twitter.com/nwpassage1/status/1571538694984859648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 628,
+							"h": 462,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 628,
+							"h": 462,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 628,
+							"h": 462,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1571538395125674000,
+					"id_str": "1571538395125673985",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/Fc852BBacAEzGKb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fc852BBacAEzGKb.jpg",
+					"url": "https://t.co/rioELUeQqm",
+					"display_url": "pic.twitter.com/rioELUeQqm",
+					"expanded_url": "https://twitter.com/nwpassage1/status/1571538694984859648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 628,
+							"h": 462,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 628,
+							"h": 462,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 628,
+							"h": 462,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 120521320,
+			"id_str": "120521320",
+			"name": "Northwest Passage",
+			"screen_name": "nwpassage1",
+			"location": "",
+			"description": "An exploration of the music scene centered around Seattle in the 80s and 90s. #grunge, #riotgrrrl, #indie and beyond. Tweets by @substate.",
+			"url": "https://t.co/TQgwW59oC0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TQgwW59oC0",
+							"expanded_url": "http://revolutioncomeandgone.com",
+							"display_url": "revolutioncomeandgone.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5832,
+			"friends_count": 240,
+			"listed_count": 94,
+			"created_at": "Sat Mar 06 17:55:48 +0000 2010",
+			"favourites_count": 478,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 15208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/879439833285804032/jCAkbts5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/879439833285804032/jCAkbts5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/120521320/1419197923",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 104,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "On this day in 1992, @CameronCrowe's Singles was released in theaters.\n\nWhat's your favorite scene from the film? https://t.co/rioELUeQqm"
+	},
+	{
+		"created_at": "Mon Sep 19 05:43:35 +0000 2022",
+		"id": 1571736743082066000,
+		"id_str": "1571736743082065922",
+		"full_text": "@kingjaynl Yep",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kingjaynl",
+					"name": "Jasper Koning",
+					"id": 9537762,
+					"id_str": "9537762",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1571736378404401200,
+		"in_reply_to_status_id_str": "1571736378404401152",
+		"in_reply_to_user_id": 9537762,
+		"in_reply_to_user_id_str": "9537762",
+		"in_reply_to_screen_name": "kingjaynl",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8731,
+			"friends_count": 876,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10145,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67064,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@kingjaynl Yep"
+	},
+	{
 		"created_at": "Sun Sep 18 15:37:15 +0000 2022",
 		"id": 1571523754890563600,
 		"id_str": "1571523754890563586",
