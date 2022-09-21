@@ -1,6 +1,444 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 21 11:17:23 +0000 2022",
+		"id": 1572545521105117200,
+		"id_str": "1572545521105117184",
+		"full_text": "@djeekopdicht nagesynchroniseerd?",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "djeekopdicht",
+					"name": "Djeekop de Dichter ★",
+					"id": 230191922,
+					"id_str": "230191922",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1572521702688718800,
+		"in_reply_to_status_id_str": "1572521702688718849",
+		"in_reply_to_user_id": 230191922,
+		"in_reply_to_user_id_str": "230191922",
+		"in_reply_to_screen_name": "djeekopdicht",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8730,
+			"friends_count": 877,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@djeekopdicht nagesynchroniseerd?"
+	},
+	{
+		"created_at": "Wed Sep 21 11:15:49 +0000 2022",
+		"id": 1572033243385368600,
+		"id_str": "1572545129172602881",
+		"full_text": "More parks should have people playing death metal cello in their underwear. https://t.co/GlAFZ07Ubs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572033107812880400,
+					"id_str": "1572033107812880389",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1572033107812880389/pu/img/1DFVUXt9Mss4trTT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1572033107812880389/pu/img/1DFVUXt9Mss4trTT.jpg",
+					"url": "https://t.co/GlAFZ07Ubs",
+					"display_url": "pic.twitter.com/GlAFZ07Ubs",
+					"expanded_url": "https://twitter.com/LelandSage/status/1572033243385368577/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 888,
+							"h": 482,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 888,
+							"h": 482,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 369,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572033107812880400,
+					"id_str": "1572033107812880389",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1572033107812880389/pu/img/1DFVUXt9Mss4trTT.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1572033107812880389/pu/img/1DFVUXt9Mss4trTT.jpg",
+					"url": "https://t.co/GlAFZ07Ubs",
+					"display_url": "pic.twitter.com/GlAFZ07Ubs",
+					"expanded_url": "https://twitter.com/LelandSage/status/1572033243385368577/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 888,
+							"h": 482,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 888,
+							"h": 482,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 369,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							444,
+							241
+						],
+						"duration_millis": 84493,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572033107812880389/pu/vid/662x360/uHu6c6YosWmulX89.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1572033107812880389/pu/pl/-NfbIU27U0uwwQ75.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572033107812880389/pu/vid/888x482/QURnn1m58g1Ol-yQ.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1572033107812880389/pu/vid/496x270/qH3X6nB4prePGkBf.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1304595209574068200,
+			"id_str": "1304595209574068224",
+			"name": "Leland Sage",
+			"screen_name": "LelandSage",
+			"location": "Planet Earth",
+			"description": "Heavier metals, trail running, observing nature, playing music, bad puns, and dark humours. irreligious | loveislove | blacklivesmatter",
+			"url": "https://t.co/rT1xBJrf36",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rT1xBJrf36",
+							"expanded_url": "http://instagram.com/lelandsages",
+							"display_url": "instagram.com/lelandsages",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2804,
+			"friends_count": 782,
+			"listed_count": 9,
+			"created_at": "Sat Sep 12 01:39:01 +0000 2020",
+			"favourites_count": 70880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1565347364499386373/vOcMCJ-9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1565347364499386373/vOcMCJ-9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1304595209574068224/1618753040",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6056,
+		"favorite_count": 35447,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "More parks should have people playing death metal cello in their underwear. https://t.co/GlAFZ07Ubs"
+	},
+	{
+		"created_at": "Wed Sep 21 11:15:08 +0000 2022",
+		"id": 1572536231850016800,
+		"id_str": "1572544955968786433",
+		"full_text": "Mocht je me 1 minuut van je tijd willen schenken, dit is een fijne besteding van die ene minuut. People's vote voor de Lovie Awards. Grootse dank en Karma krijg je er voor terug. Goeie deal toch? https://t.co/FPXDQxPzJ4 #Lovies",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Lovies",
+					"indices": [
+						220,
+						227
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FPXDQxPzJ4",
+					"expanded_url": "https://vote.lovieawards.com/PublicVoting#/2022/websites/website-craft/best-design-functional",
+					"display_url": "vote.lovieawards.com/PublicVoting#/…",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1447551,
+			"id_str": "1447551",
+			"name": "Ronald van Schaik",
+			"screen_name": "Roh",
+			"location": "Utrecht, The Netherlands",
+			"description": "Eigenaar van Kaliber Interactive - Making Sense For Futureproof Brands",
+			"url": "http://t.co/0uBteIkGBt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/0uBteIkGBt",
+							"expanded_url": "http://www.kaliber.net",
+							"display_url": "kaliber.net",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1265,
+			"friends_count": 969,
+			"listed_count": 43,
+			"created_at": "Sun Mar 18 22:18:27 +0000 2007",
+			"favourites_count": 4739,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1213030981805977603/C2XqXQxh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213030981805977603/C2XqXQxh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1447551/1553790896",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Mocht je me 1 minuut van je tijd willen schenken, dit is een fijne besteding van die ene minuut. People's vote voor de Lovie Awards. Grootse dank en Karma krijg je er voor terug. Goeie deal toch? https://t.co/FPXDQxPzJ4 #Lovies"
+	},
+	{
 		"created_at": "Wed Sep 21 09:22:35 +0000 2022",
 		"id": 1572516630000959500,
 		"id_str": "1572516630000959489",
@@ -36,7 +474,7 @@ Grailbird.data.tweets_2022_09 =
 				},
 				{
 					"screen_name": "PVV",
-					"name": "‏⁵¹¹ ᓚᓅȷﾕ ᓚᓅյ̇ᘓ",
+					"name": "⁵¹¹ ᓚᓅȷﾕ ᓚᓅյ̇ᘓ",
 					"id": 14193927,
 					"id_str": "14193927",
 					"indices": [
