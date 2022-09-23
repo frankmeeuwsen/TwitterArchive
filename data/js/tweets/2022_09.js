@@ -1,6 +1,346 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 23 16:47:21 +0000 2022",
+		"id": 1573353337617059800,
+		"id_str": "1573353337617059841",
+		"full_text": "Who knew! Singles heeft een verbinding met Friends! https://t.co/0gHk62qU5Y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0gHk62qU5Y",
+					"expanded_url": "https://twitter.com/twit90s/status/1573301569843613696",
+					"display_url": "twitter.com/twit90s/status…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8726,
+			"friends_count": 877,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10160,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67081,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1573301569843613700,
+		"quoted_status_id_str": "1573301569843613696",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0gHk62qU5Y",
+			"expanded": "https://twitter.com/twit90s/status/1573301569843613696",
+			"display": "twitter.com/twit90s/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 23 13:21:39 +0000 2022",
+			"id": 1573301569843613700,
+			"id_str": "1573301569843613696",
+			"full_text": "A cool thing I found while researching the Singles soundtrack: \n\nFootage of @Nirvana playing Smells Like Teen Spirit onstage for the first time. \n\nNirvana didn't appear in Singles, but they're still connected to the movie 🧵... https://t.co/Dg4oTzOgiS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				226
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Nirvana",
+						"name": "Nirvana",
+						"id": 68412310,
+						"id_str": "68412310",
+						"indices": [
+							76,
+							84
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1573279983606308900,
+						"id_str": "1573279983606308865",
+						"indices": [
+							227,
+							250
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1573279983606308865/pu/img/2yijfM6oXDGggNrN.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1573279983606308865/pu/img/2yijfM6oXDGggNrN.jpg",
+						"url": "https://t.co/Dg4oTzOgiS",
+						"display_url": "pic.twitter.com/Dg4oTzOgiS",
+						"expanded_url": "https://twitter.com/twit90s/status/1573301569843613696/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1573279983606308900,
+						"id_str": "1573279983606308865",
+						"indices": [
+							227,
+							250
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1573279983606308865/pu/img/2yijfM6oXDGggNrN.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1573279983606308865/pu/img/2yijfM6oXDGggNrN.jpg",
+						"url": "https://t.co/Dg4oTzOgiS",
+						"display_url": "pic.twitter.com/Dg4oTzOgiS",
+						"expanded_url": "https://twitter.com/twit90s/status/1573301569843613696/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 854,
+								"h": 480,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								427,
+								240
+							],
+							"duration_millis": 139714,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1573279983606308865/pu/vid/854x480/cJu5Q92UT4gZ4ncg.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1573279983606308865/pu/vid/640x360/GDexqZ7sHZsMLm13.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1573279983606308865/pu/pl/Z34wNLYFyDtm_qED.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1573279983606308865/pu/vid/480x270/548KreY84eh8RvH9.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1450957225082736600,
+				"id_str": "1450957225082736640",
+				"name": "This Week in the 90s 🎵",
+				"screen_name": "twit90s",
+				"location": "",
+				"description": "Tweeting every UK Top 40 hit of the 90s. All of 'em. The good, the bad and the Doop. #thisweekin1992\n\nRead the stories behind the songs here 👇",
+				"url": "https://t.co/REOxu5Bayq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/REOxu5Bayq",
+								"expanded_url": "https://www.thisweekinthe90s.com/",
+								"display_url": "thisweekinthe90s.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2809,
+				"friends_count": 2961,
+				"listed_count": 6,
+				"created_at": "Wed Oct 20 22:49:20 +0000 2021",
+				"favourites_count": 5369,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2909,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1477686680618508293/KAco1Sba_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477686680618508293/KAco1Sba_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1450957225082736640/1663333029",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Who knew! Singles heeft een verbinding met Friends! https://t.co/0gHk62qU5Y"
+	},
+	{
 		"created_at": "Thu Sep 22 20:12:00 +0000 2022",
 		"id": 1573042448271655000,
 		"id_str": "1573042448271654919",
