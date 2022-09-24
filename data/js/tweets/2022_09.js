@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 24 17:03:14 +0000 2022",
+		"id": 1573606539750940700,
+		"id_str": "1573719721962311682",
+		"full_text": "September 24, 1991 – Nirvana released their second album NEVERMIND and changed music forever https://t.co/67ZFajB6rd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1573606537096056800,
+					"id_str": "1573606537096056838",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FdaSzuPX0AYXPxg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdaSzuPX0AYXPxg.jpg",
+					"url": "https://t.co/67ZFajB6rd",
+					"display_url": "pic.twitter.com/67ZFajB6rd",
+					"expanded_url": "https://twitter.com/TheGrungeScene/status/1573606539750940673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1573606537096056800,
+					"id_str": "1573606537096056838",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/media/FdaSzuPX0AYXPxg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdaSzuPX0AYXPxg.jpg",
+					"url": "https://t.co/67ZFajB6rd",
+					"display_url": "pic.twitter.com/67ZFajB6rd",
+					"expanded_url": "https://twitter.com/TheGrungeScene/status/1573606539750940673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 89158522,
+			"id_str": "89158522",
+			"name": "The Grunge Scene",
+			"screen_name": "TheGrungeScene",
+			"location": "Seattle and Olympia",
+			"description": "Grunge Historian |  YouTube Creator | \n\nhttps://t.co/O7AwrrOkNb…",
+			"url": "https://t.co/yfn0TxHnYa",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/yfn0TxHnYa",
+							"expanded_url": "https://www.grungescene.com/",
+							"display_url": "grungescene.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/O7AwrrOkNb",
+							"expanded_url": "http://youtube.com/c/TheGrungeSce",
+							"display_url": "youtube.com/c/TheGrungeSce",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 99326,
+			"friends_count": 262,
+			"listed_count": 459,
+			"created_at": "Wed Nov 11 10:53:58 +0000 2009",
+			"favourites_count": 2714,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "00070A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568353369407766530/npZPQqP1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568353369407766530/npZPQqP1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/89158522/1632986553",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 462,
+		"favorite_count": 1932,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "September 24, 1991 – Nirvana released their second album NEVERMIND and changed music forever https://t.co/67ZFajB6rd"
+	},
+	{
 		"created_at": "Fri Sep 23 17:31:08 +0000 2022",
 		"id": 1573364356213244000,
 		"id_str": "1573364356213243906",
