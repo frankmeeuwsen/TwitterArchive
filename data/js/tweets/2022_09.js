@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Mon Sep 26 16:41:17 +0000 2022",
+		"id": 1574438973367353300,
+		"id_str": "1574438973367353344",
+		"full_text": "Hoe kan dit toch steeds? De taxichauffeur zou adressen en route moeten hebben. Wachten tot kind binnen is. Falende rol van vervoerder. https://t.co/GJcEuTOMl9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GJcEuTOMl9",
+					"expanded_url": "https://twitter.com/lbvso/status/1574420735707074561",
+					"display_url": "twitter.com/lbvso/status/1…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8726,
+			"friends_count": 877,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10169,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67084,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1574420735707074600,
+		"quoted_status_id_str": "1574420735707074561",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GJcEuTOMl9",
+			"expanded": "https://twitter.com/lbvso/status/1574420735707074561",
+			"display": "twitter.com/lbvso/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 26 15:28:49 +0000 2022",
+			"id": 1574420735707074600,
+			"id_str": "1574420735707074561",
+			"full_text": "Job (9) autisme, werd bij verkeerd huis afgezet en busje reed weg. Een toegesnelde bewoner wist na uren telefonisch in de wacht zijn adres te achterhalen en bracht Job thuis. \n\nElk kind breekt wanneer het teveel wordt! Job praat en eet al 4 dagen niet! #LeerlingenvervoerCrisis",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LeerlingenvervoerCrisis",
+						"indices": [
+							253,
+							277
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1486674298618134500,
+				"id_str": "1486674298618134533",
+				"name": "LBVSO",
+				"screen_name": "lbvso",
+				"location": "Nederland",
+				"description": "Leerlingenbelang Voortgezet Speciaal Onderwijs van 50.000 leerlingen: VSO, IVIO, VAVO, Residentieel + Thuiszitters met ondersteuningsbehoefte/passend onderwijs!",
+				"url": "https://t.co/A6bc8ED216",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/A6bc8ED216",
+								"expanded_url": "http://www.lbvso.nl",
+								"display_url": "lbvso.nl",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3191,
+				"friends_count": 3631,
+				"listed_count": 8,
+				"created_at": "Thu Jan 27 12:16:57 +0000 2022",
+				"favourites_count": 21339,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13879,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1486676336760573954/pG0jQerc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1486676336760573954/pG0jQerc_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 94,
+			"favorite_count": 282,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Hoe kan dit toch steeds? De taxichauffeur zou adressen en route moeten hebben. Wachten tot kind binnen is. Falende rol van vervoerder. https://t.co/GJcEuTOMl9"
+	},
+	{
 		"created_at": "Sat Sep 24 17:03:14 +0000 2022",
 		"id": 1573606539750940700,
 		"id_str": "1573719721962311682",
