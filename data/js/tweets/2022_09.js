@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 27 16:56:23 +0000 2022",
+		"id": 1574805161851093000,
+		"id_str": "1574805161851092992",
+		"full_text": "Hoor je het ook eens van een ander. \"most important band of the past 30 years\". \n\nMet je Oasis, Coldplay, Kane en Snollebollekes. https://t.co/1kFQROrg7G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1kFQROrg7G",
+					"expanded_url": "https://twitter.com/spin/status/1574791749091749888",
+					"display_url": "twitter.com/spin/status/15…",
+					"indices": [
+						130,
+						153
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8727,
+			"friends_count": 879,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67086,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1574791749091750000,
+		"quoted_status_id_str": "1574791749091749888",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1kFQROrg7G",
+			"expanded": "https://twitter.com/spin/status/1574791749091749888",
+			"display": "twitter.com/spin/status/15…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 27 16:03:05 +0000 2022",
+			"id": 1574791749091750000,
+			"id_str": "1574791749091749888",
+			"full_text": ".@Steven_Hyden's new book about @PearlJam is out today. We spoke with the author about how he used 20 songs as a portrait of one of the most important bands of the past 30 years\nhttps://t.co/rx7nVvyAqp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				201
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Steven_Hyden",
+						"name": "Steven Hyden",
+						"id": 110345556,
+						"id_str": "110345556",
+						"indices": [
+							1,
+							14
+						]
+					},
+					{
+						"screen_name": "PearlJam",
+						"name": "Pearl Jam 🇺🇦",
+						"id": 15155074,
+						"id_str": "15155074",
+						"indices": [
+							32,
+							41
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/rx7nVvyAqp",
+						"expanded_url": "https://www.spin.com/2022/09/a-tale-of-survival-long-road-pearl-jam-and-the-soundtrack-of-a-generation/",
+						"display_url": "spin.com/2022/09/a-tale…",
+						"indices": [
+							178,
+							201
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16870853,
+				"id_str": "16870853",
+				"name": "SPIN",
+				"screen_name": "SPIN",
+				"location": "",
+				"description": "Music and the culture that surrounds it",
+				"url": "https://t.co/oWZNp2LVvj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/oWZNp2LVvj",
+								"expanded_url": "http://www.spin.com",
+								"display_url": "spin.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 497122,
+				"friends_count": 1406,
+				"listed_count": 10514,
+				"created_at": "Mon Oct 20 17:35:01 +0000 2008",
+				"favourites_count": 4999,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 102906,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "121112",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1267702091587317760/ZsCSiCOz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267702091587317760/ZsCSiCOz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16870853/1591078707",
+				"profile_link_color": "CE1127",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 27,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Hoor je het ook eens van een ander. \"most important band of the past 30 years\". \n\nMet je Oasis, Coldplay, Kane en Snollebollekes. https://t.co/1kFQROrg7G"
+	},
+	{
 		"created_at": "Mon Sep 26 16:41:17 +0000 2022",
 		"id": 1574438973367353300,
 		"id_str": "1574438973367353344",
