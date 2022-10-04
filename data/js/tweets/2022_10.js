@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 04 20:59:12 +0000 2022",
+		"id": 1519291661356052500,
+		"id_str": "1577402982014062606",
+		"full_text": "Resources like the World Wide Web and email have operated for decades with no Elon Musks or Mark Zuckerbergs in charge; so why not build online communities away from their influence? Some thoughts I have on the potential for noncommercial social media: https://t.co/ARA9JrqGd3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ARA9JrqGd3",
+					"expanded_url": "https://medium.com/@jomc/we-dont-need-corporate-social-media-f93ba128ebb5",
+					"display_url": "medium.com/@jomc/we-dont-…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 48473,
+			"id_str": "48473",
+			"name": "joanne mcneil",
+			"screen_name": "jomc",
+			"location": "",
+			"description": "wrote Lurking and the novel Wrong Way (coming soon).",
+			"url": "https://t.co/3ql46jf2y8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3ql46jf2y8",
+							"expanded_url": "http://joannemcneil.com",
+							"display_url": "joannemcneil.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12482,
+			"friends_count": 1366,
+			"listed_count": 576,
+			"created_at": "Thu Dec 07 17:11:17 +0000 2006",
+			"favourites_count": 75056,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 11256,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/538766070509617152/yA4iQ4LN_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/538766070509617152/yA4iQ4LN_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/48473/1362593602",
+			"profile_link_color": "48CCCD",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 95,
+		"favorite_count": 356,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Resources like the World Wide Web and email have operated for decades with no Elon Musks or Mark Zuckerbergs in charge; so why not build online communities away from their influence? Some thoughts I have on the potential for noncommercial social media: https://t.co/ARA9JrqGd3"
+	},
+	{
 		"created_at": "Tue Oct 04 05:28:39 +0000 2022",
 		"id": 1577168802886058000,
 		"id_str": "1577168802886057984",
