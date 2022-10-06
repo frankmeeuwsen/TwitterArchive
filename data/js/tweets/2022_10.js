@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 06 09:15:14 +0000 2022",
+		"id": 1577574300160254000,
+		"id_str": "1577950598456041474",
+		"full_text": "New! Cassetteboy vs Liz Truss - Nu Tax Plan\n\nYou can support us at https://t.co/o7kwE1h2gy , we appreciate it now more than ever. Thanks!\n\n#CPC22 https://t.co/1VpBccCnGP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CPC22",
+					"indices": [
+						139,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/o7kwE1h2gy",
+					"expanded_url": "https://ko-fi.com/Cassetteboy",
+					"display_url": "ko-fi.com/Cassetteboy",
+					"indices": [
+						67,
+						90
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1577571412646269000,
+					"id_str": "1577571412646268928",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FeSpTX_WAAM3pMb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeSpTX_WAAM3pMb.jpg",
+					"url": "https://t.co/1VpBccCnGP",
+					"display_url": "pic.twitter.com/1VpBccCnGP",
+					"expanded_url": "https://twitter.com/Cassetteboy/status/1577574300160253953/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1577571412646269000,
+					"id_str": "1577571412646268928",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/FeSpTX_WAAM3pMb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FeSpTX_WAAM3pMb.jpg",
+					"url": "https://t.co/1VpBccCnGP",
+					"display_url": "pic.twitter.com/1VpBccCnGP",
+					"expanded_url": "https://twitter.com/Cassetteboy/status/1577574300160253953/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 82980,
+						"variants": [
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1577571412646268928/vid/480x270/c723NxIe6uH2d1Ki.mp4?tag=14"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1577571412646268928/vid/640x360/LKFYd41ips-ezcej.mp4?tag=14"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1577571412646268928/vid/1280x720/V7ElTfwO9PrFABS0.mp4?tag=14"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1577571412646268928/pl/4H3ing-Is4FyfkDo.m3u8?tag=14&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Cassetteboy vs Liz Truss - Nu Tax Plan",
+						"description": "",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://ko-fi.com/Cassetteboy"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41780094,
+			"id_str": "41780094",
+			"name": "Cassetteboy",
+			"screen_name": "Cassetteboy",
+			"location": "",
+			"description": "Buy us some cheese and wine https://t.co/77ImAcwpeZ\nWe make mash up videos and a live Comedy Disco\n''Near impossible not to have a good time'' **** Time Out",
+			"url": "https://t.co/8udBaOCGem",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8udBaOCGem",
+							"expanded_url": "http://youtube.com/cassetteboy",
+							"display_url": "youtube.com/cassetteboy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/77ImAcwpeZ",
+							"expanded_url": "http://ko-fi.com/Cassetteboy",
+							"display_url": "ko-fi.com/Cassetteboy",
+							"indices": [
+								28,
+								51
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 83989,
+			"friends_count": 1479,
+			"listed_count": 531,
+			"created_at": "Fri May 22 08:55:37 +0000 2009",
+			"favourites_count": 9520,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4779,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "969696",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1288144495171731461/VIK455ey_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288144495171731461/VIK455ey_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41780094/1656603655",
+			"profile_link_color": "BF1313",
+			"profile_sidebar_border_color": "333333",
+			"profile_sidebar_fill_color": "CFCFCF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6079,
+		"favorite_count": 16741,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New! Cassetteboy vs Liz Truss - Nu Tax Plan\n\nYou can support us at https://t.co/o7kwE1h2gy , we appreciate it now more than ever. Thanks!\n\n#CPC22 https://t.co/1VpBccCnGP"
+	},
+	{
 		"created_at": "Wed Oct 05 17:17:14 +0000 2022",
 		"id": 1577709511057543200,
 		"id_str": "1577709511057543172",
