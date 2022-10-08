@@ -1,6 +1,405 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 08 18:32:12 +0000 2022",
+		"id": 1578815541145657300,
+		"id_str": "1578815541145657344",
+		"full_text": "Dit is fantastisch https://t.co/mzmXITJdZi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mzmXITJdZi",
+					"expanded_url": "https://twitter.com/gunsnrosesgirl3/status/1578770822067802112",
+					"display_url": "twitter.com/gunsnrosesgirl…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8725,
+			"friends_count": 887,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67126,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1578770822067802000,
+		"quoted_status_id_str": "1578770822067802112",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mzmXITJdZi",
+			"expanded": "https://twitter.com/gunsnrosesgirl3/status/1578770822067802112",
+			"display": "twitter.com/gunsnrosesgirl…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 08 15:34:30 +0000 2022",
+			"id": 1578770822067802000,
+			"id_str": "1578770822067802112",
+			"full_text": "Spectacular time lapse of the the Eurasian blue tit (Cyanistes caeruleus), \n\nFrom finding and inspecting her new home to raising a family \nhttps://t.co/WaUqmNETsB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				162
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1578083028642852900,
+						"id_str": "1578083028642852864",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1578083028642852864/pu/img/nLd3b-tSztMcMhJE.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1578083028642852864/pu/img/nLd3b-tSztMcMhJE.jpg",
+						"url": "https://t.co/WaUqmNETsB",
+						"display_url": "pic.twitter.com/WaUqmNETsB",
+						"expanded_url": "https://twitter.com/MeteoBarrufet/status/1578083183874146317/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1578083183874146300,
+						"source_status_id_str": "1578083183874146317",
+						"source_user_id": 2331874855,
+						"source_user_id_str": "2331874855"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1578083028642852900,
+						"id_str": "1578083028642852864",
+						"indices": [
+							139,
+							162
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1578083028642852864/pu/img/nLd3b-tSztMcMhJE.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1578083028642852864/pu/img/nLd3b-tSztMcMhJE.jpg",
+						"url": "https://t.co/WaUqmNETsB",
+						"display_url": "pic.twitter.com/WaUqmNETsB",
+						"expanded_url": "https://twitter.com/MeteoBarrufet/status/1578083183874146317/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1578083183874146300,
+						"source_status_id_str": "1578083183874146317",
+						"source_user_id": 2331874855,
+						"source_user_id_str": "2331874855",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 134300,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1578083028642852864/pu/pl/OnjuN5VmFdt5XPSQ.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1578083028642852864/pu/vid/320x320/AgyM8_LcfMc8uGVf.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1578083028642852864/pu/vid/540x540/CNKLqP8Ixuhze_uJ.mp4?tag=12"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1578083028642852864/pu/vid/640x640/sRjVuQQUB8vv3M-Q.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 2331874855,
+								"id_str": "2331874855",
+								"name": "Barrufet del temps",
+								"screen_name": "MeteoBarrufet",
+								"location": "Catalunya",
+								"description": "Meteofriki afeccionat 🌪️, m'agrada l'astronomia ☀️, la natura 🐝, la ciència ⚛️ i les curiositats 🤔. No sóc savi ni gaire intel·ligent, però sí força curiós.",
+								"url": "https://t.co/akA9gqP2sF",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/akA9gqP2sF",
+												"expanded_url": "https://www.instagram.com/barrufetdeltemps/",
+												"display_url": "instagram.com/barrufetdeltem…",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 51746,
+								"friends_count": 46,
+								"listed_count": 381,
+								"created_at": "Fri Feb 07 13:30:49 +0000 2014",
+								"favourites_count": 110734,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": false,
+								"verified": false,
+								"statuses_count": 26448,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "0099B9",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1479208473791447040/_uuCeHel_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1479208473791447040/_uuCeHel_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/2331874855/1663938178",
+								"profile_link_color": "0099B9",
+								"profile_sidebar_border_color": "5ED4DC",
+								"profile_sidebar_fill_color": "95E8EC",
+								"profile_text_color": "3C3940",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1179892477714718700,
+				"id_str": "1179892477714718721",
+				"name": "Science girl",
+				"screen_name": "gunsnrosesgirl3",
+				"location": "Support and tips ",
+				"description": "banner art by @AurelieBeatley",
+				"url": "https://t.co/nYhni9jaol",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/nYhni9jaol",
+								"expanded_url": "http://paypal.me/SRose126",
+								"display_url": "paypal.me/SRose126",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 515561,
+				"friends_count": 5946,
+				"listed_count": 2803,
+				"created_at": "Thu Oct 03 22:54:31 +0000 2019",
+				"favourites_count": 138285,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13417,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1504867101923762178/gfZgsqoL_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1504867101923762178/gfZgsqoL_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1179892477714718721/1589400385",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4960,
+			"favorite_count": 28699,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dit is fantastisch https://t.co/mzmXITJdZi"
+	},
+	{
 		"created_at": "Sat Oct 08 15:24:05 +0000 2022",
 		"id": 1578768199494967300,
 		"id_str": "1578768199494967297",
