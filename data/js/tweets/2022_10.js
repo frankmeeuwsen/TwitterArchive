@@ -1,6 +1,564 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 10 16:06:07 +0000 2022",
+		"id": 1579495594611310600,
+		"id_str": "1579503555148681216",
+		"full_text": "I've gotten a number of requests to create a single thread of my \"How it started / how it's going\" ad series. So here it is.\n\nhttps://t.co/c5FQmGesr2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c5FQmGesr2",
+					"expanded_url": "https://twitter.com/janthonylong/status/1397912298581237773",
+					"display_url": "twitter.com/janthonylong/s…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 169635260,
+			"id_str": "169635260",
+			"name": "John Long",
+			"screen_name": "janthonylong",
+			"location": "New York",
+			"description": "Executive Creative Director, @LGUS. Writer, brand steward. Former Ogilvy, Huge, The Economist | Cannes, Clio, Effie | Webby Awards Judge. 🇺🇸/🇮🇹",
+			"url": "https://t.co/LXwLlZLI2p",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LXwLlZLI2p",
+							"expanded_url": "https://www.linkedin.com/in/johnalongcd/",
+							"display_url": "linkedin.com/in/johnalongcd/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2151,
+			"friends_count": 1252,
+			"listed_count": 33,
+			"created_at": "Thu Jul 22 20:24:53 +0000 2010",
+			"favourites_count": 26531,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487090241265672194/MPP-hUC8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487090241265672194/MPP-hUC8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/169635260/1643373790",
+			"profile_link_color": "FF7519",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1397912298581237800,
+		"quoted_status_id_str": "1397912298581237773",
+		"quoted_status_permalink": {
+			"url": "https://t.co/c5FQmGesr2",
+			"expanded": "https://twitter.com/janthonylong/status/1397912298581237773",
+			"display": "twitter.com/janthonylong/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 27 13:47:18 +0000 2021",
+			"id": 1397912298581237800,
+			"id_str": "1397912298581237773",
+			"full_text": "How it started / how it's going. https://t.co/J8Z0tmlfI4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				32
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1397912203408203800,
+						"id_str": "1397912203408203776",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/E2ZhvhdUYAArpA0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2ZhvhdUYAArpA0.jpg",
+						"url": "https://t.co/J8Z0tmlfI4",
+						"display_url": "pic.twitter.com/J8Z0tmlfI4",
+						"expanded_url": "https://twitter.com/janthonylong/status/1397912298581237773/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1189,
+								"h": 1600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 892,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 505,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1397912203408203800,
+						"id_str": "1397912203408203776",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/E2ZhvhdUYAArpA0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2ZhvhdUYAArpA0.jpg",
+						"url": "https://t.co/J8Z0tmlfI4",
+						"display_url": "pic.twitter.com/J8Z0tmlfI4",
+						"expanded_url": "https://twitter.com/janthonylong/status/1397912298581237773/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1189,
+								"h": 1600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 892,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 505,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1397912232613224400,
+						"id_str": "1397912232613224453",
+						"indices": [
+							33,
+							56
+						],
+						"media_url": "http://pbs.twimg.com/media/E2ZhxOQVoAUnFLH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2ZhxOQVoAUnFLH.jpg",
+						"url": "https://t.co/J8Z0tmlfI4",
+						"display_url": "pic.twitter.com/J8Z0tmlfI4",
+						"expanded_url": "https://twitter.com/janthonylong/status/1397912298581237773/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 534,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 534,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 355,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 169635260,
+				"id_str": "169635260",
+				"name": "John Long",
+				"screen_name": "janthonylong",
+				"location": "New York",
+				"description": "Executive Creative Director, @LGUS. Writer, brand steward. Former Ogilvy, Huge, The Economist | Cannes, Clio, Effie | Webby Awards Judge. 🇺🇸/🇮🇹",
+				"url": "https://t.co/LXwLlZLI2p",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LXwLlZLI2p",
+								"expanded_url": "https://www.linkedin.com/in/johnalongcd/",
+								"display_url": "linkedin.com/in/johnalongcd/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2151,
+				"friends_count": 1252,
+				"listed_count": 33,
+				"created_at": "Thu Jul 22 20:24:53 +0000 2010",
+				"favourites_count": 26531,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 22110,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1487090241265672194/MPP-hUC8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487090241265672194/MPP-hUC8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/169635260/1643373790",
+				"profile_link_color": "FF7519",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 169,
+			"favorite_count": 1327,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 37,
+		"favorite_count": 252,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I've gotten a number of requests to create a single thread of my \"How it started / how it's going\" ad series. So here it is.\n\nhttps://t.co/c5FQmGesr2"
+	},
+	{
+		"created_at": "Mon Oct 10 15:29:22 +0000 2022",
+		"id": 1579494306645446700,
+		"id_str": "1579494306645446662",
+		"full_text": "@karinwinters Oh op die manier. Ja dat kan ik zien. Maar je \"Bij jou is alles leeg\" deed mij denken dat jij ergens kon zien wat was geupdate. Het is inmiddels opgelost!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "karinwinters",
+					"name": "Karin Winters",
+					"id": 10708962,
+					"id_str": "10708962",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1579494116714770400,
+		"in_reply_to_status_id_str": "1579494116714770432",
+		"in_reply_to_user_id": 10708962,
+		"in_reply_to_user_id_str": "10708962",
+		"in_reply_to_screen_name": "karinwinters",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8726,
+			"friends_count": 887,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67132,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@karinwinters Oh op die manier. Ja dat kan ik zien. Maar je \"Bij jou is alles leeg\" deed mij denken dat jij ergens kon zien wat was geupdate. Het is inmiddels opgelost!"
+	},
+	{
+		"created_at": "Mon Oct 10 15:27:05 +0000 2022",
+		"id": 1579493730113192000,
+		"id_str": "1579493730113191937",
+		"full_text": "@karinwinters Kun jij zien welke plugins ik het laatst heb geupdate? Hoe dan? Of snap ik je tweet nu verkeerd?",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "karinwinters",
+					"name": "Karin Winters",
+					"id": 10708962,
+					"id_str": "10708962",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1579493328542134300,
+		"in_reply_to_status_id_str": "1579493328542134273",
+		"in_reply_to_user_id": 10708962,
+		"in_reply_to_user_id_str": "10708962",
+		"in_reply_to_screen_name": "karinwinters",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8726,
+			"friends_count": 887,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10216,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67132,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@karinwinters Kun jij zien welke plugins ik het laatst heb geupdate? Hoe dan? Of snap ik je tweet nu verkeerd?"
+	},
+	{
 		"created_at": "Mon Oct 10 15:18:47 +0000 2022",
 		"id": 1579491641429487600,
 		"id_str": "1579491641429487617",
