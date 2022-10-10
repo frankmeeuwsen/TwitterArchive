@@ -1,6 +1,307 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 10 16:32:24 +0000 2022",
+		"id": 1579083496433537000,
+		"id_str": "1579510168362319874",
+		"full_text": "@Michael J. Fox and Christopher Lloyd @DocBrownLloyd at the @NYCOMICCON 2022.\nLeggends \n#BackToTheFuture #ritornoalfuturo #michaeljfox #christopherlloyd #NYComicCon #deloren #timemachine #docbrown #martymcfly https://t.co/9kTS4xK2We",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BackToTheFuture",
+					"indices": [
+						88,
+						104
+					]
+				},
+				{
+					"text": "ritornoalfuturo",
+					"indices": [
+						105,
+						121
+					]
+				},
+				{
+					"text": "michaeljfox",
+					"indices": [
+						122,
+						134
+					]
+				},
+				{
+					"text": "christopherlloyd",
+					"indices": [
+						135,
+						152
+					]
+				},
+				{
+					"text": "NYComicCon",
+					"indices": [
+						153,
+						164
+					]
+				},
+				{
+					"text": "deloren",
+					"indices": [
+						165,
+						173
+					]
+				},
+				{
+					"text": "timemachine",
+					"indices": [
+						174,
+						186
+					]
+				},
+				{
+					"text": "docbrown",
+					"indices": [
+						187,
+						196
+					]
+				},
+				{
+					"text": "martymcfly",
+					"indices": [
+						197,
+						208
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "michael",
+					"name": "michael",
+					"id": 939,
+					"id_str": "939",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "DocBrownLloyd",
+					"name": "Christopher Lloyd",
+					"id": 981392266748219400,
+					"id_str": "981392266748219392",
+					"indices": [
+						38,
+						52
+					]
+				},
+				{
+					"screen_name": "NYCOMICCON",
+					"name": "NY_COMIC_CON",
+					"id": 1134321486238367700,
+					"id_str": "1134321486238367744",
+					"indices": [
+						60,
+						71
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1579083442352005000,
+					"id_str": "1579083442352005121",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1579083442352005121/pu/img/XDOLoFUgQuXRNHyf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1579083442352005121/pu/img/XDOLoFUgQuXRNHyf.jpg",
+					"url": "https://t.co/9kTS4xK2We",
+					"display_url": "pic.twitter.com/9kTS4xK2We",
+					"expanded_url": "https://twitter.com/bttfmemorabilia/status/1579083496433537024/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 914,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 914,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1579083442352005000,
+					"id_str": "1579083442352005121",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1579083442352005121/pu/img/XDOLoFUgQuXRNHyf.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1579083442352005121/pu/img/XDOLoFUgQuXRNHyf.jpg",
+					"url": "https://t.co/9kTS4xK2We",
+					"display_url": "pic.twitter.com/9kTS4xK2We",
+					"expanded_url": "https://twitter.com/bttfmemorabilia/status/1579083496433537024/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 536,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 914,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 914,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							457
+						],
+						"duration_millis": 31800,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1579083442352005121/pu/pl/KGQj40cUubIjGryX.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579083442352005121/pu/vid/320x406/euPE0k0nFQOzb9zC.mp4?tag=12"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579083442352005121/pu/vid/480x608/lR6MEFZ4vi1UJ-zs.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1579083442352005121/pu/vid/720x914/ruU2MZcYbjLRFKJW.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 939,
+		"in_reply_to_user_id_str": "939",
+		"in_reply_to_screen_name": "michael",
+		"user": {
+			"id": 1473681973092700200,
+			"id_str": "1473681973092700164",
+			"name": "Back to the future Memorabilia",
+			"screen_name": "bttfmemorabilia",
+			"location": "Italia",
+			"description": "Reference point for lovers and collectors of the wonderful “Back to the Future” trilogy.",
+			"url": "https://t.co/TGPJxYO5nM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TGPJxYO5nM",
+							"expanded_url": "http://www.backtothefuturememorabilia.it",
+							"display_url": "backtothefuturememorabilia.it",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 398,
+			"friends_count": 397,
+			"listed_count": 0,
+			"created_at": "Wed Dec 22 15:49:20 +0000 2021",
+			"favourites_count": 437,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1473686987504865284/IkPeKjDU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1473686987504865284/IkPeKjDU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1473681973092700164/1640190942",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 408,
+		"favorite_count": 1786,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Michael J. Fox and Christopher Lloyd @DocBrownLloyd at the @NYCOMICCON 2022.\nLeggends \n#BackToTheFuture #ritornoalfuturo #michaeljfox #christopherlloyd #NYComicCon #deloren #timemachine #docbrown #martymcfly https://t.co/9kTS4xK2We"
+	},
+	{
 		"created_at": "Mon Oct 10 16:06:07 +0000 2022",
 		"id": 1579495594611310600,
 		"id_str": "1579503555148681216",
