@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 11 09:28:01 +0000 2022",
+		"id": 1579765755511726000,
+		"id_str": "1579765755511726080",
+		"full_text": "@boerdeboer Was jij hier laatst niet aan het orakelen dat China hard op weg is de wereldmacht van wereldmachten te worden? Bij Emerce nemen ze al een voorsprong: https://t.co/rquu27wrH0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "boerdeboer",
+					"name": "boerdeboer -",
+					"id": 11798112,
+					"id_str": "11798112",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rquu27wrH0",
+					"expanded_url": "https://www.emerce.nl/nieuws/eday-trots-china-digitaal-wereldleider",
+					"display_url": "emerce.nl/nieuws/eday-tr…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 11798112,
+		"in_reply_to_user_id_str": "11798112",
+		"in_reply_to_screen_name": "boerdeboer",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8726,
+			"friends_count": 889,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10218,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67134,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@boerdeboer Was jij hier laatst niet aan het orakelen dat China hard op weg is de wereldmacht van wereldmachten te worden? Bij Emerce nemen ze al een voorsprong: https://t.co/rquu27wrH0"
+	},
+	{
 		"created_at": "Mon Oct 10 19:09:37 +0000 2022",
 		"id": 1579549731566784500,
 		"id_str": "1579549731566784512",
