@@ -1,6 +1,168 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 12 18:16:12 +0000 2022",
+		"id": 1580102815346659300,
+		"id_str": "1580261065501265920",
+		"full_text": "lol, lmao https://t.co/TsDc9CceBL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1580102811626311700,
+					"id_str": "1580102811626311680",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe2nIquVEAA1fN_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe2nIquVEAA1fN_.jpg",
+					"url": "https://t.co/TsDc9CceBL",
+					"display_url": "pic.twitter.com/TsDc9CceBL",
+					"expanded_url": "https://twitter.com/yeoldedad/status/1580102815346659329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 570,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1005,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1719,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1580102811626311700,
+					"id_str": "1580102811626311680",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/media/Fe2nIquVEAA1fN_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fe2nIquVEAA1fN_.jpg",
+					"url": "https://t.co/TsDc9CceBL",
+					"display_url": "pic.twitter.com/TsDc9CceBL",
+					"expanded_url": "https://twitter.com/yeoldedad/status/1580102815346659329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 570,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1005,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 1719,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4824757094,
+			"id_str": "4824757094",
+			"name": "Boogaze Dad 🇵🇭",
+			"screen_name": "yeoldedad",
+			"location": "Dasmarinas, Calabarzon",
+			"description": "Every job is a factory, every factory's a grave, every worker's a wheel, for a hot meal a day (he/him/siya)  BlackPink stan, no dm's",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9182,
+			"friends_count": 5117,
+			"listed_count": 37,
+			"created_at": "Thu Jan 28 08:56:35 +0000 2016",
+			"favourites_count": 200789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1301162099494748163/TYM0sU7g_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1301162099494748163/TYM0sU7g_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4824757094/1637246131",
+			"profile_link_color": "FF7D33",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4363,
+		"favorite_count": 55452,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "ht",
+		"text": "lol, lmao https://t.co/TsDc9CceBL"
+	},
+	{
 		"created_at": "Wed Oct 12 05:58:10 +0000 2022",
 		"id": 1580075333570957300,
 		"id_str": "1580075333570957312",
