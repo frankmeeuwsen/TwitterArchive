@@ -1,6 +1,324 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 13 14:09:49 +0000 2022",
+		"id": 1580561448656195600,
+		"id_str": "1580561448656195585",
+		"full_text": "Tof dat versie 1 er nu eindelijk is! Fijne app, goed volk. https://t.co/3k0BCCLoGo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3k0BCCLoGo",
+					"expanded_url": "https://twitter.com/obsdmd/status/1580548874246443010",
+					"display_url": "twitter.com/obsdmd/status/…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8725,
+			"friends_count": 892,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10224,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1580548874246443000,
+		"quoted_status_id_str": "1580548874246443010",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3k0BCCLoGo",
+			"expanded": "https://twitter.com/obsdmd/status/1580548874246443010",
+			"display": "twitter.com/obsdmd/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 13 13:19:51 +0000 2022",
+			"id": 1580548874246443000,
+			"id_str": "1580548874246443010",
+			"full_text": "Obsidian 1.0 is live!\n\n1.0 brings a complete redesign to desktop and mobile.\n\nPlus, a new way to browse your second brain: tabs. Tabs make it easier to explore many ideas at once.\n\nLearn more: https://t.co/b5tuqKrCBc https://t.co/uAgnoRRI3s",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				216
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/b5tuqKrCBc",
+						"expanded_url": "https://obsidian.md/1.0",
+						"display_url": "obsidian.md/1.0",
+						"indices": [
+							193,
+							216
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1580548859109015600,
+						"id_str": "1580548859109015552",
+						"indices": [
+							217,
+							240
+						],
+						"media_url": "http://pbs.twimg.com/media/Fe880DFXgAAQ_vq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fe880DFXgAAQ_vq.jpg",
+						"url": "https://t.co/uAgnoRRI3s",
+						"display_url": "pic.twitter.com/uAgnoRRI3s",
+						"expanded_url": "https://twitter.com/obsdmd/status/1580548874246443010/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1209,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 401,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 708,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1580548859109015600,
+						"id_str": "1580548859109015552",
+						"indices": [
+							217,
+							240
+						],
+						"media_url": "http://pbs.twimg.com/media/Fe880DFXgAAQ_vq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Fe880DFXgAAQ_vq.jpg",
+						"url": "https://t.co/uAgnoRRI3s",
+						"display_url": "pic.twitter.com/uAgnoRRI3s",
+						"expanded_url": "https://twitter.com/obsdmd/status/1580548874246443010/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1209,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 401,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 708,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1239876481951596500,
+				"id_str": "1239876481951596545",
+				"name": "Obsidian",
+				"screen_name": "obsdmd",
+				"location": "",
+				"description": "A second brain, for you, forever. Join our community! https://t.co/F9cLHhN4GR",
+				"url": "https://t.co/BoI54Hk6VB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BoI54Hk6VB",
+								"expanded_url": "https://obsidian.md",
+								"display_url": "obsidian.md",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/F9cLHhN4GR",
+								"expanded_url": "https://obsidian.md/community",
+								"display_url": "obsidian.md/community",
+								"indices": [
+									54,
+									77
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 64990,
+				"friends_count": 4,
+				"listed_count": 1391,
+				"created_at": "Tue Mar 17 11:29:40 +0000 2020",
+				"favourites_count": 1202,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 747,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1269490744609341442/MaweGLMN_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1269490744609341442/MaweGLMN_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1239876481951596545/1590695448",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": true,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 192,
+			"favorite_count": 821,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Tof dat versie 1 er nu eindelijk is! Fijne app, goed volk. https://t.co/3k0BCCLoGo"
+	},
+	{
 		"created_at": "Thu Oct 13 12:49:04 +0000 2022",
 		"id": 1580541127698321400,
 		"id_str": "1580541127698321409",
