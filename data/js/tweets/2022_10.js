@@ -1,6 +1,405 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 15 11:31:59 +0000 2022",
+		"id": 1581246504995819500,
+		"id_str": "1581246504995819520",
+		"full_text": "“Er is geen kunst op een dode planeet”. Goede argumenten in deze thread. https://t.co/AUOFO8OlZK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AUOFO8OlZK",
+					"expanded_url": "https://twitter.com/climatehuman/status/1581146439098716160",
+					"display_url": "twitter.com/climatehuman/s…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8723,
+			"friends_count": 892,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10229,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1581146439098716200,
+		"quoted_status_id_str": "1581146439098716160",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AUOFO8OlZK",
+			"expanded": "https://twitter.com/climatehuman/status/1581146439098716160",
+			"display": "twitter.com/climatehuman/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 15 04:54:22 +0000 2022",
+			"id": 1581146439098716200,
+			"id_str": "1581146439098716160",
+			"full_text": "OK, hear me out, this was actually a visionary and inspired action.\nhttps://t.co/OeMH8DVg2V",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				91
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1580864119145697300,
+						"id_str": "1580864119145697282",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1580864119145697282/pu/img/Xbj3JAS1yeHgUdf7.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1580864119145697282/pu/img/Xbj3JAS1yeHgUdf7.jpg",
+						"url": "https://t.co/OeMH8DVg2V",
+						"display_url": "pic.twitter.com/OeMH8DVg2V",
+						"expanded_url": "https://twitter.com/damiengayle/status/1580864210741133312/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1580864210741133300,
+						"source_status_id_str": "1580864210741133312",
+						"source_user_id": 92499902,
+						"source_user_id_str": "92499902"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1580864119145697300,
+						"id_str": "1580864119145697282",
+						"indices": [
+							68,
+							91
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1580864119145697282/pu/img/Xbj3JAS1yeHgUdf7.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1580864119145697282/pu/img/Xbj3JAS1yeHgUdf7.jpg",
+						"url": "https://t.co/OeMH8DVg2V",
+						"display_url": "pic.twitter.com/OeMH8DVg2V",
+						"expanded_url": "https://twitter.com/damiengayle/status/1580864210741133312/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1580864210741133300,
+						"source_status_id_str": "1580864210741133312",
+						"source_user_id": 92499902,
+						"source_user_id_str": "92499902",
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 23323,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1580864119145697282/pu/vid/1280x720/-GAzX69uxDXJbq6F.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1580864119145697282/pu/vid/480x270/HxUBWOVrHDh0nZr5.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1580864119145697282/pu/pl/ZiTed_vencUd3YlL.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1580864119145697282/pu/vid/640x360/U9XRKxdq6Xt6Wwb5.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 92499902,
+								"id_str": "92499902",
+								"name": "Damien Gayle",
+								"screen_name": "damiengayle",
+								"location": "London, England",
+								"description": "Guardian environment correspondent 🇨🇮🇯🇲💫",
+								"url": "https://t.co/TMidBvtUSq",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/TMidBvtUSq",
+												"expanded_url": "https://linktr.ee/DamienGayle",
+												"display_url": "linktr.ee/DamienGayle",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 17909,
+								"friends_count": 3251,
+								"listed_count": 232,
+								"created_at": "Wed Nov 25 11:16:14 +0000 2009",
+								"favourites_count": 16005,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 15918,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1514347356501815300/agh1oRp6_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1514347356501815300/agh1oRp6_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/92499902/1649868290",
+								"profile_link_color": "E81C4F",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "000000",
+								"profile_text_color": "000000",
+								"profile_use_background_image": false,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 881615056437297200,
+				"id_str": "881615056437297152",
+				"name": "Peter Kalmus",
+				"screen_name": "ClimateHuman",
+				"location": "Colonized Saponi land, NC",
+				"description": "NASA climate scientist. Revoking fossil fuel's social license. Arrested for protecting Earth. @ClimateAd, @EarthHeroOrg. Opinions mine. #EmergencyMode",
+				"url": "https://t.co/1nr1cLmMMS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1nr1cLmMMS",
+								"expanded_url": "https://peterkalmus.net/books/read-by-chapter-being-the-change/",
+								"display_url": "peterkalmus.net/books/read-by-…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 322985,
+				"friends_count": 13725,
+				"listed_count": 2627,
+				"created_at": "Sun Jul 02 20:46:23 +0000 2017",
+				"favourites_count": 31686,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 20284,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1581148981668765697/sex6_nsz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1581148981668765697/sex6_nsz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/881615056437297152/1585611577",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1978,
+			"favorite_count": 6951,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "“Er is geen kunst op een dode planeet”. Goede argumenten in deze thread. https://t.co/AUOFO8OlZK"
+	},
+	{
 		"created_at": "Sat Oct 15 07:10:46 +0000 2022",
 		"id": 1581180767840764000,
 		"id_str": "1581180767840763905",
