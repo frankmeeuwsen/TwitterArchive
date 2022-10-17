@@ -1,6 +1,375 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 17 19:59:17 +0000 2022",
+		"id": 1582098945139884000,
+		"id_str": "1582098945139884032",
+		"full_text": "Al gezien @erwblo ? https://t.co/Kj9JRgSfQM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erwblo",
+					"name": "Erwin Blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						10,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Kj9JRgSfQM",
+					"expanded_url": "https://twitter.com/runwayml/status/1581996497952206849",
+					"display_url": "twitter.com/runwayml/statu…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8718,
+			"friends_count": 892,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10247,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1581996497952206800,
+		"quoted_status_id_str": "1581996497952206849",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Kj9JRgSfQM",
+			"expanded": "https://twitter.com/runwayml/status/1581996497952206849",
+			"display": "twitter.com/runwayml/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 17 13:12:11 +0000 2022",
+			"id": 1581996497952206800,
+			"id_str": "1581996497952206849",
+			"full_text": "Introducing Erase and Replace\n \nA new AI Magic Tool that allows you to transform your images simply by using a natural language description.\n\nAvailable now: https://t.co/zUOf2Pg2rs https://t.co/TBLVZuNWrz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				180
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zUOf2Pg2rs",
+						"expanded_url": "https://runwayml.com/",
+						"display_url": "runwayml.com",
+						"indices": [
+							157,
+							180
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1581996169756123100,
+						"id_str": "1581996169756123136",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1581996169756123136/pu/img/aSV39D044rrq-h3d.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1581996169756123136/pu/img/aSV39D044rrq-h3d.jpg",
+						"url": "https://t.co/TBLVZuNWrz",
+						"display_url": "pic.twitter.com/TBLVZuNWrz",
+						"expanded_url": "https://twitter.com/runwayml/status/1581996497952206849/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1581996169756123100,
+						"id_str": "1581996169756123136",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1581996169756123136/pu/img/aSV39D044rrq-h3d.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1581996169756123136/pu/img/aSV39D044rrq-h3d.jpg",
+						"url": "https://t.co/TBLVZuNWrz",
+						"display_url": "pic.twitter.com/TBLVZuNWrz",
+						"expanded_url": "https://twitter.com/runwayml/status/1581996497952206849/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 39664,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1581996169756123136/pu/vid/640x360/TAMbFcELRggEsAw8.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1581996169756123136/pu/vid/1280x720/cwxKVn8JTrH3XPZz.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1581996169756123136/pu/pl/96YtxI0ji670AwfG.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1581996169756123136/pu/vid/480x270/z29Pv48RJj-0V-h6.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1001114465692201000,
+				"id_str": "1001114465692200960",
+				"name": "Runway",
+				"screen_name": "runwayml",
+				"location": "New York, USA",
+				"description": "Make the impossible. Next-generation content creation with artificial intelligence — We’re hiring: https://t.co/Aj11xygZYI & https://t.co/lfXP88cpVf",
+				"url": "https://t.co/Gz3nLvOdkF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Gz3nLvOdkF",
+								"expanded_url": "https://runwayml.com",
+								"display_url": "runwayml.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Aj11xygZYI",
+								"expanded_url": "http://runwayml.com/careers",
+								"display_url": "runwayml.com/careers",
+								"indices": [
+									99,
+									122
+								]
+							},
+							{
+								"url": "https://t.co/lfXP88cpVf",
+								"expanded_url": "http://research.runwayml.com",
+								"display_url": "research.runwayml.com",
+								"indices": [
+									125,
+									148
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 36890,
+				"friends_count": 253,
+				"listed_count": 461,
+				"created_at": "Mon May 28 14:54:23 +0000 2018",
+				"favourites_count": 2630,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1052,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1542885861330673664/ukf6-PFA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1542885861330673664/ukf6-PFA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1001114465692200960/1643820337",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 416,
+			"favorite_count": 2797,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Al gezien @erwblo ? https://t.co/Kj9JRgSfQM"
+	},
+	{
 		"created_at": "Sun Oct 16 20:24:36 +0000 2022",
 		"id": 1581742930921853000,
 		"id_str": "1581742930921852928",
