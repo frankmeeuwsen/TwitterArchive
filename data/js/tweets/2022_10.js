@@ -1,6 +1,194 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 19 17:49:17 +0000 2022",
+		"id": 1582081123836104700,
+		"id_str": "1582791006516576256",
+		"full_text": "My annual posting of the dogs photoshopped out of the show. https://t.co/i5E3GEk4ys",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1582081099399938000,
+					"id_str": "1582081099399938049",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1582081099399938049/pu/img/iCZ4jf7ZxN6tdMsH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1582081099399938049/pu/img/iCZ4jf7ZxN6tdMsH.jpg",
+					"url": "https://t.co/i5E3GEk4ys",
+					"display_url": "pic.twitter.com/i5E3GEk4ys",
+					"expanded_url": "https://twitter.com/AlexKintner3/status/1582081123836104704/video/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 716,
+							"h": 466,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 716,
+							"h": 466,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 443,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1582081099399938000,
+					"id_str": "1582081099399938049",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1582081099399938049/pu/img/iCZ4jf7ZxN6tdMsH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1582081099399938049/pu/img/iCZ4jf7ZxN6tdMsH.jpg",
+					"url": "https://t.co/i5E3GEk4ys",
+					"display_url": "pic.twitter.com/i5E3GEk4ys",
+					"expanded_url": "https://twitter.com/AlexKintner3/status/1582081123836104704/video/1",
+					"type": "video",
+					"sizes": {
+						"medium": {
+							"w": 716,
+							"h": 466,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 716,
+							"h": 466,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 443,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							358,
+							233
+						],
+						"duration_millis": 15033,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1582081099399938049/pu/vid/414x270/udEXtx_k_iBYpEd_.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1582081099399938049/pu/vid/716x466/WU2KkJK9Poig_RJS.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1582081099399938049/pu/pl/PEobYNFc5iAPr5i4.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1233488641978138600,
+			"id_str": "1233488641978138627",
+			"name": "Alex M. Kintner",
+			"screen_name": "AlexKintner3",
+			"location": "",
+			"description": "My fingers are beginning to prune. Dawn your speedo, grab your yellow raft, and live a little.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 882,
+			"friends_count": 890,
+			"listed_count": 1,
+			"created_at": "Fri Feb 28 20:26:52 +0000 2020",
+			"favourites_count": 14283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 15151,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1233489371610992641/HaGzx94i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1233489371610992641/HaGzx94i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1233488641978138627/1628692332",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1179,
+		"favorite_count": 10894,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My annual posting of the dogs photoshopped out of the show. https://t.co/i5E3GEk4ys"
+	},
+	{
 		"created_at": "Tue Oct 18 09:46:45 +0000 2022",
 		"id": 1582307183471235000,
 		"id_str": "1582307183471235078",
