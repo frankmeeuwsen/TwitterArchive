@@ -1,6 +1,337 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 20 17:47:22 +0000 2022",
+		"id": 1583108660515201000,
+		"id_str": "1583152912481427456",
+		"full_text": "Passive income hack #234 https://t.co/gBkJ4l3HIl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1583108332831019000,
+					"id_str": "1583108332831019010",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/FfhUpBtakAIqJY6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfhUpBtakAIqJY6.jpg",
+					"url": "https://t.co/gBkJ4l3HIl",
+					"display_url": "pic.twitter.com/gBkJ4l3HIl",
+					"expanded_url": "https://twitter.com/GrahamStephan/status/1583108660515201024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 664,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1055,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1055,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1583108332831019000,
+					"id_str": "1583108332831019010",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/FfhUpBtakAIqJY6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FfhUpBtakAIqJY6.jpg",
+					"url": "https://t.co/gBkJ4l3HIl",
+					"display_url": "pic.twitter.com/gBkJ4l3HIl",
+					"expanded_url": "https://twitter.com/GrahamStephan/status/1583108660515201024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 664,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1055,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1055,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22716009,
+			"id_str": "22716009",
+			"name": "Graham Stephan",
+			"screen_name": "GrahamStephan",
+			"location": "Las Vegas, NV",
+			"description": "Real Estate Investor, Car Enthusiast, 4M+ Subs on YouTube. \n\nNewsletter - https://t.co/iQGby1s7dc\n\nInsta - https://t.co/LwD4Qgd2eH",
+			"url": "https://t.co/d7eOvCDacZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/d7eOvCDacZ",
+							"expanded_url": "http://www.YouTube.com/c/GrahamStephan",
+							"display_url": "YouTube.com/c/GrahamStephan",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/iQGby1s7dc",
+							"expanded_url": "http://bit.ly/gpstephanletter",
+							"display_url": "bit.ly/gpstephanletter",
+							"indices": [
+								74,
+								97
+							]
+						},
+						{
+							"url": "https://t.co/LwD4Qgd2eH",
+							"expanded_url": "http://bit.ly/gpstephan",
+							"display_url": "bit.ly/gpstephan",
+							"indices": [
+								107,
+								130
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 154168,
+			"friends_count": 68,
+			"listed_count": 631,
+			"created_at": "Wed Mar 04 01:48:41 +0000 2009",
+			"favourites_count": 813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 1040,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1068007184800215040/_gCkXkbQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1068007184800215040/_gCkXkbQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22716009/1543467753",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5064,
+		"favorite_count": 55315,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Passive income hack #234 https://t.co/gBkJ4l3HIl"
+	},
+	{
+		"created_at": "Thu Oct 20 17:47:06 +0000 2022",
+		"id": 1583152844022067200,
+		"id_str": "1583152844022067202",
+		"full_text": "@erwblo @skoopnl @Vigro Zal ik nog even Podimo roepen als extra silo?",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erwblo",
+					"name": "Erwin Blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "skoopnl",
+					"name": "Stefan Koopmanschap | ꓘINK",
+					"id": 179001722,
+					"id_str": "179001722",
+					"indices": [
+						8,
+						16
+					]
+				},
+				{
+					"screen_name": "Vigro",
+					"name": "Martin Klomp",
+					"id": 6256452,
+					"id_str": "6256452",
+					"indices": [
+						17,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1583085084516978700,
+		"in_reply_to_status_id_str": "1583085084516978688",
+		"in_reply_to_user_id": 713333,
+		"in_reply_to_user_id_str": "713333",
+		"in_reply_to_screen_name": "erwblo",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8719,
+			"friends_count": 893,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10257,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67171,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@erwblo @skoopnl @Vigro Zal ik nog even Podimo roepen als extra silo?"
+	},
+	{
 		"created_at": "Thu Oct 20 16:49:53 +0000 2022",
 		"id": 1583138444565696500,
 		"id_str": "1583138444565696512",
