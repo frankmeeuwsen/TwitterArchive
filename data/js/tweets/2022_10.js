@@ -1,6 +1,256 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 21 16:30:24 +0000 2022",
+		"id": 1583495930350665700,
+		"id_str": "1583495930350665730",
+		"full_text": "Voor @marcelvandriel (maar ik denk dattie al in Arnhem zit) https://t.co/nQgpQkXS79",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marcelvandriel",
+					"name": "Marcel van Driel - kinderboekenschrijver",
+					"id": 1426472972513161200,
+					"id_str": "1426472972513161220",
+					"indices": [
+						5,
+						20
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nQgpQkXS79",
+					"expanded_url": "https://twitter.com/marcoderksen/status/1583407742861312000",
+					"display_url": "twitter.com/marcoderksen/s…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8719,
+			"friends_count": 895,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10257,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67176,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1583407742861312000,
+		"quoted_status_id_str": "1583407742861312000",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nQgpQkXS79",
+			"expanded": "https://twitter.com/marcoderksen/status/1583407742861312000",
+			"display": "twitter.com/marcoderksen/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 21 10:39:58 +0000 2022",
+			"id": 1583407742861312000,
+			"id_str": "1583407742861312000",
+			"full_text": "Ben eerlijk gezegd niet zo van de vega en groen; maar in Arnhem kom je dan al snel terecht bij https://t.co/rLSV3fBIwY of https://t.co/LR6g519jSN Maar niet echt voor een snelle hap!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				181
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/rLSV3fBIwY",
+						"expanded_url": "https://www.konijnenvoer.com/",
+						"display_url": "konijnenvoer.com",
+						"indices": [
+							95,
+							118
+						]
+					},
+					{
+						"url": "https://t.co/LR6g519jSN",
+						"expanded_url": "https://www.thegreenrose.nl",
+						"display_url": "thegreenrose.nl",
+						"indices": [
+							122,
+							145
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1252681,
+				"id_str": "1252681",
+				"name": "Marco Derksen 💬",
+				"screen_name": "marcoderksen",
+				"location": "Arnhem, Netherlands ",
+				"description": "In a world where information is abundant and easy to access, the real advantage is knowing where to focus.",
+				"url": "https://t.co/ODeil8h1cX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ODeil8h1cX",
+								"expanded_url": "https://www.linkedin.com/in/mderksen/",
+								"display_url": "linkedin.com/in/mderksen/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 27522,
+				"friends_count": 5317,
+				"listed_count": 1364,
+				"created_at": "Thu Mar 15 22:44:18 +0000 2007",
+				"favourites_count": 13609,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 169006,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DBE9ED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1260459260858830848/H1Zyfo8O_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1260459260858830848/H1Zyfo8O_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1252681/1653198779",
+				"profile_link_color": "EB8415",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E6F6F9",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Voor @marcelvandriel (maar ik denk dattie al in Arnhem zit) https://t.co/nQgpQkXS79"
+	},
+	{
 		"created_at": "Fri Oct 21 10:04:17 +0000 2022",
 		"id": 1583398762541899800,
 		"id_str": "1583398762541899777",
