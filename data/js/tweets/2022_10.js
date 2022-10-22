@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 22 06:25:41 +0000 2022",
+		"id": 1263658195911917600,
+		"id_str": "1583706137647464449",
+		"full_text": "I hope this email finds you living in a shotgun shack\nI hope this email finds you in another part of the world\nI hope this email finds you behind the wheel of a large automobile\nI hope this email finds you in a beautiful house, with a beautiful wife",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1403129251,
+			"id_str": "1403129251",
+			"name": "Grace Segers",
+			"screen_name": "Grace_Segers",
+			"location": "Washington, DC",
+			"description": "covering Congress + politics @newrepublic | prev. @CBSNews | co-host @HothTakes | all pop culture takes objectively correct | Phil. 4:4-9 | gsegers@tnr.com",
+			"url": "https://t.co/29BpgWdGPw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/29BpgWdGPw",
+							"expanded_url": "http://hothtakes.wordpress.com",
+							"display_url": "hothtakes.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 38909,
+			"friends_count": 2461,
+			"listed_count": 660,
+			"created_at": "Sat May 04 18:51:09 +0000 2013",
+			"favourites_count": 43193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 43409,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1559915362283655168/PnJZEReq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1559915362283655168/PnJZEReq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1403129251/1662497043",
+			"profile_link_color": "880000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10666,
+		"favorite_count": 54360,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "I hope this email finds you living in a shotgun shack\nI hope this email finds you in another part of the world\nI hope this email finds you behind the wheel of a large automobile\nI hope this email finds you in a beautiful house, with a beautiful wife"
+	},
+	{
 		"created_at": "Fri Oct 21 16:30:24 +0000 2022",
 		"id": 1583495930350665700,
 		"id_str": "1583495930350665730",
