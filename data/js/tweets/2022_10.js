@@ -1,6 +1,354 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Wed Oct 26 12:58:53 +0000 2022",
+		"id": 1585254640878116900,
+		"id_str": "1585254640878116869",
+		"full_text": "Ik ben benieuwd of en hoe die actie van Jelle de Graaf een meme-leven gaat leiden. Op willekeurig moment gaan mensen dan op tafel zitten en in dezelfde woeste beweging hun handen op het tafelblad leggen. Het is binnen 24 uur een soort landelijk iconisch beeld geworden.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			269
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8717,
+			"friends_count": 897,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "Ik ben benieuwd of en hoe die actie van Jelle de Graaf een meme-leven gaat leiden. Op willekeurig moment gaan mensen dan op tafel zitten en in dezelfde woeste beweging hun handen op het tafelblad leggen. Het is binnen 24 uur een soort landelijk iconisch beeld geworden."
+	},
+	{
+		"created_at": "Wed Oct 26 12:50:48 +0000 2022",
+		"id": 1585252606783344600,
+		"id_str": "1585252606783344640",
+		"full_text": "@boerdeboer Laat lunchen dan.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "boerdeboer",
+					"name": "boerdeboer -",
+					"id": 11798112,
+					"id_str": "11798112",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1585223573211259000,
+		"in_reply_to_status_id_str": "1585223573211258880",
+		"in_reply_to_user_id": 11798112,
+		"in_reply_to_user_id_str": "11798112",
+		"in_reply_to_screen_name": "boerdeboer",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8717,
+			"friends_count": 897,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10267,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@boerdeboer Laat lunchen dan."
+	},
+	{
+		"created_at": "Wed Oct 26 12:50:12 +0000 2022",
+		"id": 1585198666062606300,
+		"id_str": "1585252456640163844",
+		"full_text": "@BoswachterTim @GerritHiemstra Precies. Volgende week is het Nationale #Klimaatweek, nodig elke avond iemand uit die een ander perspectief belicht, er is genoeg te vertellen. Over biodiversiteit, over klimaatrechtvaardigheid, over weersextremen, over fast fashion, over de eiwittransitie, over mobiliteit…",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			305
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Klimaatweek",
+					"indices": [
+						71,
+						83
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BoswachterTim",
+					"name": "Boswachter Tim",
+					"id": 144905044,
+					"id_str": "144905044",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "GerritHiemstra",
+					"name": "Gerrit Hiemstra 🐰",
+					"id": 14798094,
+					"id_str": "14798094",
+					"indices": [
+						15,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1585155410733912000,
+		"in_reply_to_status_id_str": "1585155410733912064",
+		"in_reply_to_user_id": 144905044,
+		"in_reply_to_user_id_str": "144905044",
+		"in_reply_to_screen_name": "BoswachterTim",
+		"user": {
+			"id": 97204749,
+			"id_str": "97204749",
+			"name": "jose duindam 🌱🌎",
+			"screen_name": "joseduindam",
+			"location": "Oud Koog ",
+			"description": "Achterhoekse Zaankanter, publieke zaak, interim-communicado, single mom, kattenvrouwtje, plantaardig, leeft groen, houdt van koken, smult van kunst & cultuur",
+			"url": "https://t.co/fScdpcMqJW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/fScdpcMqJW",
+							"expanded_url": "http://leckerbeckje.nl",
+							"display_url": "leckerbeckje.nl",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1544,
+			"friends_count": 2371,
+			"listed_count": 16,
+			"created_at": "Wed Dec 16 13:09:01 +0000 2009",
+			"favourites_count": 23883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1554013019654569984/x2rj69Rw_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1554013019654569984/x2rj69Rw_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/97204749/1665354821",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "nl",
+		"text": "@BoswachterTim @GerritHiemstra Precies. Volgende week is het Nationale #Klimaatweek, nodig elke avond iemand uit die een ander perspectief belicht, er is genoeg te vertellen. Over biodiversiteit, over klimaatrechtvaardigheid, over weersextremen, over fast fashion, over de eiwittransitie, over mobiliteit…"
+	},
+	{
 		"created_at": "Wed Oct 26 06:15:46 +0000 2022",
 		"id": 1581146444945182700,
 		"id_str": "1585153190567108613",
