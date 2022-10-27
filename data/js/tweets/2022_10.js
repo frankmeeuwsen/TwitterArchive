@@ -1,6 +1,627 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 27 19:35:52 +0000 2022",
+		"id": 1585633428803764200,
+		"id_str": "1585716930518056960",
+		"full_text": "Today October 27, 1985.\n@DocBrownLloyd &amp; @realmikefox \n#BackToTheFuture #ritornoalfuturo #christopherlloyd #michaeljfox #delorean #timemachine #future #elisabethshue https://t.co/xqgQkpeDMZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BackToTheFuture",
+					"indices": [
+						59,
+						75
+					]
+				},
+				{
+					"text": "ritornoalfuturo",
+					"indices": [
+						76,
+						92
+					]
+				},
+				{
+					"text": "christopherlloyd",
+					"indices": [
+						93,
+						110
+					]
+				},
+				{
+					"text": "michaeljfox",
+					"indices": [
+						111,
+						123
+					]
+				},
+				{
+					"text": "delorean",
+					"indices": [
+						124,
+						133
+					]
+				},
+				{
+					"text": "timemachine",
+					"indices": [
+						134,
+						146
+					]
+				},
+				{
+					"text": "future",
+					"indices": [
+						147,
+						154
+					]
+				},
+				{
+					"text": "elisabethshue",
+					"indices": [
+						155,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DocBrownLloyd",
+					"name": "Christopher Lloyd",
+					"id": 981392266748219400,
+					"id_str": "981392266748219392",
+					"indices": [
+						24,
+						38
+					]
+				},
+				{
+					"screen_name": "realmikefox",
+					"name": "Michael J. Fox",
+					"id": 398092540,
+					"id_str": "398092540",
+					"indices": [
+						45,
+						57
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1585633422172557300,
+					"id_str": "1585633422172557313",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FgFNMkiVEAEqG-j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgFNMkiVEAEqG-j.jpg",
+					"url": "https://t.co/xqgQkpeDMZ",
+					"display_url": "pic.twitter.com/xqgQkpeDMZ",
+					"expanded_url": "https://twitter.com/bttfmemorabilia/status/1585633428803764227/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 940,
+							"h": 788,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 940,
+							"h": 788,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1585633422172557300,
+					"id_str": "1585633422172557313",
+					"indices": [
+						170,
+						193
+					],
+					"media_url": "http://pbs.twimg.com/media/FgFNMkiVEAEqG-j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgFNMkiVEAEqG-j.jpg",
+					"url": "https://t.co/xqgQkpeDMZ",
+					"display_url": "pic.twitter.com/xqgQkpeDMZ",
+					"expanded_url": "https://twitter.com/bttfmemorabilia/status/1585633428803764227/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 940,
+							"h": 788,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 940,
+							"h": 788,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1473681973092700200,
+			"id_str": "1473681973092700164",
+			"name": "Back to the future Memorabilia",
+			"screen_name": "bttfmemorabilia",
+			"location": "Italia",
+			"description": "Reference point for lovers and collectors of the wonderful “Back to the Future” trilogy.",
+			"url": "https://t.co/TGPJxYO5nM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TGPJxYO5nM",
+							"expanded_url": "http://www.backtothefuturememorabilia.it",
+							"display_url": "backtothefuturememorabilia.it",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 608,
+			"friends_count": 632,
+			"listed_count": 3,
+			"created_at": "Wed Dec 22 15:49:20 +0000 2021",
+			"favourites_count": 710,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 146,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1473686987504865284/IkPeKjDU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1473686987504865284/IkPeKjDU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1473681973092700164/1640190942",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today October 27, 1985.\n@DocBrownLloyd &amp; @realmikefox \n#BackToTheFuture #ritornoalfuturo #christopherlloyd #michaeljfox #delorean #timemachine #future #elisabethshue https://t.co/xqgQkpeDMZ"
+	},
+	{
+		"created_at": "Thu Oct 27 19:34:38 +0000 2022",
+		"id": 1585716621389484000,
+		"id_str": "1585716621389484037",
+		"full_text": "In Duitsland krijgen plaktivisten (en wetenschapperts!) applaus van het publiek. https://t.co/MPDdsL9wWz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MPDdsL9wWz",
+					"expanded_url": "https://twitter.com/ScientistRebel1/status/1585218258277629952",
+					"display_url": "twitter.com/ScientistRebel…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8717,
+			"friends_count": 900,
+			"listed_count": 549,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67199,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1585218258277630000,
+		"quoted_status_id_str": "1585218258277629952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MPDdsL9wWz",
+			"expanded": "https://twitter.com/ScientistRebel1/status/1585218258277629952",
+			"display": "twitter.com/ScientistRebel…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 26 10:34:19 +0000 2022",
+			"id": 1585218258277630000,
+			"id_str": "1585218258277629952",
+			"full_text": "Bystanders in Munich are clapping and showing support for our actions. You can join us here: https://t.co/cpnOuPuZes \n\n#DebtForClimate #UniteAgainstClimateFailure #ScientistRebellion #LevelWithUs https://t.co/pcKBsstqhu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				195
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DebtForClimate",
+						"indices": [
+							119,
+							134
+						]
+					},
+					{
+						"text": "UniteAgainstClimateFailure",
+						"indices": [
+							135,
+							162
+						]
+					},
+					{
+						"text": "ScientistRebellion",
+						"indices": [
+							163,
+							182
+						]
+					},
+					{
+						"text": "LevelWithUs",
+						"indices": [
+							183,
+							195
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/cpnOuPuZes",
+						"expanded_url": "https://scientistrebellion.com/how-to-join/",
+						"display_url": "scientistrebellion.com/how-to-join/",
+						"indices": [
+							93,
+							116
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1585217019997298700,
+						"id_str": "1585217019997298700",
+						"indices": [
+							196,
+							219
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1585217019997298700/pu/img/ykKM7gxhR_88K-Qw.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1585217019997298700/pu/img/ykKM7gxhR_88K-Qw.jpg",
+						"url": "https://t.co/pcKBsstqhu",
+						"display_url": "pic.twitter.com/pcKBsstqhu",
+						"expanded_url": "https://twitter.com/ScientistRebel1/status/1585218258277629952/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1585217019997298700,
+						"id_str": "1585217019997298700",
+						"indices": [
+							196,
+							219
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1585217019997298700/pu/img/ykKM7gxhR_88K-Qw.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1585217019997298700/pu/img/ykKM7gxhR_88K-Qw.jpg",
+						"url": "https://t.co/pcKBsstqhu",
+						"display_url": "pic.twitter.com/pcKBsstqhu",
+						"expanded_url": "https://twitter.com/ScientistRebel1/status/1585218258277629952/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1920,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								9,
+								16
+							],
+							"duration_millis": 22849,
+							"variants": [
+								{
+									"bitrate": 950000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1585217019997298700/pu/vid/480x852/9Ymdfpg5V8Aza_c2.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1585217019997298700/pu/vid/720x1280/SVyVv-3w383Nditt.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1585217019997298700/pu/pl/H5SaZctghU-0NnYQ.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 632000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1585217019997298700/pu/vid/320x568/MKvOZEdbQ_wuvfft.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1585215822238462000,
+			"in_reply_to_status_id_str": "1585215822238461955",
+			"in_reply_to_user_id": 1308877368627519500,
+			"in_reply_to_user_id_str": "1308877368627519489",
+			"in_reply_to_screen_name": "ScientistRebel1",
+			"user": {
+				"id": 1308877368627519500,
+				"id_str": "1308877368627519489",
+				"name": "Scientist Rebellion",
+				"screen_name": "ScientistRebel1",
+				"location": "",
+				"description": "Scientists & academics willing to tell the truth about the climate emergency and act accordingly. Join us in civil disobedience! #UniteAgainstClimateFailure",
+				"url": "https://t.co/UO0QEuGBMm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/UO0QEuGBMm",
+								"expanded_url": "https://linktr.ee/ScientistRebellion",
+								"display_url": "linktr.ee/ScientistRebel…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 50319,
+				"friends_count": 1554,
+				"listed_count": 448,
+				"created_at": "Wed Sep 23 21:15:04 +0000 2020",
+				"favourites_count": 6632,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3476,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1309197536788385794/uC7Xl_ge_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1309197536788385794/uC7Xl_ge_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1308877368627519489/1666692092",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 233,
+			"favorite_count": 805,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "In Duitsland krijgen plaktivisten (en wetenschapperts!) applaus van het publiek. https://t.co/MPDdsL9wWz"
+	},
+	{
 		"created_at": "Thu Oct 27 15:14:47 +0000 2022",
 		"id": 1585651229941674000,
 		"id_str": "1585651229941673984",
