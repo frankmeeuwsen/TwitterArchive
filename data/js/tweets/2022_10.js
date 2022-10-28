@@ -1,6 +1,253 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 28 14:34:45 +0000 2022",
+		"id": 1586003543542014000,
+		"id_str": "1586003543542013952",
+		"full_text": "Die edit-knop zal nog wel vertraging hebben… https://t.co/m7ATpTC26i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/m7ATpTC26i",
+					"expanded_url": "https://twitter.com/unusual_whales/status/1585830965993168902",
+					"display_url": "twitter.com/unusual_whales…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8713,
+			"friends_count": 900,
+			"listed_count": 545,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1585830965993169000,
+		"quoted_status_id_str": "1585830965993168902",
+		"quoted_status_permalink": {
+			"url": "https://t.co/m7ATpTC26i",
+			"expanded": "https://twitter.com/unusual_whales/status/1585830965993168902",
+			"display": "twitter.com/unusual_whales…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 28 03:09:00 +0000 2022",
+			"id": 1585830965993169000,
+			"id_str": "1585830965993168902",
+			"full_text": "BREAKING\n\nTwitter’s engineers reportedly could no longer make changes to code as of noon today, per Bloomberg.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				110
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1200616796295848000,
+				"id_str": "1200616796295847936",
+				"name": "unusual_whales",
+				"screen_name": "unusual_whales",
+				"location": "",
+				"description": "Tools for Stocks/Options/Crypto/Market News. Not advice.  \n\nTwitter delayed. Premium + Support: https://t.co/mNqlkPyPC3\n\nDiscord: https://t.co/0xJ9e0ZYYG\nOS: https://t.co/LyZPu57vL5",
+				"url": "https://t.co/Fmux22k4t1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Fmux22k4t1",
+								"expanded_url": "https://unusualwhales.com",
+								"display_url": "unusualwhales.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/mNqlkPyPC3",
+								"expanded_url": "http://unusualwhales.com",
+								"display_url": "unusualwhales.com",
+								"indices": [
+									96,
+									119
+								]
+							},
+							{
+								"url": "https://t.co/0xJ9e0ZYYG",
+								"expanded_url": "http://bit.ly/3Bf2pNJ",
+								"display_url": "bit.ly/3Bf2pNJ",
+								"indices": [
+									130,
+									153
+								]
+							},
+							{
+								"url": "https://t.co/LyZPu57vL5",
+								"expanded_url": "http://bit.ly/3k5Dbv9",
+								"display_url": "bit.ly/3k5Dbv9",
+								"indices": [
+									158,
+									181
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 875237,
+				"friends_count": 2443,
+				"listed_count": 7607,
+				"created_at": "Sat Nov 30 03:25:32 +0000 2019",
+				"favourites_count": 52116,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 88993,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1579971473388998657/G3yAaW9-_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1579971473388998657/G3yAaW9-_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1200616796295847936/1666412140",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2825,
+			"favorite_count": 27898,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Die edit-knop zal nog wel vertraging hebben… https://t.co/m7ATpTC26i"
+	},
+	{
 		"created_at": "Fri Oct 28 08:58:23 +0000 2022",
 		"id": 1585918891397894100,
 		"id_str": "1585918891397894144",
