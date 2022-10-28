@@ -1,6 +1,392 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Fri Oct 28 08:58:23 +0000 2022",
+		"id": 1585918891397894100,
+		"id_str": "1585918891397894144",
+		"full_text": "Het is wachten tot er straatgevechten uitbreken. https://t.co/DPmk7L2zEh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DPmk7L2zEh",
+					"expanded_url": "https://twitter.com/juststop_oil/status/1585909798905724929",
+					"display_url": "twitter.com/juststop_oil/s…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "Werk: @kaliberInteract Nieuwsbriefgeek: https://t.co/UXJIKcZN2m @ForSubscribing. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UXJIKcZN2m",
+							"expanded_url": "http://Thanksforsubscribing.app",
+							"display_url": "Thanksforsubscribing.app",
+							"indices": [
+								40,
+								63
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8714,
+			"friends_count": 900,
+			"listed_count": 548,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67211,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1585909798905725000,
+		"quoted_status_id_str": "1585909798905724929",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DPmk7L2zEh",
+			"expanded": "https://twitter.com/juststop_oil/status/1585909798905724929",
+			"display": "twitter.com/juststop_oil/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 28 08:22:15 +0000 2022",
+			"id": 1585909798905725000,
+			"id_str": "1585909798905724929",
+			"full_text": "🚨 BREAKING: ROLEX STORE SPRAY-PAINTED ORANGE 🚨\n\n⌚️ At 8:30am today, two Just Stop Oil supporters sprayed orange paint from a fire extinguisher over the premises of @ROLEX in Knightsbridge, demanding that the government halts all new oil and gas consents and licences. #FreeLouis https://t.co/iBoNlQwTmc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "FreeLouis",
+						"indices": [
+							268,
+							278
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ROLEX",
+						"name": "ROLEX",
+						"id": 494027712,
+						"id_str": "494027712",
+						"indices": [
+							164,
+							170
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1585905445042065400,
+						"id_str": "1585905445042065408",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1585905445042065408/pu/img/sLxOGA63j5EbfS0F.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1585905445042065408/pu/img/sLxOGA63j5EbfS0F.jpg",
+						"url": "https://t.co/iBoNlQwTmc",
+						"display_url": "pic.twitter.com/iBoNlQwTmc",
+						"expanded_url": "https://twitter.com/JustStop_Oil/status/1585909798905724929/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1585905445042065400,
+						"id_str": "1585905445042065408",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1585905445042065408/pu/img/sLxOGA63j5EbfS0F.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1585905445042065408/pu/img/sLxOGA63j5EbfS0F.jpg",
+						"url": "https://t.co/iBoNlQwTmc",
+						"display_url": "pic.twitter.com/iBoNlQwTmc",
+						"expanded_url": "https://twitter.com/JustStop_Oil/status/1585909798905724929/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 18718,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1585905445042065408/pu/pl/BybYV0L2QRY7cu3m.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1585905445042065408/pu/vid/480x270/EtgZ89zkCz4oka5i.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1585905445042065408/pu/vid/640x360/Hvb6Vdf50yRtd9CP.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1471232646294474800,
+				"id_str": "1471232646294474763",
+				"name": "Just Stop Oil ⚖️💀🛢",
+				"screen_name": "JustStop_Oil",
+				"location": "Westminster, London",
+				"description": "Demanding the UK Government agrees to end all new oil and gas. Support us here: https://t.co/HU2x0v2YSw",
+				"url": "https://t.co/vZiqyNKcBl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/vZiqyNKcBl",
+								"expanded_url": "http://linktr.ee/JustStopOil",
+								"display_url": "linktr.ee/JustStopOil",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/HU2x0v2YSw",
+								"expanded_url": "http://bit.ly/JSOdonate2",
+								"display_url": "bit.ly/JSOdonate2",
+								"indices": [
+									80,
+									103
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 74130,
+				"friends_count": 321,
+				"listed_count": 425,
+				"created_at": "Wed Dec 15 21:36:35 +0000 2021",
+				"favourites_count": 3417,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3841,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1581305326921519106/BbyL9JRA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1581305326921519106/BbyL9JRA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1471232646294474763/1666090910",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "07d9eee112083000",
+				"url": "https://api.twitter.com/1.1/geo/id/07d9eee112083000.json",
+				"place_type": "poi",
+				"name": "Rolex",
+				"full_name": "Rolex",
+				"country_code": "GB",
+				"country": "Verenigd Koninkrijk",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-0.16044471992487025,
+								51.50186287548862
+							],
+							[
+								-0.16044471992487025,
+								51.50186287548862
+							],
+							[
+								-0.16044471992487025,
+								51.50186287548862
+							],
+							[
+								-0.16044471992487025,
+								51.50186287548862
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 155,
+			"favorite_count": 792,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Het is wachten tot er straatgevechten uitbreken. https://t.co/DPmk7L2zEh"
+	},
+	{
 		"created_at": "Fri Oct 28 08:10:19 +0000 2022",
 		"id": 1585906795964661800,
 		"id_str": "1585906795964661760",
