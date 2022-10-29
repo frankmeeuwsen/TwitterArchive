@@ -1,6 +1,286 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 29 18:48:00 +0000 2022",
+		"id": 1586429662057693200,
+		"id_str": "1586429662057693187",
+		"full_text": "@Hermannus @marcoderksen @twopcharts_nl Er is wel iets als dit. Hoop zelf uitvogelen, spuug en ductape vrees ik. https://t.co/Qypbk7AKCb",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hermannus",
+					"name": "Hermannus Stegeman 💬",
+					"id": 53655670,
+					"id_str": "53655670",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "marcoderksen",
+					"name": "Marco Derksen 💬",
+					"id": 1252681,
+					"id_str": "1252681",
+					"indices": [
+						11,
+						24
+					]
+				},
+				{
+					"screen_name": "twopcharts_nl",
+					"name": "twopcharts_nl",
+					"id": 59720670,
+					"id_str": "59720670",
+					"indices": [
+						25,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Qypbk7AKCb",
+					"expanded_url": "https://twitter.com/krusynth/status/1586423408409059329?s=46&t=HBuWg6B640RIS8mbKN951Q",
+					"display_url": "twitter.com/krusynth/statu…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1586267272414388200,
+		"in_reply_to_status_id_str": "1586267272414388226",
+		"in_reply_to_user_id": 53655670,
+		"in_reply_to_user_id_str": "53655670",
+		"in_reply_to_screen_name": "Hermannus",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \nhttps://t.co/XqBTWLSiLg  a.k.a @frankmeeuwsen@mastodon.social\n\nWerk: @kaliberInteract. \n\n#PearlJam\n\n🕹👾",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XqBTWLSiLg",
+							"expanded_url": "http://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8714,
+			"friends_count": 900,
+			"listed_count": 544,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10302,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1586423408409059300,
+		"quoted_status_id_str": "1586423408409059329",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Qypbk7AKCb",
+			"expanded": "https://twitter.com/krusynth/status/1586423408409059329?s=46&t=HBuWg6B640RIS8mbKN951Q",
+			"display": "twitter.com/krusynth/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 29 18:23:09 +0000 2022",
+			"id": 1586423408409059300,
+			"id_str": "1586423408409059329",
+			"full_text": "Okay, so I threw together a script to scrape through the bios of the people you're following to look for mastodon links. Unfortunately, hardly anyone has bothered to put their mastodon handles in their bios. So get on it, people!\n\nhttps://t.co/7TwRqO8vuX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				254
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/7TwRqO8vuX",
+						"expanded_url": "https://github.com/krusynth/twote",
+						"display_url": "github.com/krusynth/twote",
+						"indices": [
+							231,
+							254
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16629639,
+				"id_str": "16629639",
+				"name": "Bill Haunt 🎃 @krusynth@mastodon.cloud",
+				"screen_name": "krusynth",
+				"location": "Washington, DC",
+				"description": "⏩ https://t.co/XlDnHznrf7 ⏪\n\nUS Gov Civic Technologist & Policy Nerd. Govpunk\n\nTweets mine not the gov's\n\nhttps://t.co/rjuqy89ZUe | @EOPbot | @EnderpriseArch",
+				"url": "https://t.co/fPm9VcFiJB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fPm9VcFiJB",
+								"expanded_url": "http://billhunt.dev",
+								"display_url": "billhunt.dev",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/XlDnHznrf7",
+								"expanded_url": "http://mastodon.cloud/@krusynth",
+								"display_url": "mastodon.cloud/@krusynth",
+								"indices": [
+									2,
+									25
+								]
+							},
+							{
+								"url": "https://t.co/rjuqy89ZUe",
+								"expanded_url": "http://digitalpolicy.us",
+								"display_url": "digitalpolicy.us",
+								"indices": [
+									106,
+									129
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2980,
+				"friends_count": 985,
+				"listed_count": 150,
+				"created_at": "Tue Oct 07 13:43:25 +0000 2008",
+				"favourites_count": 38672,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4199,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1178102930521677825/2tP_tW2K_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1178102930521677825/2tP_tW2K_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16629639/1442327829",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@Hermannus @marcoderksen @twopcharts_nl Er is wel iets als dit. Hoop zelf uitvogelen, spuug en ductape vrees ik. https://t.co/Qypbk7AKCb"
+	},
+	{
 		"created_at": "Sat Oct 29 10:37:12 +0000 2022",
 		"id": 1586306148847820800,
 		"id_str": "1586306148847820801",
