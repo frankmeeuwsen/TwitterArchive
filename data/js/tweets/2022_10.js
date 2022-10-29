@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 29 08:10:25 +0000 2022",
+		"id": 1586269210929291300,
+		"id_str": "1586269210929291264",
+		"full_text": "Ik ben benieuwd of Twitter wel laat linken naar https://t.co/1mUGY2vn2c https://t.co/EQBJKSk4vZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1mUGY2vn2c",
+					"expanded_url": "https://mastodon.social",
+					"display_url": "mastodon.social",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1586269207087517700,
+					"id_str": "1586269207087517698",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FgOPcH6XkAIP5wX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgOPcH6XkAIP5wX.jpg",
+					"url": "https://t.co/EQBJKSk4vZ",
+					"display_url": "pic.twitter.com/EQBJKSk4vZ",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1586269210929291264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 465,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 465,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1586269207087517700,
+					"id_str": "1586269207087517698",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FgOPcH6XkAIP5wX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgOPcH6XkAIP5wX.jpg",
+					"url": "https://t.co/EQBJKSk4vZ",
+					"display_url": "pic.twitter.com/EQBJKSk4vZ",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1586269210929291264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 828,
+							"h": 465,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 465,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊reclaim the web! https://t.co/gmPp3OQ3Y9  Werk: @kaliberInteract. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gmPp3OQ3Y9",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								18,
+								41
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8711,
+			"friends_count": 900,
+			"listed_count": 545,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10300,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik ben benieuwd of Twitter wel laat linken naar https://t.co/1mUGY2vn2c https://t.co/EQBJKSk4vZ"
+	},
+	{
 		"created_at": "Sat Oct 29 06:37:20 +0000 2022",
 		"id": 1586245784281895000,
 		"id_str": "1586245784281894918",
