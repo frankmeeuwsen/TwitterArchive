@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sat Oct 29 05:49:41 +0000 2022",
+		"id": 1586233791126773800,
+		"id_str": "1586233791126773760",
+		"full_text": "@kornelisw @dinosaurjr @QFactory_Adam hoe was het?",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kornelisw",
+					"name": "kornelis wetsema",
+					"id": 40036274,
+					"id_str": "40036274",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "dinosaurjr",
+					"name": "Dinosaur Jr",
+					"id": 19952246,
+					"id_str": "19952246",
+					"indices": [
+						11,
+						22
+					]
+				},
+				{
+					"screen_name": "QFactory_Adam",
+					"name": "Q-Factory Amsterdam",
+					"id": 132456174,
+					"id_str": "132456174",
+					"indices": [
+						23,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1586232976438071300,
+		"in_reply_to_status_id_str": "1586232976438071296",
+		"in_reply_to_user_id": 40036274,
+		"in_reply_to_user_id_str": "40036274",
+		"in_reply_to_screen_name": "kornelisw",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊reclaim the web! https://t.co/gmPp3OQ3Y9  Werk: @kaliberInteract. #PearlJam",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gmPp3OQ3Y9",
+							"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								18,
+								41
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8713,
+			"friends_count": 900,
+			"listed_count": 545,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10298,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67215,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@kornelisw @dinosaurjr @QFactory_Adam hoe was het?"
+	},
+	{
 		"created_at": "Fri Oct 28 16:37:25 +0000 2022",
 		"id": 1585808821179809800,
 		"id_str": "1586034411253817344",
