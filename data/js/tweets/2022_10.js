@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Sun Oct 30 10:18:22 +0000 2022",
+		"id": 1586663794662686700,
+		"id_str": "1586663794662686721",
+		"full_text": "@hellahueck @harrytenberge Omdat het dan niet om de conversatie hoeft te gaan, maar alleen het zenden. Gelukkig heeft Mastodon filters om de crossposts er uit te filteren ;-)",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hellahueck",
+					"name": "Hella Hueck",
+					"id": 17763880,
+					"id_str": "17763880",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "harrytenberge",
+					"name": "Harry ten Berge",
+					"id": 195813863,
+					"id_str": "195813863",
+					"indices": [
+						12,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1586662499125969000,
+		"in_reply_to_status_id_str": "1586662499125968899",
+		"in_reply_to_user_id": 17763880,
+		"in_reply_to_user_id_str": "17763880",
+		"in_reply_to_screen_name": "hellahueck",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \nhttps://t.co/XqBTWLSiLg  a.k.a @frankmeeuwsen@mastodon.social\n\nWerk: @kaliberInteract. \n\n#PearlJam\n\n🕹👾",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XqBTWLSiLg",
+							"expanded_url": "http://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8712,
+			"friends_count": 900,
+			"listed_count": 544,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@hellahueck @harrytenberge Omdat het dan niet om de conversatie hoeft te gaan, maar alleen het zenden. Gelukkig heeft Mastodon filters om de crossposts er uit te filteren ;-)"
+	},
+	{
 		"created_at": "Sat Oct 29 18:48:00 +0000 2022",
 		"id": 1586429662057693200,
 		"id_str": "1586429662057693187",
