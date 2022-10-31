@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 31 17:48:45 +0000 2022",
+		"id": 1586904858547871700,
+		"id_str": "1587139528824946693",
+		"full_text": "Mundane Halloween is back!\n\nJapan does Halloween better than anyone, but best of all is the annual \"mundane Halloween\" contest sponsored by website @dailyportalz.\n\nThe point is to dress up as something super ordinary.\n\nHere are some of my favorites from this year...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dailyportalz",
+					"name": "デイリーポータルZ",
+					"id": 35624100,
+					"id_str": "35624100",
+					"indices": [
+						148,
+						161
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 111767172,
+			"id_str": "111767172",
+			"name": "Nick Kapur",
+			"screen_name": "nick_kapur",
+			"location": "",
+			"description": "Historian of Japan and East Asia. I only tweet extremely interesting things.\n\nAuthor of \"Japan at the Crossroads,\" out now from Harvard University Press.",
+			"url": "https://t.co/PBsLiCkEbW",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PBsLiCkEbW",
+							"expanded_url": "http://www.hup.harvard.edu/catalog.php?isbn=9780674984424",
+							"display_url": "hup.harvard.edu/catalog.php?is…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 28830,
+			"friends_count": 365,
+			"listed_count": 426,
+			"created_at": "Sat Feb 06 02:34:40 +0000 2010",
+			"favourites_count": 65929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/686583155206303744/krGiFvYM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/686583155206303744/krGiFvYM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/111767172/1619318334",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6699,
+		"favorite_count": 25898,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Mundane Halloween is back!\n\nJapan does Halloween better than anyone, but best of all is the annual \"mundane Halloween\" contest sponsored by website @dailyportalz.\n\nThe point is to dress up as something super ordinary.\n\nHere are some of my favorites from this year..."
+	},
+	{
 		"created_at": "Mon Oct 31 14:55:17 +0000 2022",
 		"id": 1587038027116941300,
 		"id_str": "1587095871539273728",
