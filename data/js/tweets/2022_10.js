@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Mon Oct 31 14:55:17 +0000 2022",
+		"id": 1587038027116941300,
+		"id_str": "1587095871539273728",
+		"full_text": "Poging om Mastodon uit te leggen voor mensen die van Twitter komen. Het is een ander systeem, en ik begrijp de verwarring! (1/n)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20519534,
+			"id_str": "20519534",
+			"name": "Jeroen Baert",
+			"screen_name": "jbaert",
+			"location": "Leuven, Belgium",
+			"description": "Computer scientist 🖥️, comedian 🎭, engineer ⚙️, geek 👾, science communicator🎙️@nerdlandbe, @bilvzw, @ministryprivacy (NL/EN)(he/him) @jbaert@mastodon.social",
+			"url": "https://t.co/mAP3BaoA9P",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mAP3BaoA9P",
+							"expanded_url": "https://www.jeroen-baert.be",
+							"display_url": "jeroen-baert.be",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26349,
+			"friends_count": 677,
+			"listed_count": 177,
+			"created_at": "Tue Feb 10 15:26:49 +0000 2009",
+			"favourites_count": 553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 71762,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1552036624854310913/6Sph0HvD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1552036624854310913/6Sph0HvD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20519534/1434468463",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C0DFEC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 212,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "nl",
+		"text": "Poging om Mastodon uit te leggen voor mensen die van Twitter komen. Het is een ander systeem, en ik begrijp de verwarring! (1/n)"
+	},
+	{
+		"created_at": "Mon Oct 31 14:55:01 +0000 2022",
+		"id": 1587043540638515200,
+		"id_str": "1587095807043551233",
+		"full_text": "@jbaert Poging om Mastodon uit te leggen voor mensen die van Metallica komen. Het is een ander systeem, en ik begrijp de verwarring! https://t.co/5CSfnajH8I",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jbaert",
+					"name": "Jeroen Baert",
+					"id": 20519534,
+					"id_str": "20519534",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1587043533713772500,
+					"id_str": "1587043533713772544",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FgZPr3YXEAAvUMY.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FgZPr3YXEAAvUMY.jpg",
+					"url": "https://t.co/5CSfnajH8I",
+					"display_url": "pic.twitter.com/5CSfnajH8I",
+					"expanded_url": "https://twitter.com/Dries_Sc/status/1587043540638515201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1587043533713772500,
+					"id_str": "1587043533713772544",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FgZPr3YXEAAvUMY.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FgZPr3YXEAAvUMY.jpg",
+					"url": "https://t.co/5CSfnajH8I",
+					"display_url": "pic.twitter.com/5CSfnajH8I",
+					"expanded_url": "https://twitter.com/Dries_Sc/status/1587043540638515201/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FgZPr3YXEAAvUMY.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1587038027116941300,
+		"in_reply_to_status_id_str": "1587038027116941316",
+		"in_reply_to_user_id": 20519534,
+		"in_reply_to_user_id_str": "20519534",
+		"in_reply_to_screen_name": "jbaert",
+		"user": {
+			"id": 260399785,
+			"id_str": "260399785",
+			"name": "Dries (no MP)",
+			"screen_name": "Dries_Sc",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22,
+			"friends_count": 180,
+			"listed_count": 0,
+			"created_at": "Thu Mar 03 20:28:37 +0000 2011",
+			"favourites_count": 4366,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 554,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1055915026224238592/VSjzN_0k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055915026224238592/VSjzN_0k_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 50,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@jbaert Poging om Mastodon uit te leggen voor mensen die van Metallica komen. Het is een ander systeem, en ik begrijp de verwarring! https://t.co/5CSfnajH8I"
+	},
+	{
 		"created_at": "Mon Oct 31 14:09:00 +0000 2022",
 		"id": 1587084226352013300,
 		"id_str": "1587084226352013313",
