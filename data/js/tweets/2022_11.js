@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 01 17:19:10 +0000 2022",
+		"id": 1587494469494100000,
+		"id_str": "1587494469494099969",
+		"full_text": "@KarenRomme @merchandise @tjarko Springen voor NAC? ;-)",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KarenRomme",
+					"name": "Karen Romme",
+					"id": 23805234,
+					"id_str": "23805234",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "merchandise",
+					"name": "Richard Theuws",
+					"id": 7167342,
+					"id_str": "7167342",
+					"indices": [
+						12,
+						24
+					]
+				},
+				{
+					"screen_name": "tjarko",
+					"name": "Tjarko",
+					"id": 997804616455770100,
+					"id_str": "997804616455770113",
+					"indices": [
+						25,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1587481570222416000,
+		"in_reply_to_status_id_str": "1587481570222415873",
+		"in_reply_to_user_id": 23805234,
+		"in_reply_to_user_id_str": "23805234",
+		"in_reply_to_screen_name": "KarenRomme",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \nhttps://t.co/XqBTWLSiLg  a.k.a @frankmeeuwsen@mastodon.social\n\nWerk: @kaliberInteract. \n\n#PearlJam\n\n🕹👾",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XqBTWLSiLg",
+							"expanded_url": "http://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8710,
+			"friends_count": 899,
+			"listed_count": 543,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67248,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@KarenRomme @merchandise @tjarko Springen voor NAC? ;-)"
+	},
+	{
 		"created_at": "Tue Nov 01 15:25:09 +0000 2022",
 		"id": 1587456412317196300,
 		"id_str": "1587465775803256833",
