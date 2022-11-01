@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 01 14:27:56 +0000 2022",
+		"id": 1587416739704459300,
+		"id_str": "1587451378800156675",
+		"full_text": "Hi Everybody: I moved my miekeroth@mastodon.social to https://t.co/H0v9LBS4ou to be able to upload images and videos again. I though all my followers would get transferred, but it seems they don't? Anyhow, if you search for me on mastodon, you will get to the right account!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H0v9LBS4ou",
+					"expanded_url": "http://mastodon.art",
+					"display_url": "mastodon.art",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 259871223,
+			"id_str": "259871223",
+			"name": "Mieke Roth",
+			"screen_name": "miekeroth",
+			"location": "In my studio, modeling",
+			"description": "Animal scientist/scientific visualizer, @Sketchfab certified partner #VaccinesWork I make animal anatomy look so cool, you can't wait to know more!",
+			"url": "https://t.co/PmFhBaGhin",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/PmFhBaGhin",
+							"expanded_url": "https://linktr.ee/miekeroth",
+							"display_url": "linktr.ee/miekeroth",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7274,
+			"friends_count": 7017,
+			"listed_count": 223,
+			"created_at": "Wed Mar 02 19:28:59 +0000 2011",
+			"favourites_count": 228828,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 165634,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1559523627929845760/x9oh6kFg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1559523627929845760/x9oh6kFg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/259871223/1651772613",
+			"profile_link_color": "3B3828",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hi Everybody: I moved my miekeroth@mastodon.social to https://t.co/H0v9LBS4ou to be able to upload images and videos again. I though all my followers would get transferred, but it seems they don't? Anyhow, if you search for me on mastodon, you will get to the right account!"
+	},
+	{
 		"created_at": "Tue Nov 01 12:28:11 +0000 2022",
 		"id": 1587421240033247200,
 		"id_str": "1587421240033247233",
