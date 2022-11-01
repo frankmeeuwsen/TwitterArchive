@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 01 17:50:46 +0000 2022",
+		"id": 1587502423110721500,
+		"id_str": "1587502423110721536",
+		"full_text": "Ik ben echt wel benieuwd hoe lang deze golf aanhoudt. Traditioneel is er na 1-2 weken een terugval vanaf nieuwe sociale netwerken. Wordt dat nu langer? Of is het blijvend? https://t.co/NQqgqVmAzC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NQqgqVmAzC",
+					"expanded_url": "https://techcrunch.com/2022/10/31/mastodons-microblogging-app-saw-a-record-number-of-downloads-after-musks-twitter-takeover/?tpcc=tcplustwitter",
+					"display_url": "techcrunch.com/2022/10/31/mas…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \nhttps://t.co/XqBTWLSiLg  a.k.a @frankmeeuwsen@mastodon.social\n\nWerk: @kaliberInteract. \n\n#PearlJam\n\n🕹👾",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XqBTWLSiLg",
+							"expanded_url": "http://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8710,
+			"friends_count": 899,
+			"listed_count": 543,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67250,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Ik ben echt wel benieuwd hoe lang deze golf aanhoudt. Traditioneel is er na 1-2 weken een terugval vanaf nieuwe sociale netwerken. Wordt dat nu langer? Of is het blijvend? https://t.co/NQqgqVmAzC"
+	},
+	{
 		"created_at": "Tue Nov 01 17:19:10 +0000 2022",
 		"id": 1587494469494100000,
 		"id_str": "1587494469494099969",
