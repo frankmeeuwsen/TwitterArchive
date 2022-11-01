@@ -1,6 +1,304 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 01 19:27:14 +0000 2022",
+		"id": 1587526700883185700,
+		"id_str": "1587526700883185664",
+		"full_text": "\"$8! With priority in replies, mentions, and search, the ability to post long video and audio and half as many ads.\n\nThis is the way.\"\n\nNo wait... https://t.co/JUjwp5vxKG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			146
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JUjwp5vxKG",
+					"expanded_url": "https://twitter.com/il0venostalgia/status/1587451952518107138",
+					"display_url": "twitter.com/il0venostalgia…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \nhttps://t.co/XqBTWLSiLg  a.k.a @frankmeeuwsen@mastodon.social\n\nWerk: @kaliberInteract. \n\n#PearlJam\n\n🕹👾",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XqBTWLSiLg",
+							"expanded_url": "http://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8710,
+			"friends_count": 899,
+			"listed_count": 543,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67255,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1587451952518107100,
+		"quoted_status_id_str": "1587451952518107138",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JUjwp5vxKG",
+			"expanded": "https://twitter.com/il0venostalgia/status/1587451952518107138",
+			"display": "twitter.com/il0venostalgia…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 01 14:30:13 +0000 2022",
+			"id": 1587451952518107100,
+			"id_str": "1587451952518107138",
+			"full_text": "Caption this... https://t.co/JJp9YtEmHy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				15
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1587451897362907100,
+						"id_str": "1587451897362907137",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/FgfDFwhWAAEoQay.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FgfDFwhWAAEoQay.jpg",
+						"url": "https://t.co/JJp9YtEmHy",
+						"display_url": "pic.twitter.com/JJp9YtEmHy",
+						"expanded_url": "https://twitter.com/il0venostalgia/status/1587451952518107138/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 859,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 456,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 805,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1587451897362907100,
+						"id_str": "1587451897362907137",
+						"indices": [
+							16,
+							39
+						],
+						"media_url": "http://pbs.twimg.com/media/FgfDFwhWAAEoQay.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FgfDFwhWAAEoQay.jpg",
+						"url": "https://t.co/JJp9YtEmHy",
+						"display_url": "pic.twitter.com/JJp9YtEmHy",
+						"expanded_url": "https://twitter.com/il0venostalgia/status/1587451952518107138/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 859,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 456,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 805,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 313579583,
+				"id_str": "313579583",
+				"name": "I❤️Nostalgia",
+				"screen_name": "il0venostalgia",
+				"location": "England, United Kingdom",
+				"description": "Bringing you nostalgia from the 60s/70s/80s/90s and maybe even the 00s. Main account is @il0vethe80s which is currently suspended ☹️",
+				"url": "https://t.co/hOLJBYrJMu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hOLJBYrJMu",
+								"expanded_url": "http://ilovethe80s.me",
+								"display_url": "ilovethe80s.me",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 94164,
+				"friends_count": 493,
+				"listed_count": 350,
+				"created_at": "Wed Jun 08 21:46:44 +0000 2011",
+				"favourites_count": 834,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 27319,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1084080182913310720/rPCJnt_8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084080182913310720/rPCJnt_8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/313579583/1547300112",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 51,
+			"favorite_count": 591,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"$8! With priority in replies, mentions, and search, the ability to post long video and audio and half as many ads.\n\nThis is the way.\"\n\nNo wait... https://t.co/JUjwp5vxKG"
+	},
+	{
 		"created_at": "Tue Nov 01 19:14:02 +0000 2022",
 		"id": 1587523377585000400,
 		"id_str": "1587523377585000448",
