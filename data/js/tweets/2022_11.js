@@ -1,6 +1,241 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 01 11:13:27 +0000 2022",
+		"id": 1587402433692582000,
+		"id_str": "1587402433692581890",
+		"full_text": "Keuzestress. Wil ik mijn zorgvuldig opgebouwde en gewaarborgde online identiteit🤣 koppelen aan een server met de naam https://t.co/1iztH9Yyu3, met de naam https://t.co/hOam6UzFe3 of met het hele niche https://t.co/A6N7BHZ4T2? Of misschien wel een eigen https://t.co/xg0DN6v1Pi? https://t.co/VzD3U5OIf8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1iztH9Yyu3",
+					"expanded_url": "http://indieweb.social",
+					"display_url": "indieweb.social",
+					"indices": [
+						118,
+						141
+					]
+				},
+				{
+					"url": "https://t.co/hOam6UzFe3",
+					"expanded_url": "http://mastodon.nl",
+					"display_url": "mastodon.nl",
+					"indices": [
+						155,
+						178
+					]
+				},
+				{
+					"url": "https://t.co/A6N7BHZ4T2",
+					"expanded_url": "http://tilde.zone",
+					"display_url": "tilde.zone",
+					"indices": [
+						201,
+						224
+					]
+				},
+				{
+					"url": "https://t.co/xg0DN6v1Pi",
+					"expanded_url": "http://bloghelden.nl",
+					"display_url": "bloghelden.nl",
+					"indices": [
+						253,
+						276
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1587402426621075500,
+					"id_str": "1587402426621075457",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FgeWGLpXoAEvRi_.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FgeWGLpXoAEvRi_.jpg",
+					"url": "https://t.co/VzD3U5OIf8",
+					"display_url": "pic.twitter.com/VzD3U5OIf8",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1587402433692581890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1587402426621075500,
+					"id_str": "1587402426621075457",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FgeWGLpXoAEvRi_.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FgeWGLpXoAEvRi_.jpg",
+					"url": "https://t.co/VzD3U5OIf8",
+					"display_url": "pic.twitter.com/VzD3U5OIf8",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1587402433692581890/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 500,
+							"h": 200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 200,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							5,
+							2
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FgeWGLpXoAEvRi_.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \nhttps://t.co/XqBTWLSiLg  a.k.a @frankmeeuwsen@mastodon.social\n\nWerk: @kaliberInteract. \n\n#PearlJam\n\n🕹👾",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XqBTWLSiLg",
+							"expanded_url": "http://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8709,
+			"friends_count": 899,
+			"listed_count": 543,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10316,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67241,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Keuzestress. Wil ik mijn zorgvuldig opgebouwde en gewaarborgde online identiteit🤣 koppelen aan een server met de naam https://t.co/1iztH9Yyu3, met de naam https://t.co/hOam6UzFe3 of met het hele niche https://t.co/A6N7BHZ4T2? Of misschien wel een eigen https://t.co/xg0DN6v1Pi? https://t.co/VzD3U5OIf8"
+	},
+	{
 		"created_at": "Tue Nov 01 06:08:20 +0000 2022",
 		"id": 1587235262081499100,
 		"id_str": "1587325649668259840",
