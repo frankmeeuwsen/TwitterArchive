@@ -1,6 +1,359 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sat Nov 05 08:46:28 +0000 2022",
+		"id": 1588814994929750000,
+		"id_str": "1588814994929750019",
+		"full_text": "@kimschrijft @KAFygi @roosvanvugt DM of mail me als je er niet uit komt. Ik help je graag.",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kimschrijft",
+					"name": "Kim Pot",
+					"id": 794174175862751200,
+					"id_str": "794174175862751232",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "KAFygi",
+					"name": "Kari-Anne Fygi 🚲",
+					"id": 8242152,
+					"id_str": "8242152",
+					"indices": [
+						13,
+						20
+					]
+				},
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						21,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1588814494821933000,
+		"in_reply_to_status_id_str": "1588814494821933057",
+		"in_reply_to_user_id": 794174175862751200,
+		"in_reply_to_user_id_str": "794174175862751232",
+		"in_reply_to_screen_name": "kimschrijft",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \nhttps://t.co/XqBTWLSiLg  a.k.a @frankmeeuwsen@mastodon.social\n\nWerk: @kaliberInteract. \n\n#PearlJam\n\n🕹👾",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XqBTWLSiLg",
+							"expanded_url": "http://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8702,
+			"friends_count": 897,
+			"listed_count": 542,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@kimschrijft @KAFygi @roosvanvugt DM of mail me als je er niet uit komt. Ik help je graag."
+	},
+	{
+		"created_at": "Sat Nov 05 08:43:30 +0000 2022",
+		"id": 1588814251648774100,
+		"id_str": "1588814251648774144",
+		"full_text": "@kimschrijft @KAFygi @roosvanvugt 1. Zet een link naar je Mastodon-profielpagina op je homepage. \n2. In je Mastodon profiel zet je een link naar de pagina op je site waar de link naar je Mastodon profiel staat\n\nJe krijgt een groen vinkje achter de link. Zo zien Mastodon gebruikers dat het echt jouw account is. https://t.co/j6sUAWjIvh",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			311
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kimschrijft",
+					"name": "Kim Pot",
+					"id": 794174175862751200,
+					"id_str": "794174175862751232",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "KAFygi",
+					"name": "Kari-Anne Fygi 🚲",
+					"id": 8242152,
+					"id_str": "8242152",
+					"indices": [
+						13,
+						20
+					]
+				},
+				{
+					"screen_name": "roosvanvugt",
+					"name": "Roos",
+					"id": 21687228,
+					"id_str": "21687228",
+					"indices": [
+						21,
+						33
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1588814209365721000,
+					"id_str": "1588814209365721089",
+					"indices": [
+						312,
+						335
+					],
+					"media_url": "http://pbs.twimg.com/media/FgyaGwNWQAE5IIU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgyaGwNWQAE5IIU.jpg",
+					"url": "https://t.co/j6sUAWjIvh",
+					"display_url": "pic.twitter.com/j6sUAWjIvh",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1588814251648774144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1168,
+							"h": 1176,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1168,
+							"h": 1176,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1588814209365721000,
+					"id_str": "1588814209365721089",
+					"indices": [
+						312,
+						335
+					],
+					"media_url": "http://pbs.twimg.com/media/FgyaGwNWQAE5IIU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FgyaGwNWQAE5IIU.jpg",
+					"url": "https://t.co/j6sUAWjIvh",
+					"display_url": "pic.twitter.com/j6sUAWjIvh",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1588814251648774144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1168,
+							"h": 1176,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1168,
+							"h": 1176,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1588813547144118300,
+		"in_reply_to_status_id_str": "1588813547144118272",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \nhttps://t.co/XqBTWLSiLg  a.k.a @frankmeeuwsen@mastodon.social\n\nWerk: @kaliberInteract. \n\n#PearlJam\n\n🕹👾",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XqBTWLSiLg",
+							"expanded_url": "http://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8702,
+			"friends_count": 897,
+			"listed_count": 542,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@kimschrijft @KAFygi @roosvanvugt 1. Zet een link naar je Mastodon-profielpagina op je homepage. \n2. In je Mastodon profiel zet je een link naar de pagina op je site waar de link naar je Mastodon profiel staat\n\nJe krijgt een groen vinkje achter de link. Zo zien Mastodon gebruikers dat het echt jouw account is. https://t.co/j6sUAWjIvh"
+	},
+	{
 		"created_at": "Fri Nov 04 20:09:07 +0000 2022",
 		"id": 1588624402664816600,
 		"id_str": "1588624402664816641",
