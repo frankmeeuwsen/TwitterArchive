@@ -1,6 +1,729 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sat Nov 05 20:13:17 +0000 2022",
+		"id": 1588987840880599000,
+		"id_str": "1588987840880599040",
+		"full_text": "@BJTStevens @erwblo Hij kan vast goed nadenken maar dat wil niet zeggen dat ik het eens ben met zijn denkwijze.",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BJTStevens",
+					"name": "Bart Stevens",
+					"id": 8049512,
+					"id_str": "8049512",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "erwblo",
+					"name": "Erwin Blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						12,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1588983785466790000,
+		"in_reply_to_status_id_str": "1588983785466789888",
+		"in_reply_to_user_id": 8049512,
+		"in_reply_to_user_id_str": "8049512",
+		"in_reply_to_screen_name": "BJTStevens",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \nhttps://t.co/XqBTWLSiLg  a.k.a @frankmeeuwsen@mastodon.social\n\nWerk: @kaliberInteract. \n\n#PearlJam\n\n🕹👾",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XqBTWLSiLg",
+							"expanded_url": "http://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8700,
+			"friends_count": 896,
+			"listed_count": 542,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10329,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@BJTStevens @erwblo Hij kan vast goed nadenken maar dat wil niet zeggen dat ik het eens ben met zijn denkwijze."
+	},
+	{
+		"created_at": "Sat Nov 05 19:45:40 +0000 2022",
+		"id": 1588980889865703400,
+		"id_str": "1588980889865703431",
+		"full_text": "Waarom een federated toekomst voor sociale netwerken de weg vooruit is? Lees dit van @jeffjarvis. Hij weet waar hij het over heeft. Hij trekt de juiste mensen er bij om zijn punt te maken (Doctorow, Zittrain, Winer, Masnick). Geen lullige blogpost.\n https://t.co/oWwuqE9Ewb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jeffjarvis",
+					"name": "Jeff Jarvis",
+					"id": 11435642,
+					"id_str": "11435642",
+					"indices": [
+						85,
+						96
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/oWwuqE9Ewb",
+					"expanded_url": "https://medium.com/whither-news/hope-for-a-post-musk-net-f156d0cdf431",
+					"display_url": "medium.com/whither-news/h…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \nhttps://t.co/XqBTWLSiLg  a.k.a @frankmeeuwsen@mastodon.social\n\nWerk: @kaliberInteract. \n\n#PearlJam\n\n🕹👾",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XqBTWLSiLg",
+							"expanded_url": "http://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8700,
+			"friends_count": 896,
+			"listed_count": 542,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10329,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Waarom een federated toekomst voor sociale netwerken de weg vooruit is? Lees dit van @jeffjarvis. Hij weet waar hij het over heeft. Hij trekt de juiste mensen er bij om zijn punt te maken (Doctorow, Zittrain, Winer, Masnick). Geen lullige blogpost.\n https://t.co/oWwuqE9Ewb"
+	},
+	{
+		"created_at": "Sat Nov 05 19:42:56 +0000 2022",
+		"id": 1588980202985918500,
+		"id_str": "1588980202985918464",
+		"full_text": "@erwblo Daar zouden we dan 8 euro voor moeten betalen Erwin, om hoofdschuddend dit soort oneliners naar elkaar te spuwen.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "erwblo",
+					"name": "Erwin Blom",
+					"id": 713333,
+					"id_str": "713333",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1588979574322638800,
+		"in_reply_to_status_id_str": "1588979574322638848",
+		"in_reply_to_user_id": 713333,
+		"in_reply_to_user_id_str": "713333",
+		"in_reply_to_screen_name": "erwblo",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \nhttps://t.co/XqBTWLSiLg  a.k.a @frankmeeuwsen@mastodon.social\n\nWerk: @kaliberInteract. \n\n#PearlJam\n\n🕹👾",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XqBTWLSiLg",
+							"expanded_url": "http://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8700,
+			"friends_count": 896,
+			"listed_count": 542,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10329,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@erwblo Daar zouden we dan 8 euro voor moeten betalen Erwin, om hoofdschuddend dit soort oneliners naar elkaar te spuwen."
+	},
+	{
+		"created_at": "Sat Nov 05 19:39:43 +0000 2022",
+		"id": 1588979392122065000,
+		"id_str": "1588979392122064896",
+		"full_text": "@Vigro Je bent in handen van een megalomane miljardair zonder enig eigen zeggenschap hoe je je communicatie op dit besloten deel van het internet inricht en gebruikt. En dat voor 8 dollar per maand. Oh well...",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Vigro",
+					"name": "Martin Klomp",
+					"id": 6256452,
+					"id_str": "6256452",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1588977581260423200,
+		"in_reply_to_status_id_str": "1588977581260423169",
+		"in_reply_to_user_id": 6256452,
+		"in_reply_to_user_id_str": "6256452",
+		"in_reply_to_screen_name": "Vigro",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \nhttps://t.co/XqBTWLSiLg  a.k.a @frankmeeuwsen@mastodon.social\n\nWerk: @kaliberInteract. \n\n#PearlJam\n\n🕹👾",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XqBTWLSiLg",
+							"expanded_url": "http://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8700,
+			"friends_count": 896,
+			"listed_count": 542,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10329,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Vigro Je bent in handen van een megalomane miljardair zonder enig eigen zeggenschap hoe je je communicatie op dit besloten deel van het internet inricht en gebruikt. En dat voor 8 dollar per maand. Oh well..."
+	},
+	{
+		"created_at": "Sat Nov 05 19:37:48 +0000 2022",
+		"id": 1588978909462220800,
+		"id_str": "1588978909462220801",
+		"full_text": "@Vigro Ik gaf geen antwoord op je vraag (och was er maar een edit knop) maar ik heb geen idee of hij met lijsten stopt. En dan nog. Hij is in control. Hij bepaalt wat je hier als gebruiker mag. Of je nou betaalt of niet.",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Vigro",
+					"name": "Martin Klomp",
+					"id": 6256452,
+					"id_str": "6256452",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1588977581260423200,
+		"in_reply_to_status_id_str": "1588977581260423169",
+		"in_reply_to_user_id": 6256452,
+		"in_reply_to_user_id_str": "6256452",
+		"in_reply_to_screen_name": "Vigro",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \nhttps://t.co/XqBTWLSiLg  a.k.a @frankmeeuwsen@mastodon.social\n\nWerk: @kaliberInteract. \n\n#PearlJam\n\n🕹👾",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XqBTWLSiLg",
+							"expanded_url": "http://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8700,
+			"friends_count": 896,
+			"listed_count": 542,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10329,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Vigro Ik gaf geen antwoord op je vraag (och was er maar een edit knop) maar ik heb geen idee of hij met lijsten stopt. En dan nog. Hij is in control. Hij bepaalt wat je hier als gebruiker mag. Of je nou betaalt of niet."
+	},
+	{
+		"created_at": "Sat Nov 05 19:36:47 +0000 2022",
+		"id": 1588978651936481300,
+		"id_str": "1588978651936481280",
+		"full_text": "@Vigro Het is natuurlijk absurd. Dit heeft niets met verificatie te maken, maar alles met gewoon betalen om met elkaar te praten op een dorpsplein. Tussen alle ruis, advertenties, retweets en geschreeuw door...",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Vigro",
+					"name": "Martin Klomp",
+					"id": 6256452,
+					"id_str": "6256452",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1588977581260423200,
+		"in_reply_to_status_id_str": "1588977581260423169",
+		"in_reply_to_user_id": 6256452,
+		"in_reply_to_user_id_str": "6256452",
+		"in_reply_to_screen_name": "Vigro",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \nhttps://t.co/XqBTWLSiLg  a.k.a @frankmeeuwsen@mastodon.social\n\nWerk: @kaliberInteract. \n\n#PearlJam\n\n🕹👾",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XqBTWLSiLg",
+							"expanded_url": "http://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8700,
+			"friends_count": 896,
+			"listed_count": 542,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10329,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Vigro Het is natuurlijk absurd. Dit heeft niets met verificatie te maken, maar alles met gewoon betalen om met elkaar te praten op een dorpsplein. Tussen alle ruis, advertenties, retweets en geschreeuw door..."
+	},
+	{
 		"created_at": "Sat Nov 05 08:46:28 +0000 2022",
 		"id": 1588814994929750000,
 		"id_str": "1588814994929750019",
