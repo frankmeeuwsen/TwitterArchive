@@ -1,6 +1,920 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sat Nov 05 22:39:04 +0000 2022",
+		"id": 1589024528042463200,
+		"id_str": "1589024528042463233",
+		"full_text": "@LaurensVHG @brechtjedeleij @roelant @loesschenk En voor die Twittervrienden zoeken, gebruik de website https://t.co/Rbj55qOHdA (niet mobiel, want je gaat csv bestanden downloaden en importeren. Lekker nerdy!)",
+		"truncated": false,
+		"display_text_range": [
+			49,
+			209
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LaurensVHG",
+					"name": "Laurens Verhagen",
+					"id": 22753223,
+					"id_str": "22753223",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "brechtjedeleij",
+					"name": "Brechtje de Leij",
+					"id": 9880322,
+					"id_str": "9880322",
+					"indices": [
+						12,
+						27
+					]
+				},
+				{
+					"screen_name": "roelant",
+					"name": "Roelant (@roelant@mastodon.social)",
+					"id": 15146577,
+					"id_str": "15146577",
+					"indices": [
+						28,
+						36
+					]
+				},
+				{
+					"screen_name": "loesschenk",
+					"name": "loesschenk",
+					"id": 17872251,
+					"id_str": "17872251",
+					"indices": [
+						37,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Rbj55qOHdA",
+					"expanded_url": "https://fedifinder.glitch.me/",
+					"display_url": "fedifinder.glitch.me",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1589024202459213800,
+		"in_reply_to_status_id_str": "1589024202459213824",
+		"in_reply_to_user_id": 22753223,
+		"in_reply_to_user_id_str": "22753223",
+		"in_reply_to_screen_name": "LaurensVHG",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \nhttps://t.co/XqBTWLSiLg  a.k.a @frankmeeuwsen@mastodon.social\n\nWerk: @kaliberInteract. \n\n#PearlJam\n\n🕹👾",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XqBTWLSiLg",
+							"expanded_url": "http://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8700,
+			"friends_count": 895,
+			"listed_count": 542,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10329,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@LaurensVHG @brechtjedeleij @roelant @loesschenk En voor die Twittervrienden zoeken, gebruik de website https://t.co/Rbj55qOHdA (niet mobiel, want je gaat csv bestanden downloaden en importeren. Lekker nerdy!)"
+	},
+	{
+		"created_at": "Sat Nov 05 22:37:37 +0000 2022",
+		"id": 1589024163809071000,
+		"id_str": "1589024163809071105",
+		"full_text": "@VilliAsgeirsson @antazoa @brechtjedeleij En ja, deze toot op Mastodon is spot-on. https://t.co/t8PJsPj1dz",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VilliAsgeirsson",
+					"name": "Villi Asgeirsson",
+					"id": 176434017,
+					"id_str": "176434017",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "antazoa",
+					"name": "Eric",
+					"id": 63092416,
+					"id_str": "63092416",
+					"indices": [
+						17,
+						25
+					]
+				},
+				{
+					"screen_name": "brechtjedeleij",
+					"name": "Brechtje de Leij",
+					"id": 9880322,
+					"id_str": "9880322",
+					"indices": [
+						26,
+						41
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1589024081927708700,
+					"id_str": "1589024081927708672",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg1Y-8bXoAAHMFb.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fg1Y-8bXoAAHMFb.png",
+					"url": "https://t.co/t8PJsPj1dz",
+					"display_url": "pic.twitter.com/t8PJsPj1dz",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1589024163809071105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 630,
+							"h": 528,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 630,
+							"h": 528,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 630,
+							"h": 528,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589024081927708700,
+					"id_str": "1589024081927708672",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/Fg1Y-8bXoAAHMFb.png",
+					"media_url_https": "https://pbs.twimg.com/media/Fg1Y-8bXoAAHMFb.png",
+					"url": "https://t.co/t8PJsPj1dz",
+					"display_url": "pic.twitter.com/t8PJsPj1dz",
+					"expanded_url": "https://twitter.com/frankmeeuwsen/status/1589024163809071105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 630,
+							"h": 528,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 630,
+							"h": 528,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 630,
+							"h": 528,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1589021761483337700,
+		"in_reply_to_status_id_str": "1589021761483337728",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \nhttps://t.co/XqBTWLSiLg  a.k.a @frankmeeuwsen@mastodon.social\n\nWerk: @kaliberInteract. \n\n#PearlJam\n\n🕹👾",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XqBTWLSiLg",
+							"expanded_url": "http://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8700,
+			"friends_count": 895,
+			"listed_count": 542,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10329,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@VilliAsgeirsson @antazoa @brechtjedeleij En ja, deze toot op Mastodon is spot-on. https://t.co/t8PJsPj1dz"
+	},
+	{
+		"created_at": "Sat Nov 05 22:35:19 +0000 2022",
+		"id": 1589023582335963100,
+		"id_str": "1589023582335963136",
+		"full_text": "@brechtjedeleij @CaAl Net die server die het zwaar heeft en waar moeilijk connectie mee is te krijgen nu. Het hoort er allemaal bij, het internet hangt nu eenmaal aan elkaar met ducttape, klittenband en spuug. Het komt allemaal goed.",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brechtjedeleij",
+					"name": "Brechtje de Leij",
+					"id": 9880322,
+					"id_str": "9880322",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "CaAl",
+					"name": "Casper Albers 🍀",
+					"id": 19787166,
+					"id_str": "19787166",
+					"indices": [
+						16,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1589022628987437000,
+		"in_reply_to_status_id_str": "1589022628987437056",
+		"in_reply_to_user_id": 9880322,
+		"in_reply_to_user_id_str": "9880322",
+		"in_reply_to_screen_name": "brechtjedeleij",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \nhttps://t.co/XqBTWLSiLg  a.k.a @frankmeeuwsen@mastodon.social\n\nWerk: @kaliberInteract. \n\n#PearlJam\n\n🕹👾",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XqBTWLSiLg",
+							"expanded_url": "http://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8700,
+			"friends_count": 895,
+			"listed_count": 542,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10329,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@brechtjedeleij @CaAl Net die server die het zwaar heeft en waar moeilijk connectie mee is te krijgen nu. Het hoort er allemaal bij, het internet hangt nu eenmaal aan elkaar met ducttape, klittenband en spuug. Het komt allemaal goed."
+	},
+	{
+		"created_at": "Sat Nov 05 22:31:13 +0000 2022",
+		"id": 1589022550054801400,
+		"id_str": "1589022550054801408",
+		"full_text": "@brechtjedeleij @CaAl Wat is je accountnaam? Je kunt mij vinden op https://t.co/FMpit16y8X",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brechtjedeleij",
+					"name": "Brechtje de Leij",
+					"id": 9880322,
+					"id_str": "9880322",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "CaAl",
+					"name": "Casper Albers 🍀",
+					"id": 19787166,
+					"id_str": "19787166",
+					"indices": [
+						16,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FMpit16y8X",
+					"expanded_url": "https://mastodon.social/@frankmeeuwsen",
+					"display_url": "mastodon.social/@frankmeeuwsen",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1589021794077356000,
+		"in_reply_to_status_id_str": "1589021794077356032",
+		"in_reply_to_user_id": 9880322,
+		"in_reply_to_user_id_str": "9880322",
+		"in_reply_to_screen_name": "brechtjedeleij",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \nhttps://t.co/XqBTWLSiLg  a.k.a @frankmeeuwsen@mastodon.social\n\nWerk: @kaliberInteract. \n\n#PearlJam\n\n🕹👾",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XqBTWLSiLg",
+							"expanded_url": "http://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8700,
+			"friends_count": 895,
+			"listed_count": 542,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10329,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@brechtjedeleij @CaAl Wat is je accountnaam? Je kunt mij vinden op https://t.co/FMpit16y8X"
+	},
+	{
+		"created_at": "Sat Nov 05 22:29:32 +0000 2022",
+		"id": 1589022127323156500,
+		"id_str": "1589022127323156480",
+		"full_text": "@brechtjedeleij @CaAl Twitter was ook vaag in 2007. Het is een andere manier van benaderen van tijdlijnen, waar mensen zijn etc. Iets meer denkwerk vanuit je eige zeg maar ;-)",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "brechtjedeleij",
+					"name": "Brechtje de Leij",
+					"id": 9880322,
+					"id_str": "9880322",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "CaAl",
+					"name": "Casper Albers 🍀",
+					"id": 19787166,
+					"id_str": "19787166",
+					"indices": [
+						16,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1589021794077356000,
+		"in_reply_to_status_id_str": "1589021794077356032",
+		"in_reply_to_user_id": 9880322,
+		"in_reply_to_user_id_str": "9880322",
+		"in_reply_to_screen_name": "brechtjedeleij",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \nhttps://t.co/XqBTWLSiLg  a.k.a @frankmeeuwsen@mastodon.social\n\nWerk: @kaliberInteract. \n\n#PearlJam\n\n🕹👾",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XqBTWLSiLg",
+							"expanded_url": "http://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8700,
+			"friends_count": 895,
+			"listed_count": 542,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10329,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@brechtjedeleij @CaAl Twitter was ook vaag in 2007. Het is een andere manier van benaderen van tijdlijnen, waar mensen zijn etc. Iets meer denkwerk vanuit je eige zeg maar ;-)"
+	},
+	{
+		"created_at": "Sat Nov 05 22:28:05 +0000 2022",
+		"id": 1589021761483337700,
+		"id_str": "1589021761483337728",
+		"full_text": "@VilliAsgeirsson @antazoa @brechtjedeleij Je krijgt nooit alles want er zijn meer dan 3000 verschillende servers. Je zult zelf op zoek moeten naar waar je interesses liggen, welke bekenden er zijn etc etc.   Check mijn kleine startersgids op https://t.co/E8TysaevoJ",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VilliAsgeirsson",
+					"name": "Villi Asgeirsson",
+					"id": 176434017,
+					"id_str": "176434017",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "antazoa",
+					"name": "Eric",
+					"id": 63092416,
+					"id_str": "63092416",
+					"indices": [
+						17,
+						25
+					]
+				},
+				{
+					"screen_name": "brechtjedeleij",
+					"name": "Brechtje de Leij",
+					"id": 9880322,
+					"id_str": "9880322",
+					"indices": [
+						26,
+						41
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/E8TysaevoJ",
+					"expanded_url": "https://diggingthedigital.com/mastodon/",
+					"display_url": "diggingthedigital.com/mastodon/",
+					"indices": [
+						242,
+						265
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1589018148191187000,
+		"in_reply_to_status_id_str": "1589018148191186944",
+		"in_reply_to_user_id": 176434017,
+		"in_reply_to_user_id_str": "176434017",
+		"in_reply_to_screen_name": "VilliAsgeirsson",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \nhttps://t.co/XqBTWLSiLg  a.k.a @frankmeeuwsen@mastodon.social\n\nWerk: @kaliberInteract. \n\n#PearlJam\n\n🕹👾",
+			"url": "https://t.co/qbBtWV0PBm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWV0PBm",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/XqBTWLSiLg",
+							"expanded_url": "http://mastodon.social/@frankmeeuwsen",
+							"display_url": "mastodon.social/@frankmeeuwsen",
+							"indices": [
+								19,
+								42
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8700,
+			"friends_count": 895,
+			"listed_count": 542,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10329,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@VilliAsgeirsson @antazoa @brechtjedeleij Je krijgt nooit alles want er zijn meer dan 3000 verschillende servers. Je zult zelf op zoek moeten naar waar je interesses liggen, welke bekenden er zijn etc etc.   Check mijn kleine startersgids op https://t.co/E8TysaevoJ"
+	},
+	{
 		"created_at": "Sat Nov 05 20:13:17 +0000 2022",
 		"id": 1588987840880599000,
 		"id_str": "1588987840880599040",
