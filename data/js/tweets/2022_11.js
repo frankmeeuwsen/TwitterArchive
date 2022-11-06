@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 06 07:38:18 +0000 2022",
+		"id": 1589141480224227300,
+		"id_str": "1589160229132201984",
+		"full_text": "Now imagine my friends and I like to meet at the zoo to discuss Kant. But every time, a modest-sided herd of inebriated emus arrive, playing vuvuzelas and waving placards about how we should be tried at The Hague for reading Leibniz, reading Hegel, not reading Hegel, whatever.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1589141479225950200,
+		"in_reply_to_status_id_str": "1589141479225950208",
+		"in_reply_to_user_id": 3238448948,
+		"in_reply_to_user_id_str": "3238448948",
+		"in_reply_to_screen_name": "CT_Bergstrom",
+		"user": {
+			"id": 3238448948,
+			"id_str": "3238448948",
+			"name": "Carl T. Bergstrom",
+			"screen_name": "CT_Bergstrom",
+			"location": "Coast Salish Lands",
+			"description": "Follow me on Mastodon: @ct_bergstrom@fediscience.org\n\nBiology prof. @UW. Information flow in science and society.\n\nI love ravens and crows. \n\nhe/him",
+			"url": "https://t.co/aE9AWNxxGp",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aE9AWNxxGp",
+							"expanded_url": "http://carlbergstrom.com",
+							"display_url": "carlbergstrom.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 163501,
+			"friends_count": 2384,
+			"listed_count": 3980,
+			"created_at": "Sun Jun 07 03:38:21 +0000 2015",
+			"favourites_count": 78187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30070,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1587575510187806720/RKNBuw76_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1587575510187806720/RKNBuw76_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3238448948/1644049873",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Now imagine my friends and I like to meet at the zoo to discuss Kant. But every time, a modest-sided herd of inebriated emus arrive, playing vuvuzelas and waving placards about how we should be tried at The Hague for reading Leibniz, reading Hegel, not reading Hegel, whatever."
+	},
+	{
 		"created_at": "Sat Nov 05 22:39:04 +0000 2022",
 		"id": 1589024528042463200,
 		"id_str": "1589024528042463233",
