@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 06 17:14:22 +0000 2022",
+		"id": 1589298960132636700,
+		"id_str": "1589305201948643329",
+		"full_text": "Developers only.\n\nDo you know enough about ActivityPub to help document it? \n\nI'll write the docs. I'm good at it. I'll ask the questions to get the info from you.\n\nI want to put up a simple chat app on the AP network. Open source of course. Node.js. \n\nhttps://t.co/40OjWKaXym",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/40OjWKaXym",
+					"expanded_url": "https://github.com/scripting/reallySimpleActivityPub",
+					"display_url": "github.com/scripting/real…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3839,
+			"id_str": "3839",
+			"name": "Dave Winer",
+			"screen_name": "davewiner",
+			"location": "Woodstock, NY",
+			"description": "Started two Silicon Valley companies. Wrote for Wired. Fellow at Harvard, NYU. Founder of podcasting, blogging, RSS.",
+			"url": "https://t.co/alwLFPBgDF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/alwLFPBgDF",
+							"expanded_url": "http://scripting.com/",
+							"display_url": "scripting.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67310,
+			"friends_count": 3937,
+			"listed_count": 5174,
+			"created_at": "Sat Aug 05 23:04:08 +0000 2006",
+			"favourites_count": 20447,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 208464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398806004528263168/2SXipvrt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398806004528263168/2SXipvrt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3839/1636295224",
+			"profile_link_color": "7F7F90",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E1E1DF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Developers only.\n\nDo you know enough about ActivityPub to help document it? \n\nI'll write the docs. I'm good at it. I'll ask the questions to get the info from you.\n\nI want to put up a simple chat app on the AP network. Open source of course. Node.js. \n\nhttps://t.co/40OjWKaXym"
+	},
+	{
 		"created_at": "Sun Nov 06 11:25:16 +0000 2022",
 		"id": 1589217348476543000,
 		"id_str": "1589217348476542976",
