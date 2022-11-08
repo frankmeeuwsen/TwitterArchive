@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 08 08:02:08 +0000 2022",
+		"id": 1589863539921277000,
+		"id_str": "1589891000964481024",
+		"full_text": ".@CaseyNewton have you seen this? someone projected this on Twitter HQ a few hours ago. 😆\n\nSource: r/bayarea https://t.co/DFTE76MfS5 https://t.co/XrEMShnzDo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CaseyNewton",
+					"name": "Casey Newton",
+					"id": 69426451,
+					"id_str": "69426451",
+					"indices": [
+						1,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DFTE76MfS5",
+					"expanded_url": "https://www.reddit.com/r/bayarea/comments/yp9l0w/elon_seems_to_have_no_concept_of_free_speech_so/",
+					"display_url": "reddit.com/r/bayarea/comm…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1589863357238083600,
+					"id_str": "1589863357238083585",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FhBUTMmWAAEquTI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhBUTMmWAAEquTI.jpg",
+					"url": "https://t.co/XrEMShnzDo",
+					"display_url": "pic.twitter.com/XrEMShnzDo",
+					"expanded_url": "https://twitter.com/theinnersunset/status/1589863539921276928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 822,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 822,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 582,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1589863357238083600,
+					"id_str": "1589863357238083585",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/FhBUTMmWAAEquTI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhBUTMmWAAEquTI.jpg",
+					"url": "https://t.co/XrEMShnzDo",
+					"display_url": "pic.twitter.com/XrEMShnzDo",
+					"expanded_url": "https://twitter.com/theinnersunset/status/1589863539921276928/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 960,
+							"h": 822,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 960,
+							"h": 822,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 582,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1356675110447444000,
+			"id_str": "1356675110447443968",
+			"name": "Awais Imran",
+			"screen_name": "theinnersunset",
+			"location": "San Francisco Bay Area",
+			"description": "Making 🇺🇸 roads safer @motive_inc. Product Designer + Pakistani community leader. Tweets on design, growth, and the meaning of life — sometimes all at once 🌅",
+			"url": "https://t.co/zKoE8DX6qq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zKoE8DX6qq",
+							"expanded_url": "https://linktr.ee/theinnersunset",
+							"display_url": "linktr.ee/theinnersunset",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54,
+			"friends_count": 299,
+			"listed_count": 4,
+			"created_at": "Tue Feb 02 18:45:31 +0000 2021",
+			"favourites_count": 168,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1487567520106094594/RUZBg_7M_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1487567520106094594/RUZBg_7M_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1356675110447443968/1667891815",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 90,
+		"favorite_count": 335,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ".@CaseyNewton have you seen this? someone projected this on Twitter HQ a few hours ago. 😆\n\nSource: r/bayarea https://t.co/DFTE76MfS5 https://t.co/XrEMShnzDo"
+	},
+	{
 		"created_at": "Mon Nov 07 22:49:01 +0000 2022",
 		"id": 1589665959337656300,
 		"id_str": "1589751805915070465",
