@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 08 19:48:54 +0000 2022",
+		"id": 1590068868269375500,
+		"id_str": "1590068868269375489",
+		"full_text": "Small Tech is good tech!, aldus Meeuwsen. https://t.co/KhZTqQlbfk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KhZTqQlbfk",
+					"expanded_url": "https://twitter.com/detechnoloog/status/1590060259971944450",
+					"display_url": "twitter.com/detechnoloog/s…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \n🦣 https://t.co/hNkdBWhhiT\n\n🔥 @kaliberInteract. \n\n❤️ #PearlJam\n\n🕹👾",
+			"url": "https://t.co/qbBtWViqsU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qbBtWViqsU",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/hNkdBWhhiT",
+							"expanded_url": "https://indieweb.social/@frank",
+							"display_url": "indieweb.social/@frank",
+							"indices": [
+								21,
+								44
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 8691,
+			"friends_count": 899,
+			"listed_count": 540,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10338,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1550881418934468609/ZLLck4yz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1590060259971944400,
+		"quoted_status_id_str": "1590060259971944450",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KhZTqQlbfk",
+			"expanded": "https://twitter.com/detechnoloog/status/1590060259971944450",
+			"display": "twitter.com/detechnoloog/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Nov 08 19:14:42 +0000 2022",
+			"id": 1590060259971944400,
+			"id_str": "1590060259971944450",
+			"full_text": "Elon Musk is er vast niet blij mee, maar in Technoloog 310 praten @hmblank en @ikbenechtben over het eigenzinnige Twitter-alternatief #Mastodon. Dat doen ze met @frankmeeuwsen, algemeen Mastodon-expert. \n\nhttps://t.co/ZxFnKVZfwT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				228
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Mastodon",
+						"indices": [
+							134,
+							143
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "hmblank",
+						"name": "Herbert Blankesteijn",
+						"id": 5634232,
+						"id_str": "5634232",
+						"indices": [
+							66,
+							74
+						]
+					},
+					{
+						"screen_name": "ikbenechtben",
+						"name": "ben van der burg",
+						"id": 8851012,
+						"id_str": "8851012",
+						"indices": [
+							78,
+							91
+						]
+					},
+					{
+						"screen_name": "frankmeeuwsen",
+						"name": "Frank Meeuwsen",
+						"id": 816203,
+						"id_str": "816203",
+						"indices": [
+							161,
+							175
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/ZxFnKVZfwT",
+						"expanded_url": "https://www.bnr.nl/podcast/de-technoloog/10493757/het-eigenzinnige-mastodon",
+						"display_url": "bnr.nl/podcast/de-tec…",
+						"indices": [
+							205,
+							228
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1050039651556368400,
+				"id_str": "1050039651556368384",
+				"name": "De Technoloog",
+				"screen_name": "detechnoloog",
+				"location": "",
+				"description": "@hmblank en @ikbenechtben elke week in gesprek met dé experts over technologische ontwikkelingen en de impact op onze samenleving.",
+				"url": "https://t.co/Cxp7jtFpxn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Cxp7jtFpxn",
+								"expanded_url": "http://www.bnr.nl/detechnoloog",
+								"display_url": "bnr.nl/detechnoloog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1034,
+				"friends_count": 40,
+				"listed_count": 10,
+				"created_at": "Wed Oct 10 15:05:36 +0000 2018",
+				"favourites_count": 105,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 324,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1181569321199423489/6uowQ0EX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1181569321199423489/6uowQ0EX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1050039651556368384/1575887410",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "nl"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Small Tech is good tech!, aldus Meeuwsen. https://t.co/KhZTqQlbfk"
+	},
+	{
 		"created_at": "Tue Nov 08 08:02:08 +0000 2022",
 		"id": 1589863539921277000,
 		"id_str": "1589891000964481024",
