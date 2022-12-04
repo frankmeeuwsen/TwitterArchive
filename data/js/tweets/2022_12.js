@@ -1,6 +1,134 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sun Dec 04 14:32:20 +0000 2022",
+		"id": 1599411283417534500,
+		"id_str": "1599411283417534464",
+		"full_text": "@TadekSolarz Het kan dat de Twitter wezenlijk verandert. Dat het zich nog meer richt op algoritmische optimalisatie, amplificatie en dataverzameling voor adverteerders en politiek gewin. Dat je moeten betalen om in contact te blijven met je eigen netwerk. \n\nhttps://t.co/AN7uOTNa8z",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TadekSolarz",
+					"name": "Tadek Solarz 💬",
+					"id": 26734588,
+					"id_str": "26734588",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AN7uOTNa8z",
+					"expanded_url": "https://diggingthedigital.com/je-hoeft-twitter-niet-te-verlaten/",
+					"display_url": "diggingthedigital.com/je-hoeft-twitt…",
+					"indices": [
+						258,
+						281
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1599410212124864500,
+		"in_reply_to_status_id_str": "1599410212124864512",
+		"in_reply_to_user_id": 816203,
+		"in_reply_to_user_id_str": "816203",
+		"in_reply_to_screen_name": "frankmeeuwsen",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \n🦣 https://t.co/tcHcn8D60v\n\n🔥 @kaliberInteract. \n\n❤️ #PearlJam\n\n🕹👾",
+			"url": "https://t.co/SyC81Wuklv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SyC81Wuklv",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tcHcn8D60v",
+							"expanded_url": "http://indieweb.social/@frank",
+							"display_url": "indieweb.social/@frank",
+							"indices": [
+								21,
+								44
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 8649,
+			"friends_count": 837,
+			"listed_count": 540,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64542,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1599335571951853568/PxPn1xf8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1599335571951853568/PxPn1xf8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@TadekSolarz Het kan dat de Twitter wezenlijk verandert. Dat het zich nog meer richt op algoritmische optimalisatie, amplificatie en dataverzameling voor adverteerders en politiek gewin. Dat je moeten betalen om in contact te blijven met je eigen netwerk. \n\nhttps://t.co/AN7uOTNa8z"
+	},
+	{
 		"created_at": "Sun Dec 04 13:59:10 +0000 2022",
 		"id": 1599402936466956300,
 		"id_str": "1599402936466956288",
