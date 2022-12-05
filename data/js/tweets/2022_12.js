@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Mon Dec 05 18:04:09 +0000 2022",
+		"id": 1598256039006064600,
+		"id_str": "1599826977539571712",
+		"full_text": "i’ve been forced to watch some football recently and i really think they should consider editing the matches to have confessionals from the players like in reality tv shows. would be way more interesting",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 790282992602218500,
+			"id_str": "790282992602218496",
+			"name": "shar",
+			"screen_name": "sharloola",
+			"location": "the time vortex",
+			"description": "artist/animator. she/her. 22. 🇺🇬  @chirpsehurtspod co-host💔 commissions closed",
+			"url": "https://t.co/jB3lnV0xkQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/jB3lnV0xkQ",
+							"expanded_url": "http://instagram.com/sharloolart",
+							"display_url": "instagram.com/sharloolart",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6043,
+			"friends_count": 981,
+			"listed_count": 37,
+			"created_at": "Sun Oct 23 20:05:22 +0000 2016",
+			"favourites_count": 111428,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 89854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1592147786094575618/J58JwPKm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1592147786094575618/J58JwPKm_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/790282992602218496/1619885657",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 51258,
+		"favorite_count": 480353,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "i’ve been forced to watch some football recently and i really think they should consider editing the matches to have confessionals from the players like in reality tv shows. would be way more interesting"
+	},
+	{
 		"created_at": "Sun Dec 04 17:52:36 +0000 2022",
 		"id": 1599461681213497300,
 		"id_str": "1599461681213497344",
