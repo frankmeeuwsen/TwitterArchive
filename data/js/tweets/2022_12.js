@@ -1,6 +1,362 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Tue Dec 06 00:36:35 +0000 2022",
+		"id": 1599925734881243100,
+		"id_str": "1599925734881243136",
+		"full_text": "@martijnaslander Miro boards in Obsidian! https://t.co/tci9JDb658",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "martijnaslander",
+					"name": " martijn aslander",
+					"id": 3051761,
+					"id_str": "3051761",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tci9JDb658",
+					"expanded_url": "https://twitter.com/kepano/status/1599879752185446400",
+					"display_url": "twitter.com/kepano/status/…",
+					"indices": [
+						42,
+						65
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 3051761,
+		"in_reply_to_user_id_str": "3051761",
+		"in_reply_to_screen_name": "martijnaslander",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "Frank Meeuwsen",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \n🦣 https://t.co/tcHcn8D60v\n\n🔥 @kaliberInteract. \n\n❤️ #PearlJam\n\n🕹👾",
+			"url": "https://t.co/SyC81Wuklv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SyC81Wuklv",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tcHcn8D60v",
+							"expanded_url": "http://indieweb.social/@frank",
+							"display_url": "indieweb.social/@frank",
+							"indices": [
+								21,
+								44
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 8647,
+			"friends_count": 836,
+			"listed_count": 540,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10307,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64545,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1599335571951853568/PxPn1xf8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1599335571951853568/PxPn1xf8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1599879752185446400,
+		"quoted_status_id_str": "1599879752185446400",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tci9JDb658",
+			"expanded": "https://twitter.com/kepano/status/1599879752185446400",
+			"display": "twitter.com/kepano/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 05 21:33:51 +0000 2022",
+			"id": 1599879752185446400,
+			"id_str": "1599879752185446400",
+			"full_text": "a quick demo of the new Canvas view in @obsdmd https://t.co/IAMZiNKbuh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				46
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "obsdmd",
+						"name": "Obsidian",
+						"id": 1239876481951596500,
+						"id_str": "1239876481951596545",
+						"indices": [
+							39,
+							46
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1599879452103614500,
+						"id_str": "1599879452103614464",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1599879452103614464/pu/img/l_t6ZiUmKDOmCrdf.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1599879452103614464/pu/img/l_t6ZiUmKDOmCrdf.jpg",
+						"url": "https://t.co/IAMZiNKbuh",
+						"display_url": "pic.twitter.com/IAMZiNKbuh",
+						"expanded_url": "https://twitter.com/kepano/status/1599879752185446400/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 678,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1158,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1599879452103614500,
+						"id_str": "1599879452103614464",
+						"indices": [
+							47,
+							70
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1599879452103614464/pu/img/l_t6ZiUmKDOmCrdf.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1599879452103614464/pu/img/l_t6ZiUmKDOmCrdf.jpg",
+						"url": "https://t.co/IAMZiNKbuh",
+						"display_url": "pic.twitter.com/IAMZiNKbuh",
+						"expanded_url": "https://twitter.com/kepano/status/1599879752185446400/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 678,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 384,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1158,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1019,
+								576
+							],
+							"duration_millis": 44796,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1599879452103614464/pu/vid/476x270/DSjREzvst91jCXls.mp4?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1599879452103614464/pu/vid/1272x720/HS8VOI9sCxXNW41K.mp4?tag=14"
+								},
+								{
+									"bitrate": 10368000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1599879452103614464/pu/vid/1910x1080/qXmJF9J2NahC4yOT.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1599879452103614464/pu/vid/636x360/35i73glvx1sL5tfU.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1599879452103614464/pu/pl/8AXZ1JmvLbR1mWtk.m3u8?tag=14&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5778712,
+				"id_str": "5778712",
+				"name": "kepano",
+				"screen_name": "kepano",
+				"location": "Los Angeles",
+				"description": "making @obsdmd",
+				"url": "https://t.co/zklwOzsoo0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/zklwOzsoo0",
+								"expanded_url": "http://stephanango.com",
+								"display_url": "stephanango.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6314,
+				"friends_count": 1550,
+				"listed_count": 198,
+				"created_at": "Sat May 05 00:42:26 +0000 2007",
+				"favourites_count": 12219,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 6021,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F7F7F7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1563635599906549761/wIum4L8I_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1563635599906549761/wIum4L8I_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5778712/1410029302",
+				"profile_link_color": "007432",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "ABD406",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 266,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@martijnaslander Miro boards in Obsidian! https://t.co/tci9JDb658"
+	},
+	{
 		"created_at": "Mon Dec 05 18:04:09 +0000 2022",
 		"id": 1598256039006064600,
 		"id_str": "1599826977539571712",
