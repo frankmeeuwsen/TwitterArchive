@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Thu Dec 08 13:48:51 +0000 2022",
+		"id": 1599744894326771700,
+		"id_str": "1600849891445866502",
+		"full_text": "@alexhern The ability to speak with confidence while completely wrong makes total sense when you realise it learnt from the internet",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alexhern",
+					"name": "official",
+					"id": 4004901,
+					"id_str": "4004901",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1599744363286134800,
+		"in_reply_to_status_id_str": "1599744363286134785",
+		"in_reply_to_user_id": 4004901,
+		"in_reply_to_user_id_str": "4004901",
+		"in_reply_to_screen_name": "alexhern",
+		"user": {
+			"id": 19182316,
+			"id_str": "19182316",
+			"name": "Jacob Aron",
+			"screen_name": "jjaron",
+			"location": "London",
+			"description": "News editor for New Scientist",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6714,
+			"friends_count": 2019,
+			"listed_count": 178,
+			"created_at": "Mon Jan 19 13:12:21 +0000 2009",
+			"favourites_count": 25387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 33225,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/757485494318067712/FQGrxYXm_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/757485494318067712/FQGrxYXm_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 216,
+		"favorite_count": 3748,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@alexhern The ability to speak with confidence while completely wrong makes total sense when you realise it learnt from the internet"
+	},
+	{
 		"created_at": "Tue Dec 06 00:36:35 +0000 2022",
 		"id": 1599925734881243100,
 		"id_str": "1599925734881243136",
