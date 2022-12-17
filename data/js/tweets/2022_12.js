@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sat Dec 17 20:28:22 +0000 2022",
+		"id": 1604211926099173400,
+		"id_str": "1604211926099173376",
+		"full_text": "Vreemde redenering die ik hier lees over verbieden van Mastodon links. \n\nDa’s heel normaal want je gaat ook niet de Jumbo adverteren in de AH. \n\nFlauwekul. Dan moet je één lijn trekken: https://t.co/L1LfRV4EEM, https://t.co/jRvKU5jcLb en andere tijdlijnen net zo hard blokken.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/L1LfRV4EEM",
+					"expanded_url": "http://Post.news",
+					"display_url": "Post.news",
+					"indices": [
+						186,
+						209
+					]
+				},
+				{
+					"url": "https://t.co/jRvKU5jcLb",
+					"expanded_url": "http://meta.com",
+					"display_url": "meta.com",
+					"indices": [
+						211,
+						234
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "@frank@indieweb.social",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \n🦣 https://t.co/tcHcn8D60v\n\n🔥 @kaliberInteract. \n\n❤️ #PearlJam\n\n🕹👾",
+			"url": "https://t.co/SyC81Wuklv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SyC81Wuklv",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tcHcn8D60v",
+							"expanded_url": "http://indieweb.social/@frank",
+							"display_url": "indieweb.social/@frank",
+							"indices": [
+								21,
+								44
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 8626,
+			"friends_count": 830,
+			"listed_count": 537,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10292,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64554,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1599335571951853568/PxPn1xf8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1599335571951853568/PxPn1xf8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Vreemde redenering die ik hier lees over verbieden van Mastodon links. \n\nDa’s heel normaal want je gaat ook niet de Jumbo adverteren in de AH. \n\nFlauwekul. Dan moet je één lijn trekken: https://t.co/L1LfRV4EEM, https://t.co/jRvKU5jcLb en andere tijdlijnen net zo hard blokken."
+	},
+	{
 		"created_at": "Sat Dec 17 16:38:08 +0000 2022",
 		"id": 1604152213751873500,
 		"id_str": "1604153986436763649",
