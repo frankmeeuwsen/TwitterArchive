@@ -1,6 +1,515 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Sun Dec 18 20:50:31 +0000 2022",
+		"id": 1604579889025233000,
+		"id_str": "1604579889025232896",
+		"full_text": "@TadekSolarz @ErikJonker Het zijn inderdaad bewegingen waar we lang over kunnen ouwehoeren maar uiteindelijk feitelijk geen invloed op hebben. Het enige wat je zelf kunt doen is keuzes maken waar je op dat moment achter kunt staan. \n\nTot zover de Tao wijsheid van het weekend.",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TadekSolarz",
+					"name": "Tadek Solarz 💬",
+					"id": 26734588,
+					"id_str": "26734588",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "ErikJonker",
+					"name": "Erik Jonker",
+					"id": 14205860,
+					"id_str": "14205860",
+					"indices": [
+						13,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1604579156892737500,
+		"in_reply_to_status_id_str": "1604579156892737547",
+		"in_reply_to_user_id": 26734588,
+		"in_reply_to_user_id_str": "26734588",
+		"in_reply_to_screen_name": "TadekSolarz",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "@frank@indieweb.social",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \n🦣 https://t.co/tcHcn8D60v\n\n🔥 @kaliberInteract. \n\n❤️ #PearlJam\n\n🕹👾",
+			"url": "https://t.co/SyC81Wuklv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SyC81Wuklv",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tcHcn8D60v",
+							"expanded_url": "http://indieweb.social/@frank",
+							"display_url": "indieweb.social/@frank",
+							"indices": [
+								21,
+								44
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 8624,
+			"friends_count": 829,
+			"listed_count": 537,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64559,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1599335571951853568/PxPn1xf8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1599335571951853568/PxPn1xf8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@TadekSolarz @ErikJonker Het zijn inderdaad bewegingen waar we lang over kunnen ouwehoeren maar uiteindelijk feitelijk geen invloed op hebben. Het enige wat je zelf kunt doen is keuzes maken waar je op dat moment achter kunt staan. \n\nTot zover de Tao wijsheid van het weekend."
+	},
+	{
+		"created_at": "Sun Dec 18 20:39:41 +0000 2022",
+		"id": 1604577161972748300,
+		"id_str": "1604577161972748290",
+		"full_text": "@Steventvvitter @ErikJonker @TadekSolarz Ik ben heel benieuwd waar dit naar gaat leiden in Europees verband. Niet alleen de regelgeving, maar acceleratie op gebied van nieuwe platformen.",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Steventvvitter",
+					"name": "Steven",
+					"id": 27840590,
+					"id_str": "27840590",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "ErikJonker",
+					"name": "Erik Jonker",
+					"id": 14205860,
+					"id_str": "14205860",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "TadekSolarz",
+					"name": "Tadek Solarz 💬",
+					"id": 26734588,
+					"id_str": "26734588",
+					"indices": [
+						28,
+						40
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1604574986487881700,
+		"in_reply_to_status_id_str": "1604574986487881730",
+		"in_reply_to_user_id": 27840590,
+		"in_reply_to_user_id_str": "27840590",
+		"in_reply_to_screen_name": "Steventvvitter",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "@frank@indieweb.social",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \n🦣 https://t.co/tcHcn8D60v\n\n🔥 @kaliberInteract. \n\n❤️ #PearlJam\n\n🕹👾",
+			"url": "https://t.co/SyC81Wuklv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SyC81Wuklv",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tcHcn8D60v",
+							"expanded_url": "http://indieweb.social/@frank",
+							"display_url": "indieweb.social/@frank",
+							"indices": [
+								21,
+								44
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 8624,
+			"friends_count": 829,
+			"listed_count": 537,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64559,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1599335571951853568/PxPn1xf8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1599335571951853568/PxPn1xf8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Steventvvitter @ErikJonker @TadekSolarz Ik ben heel benieuwd waar dit naar gaat leiden in Europees verband. Niet alleen de regelgeving, maar acceleratie op gebied van nieuwe platformen."
+	},
+	{
+		"created_at": "Sun Dec 18 20:30:58 +0000 2022",
+		"id": 1604574967768793000,
+		"id_str": "1604574967768793092",
+		"full_text": "@TadekSolarz Naast die twee kun je ook reclame blijven maken voor LinkedIn, Tiktok en https://t.co/FXizguoaAv ;-)",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TadekSolarz",
+					"name": "Tadek Solarz 💬",
+					"id": 26734588,
+					"id_str": "26734588",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FXizguoaAv",
+					"expanded_url": "http://Hyven.nl",
+					"display_url": "Hyven.nl",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1604573845972729900,
+		"in_reply_to_status_id_str": "1604573845972729858",
+		"in_reply_to_user_id": 26734588,
+		"in_reply_to_user_id_str": "26734588",
+		"in_reply_to_screen_name": "TadekSolarz",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "@frank@indieweb.social",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \n🦣 https://t.co/tcHcn8D60v\n\n🔥 @kaliberInteract. \n\n❤️ #PearlJam\n\n🕹👾",
+			"url": "https://t.co/SyC81Wuklv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SyC81Wuklv",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tcHcn8D60v",
+							"expanded_url": "http://indieweb.social/@frank",
+							"display_url": "indieweb.social/@frank",
+							"indices": [
+								21,
+								44
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 8624,
+			"friends_count": 829,
+			"listed_count": 537,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64559,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1599335571951853568/PxPn1xf8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1599335571951853568/PxPn1xf8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "@TadekSolarz Naast die twee kun je ook reclame blijven maken voor LinkedIn, Tiktok en https://t.co/FXizguoaAv ;-)"
+	},
+	{
+		"created_at": "Sun Dec 18 20:24:16 +0000 2022",
+		"id": 1604573281125802000,
+		"id_str": "1604573281125801988",
+		"full_text": "@TadekSolarz Je mag nog wel reclame maken voor Gab, Parler en andere platformen. Hoe verklaar je dat dan?",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TadekSolarz",
+					"name": "Tadek Solarz 💬",
+					"id": 26734588,
+					"id_str": "26734588",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1604573031543804000,
+		"in_reply_to_status_id_str": "1604573031543803905",
+		"in_reply_to_user_id": 26734588,
+		"in_reply_to_user_id_str": "26734588",
+		"in_reply_to_screen_name": "TadekSolarz",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "@frank@indieweb.social",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \n🦣 https://t.co/tcHcn8D60v\n\n🔥 @kaliberInteract. \n\n❤️ #PearlJam\n\n🕹👾",
+			"url": "https://t.co/SyC81Wuklv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SyC81Wuklv",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tcHcn8D60v",
+							"expanded_url": "http://indieweb.social/@frank",
+							"display_url": "indieweb.social/@frank",
+							"indices": [
+								21,
+								44
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 8624,
+			"friends_count": 829,
+			"listed_count": 537,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64559,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1599335571951853568/PxPn1xf8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1599335571951853568/PxPn1xf8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@TadekSolarz Je mag nog wel reclame maken voor Gab, Parler en andere platformen. Hoe verklaar je dat dan?"
+	},
+	{
 		"created_at": "Sun Dec 18 20:09:09 +0000 2022",
 		"id": 1604569476049035300,
 		"id_str": "1604569476049035265",
