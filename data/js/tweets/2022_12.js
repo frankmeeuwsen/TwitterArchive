@@ -1,6 +1,133 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Mon Dec 19 06:51:28 +0000 2022",
+		"id": 1604731121035448300,
+		"id_str": "1604731121035448321",
+		"full_text": "@Hermaniak @TadekSolarz Hij krijgt in elk geval een lijstje met te verbannen accounts op een presenteerblaadje. 😉",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hermaniak",
+					"name": "Herman Couwenbergh",
+					"id": 6438442,
+					"id_str": "6438442",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "TadekSolarz",
+					"name": "Tadek Solarz 💬",
+					"id": 26734588,
+					"id_str": "26734588",
+					"indices": [
+						11,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1604723786112290800,
+		"in_reply_to_status_id_str": "1604723786112290817",
+		"in_reply_to_user_id": 6438442,
+		"in_reply_to_user_id_str": "6438442",
+		"in_reply_to_screen_name": "Hermaniak",
+		"user": {
+			"id": 816203,
+			"id_str": "816203",
+			"name": "@frank@indieweb.social",
+			"screen_name": "frankmeeuwsen",
+			"location": "Utrecht, the Netherlands",
+			"description": "✊Reclaim the Web! \n🦣 https://t.co/tcHcn8D60v\n\n🔥 @kaliberInteract. \n\n❤️ #PearlJam\n\n🕹👾",
+			"url": "https://t.co/SyC81Wuklv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SyC81Wuklv",
+							"expanded_url": "https://diggingthedigital.com",
+							"display_url": "diggingthedigital.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/tcHcn8D60v",
+							"expanded_url": "http://indieweb.social/@frank",
+							"display_url": "indieweb.social/@frank",
+							"indices": [
+								21,
+								44
+							]
+						}
+					]
+				}
+			},
+			"protected": true,
+			"followers_count": 8623,
+			"friends_count": 829,
+			"listed_count": 535,
+			"created_at": "Tue Mar 06 22:38:45 +0000 2007",
+			"favourites_count": 10289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 64560,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1599335571951853568/PxPn1xf8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1599335571951853568/PxPn1xf8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/816203/1645736184",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "86A4A6",
+			"profile_sidebar_fill_color": "A0C5C7",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "nl",
+		"text": "@Hermaniak @TadekSolarz Hij krijgt in elk geval een lijstje met te verbannen accounts op een presenteerblaadje. 😉"
+	},
+	{
 		"created_at": "Sun Dec 18 20:50:31 +0000 2022",
 		"id": 1604579889025233000,
 		"id_str": "1604579889025232896",
